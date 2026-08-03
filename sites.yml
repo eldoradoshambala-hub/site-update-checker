@@ -23,13 +23,19 @@ defaults:
   max_items: 50
 
 sites:
+  # 記事は /event/ /gourmet/ /life/ などの日付入りURL。
+  # カテゴリや会社案内のリンクは静的なので初回で既知化され、絞り込みは不要。
   - id: cjnavi
     name: シティ情報ふくしま（イベント情報）
     url: https://www.cjnavi.co.jp/
 
+  # 記事は /articles/<slug>。
+  # /search?q=... はタグリンクで、記事が増えるたびに新しいものが現れて
+  # 新着と誤検知するため除外する。それ以外は将来の新しいパスも拾えるよう残す。
   - id: ledge-ai
     name: Ledge.ai（AIニュース）
     url: https://ledge.ai/
+    exclude: ["/search?"]
 
   # --- ここから下は動作確認用のサンプルです。不要になったら削除してください ---
 
