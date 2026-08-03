@@ -1,9 +1,11 @@
 """HTML から「記事らしいリンク」を抜き出す。
 
-方針は控えめなフィルタリング。ナビゲーションやフッターのリンクは毎回同じなので、
-前回との差分を取れば自然に消える。ここで積極的に絞り込むと本物の記事まで落として
-しまうため、「記事ではありえないもの」だけを除外する。うまく取れないサイトは
-sites.yml の ``selector`` / ``include`` / ``exclude`` で個別に補正する。
+方針は控えめなフィルタリング。「記事ではありえないもの」だけを除外し、
+判断に迷うものは残す。取りこぼした記事は気づけないが、余分なリンクは
+前回との差分で自然に消えるうえ、一覧に出ても無視できるため。
+唯一の例外が <nav> <header> <footer> で、ここに記事一覧が置かれることは
+まずないので既定で除外する。うまく取れないサイトは sites.yml の
+``selector`` / ``include`` / ``exclude`` で個別に補正する。
 """
 
 from __future__ import annotations
@@ -102,11 +104,24 @@ def _link_title(anchor) -> str:
     return _clean_text(anchor.get("title") or "")
 
 
-def _anchors(soup: BeautifulSoup, selector: str | None):
+#: 記事一覧が置かれることのない領域。ここに入るリンクはナビゲーションとみなす。
+NAVIGATION_TAGS = ("nav", "header", "footer")
+
+
+def in_navigation(anchor) -> bool:
+    """<nav> <header> <footer> の中にあるリンクか。"""
+    return anchor.find_parent(NAVIGATION_TAGS) is not None
+
+
+def _anchors(soup: BeautifulSoup, selector: str | None, skip_navigation: bool = True):
     """対象となる <a> 要素を集める。"""
     if not selector:
-        return soup.find_all("a", href=True)
+        anchors = soup.find_all("a", href=True)
+        if skip_navigation:
+            anchors = [a for a in anchors if not in_navigation(a)]
+        return anchors
 
+    # selector を明示しているならその範囲を尊重し、ナビゲーション判定はしない。
     anchors = []
     seen = set()
     for node in soup.select(selector):
@@ -146,7 +161,7 @@ def extract_links(
     page_key = normalize_url(page_url)
 
     links: dict[str, Link] = {}
-    for anchor in _anchors(soup, site.selector):
+    for anchor in _anchors(soup, site.selector, site.skip_navigation):
         href = (anchor.get("href") or "").strip()
         if not href or href.startswith(("#", "javascript:", "mailto:", "tel:", "data:")):
             continue

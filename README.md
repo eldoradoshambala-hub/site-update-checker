@@ -73,7 +73,13 @@ $ python -m checker inspect https://example.com/news/
 | `exclude` | URL にこの文字列を含むリンクを除く | `exclude: ["/category/", "/tag/"]` |
 | `selector` | 記事一覧のCSSセレクタを直接指定する | `selector: "ul.news-list a"` |
 | `min_title_length` | リンク文字列が短いものを捨てる | `min_title_length: 6` |
+| `skip_navigation` | `<nav>` `<header>` `<footer>` 内のリンク除外をやめる | `skip_navigation: false` |
 | `enabled` | 一時的に巡回を止める | `enabled: false` |
+
+記事一覧が `<nav>` や `<footer>` に置かれることはまずないので、これらのタグの中の
+リンクは既定で除外します。カテゴリメニューや会社案内・プライバシーポリシーの類は、
+この時点でほとんど落ちます。`selector` を指定した場合は、書いた人の指定を優先して
+この判定は行いません。
 
 `selector` は最終手段です。`include` で足りることがほとんどで、
 サイトのHTML構造が変わったときに壊れにくいのは `include` の方です。

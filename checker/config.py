@@ -24,6 +24,7 @@ _SITE_KEYS = {
     "include",
     "exclude",
     "use_default_exclude",
+    "skip_navigation",
     "allow_hosts",
     "allow_external",
     "min_title_length",
@@ -54,6 +55,8 @@ class SiteConfig:
     exclude: tuple[str, ...] = ()
     #: 組み込みの除外パターン（/feed, /login など）を使うか。
     use_default_exclude: bool = True
+    #: <nav> <header> <footer> の中のリンクを除外するか。selector 指定時は無視される。
+    skip_navigation: bool = True
     #: 同一サイト扱いにする追加ホスト名。
     allow_hosts: tuple[str, ...] = ()
     #: 外部ドメインへのリンクも新着候補に含めるか。
@@ -122,7 +125,7 @@ def _coerce(raw: dict[str, Any], site_label: str) -> dict[str, Any]:
                 out[key] = int(value)
             except (TypeError, ValueError) as exc:
                 raise ConfigError(f"{site_label}: {key} は整数で指定してください") from exc
-        elif key in ("enabled", "allow_external", "use_default_exclude"):
+        elif key in ("enabled", "allow_external", "use_default_exclude", "skip_navigation"):
             out[key] = bool(value)
         elif value is not None:
             out[key] = str(value)

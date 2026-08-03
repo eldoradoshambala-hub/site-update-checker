@@ -68,13 +68,13 @@ def test_crawl_detects_only_newly_added_articles(tmp_path, server):
     first = run(config, state, timestamp="2026-08-03T00:00:00+00:00")[0]
     assert first.state.last_status == "ok"
     assert first.seeded_now is True
-    # 初回は記事もナビゲーションも区別せず記録するだけで、新着は報告しない。
+    # 初回は記録するだけで新着は報告しない。
     assert first.new_items == []
-    assert first.link_count == 4  # 記事2件 + /about.html + /privacy.html
+    # <nav> と <footer> のリンクは抽出時点で除外されるので、記事2件だけが残る。
+    assert first.link_count == 2
     state.set_site("local", first.state)
 
     # 2回目：ページが変わっていなければ新着ゼロ。
-    # 毎回出てくるナビゲーションやフッターのリンクは既知になっているので出てこない。
     second = run(config, state, timestamp="2026-08-03T03:00:00+00:00")[0]
     assert second.new_items == []
     assert second.seeded_now is False

@@ -73,8 +73,48 @@ def test_allow_external_includes_other_domains():
     assert "https://other.example.com/ad" in urls(links)
 
 
+NAV_HTML = """
+<html><body>
+<header><a href="/a/logo">サイト名</a></header>
+<nav><a href="/gourmet/">グルメ</a><a href="/event/">イベント</a></nav>
+<main>
+  <a href="/event/20260803-matsuri/">花火大会が今年も開催されます</a>
+  <a href="/gourmet/20260802-cafe/">新しいカフェがオープン</a>
+</main>
+<footer><a href="/company/">会社案内</a><a href="/privacy2/">プライバシーポリシー</a></footer>
+</body></html>
+"""
+
+
+def test_navigation_header_and_footer_links_are_skipped():
+    # 記事一覧が <nav> や <footer> に置かれることはないので、既定で除外する。
+    links = extract_links(NAV_HTML, PAGE_URL, site())
+    assert urls(links) == [
+        "https://news.example.jp/event/20260803-matsuri/",
+        "https://news.example.jp/gourmet/20260802-cafe/",
+    ]
+
+
+def test_navigation_skipping_can_be_turned_off():
+    links = urls(extract_links(NAV_HTML, PAGE_URL, site(skip_navigation=False)))
+    assert "https://news.example.jp/gourmet/" in links
+    assert "https://news.example.jp/company/" in links
+
+
+def test_selector_takes_precedence_over_navigation_skipping():
+    # selector を書いた人の指定を尊重し、<nav> の中でも拾う。
+    links = extract_links(NAV_HTML, PAGE_URL, site(selector="nav a"))
+    assert urls(links) == ["https://news.example.jp/gourmet/", "https://news.example.jp/event/"]
+
+
+def test_links_nested_deep_inside_a_footer_are_still_skipped():
+    html = '<footer><div><ul><li><a href="/x/1">奥に入ったフッタのリンク</a></li></ul></div></footer>'
+    assert extract_links(html, PAGE_URL, site()) == []
+
+
 def test_default_exclude_can_be_turned_off():
-    links = extract_links(HTML, PAGE_URL, site(use_default_exclude=False))
+    # /login はサンプルHTMLの <nav> の中にあるので、そちらの除外も併せて切る。
+    links = extract_links(HTML, PAGE_URL, site(use_default_exclude=False, skip_navigation=False))
     assert "https://news.example.jp/login" in urls(links)
 
 

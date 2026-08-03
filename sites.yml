@@ -9,6 +9,9 @@
 #   exclude:  ["/tag/"]     URL にこの文字列を含むリンクを除外する
 #   enabled:  false         一時的に巡回を止める
 #
+# <nav> <header> <footer> の中のリンクは既定で除外されます。記事一覧がそれらのタグの
+# 中にある珍しいサイトでは skip_navigation: false を指定します。
+#
 # 何を指定すればよいか分からないときは、先に抽出結果を見てから決められます:
 #   python -m checker inspect https://example.com/news/
 
@@ -28,6 +31,7 @@ sites:
   # 新着として誤検知された（実際に2024年・2025年の記事が6件出た）。
   # サイト自身の新着記事一覧ページを見ることで、掲載順が更新順に固定される。
   # /all/page/N/ はページ送り。最終ページ番号が記事の増加につれて変わるため除外する。
+  # カテゴリメニューや会社案内は <nav> <footer> の中にあり、既定で除外される。
   - id: cjnavi
     name: シティ情報ふくしま（新着記事）
     url: https://www.cjnavi.co.jp/all/
