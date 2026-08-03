@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T03:01:11+00:00",
+  "updated_at": "2026-08-03T03:03:18+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T03:01:09+00:00",
+      "last_checked": "2026-08-03T03:03:16+00:00",
       "last_update": "2026-08-03T02:58:39+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -385,7 +385,7 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T03:01:09+00:00",
+      "last_checked": "2026-08-03T03:03:16+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -681,7 +681,7 @@
     "meti-press": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T03:01:09+00:00",
+      "last_checked": "2026-08-03T03:03:16+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -813,7 +813,7 @@
     "soumu-news": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T03:01:09+00:00",
+      "last_checked": "2026-08-03T03:03:16+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
