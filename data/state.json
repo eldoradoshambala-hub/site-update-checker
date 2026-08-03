@@ -1,162 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T02:04:59+00:00",
+  "updated_at": "2026-08-03T02:09:56+00:00",
   "sites": {
-    "jma-press": {
-      "seeded": true,
-      "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:04:59+00:00",
-      "last_update": null,
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
-      "known": {
-        "https://www.jma.go.jp/jma/press/hodo.html": {
-          "title": "報道発表資料",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=08": {
-          "title": "令和８年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=07": {
-          "title": "令和７年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=06": {
-          "title": "令和６年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=05": {
-          "title": "令和５年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=04": {
-          "title": "令和４年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=03": {
-          "title": "令和３年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=02": {
-          "title": "令和２年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=01": {
-          "title": "令和元年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=31": {
-          "title": "平成３１年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=30": {
-          "title": "平成３０年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=29": {
-          "title": "平成２９年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=28": {
-          "title": "平成２８年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=27": {
-          "title": "平成２７年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=26": {
-          "title": "平成２６年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=25": {
-          "title": "平成２５年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=24": {
-          "title": "平成２４年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=23": {
-          "title": "平成２３年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=22": {
-          "title": "平成２２年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=21": {
-          "title": "平成２１年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=20": {
-          "title": "平成２０年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=19": {
-          "title": "平成１９年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=18": {
-          "title": "平成１８年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=17": {
-          "title": "平成１７年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=16": {
-          "title": "平成１６年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=15": {
-          "title": "平成１５年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=14": {
-          "title": "平成１４年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=13": {
-          "title": "平成１３年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/index.html?t=1&y=12": {
-          "title": "平成１２年",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/hantei.html": {
-          "title": "南海トラフ沿いの地震に関する評価検討会 地震防災対策強化地域判定会",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/yochiren.html": {
-          "title": "火山噴火予知連絡会",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        },
-        "https://www.jma.go.jp/jma/press/taihuu.html": {
-          "title": "台風のまとめ",
-          "first_seen": "2026-08-03T02:04:59+00:00"
-        }
-      },
-      "recent": []
-    },
-    "kantei-headline": {
-      "seeded": false,
-      "first_checked": null,
-      "last_checked": "2026-08-03T02:04:59+00:00",
-      "last_update": null,
-      "last_status": "error",
-      "last_error": "HTTP 404",
-      "consecutive_errors": 1,
-      "known": {},
-      "recent": []
-    },
     "meti-press": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_checked": "2026-08-03T02:09:55+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -288,7 +137,7 @@
     "soumu-news": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_checked": "2026-08-03T02:09:55+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
