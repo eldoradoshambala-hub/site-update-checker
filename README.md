@@ -102,6 +102,17 @@ python -m checker reset-history --only <サイトID>   # 特定サイトだけ
 python -m checker reset-history                     # 全サイト
 ```
 
+### 現在の記事を一覧に取り込む
+
+サイトを登録した直後は、そのとき載っている記事は「既知」として静かに記録される
+だけで一覧には出ません（新着の判定は次回から）。いま載っている記事を一覧に
+出したいときや、見に行くページを変更したときは次のコマンドを使います。
+
+```bash
+python -m checker refill --only <サイトID>
+python -m checker              # 続けて巡回すると、現在の記事が新着として並ぶ
+```
+
 ## 画面の見方
 
 | 表示 | 意味 |
@@ -149,14 +160,19 @@ python -m pytest
 
 1. 新しい **public** リポジトリを作る（README等は追加しない）
 2. このリポジトリの中身を push する
-3. Actions タブの「巡回」を **Run workflow** で1回手動実行する（初回登録）
+3. Settings → Pages → Source を **Deploy from a branch**、ブランチ `main`、
+   フォルダ `/docs` に設定して Save
+4. Settings → Actions → General → Workflow permissions を
+   **Read and write permissions** にする（巡回結果の自動コミットに必要）
+5. Actions タブの「巡回」を **Run workflow** で1回手動実行する（初回登録）
 
-Pages の有効化とデプロイは「公開」ワークフローが自動で行います
-（`actions/configure-pages` の `enablement` を使うため、設定画面での操作は不要）。
 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で開けます。
+以降は `main` に push されるたび（巡回結果のコミットを含む）自動で再デプロイされます。
 
-巡回結果がコミットされるたびにデプロイし直すので、画面は常に最新の状態になります。
-非公開リポジトリでは Pages が使えないため、このワークフローは何もせずスキップします。
+> Pages を有効化するワークフロー（`actions/configure-pages` の `enablement`）も
+> 試しましたが、`GITHUB_TOKEN` には Pages サイトを作成する権限がなく
+> `Resource not accessible by integration` で失敗しました。上記の設定画面から
+> ブランチを指定する方式が確実です。
 
 > 公開リポジトリでは、監視サイトのURLと収集した記事タイトルも公開されます。
 > 見せたくない場合は、巡回を private リポジトリで行い、結果の JSON だけを公開側に
@@ -172,7 +188,7 @@ checker/
   extractor.py              リンク抽出・URL正規化・フィルタ
   store.py                  既知URLの保存と差分検出
   report.py                 画面用 feed.json の生成
-  main.py                   CLI（check / inspect / reset-history）
+  main.py                   CLI（check / inspect / reset-history / refill）
 data/state.json             巡回の記録（自動更新）
 docs/                       GitHub Pages で公開する画面
   index.html / style.css / app.js

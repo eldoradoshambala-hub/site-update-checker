@@ -165,35 +165,74 @@ def reset_history(state: State, site_ids: list[str]) -> int:
     return cleared
 
 
-def command_reset(args: argparse.Namespace) -> int:
-    """新着履歴を消して feed.json を作り直す。"""
-    try:
-        config = load_config(args.config)
-    except ConfigError as exc:
-        print(f"設定エラー: {exc}", file=sys.stderr)
-        return 2
+def refill(state: State, site_ids: list[str]) -> int:
+    """既知URLの記録を消す。次の巡回で、いま載っている記事が新着として出る。
 
+    サイトを登録した直後は、そのとき載っている記事は「既知」として静かに
+    記録されるだけで一覧には出ない。あとから中身を見たくなったときや、
+    見に行くページを変えたときに、現在の記事を取り込み直すために使う。
+    """
+    for site_id in site_ids:
+        site_state = state.for_site(site_id)
+        site_state.known = {}
+        site_state.recent = []
+        site_state.last_update = None
+        # 次の巡回を「初回」扱いにしないことで、全リンクが新着として報告される。
+        site_state.seeded = True
+        state.set_site(site_id, site_state)
+    return len(site_ids)
+
+
+def _resolve_targets(config, only: list[str] | None) -> list[str]:
+    """--only の指定を検証して対象サイトIDに変換する。未指定なら全サイト。"""
     known_ids = {s.id for s in config.sites}
-    if args.only:
-        unknown = set(args.only) - known_ids
-        if unknown:
-            print(f"存在しないサイトIDです: {', '.join(sorted(unknown))}", file=sys.stderr)
-            return 2
-        targets = list(args.only)
-    else:
-        targets = sorted(known_ids)
+    if not only:
+        return sorted(known_ids)
+    unknown = set(only) - known_ids
+    if unknown:
+        raise ConfigError(f"存在しないサイトIDです: {', '.join(sorted(unknown))}")
+    return list(only)
 
-    state = load_state(args.state)
-    cleared = reset_history(state, targets)
+
+def _rewrite_outputs(args: argparse.Namespace, config, state: State) -> None:
+    """state.json と feed.json を現在の状態で書き直す。"""
     save_state(args.state, state)
-
     results = [
         SiteResult(site=site, state=state.for_site(site.id), new_items=[]) for site in config.sites
     ]
     write_feed(args.output, build_feed(results))
-
-    print(f"{cleared}サイトの新着履歴を消しました（既知URLは保持しています）。")
     print(f"書き出し: {args.state} / {args.output}")
+
+
+def command_reset(args: argparse.Namespace) -> int:
+    """新着履歴を消して feed.json を作り直す。"""
+    try:
+        config = load_config(args.config)
+        targets = _resolve_targets(config, args.only)
+    except ConfigError as exc:
+        print(f"設定エラー: {exc}", file=sys.stderr)
+        return 2
+
+    state = load_state(args.state)
+    cleared = reset_history(state, targets)
+    print(f"{cleared}サイトの新着履歴を消しました（既知URLは保持しています）。")
+    _rewrite_outputs(args, config, state)
+    return 0
+
+
+def command_refill(args: argparse.Namespace) -> int:
+    """既知URLを消して、次の巡回で現在の記事を新着として出し直す。"""
+    try:
+        config = load_config(args.config)
+        targets = _resolve_targets(config, args.only)
+    except ConfigError as exc:
+        print(f"設定エラー: {exc}", file=sys.stderr)
+        return 2
+
+    state = load_state(args.state)
+    count = refill(state, targets)
+    print(f"{count}サイトの既知URLを消しました。次の巡回で現在の記事が新着として出ます。")
+    _rewrite_outputs(args, config, state)
     return 0
 
 
@@ -236,6 +275,15 @@ def build_parser() -> argparse.ArgumentParser:
     reset.add_argument("--output", default=str(DEFAULT_OUTPUT), help="feed.json の出力先")
     reset.add_argument("--only", nargs="+", metavar="ID", help="指定した id のサイトだけ消す")
     reset.set_defaults(func=command_reset)
+
+    refill_cmd = sub.add_parser(
+        "refill", help="既知URLを消し、次の巡回で現在の記事を新着として出し直す"
+    )
+    refill_cmd.add_argument("--config", default=str(DEFAULT_CONFIG), help="sites.yml のパス")
+    refill_cmd.add_argument("--state", default=str(DEFAULT_STATE), help="state.json のパス")
+    refill_cmd.add_argument("--output", default=str(DEFAULT_OUTPUT), help="feed.json の出力先")
+    refill_cmd.add_argument("--only", nargs="+", metavar="ID", help="指定した id のサイトだけ")
+    refill_cmd.set_defaults(func=command_refill)
 
     inspect = sub.add_parser("inspect", help="1ページの抽出結果を確認する")
     inspect.add_argument("url", help="確認したいページのURL")
