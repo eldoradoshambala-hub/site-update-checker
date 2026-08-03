@@ -1,0 +1,65 @@
+name: 巡回
+
+on:
+  schedule:
+    # UTC 指定。JST では 12:00 / 21:00 / 翌 07:00 にあたる。
+    - cron: "0 3,12,22 * * *"
+  # 手動実行（Actions タブの Run workflow）。
+  workflow_dispatch:
+  # サイトを追加・変更したら次の定期実行を待たずに反映する。
+  push:
+    branches: [main]
+    paths: ["sites.yml"]
+
+permissions:
+  contents: write
+
+# 巡回が重なって state.json の書き込みが衝突しないようにする。
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 依存をインストール
+        run: pip install -r requirements.txt
+
+      - name: 巡回する
+        run: python -m checker
+
+      - name: 結果をコミットする
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json docs/data/feed.json
+
+          if git diff --cached --quiet; then
+            echo "更新はありませんでした。"
+            exit 0
+          fi
+
+          git commit -m "chore: 巡回結果を更新 ($(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M') JST)"
+
+          # 手動実行と定期実行が近接したときに備えて数回リトライする。
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push に失敗しました。取り込み直して再試行します（$attempt 回目）。"
+            git pull --rebase --autostash
+            sleep $((attempt * 5))
+          done
+
+          echo "push に3回失敗しました。" >&2
+          exit 1

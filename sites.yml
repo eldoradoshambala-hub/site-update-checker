@@ -1,0 +1,45 @@
+# 監視するサイトの一覧。
+#
+# 追加するときは sites: の下に url を1件書き足すだけで動きます。
+# 変更は次回の巡回（JST 07:00 / 12:00 / 21:00）から反映されます。
+#
+# よく使う任意項目:
+#   selector: "ul.news a"   記事リンクを絞り込む CSS セレクタ。うまく取れないときだけ指定する
+#   include:  ["/news/"]    URL にこの文字列を含むリンクだけを新着候補にする
+#   exclude:  ["/tag/"]     URL にこの文字列を含むリンクを除外する
+#   enabled:  false         一時的に巡回を止める
+#
+# 何を指定すればよいか分からないときは、先に抽出結果を見てから決められます:
+#   python -m checker inspect https://example.com/news/
+
+defaults:
+  # 同時に巡回するサイト数。
+  concurrency: 4
+  # 1サイトあたりの取得タイムアウト（秒）。
+  timeout: 20
+  # 失敗したときの再試行回数。
+  retries: 2
+  # 画面に残す新着履歴の件数（サイトごと）。
+  max_items: 50
+
+sites:
+  # --- ここから下はサンプルです。不要な行は削除してください ---
+
+  - id: soumu-news
+    name: 総務省 報道資料
+    url: https://www.soumu.go.jp/menu_news/s-news/index.html
+    include: ["/menu_news/s-news/"]
+
+  - id: meti-press
+    name: 経済産業省 ニュースリリース
+    url: https://www.meti.go.jp/press/index.html
+    include: ["/press/"]
+
+  - id: jma-press
+    name: 気象庁 報道発表
+    url: https://www.jma.go.jp/jma/press/index.html
+    include: ["/press/"]
+
+  - id: kantei-headline
+    name: 首相官邸 新着情報
+    url: https://www.kantei.go.jp/jp/headline/index.html

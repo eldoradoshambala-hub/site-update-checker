@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>サイト更新チェッカー</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+
+<header class="header">
+  <div class="header-main">
+    <h1 class="title">サイト更新チェッカー</h1>
+    <p class="meta" id="meta">読み込み中…</p>
+  </div>
+  <button type="button" class="btn" id="reload" title="最新の巡回結果を読み込みます">再読込</button>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button type="button" class="tab is-active" id="tab-timeline" role="tab" aria-selected="true">新着</button>
+  <button type="button" class="tab" id="tab-sites" role="tab" aria-selected="false">サイト一覧</button>
+</nav>
+
+<div class="toolbar">
+  <input type="search" id="search" class="search" placeholder="タイトル・サイト名で絞り込む" autocomplete="off">
+  <label class="toggle">
+    <input type="checkbox" id="unread-only">
+    <span>未読のみ</span>
+  </label>
+  <button type="button" class="btn btn-quiet" id="mark-all">すべて既読</button>
+</div>
+
+<main id="view" class="view" aria-live="polite">
+  <p class="empty">読み込み中…</p>
+</main>
+
+<footer class="footer">
+  <span id="footer-note"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
