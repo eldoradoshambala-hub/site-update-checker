@@ -1,0 +1,45 @@
+name: 公開
+
+# docs/ を GitHub Pages に配信する。巡回結果がコミットされるたびに走るので、
+# 画面は常に最新の feed.json を読む状態になる。
+#
+# GitHub Pages は無料プランでは公開リポジトリでしか使えないため、
+# 非公開リポジトリでは何もせずスキップする。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# デプロイの重複を避ける。進行中のものは走り切らせる。
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event.repository.visibility == 'public'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # enablement: true で、リポジトリ設定を触らずに Pages を有効化する。
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

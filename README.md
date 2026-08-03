@@ -147,14 +147,16 @@ python -m pytest
 このリポジトリは開発用（private）のため、Pages は使えません。
 運用は公開リポジトリに移して行います。
 
-1. 新しい **public** リポジトリを作る
+1. 新しい **public** リポジトリを作る（README等は追加しない）
 2. このリポジトリの中身を push する
-3. Settings → Pages → Source を **Deploy from a branch**、ブランチ `main`、フォルダ `/docs` に設定する
-4. Settings → Actions → General → Workflow permissions を **Read and write permissions** にする
-   （巡回結果を自動コミットするために必要）
-5. Actions タブの「巡回」を **Run workflow** で1回手動実行する（初回登録）
+3. Actions タブの「巡回」を **Run workflow** で1回手動実行する（初回登録）
 
+Pages の有効化とデプロイは「公開」ワークフローが自動で行います
+（`actions/configure-pages` の `enablement` を使うため、設定画面での操作は不要）。
 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で開けます。
+
+巡回結果がコミットされるたびにデプロイし直すので、画面は常に最新の状態になります。
+非公開リポジトリでは Pages が使えないため、このワークフローは何もせずスキップします。
 
 > 公開リポジトリでは、監視サイトのURLと収集した記事タイトルも公開されます。
 > 見せたくない場合は、巡回を private リポジトリで行い、結果の JSON だけを公開側に
