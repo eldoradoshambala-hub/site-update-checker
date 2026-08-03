@@ -147,6 +147,56 @@ def command_check(args: argparse.Namespace) -> int:
     return 0 if error_total == 0 else 0  # 一部失敗でもワークフローは成功扱いにする
 
 
+def reset_history(state: State, site_ids: list[str]) -> int:
+    """指定サイトの新着履歴を消す。既知URLは残すので、消した記事は再出現しない。
+
+    include や selector を調整した直後は、調整前の誤検知が履歴に残ってしまう。
+    それを画面から消すために使う。
+    """
+    cleared = 0
+    for site_id in site_ids:
+        site_state = state.for_site(site_id)
+        if not site_state.recent and site_state.last_update is None:
+            continue
+        site_state.recent = []
+        site_state.last_update = None
+        state.set_site(site_id, site_state)
+        cleared += 1
+    return cleared
+
+
+def command_reset(args: argparse.Namespace) -> int:
+    """新着履歴を消して feed.json を作り直す。"""
+    try:
+        config = load_config(args.config)
+    except ConfigError as exc:
+        print(f"設定エラー: {exc}", file=sys.stderr)
+        return 2
+
+    known_ids = {s.id for s in config.sites}
+    if args.only:
+        unknown = set(args.only) - known_ids
+        if unknown:
+            print(f"存在しないサイトIDです: {', '.join(sorted(unknown))}", file=sys.stderr)
+            return 2
+        targets = list(args.only)
+    else:
+        targets = sorted(known_ids)
+
+    state = load_state(args.state)
+    cleared = reset_history(state, targets)
+    save_state(args.state, state)
+
+    results = [
+        SiteResult(site=site, state=state.for_site(site.id), new_items=[]) for site in config.sites
+    ]
+    write_feed(args.output, build_feed(results))
+
+    print(f"{cleared}サイトの新着履歴を消しました（既知URLは保持しています）。")
+    print(f"書き出し: {args.state} / {args.output}")
+    return 0
+
+
 def command_inspect(args: argparse.Namespace) -> int:
     """1ページ分の抽出結果を表示する。selector や include を決めるための確認用。"""
     site = SiteConfig(id="inspect", name="inspect", url=args.url, selector=args.selector)
@@ -179,6 +229,13 @@ def build_parser() -> argparse.ArgumentParser:
     check.add_argument("--only", nargs="+", metavar="ID", help="指定した id のサイトだけ巡回する")
     check.add_argument("--dry-run", action="store_true", help="ファイルを書き換えずに結果だけ表示する")
     check.set_defaults(func=command_check)
+
+    reset = sub.add_parser("reset-history", help="新着履歴を消す（既知URLは残す）")
+    reset.add_argument("--config", default=str(DEFAULT_CONFIG), help="sites.yml のパス")
+    reset.add_argument("--state", default=str(DEFAULT_STATE), help="state.json のパス")
+    reset.add_argument("--output", default=str(DEFAULT_OUTPUT), help="feed.json の出力先")
+    reset.add_argument("--only", nargs="+", metavar="ID", help="指定した id のサイトだけ消す")
+    reset.set_defaults(func=command_reset)
 
     inspect = sub.add_parser("inspect", help="1ページの抽出結果を確認する")
     inspect.add_argument("url", help="確認したいページのURL")

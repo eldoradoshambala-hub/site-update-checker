@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T03:03:18+00:00",
+  "updated_at": "2026-08-03T03:06:29+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
       "last_checked": "2026-08-03T03:03:16+00:00",
-      "last_update": "2026-08-03T02:58:39+00:00",
+      "last_update": null,
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -324,63 +324,7 @@
           "first_seen": "2026-08-03T02:58:39+00:00"
         }
       },
-      "recent": [
-        {
-          "title": "2",
-          "url": "https://www.cjnavi.co.jp/all/page/2/",
-          "first_seen": "2026-08-03T02:58:39+00:00"
-        },
-        {
-          "title": "3",
-          "url": "https://www.cjnavi.co.jp/all/page/3/",
-          "first_seen": "2026-08-03T02:58:39+00:00"
-        },
-        {
-          "title": "4",
-          "url": "https://www.cjnavi.co.jp/all/page/4/",
-          "first_seen": "2026-08-03T02:58:39+00:00"
-        },
-        {
-          "title": "5",
-          "url": "https://www.cjnavi.co.jp/all/page/5/",
-          "first_seen": "2026-08-03T02:58:39+00:00"
-        },
-        {
-          "title": "393",
-          "url": "https://www.cjnavi.co.jp/all/page/393/",
-          "first_seen": "2026-08-03T02:58:39+00:00"
-        },
-        {
-          "title": "【キャリア採用情報】（株）エス・シー・シー",
-          "url": "https://www.cjnavi.co.jp/special/20241211scc-recruit/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        },
-        {
-          "title": "福島おとな旅 2025-2026",
-          "url": "https://www.cjnavi.co.jp/magazine/fukushima-otonatabi2025-2026/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        },
-        {
-          "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026夏号』を発行しまし… つなぐ奥会津2026夏号",
-          "url": "https://www.cjnavi.co.jp/trip/20260715tsunaguokuaizu-summer/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        },
-        {
-          "title": "ライフ AD 【福島県の企業ガイド BeCAL福島版2026-2027】地域福祉を支える一人ひとり… 社会福祉法人 けやきの村",
-          "url": "https://www.cjnavi.co.jp/life/20260125keyakinomura/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        },
-        {
-          "title": "ライフ AD 【福島県の企業ガイド BeCAL福島版2026-2027】一人ひとりの力をつないで、… 株式会社 進和クリエイティブセンター",
-          "url": "https://www.cjnavi.co.jp/life/20260125nisshindo-shinwa/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        },
-        {
-          "title": "ライフ AD 【家づくりの本2026・ガーデン＆エクステリア】エクステリアコンテストで… little bear garden（リトルベアガーデン）",
-          "url": "https://www.cjnavi.co.jp/life/20251125little-bear-garden/",
-          "first_seen": "2026-08-03T02:55:56+00:00"
-        }
-      ]
+      "recent": []
     },
     "ledge-ai": {
       "seeded": true,

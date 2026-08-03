@@ -80,6 +80,28 @@ $ python -m checker inspect https://example.com/news/
 
 そのほかの項目は `sites.yml` のコメントを参照してください。
 
+### 見ているページ自体が適切か確認する
+
+設定で絞り込む前に、**そのページが更新順に並んでいるか**を確かめてください。
+トップページには「おすすめ記事」「PR枠」など、アクセスのたびに違う過去記事が
+表示される部分があることが多く、そこを見ていると古い記事が毎回新着として
+検知されます。この方式は「掲載順が更新順に固定されている」ことを前提にしています。
+
+サイトに新着記事一覧やお知らせ一覧のページがあれば、トップページよりそちらを
+登録してください。ページ送りのリンク（`/page/2/` など）は最終ページ番号が
+記事の増加につれて変わるので、`exclude` で外しておくと確実です。
+
+### 調整後に誤検知の履歴を消す
+
+設定を直しても、直す前に検知してしまった誤検知は履歴に残ります。
+次のコマンドで消せます。既知URLは残るので、消した記事が再び新着として
+出てくることはありません。
+
+```bash
+python -m checker reset-history --only <サイトID>   # 特定サイトだけ
+python -m checker reset-history                     # 全サイト
+```
+
 ## 画面の見方
 
 | 表示 | 意味 |
@@ -148,7 +170,7 @@ checker/
   extractor.py              リンク抽出・URL正規化・フィルタ
   store.py                  既知URLの保存と差分検出
   report.py                 画面用 feed.json の生成
-  main.py                   CLI（check / inspect）
+  main.py                   CLI（check / inspect / reset-history）
 data/state.json             巡回の記録（自動更新）
 docs/                       GitHub Pages で公開する画面
   index.html / style.css / app.js
