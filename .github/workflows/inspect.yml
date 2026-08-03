@@ -1,0 +1,54 @@
+name: サイト調査
+
+# 登録前・調整前に、そのページから何が抽出できるかを確認するための手動ワークフロー。
+# Actions タブ →「サイト調査」→ Run workflow から URL を入力すると、
+# 抽出されたリンクとパス別の件数がログに出る。sites.yml の include や
+# selector を決める材料になる。
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "調査したいページのURL"
+        required: true
+        type: string
+      selector:
+        description: "試したい CSS セレクタ（任意）"
+        required: false
+        type: string
+      limit:
+        description: "表示するリンク数"
+        required: false
+        default: "60"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 依存をインストール
+        run: pip install -r requirements.txt
+
+      # 入力値は env 経由で渡す。run: に直接展開するとシェルに解釈されてしまう。
+      - name: 抽出結果を表示する
+        env:
+          URL: ${{ inputs.url }}
+          SELECTOR: ${{ inputs.selector }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          if [ -n "$SELECTOR" ]; then
+            python -m checker inspect "$URL" --limit "$LIMIT" --selector "$SELECTOR"
+          else
+            python -m checker inspect "$URL" --limit "$LIMIT"
+          fi
