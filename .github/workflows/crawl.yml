@@ -21,10 +21,12 @@ concurrency:
 
 jobs:
   crawl:
-    # 開発用の複製リポジトリでも定期実行が走ると、対象サイトに二重にアクセスし、
-    # 巡回状態も枝分かれしてしまう。定期実行は公開リポジトリだけに任せ、
-    # 手動実行（workflow_dispatch）とsites.yml変更時はどちらでも動くようにする。
-    if: github.event_name != 'schedule' || github.event.repository.visibility == 'public'
+    # 開発用の複製リポジトリでも自動で巡回が走ると、対象サイトに二重にアクセスし、
+    # state.json と feed.json が両方で別々に更新されて履歴が枝分かれしてしまう。
+    # 自動の巡回は公開リポジトリだけに任せ、複製側では手動実行のみ受け付ける。
+    if: >-
+      github.event.repository.visibility == 'public'
+      || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
