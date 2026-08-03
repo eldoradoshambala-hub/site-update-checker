@@ -23,7 +23,15 @@ defaults:
   max_items: 50
 
 sites:
-  # --- ここから下は動作確認用のサンプルです。ご自分のサイトに置き換えてください ---
+  - id: cjnavi
+    name: シティ情報ふくしま（イベント情報）
+    url: https://www.cjnavi.co.jp/
+
+  - id: ledge-ai
+    name: Ledge.ai（AIニュース）
+    url: https://ledge.ai/
+
+  # --- ここから下は動作確認用のサンプルです。不要になったら削除してください ---
 
   # 実巡回で20件のプレスリリースが取れることを確認済み。
   - id: meti-press
