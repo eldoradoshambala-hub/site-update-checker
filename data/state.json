@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T02:55:59+00:00",
+  "updated_at": "2026-08-03T02:58:41+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T02:55:56+00:00",
-      "last_update": "2026-08-03T02:55:56+00:00",
+      "last_checked": "2026-08-03T02:58:39+00:00",
+      "last_update": "2026-08-03T02:58:39+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -302,9 +302,54 @@
         "https://www.cjnavi.co.jp/life/20251125little-bear-garden/": {
           "title": "ライフ AD 【家づくりの本2026・ガーデン＆エクステリア】エクステリアコンテストで… little bear garden（リトルベアガーデン）",
           "first_seen": "2026-08-03T02:55:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/page/2/": {
+          "title": "2",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/page/3/": {
+          "title": "3",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/page/4/": {
+          "title": "4",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/page/5/": {
+          "title": "5",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/page/393/": {
+          "title": "393",
+          "first_seen": "2026-08-03T02:58:39+00:00"
         }
       },
       "recent": [
+        {
+          "title": "2",
+          "url": "https://www.cjnavi.co.jp/all/page/2/",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        {
+          "title": "3",
+          "url": "https://www.cjnavi.co.jp/all/page/3/",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        {
+          "title": "4",
+          "url": "https://www.cjnavi.co.jp/all/page/4/",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        {
+          "title": "5",
+          "url": "https://www.cjnavi.co.jp/all/page/5/",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
+        {
+          "title": "393",
+          "url": "https://www.cjnavi.co.jp/all/page/393/",
+          "first_seen": "2026-08-03T02:58:39+00:00"
+        },
         {
           "title": "【キャリア採用情報】（株）エス・シー・シー",
           "url": "https://www.cjnavi.co.jp/special/20241211scc-recruit/",
@@ -340,7 +385,7 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T02:55:56+00:00",
+      "last_checked": "2026-08-03T02:58:39+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -636,7 +681,7 @@
     "meti-press": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:55:56+00:00",
+      "last_checked": "2026-08-03T02:58:39+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -768,7 +813,7 @@
     "soumu-news": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:55:56+00:00",
+      "last_checked": "2026-08-03T02:58:39+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
