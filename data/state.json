@@ -1,11 +1,587 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T02:09:56+00:00",
+  "updated_at": "2026-08-03T02:52:12+00:00",
   "sites": {
+    "cjnavi": {
+      "seeded": true,
+      "first_checked": "2026-08-03T02:52:10+00:00",
+      "last_checked": "2026-08-03T02:52:10+00:00",
+      "last_update": null,
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
+      "known": {
+        "https://www.cjnavi.co.jp/gourmet/": {
+          "title": "グルメ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/": {
+          "title": "おでかけ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/": {
+          "title": "ライフ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/": {
+          "title": "イベント",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/": {
+          "title": "スペシャル",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/flag/newopen/": {
+          "title": "オープン情報／新店",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/section/series/lunch-days/": {
+          "title": "ランチ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20210724sitemap/": {
+          "title": "今月のおすすめ／連載",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625adinfo/": {
+          "title": "広告のご案内",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625company/": {
+          "title": "会社案内",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625privacy/": {
+          "title": "プライバシーポリシー",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625disclaimer/": {
+          "title": "免責事項",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20160625link/": {
+          "title": "リンク",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625inquiry/": {
+          "title": "お問い合わせ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20170625tokuteisyoutorihiki/": {
+          "title": "特定商取引法に基づく表記",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/20260401general-employer-action-plan/": {
+          "title": "一般事業主行動計画",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20210725scc-magazine/": {
+          "title": "CJ Monmo のご購入はこちら",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20210725scc-magazine-bessatsu/": {
+          "title": "別冊のご購入はこちら",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/site-annai/": {
+          "title": "日刊CJ Monmo Webって？",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260803newopen-calm/": {
+          "title": "グルメ 二本松市に『CALM 2号店』がオープン！緑あふれる空間で生パスタを味わう",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260625jishabukkaku-digitalrally/": {
+          "title": "スペシャル 福島県内の寺社めぐりでプレゼントが当たる！…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260725fruitspeaks/": {
+          "title": "AD グルメ 桃フェスはまだまだ続く！『フルーツピークス…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260730unemematsuri/": {
+          "title": "イベント 踊り流しや縁日、「采女ドンドコ」など郡山市…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260730iwaki-tanabata/": {
+          "title": "イベント 多種多様な七夕飾りが街なかを彩る、いわき市…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/?date=this_week": {
+          "title": "今週の イベント",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/?date=next_week": {
+          "title": "来週の イベント",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/?date=after_next": {
+          "title": "近日 開催予定の イベント",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
+          "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260802larcata-concert/": {
+          "title": "イベント 福島市「ふくしん夢の音楽堂」で、ヴァイオリニスト・篠崎史紀氏をゲスト… 立花和夫記念 第13回演奏会 ラルカータ室内合奏団「冬桜コンサート」 2026年11月28日（土） ［チケット一般販売］2026年8月9日（日）～",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260802iwakifc-homegame/": {
+          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開幕！『いわきFC』を応援し… 【いわきFCホーム戦】2026年8月 2026年8月9日（日）・29日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260802united-fc-homegame/": {
+          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開幕！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年8月 2026年8月9日（日）・29日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260725cjmonmo-61/": {
+          "title": "月刊CJ Monmo 2026年8月号",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260225ra-men-sengokujidai/": {
+          "title": "ラーメン戦国時代〜地元タウン誌編集部が選んだ最強の120杯!!〜",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260125becal-fukushima/": {
+          "title": "福島県の企業ガイド BeCAL福島版2026-2027",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/fukushima-higaeri-onsen/": {
+          "title": "ふくしま日帰り温泉 2025-2026",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260525cj-monmo-clinic/": {
+          "title": "2026ふくしま医療ガイド",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260225kosodate-spring/": {
+          "title": "【2026年・春】ふくしまの子育て",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260711yellowgreen-campaign/": {
+          "title": "イベント AD 9月30日（水）まで「応援！禁煙川柳コンテスト」開催！たばこの健康影響を… イエローグリーンキャンペーン「応援！禁煙川柳コンテスト」 2026年7月11日（土）～9月30日（水）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260707fukushima-deai/": {
+          "title": "イベント AD 福島市では出会いを見つけるイベントを毎月開催中！ このコーナーでは『福島県ふるさと特派員』から届いた、福島県内59市町村のホットな話題を紹...",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260618fukushimanoima115/": {
+          "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第115… ふくしまの今が分かる新聞 vol.115",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260601nursecenter-fukushima/": {
+          "title": "イベント AD 【皆さんの看護の力を求めています】非常時に現場を支える看護職を募集す… 令和8年度 ふくしま応援看護職研修 【1】オンライン研修 【2】実地研修 2026年9月2日（水）［いわき産業創造館］ 2026年9月9日（水）［コラッセふくしま］ 2026年9月16日（水）［ふくしま医療機器開発支援センター］ ※申込締切2026年7月31日（金）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/flag/ad/": {
+          "title": "おすすめ記事一覧を見る",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260802fukushima-teisyokubu107/": {
+          "title": "グルメ オートキャンプ場でミートキャンプ！伊達市月舘町で職人の肉を喰らう 第107回「月舘肉食堂 ぶたの休日」",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260802oonami-himawari-fes/": {
+          "title": "イベント 福島市大波地区の斜面に広がる黄色の花々。笑顔に包まれるイベントも 大波ひまわりまつり 2026年8月9日（日）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260802hagihime-matsuri/": {
+          "title": "イベント 郡山市磐梯熱海に伝わる「萩姫伝説」にちなんだ祭りを開催 第60回 萩姫まつり 2026年8月9日（日）・10日（月）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801aburoma-digitalrally/": {
+          "title": "イベント AD 沿線地域を見て、触れて、味わう「あぶくまロマンチック街道」周遊デジタ… あぶくまロマンチック街道 周遊デジタルラリー 2026年8月1日（土）～9月30日（水）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801f-kenpoku-co-cre-map/": {
+          "title": "イベント AD 福島県北・宮城仙南・山形置賜の“推しスポット”を巡ろう！デジタル周遊ラ… 県北・仙南・置賜へGO！推しスポット周遊ラリー 2026年8月1日（土）〜10月31日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260801monmoryouhin/": {
+          "title": "ライフ 【モンモ良品】季節のご挨拶に福島の逸品を。2026年8月の夏ギフト8選 地元編集者が厳選する良品を集めた福島の通販サイト「Monmo良品」。今回はミニうな重やかまぼ...",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801koriyama-yose-futarikai/": {
+          "title": "イベント 人気と実力を兼ね備えた、珠玉の豪華二人会を郡山市で開催 こおりやま寄席 林家正蔵・古今亭菊之丞二人会 2026年11月14日（土） ［チケット販売］2026年8月8日（土）〜",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801shikinosato-hanabi/": {
+          "title": "イベント 自然に囲まれた福島市「四季の里」でおいしいグルメや花火を満喫 四季の里 夏の花火大会2026 2026年8月8日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801date-natsumatsuri/": {
+          "title": "イベント 伊達市で恒例の夏祭りを開催。約5,000発の花火の打ち上げも 伊達のふる里夏まつり2026 2026年8月8日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801comcom-kensetsu/": {
+          "title": "イベント AD 福島市「こむこむ館」で、重機操作シミュレーション『重機でGo』を使用し… 本物みたいに重機を操作！重機でGo体験会 2026年8月8日（土）・9日（日）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801kitaizumi-summerfes/": {
+          "title": "イベント 南相馬市北泉で夏を満喫！盆踊りや花火を楽しもう 北泉サマーフェスティバル 2026 2026年8月8日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801abukumado/": {
+          "title": "イベント 田村市「あぶくま洞」で恒例の夏まつりを開催 あぶくま洞夏まつり 2026年8月8日（土）～16日（日）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801kunimi-natsumatsuri/": {
+          "title": "イベント 国見町恒例の夏祭り。大抽選会や盆踊り大会、仮装コンテストなど盛りだく… 国見夏まつり 2026年8月8日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260801fukuyama-yumehanabi/": {
+          "title": "イベント 「子どもまつり」も開催！夜は創作花火が郡山市の夜空に広がる 第35回 ふくやま夏祭り花火大会 2026年8月8日（土）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260731warajimatsuri/": {
+          "title": "イベント 大わらじが、勇壮な太鼓隊の演奏に合わせて福島市の街を練り歩く 第57回 福島わらじまつり 2026年8月7日（金）～9日（日）",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/all/": {
+          "title": "新着記事一覧を見る",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260625cjmonmo-60/": {
+          "title": "月刊CJ Monmo 2026年7月号",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260525cjmonmo-59/": {
+          "title": "月刊CJ Monmo 2026年6月号",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/": {
+          "title": "一覧を見る",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/20260729nunobiki-himawari/": {
+          "title": "【お知らせ】2026年「CJ Monmo8月号」の「今月のイチオシ（P.7）」に掲載…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/20260629mazda-fukushima/": {
+          "title": "【お詫びと訂正】2026年「CJ Monmo7月号」の『福島マツダ』様（P.8）の記…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/20260527epilogue/": {
+          "title": "【お詫びと訂正】2026年「CJ Monmo6月号」の「暮らしのお役立ちリスト」（…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/20260526fukushima-sakefes/": {
+          "title": "【お詫びと訂正】2026年「CJ Monmo6月号」の「ふくしまSAKEフェス」（P.10…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/20260525aizumisato/": {
+          "title": "【お詫びと訂正】2026年「CJ Monmo6月号」の「ふくしまの市町村Pickup」（…",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/news/": {
+          "title": "一覧を見る",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        }
+      },
+      "recent": []
+    },
+    "ledge-ai": {
+      "seeded": true,
+      "first_checked": "2026-08-03T02:52:10+00:00",
+      "last_checked": "2026-08-03T02:52:10+00:00",
+      "last_update": null,
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
+      "known": {
+        "https://ledge.ai/about": {
+          "title": "About",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/contact": {
+          "title": "Contact",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/videos": {
+          "title": "動画",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/brand_solution": {
+          "title": "ソリューション",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory": {
+          "title": "特集 FEATURE",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/business": {
+          "title": "ビジネス BUSINESS",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/learning": {
+          "title": "ラーニング LEARNING",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/engineering": {
+          "title": "エンジニアリング ENGINEERING",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/academic": {
+          "title": "学術＆研究 ACADEMICS & STUDY",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/public": {
+          "title": "公共 PUBLIC",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/entertainment": {
+          "title": "エンタメ＆アート ENTERTAINMENT & ART",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_cybersecurity_eval_incidents": {
+          "title": "Anthropic、Claudeが評価中に実在3組織へ権限なくアクセス 設定不備でインターネットに接続、PyPIへ悪意あるパッケージも公開のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=Anthropic": {
+          "title": "Anthropic",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3": {
+          "title": "サイバーセキュリティ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/google_deepmind_alphafold_team_reorganization": {
+          "title": "ビジネス 2026 / 8 / 2 [SUN] Google DeepMind、AlphaFold開発チームを事実上解体か 研究者をGeminiなどへ再配置、幹部は研究拡大を強調",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/pacing_the_frontier_ai_development_pace_control": {
+          "title": "公共 2026 / 8 / 1 [SAT] OpenAI、Anthropic、Google、Metaなどの従業員1000人超、AI研究自動化に備え「開発ペース調整」の国際枠組みを米政府に要請",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/open_weights_ai_regulation_anthropic": {
+          "title": "公共 2026 / 7 / 29 [WED] Microsoft・NVIDIAら、オープンウェイトAIへの性急な規制回避を要請 Anthropicは署名せず「一律禁止ではなく安全性試験を」",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0": {
+          "title": "ビジネス 2026 / 7 / 31 [FRI] SpaceXAI、音声エージェント向けAI「Grok Voice Think Fast 2.0」発表 会話能力を強化、初回音声まで0.70秒",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=Google": {
+          "title": "Google",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=OpenAI": {
+          "title": "OpenAI",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=Meta": {
+          "title": "Meta",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=Microsoft": {
+          "title": "Microsoft",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=NVIDIA": {
+          "title": "NVIDIA",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A2%E3%83%BC%E3%83%80%E3%83%ABAI": {
+          "title": "マルチモーダルAI",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/line_yahoo_agent_i_shopping_lens": {
+          "title": "LINEヤフー、「Agent i」に写真検索「ショッピングレンズ」追加 同一商品の取扱ストア・価格をまとめて比較のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E5%9B%BD%E5%86%85%E4%BC%81%E6%A5%AD%E4%BA%8B%E4%BE%8B": {
+          "title": "国内企業事例",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/microsoft_copilot_super_app": {
+          "title": "Microsoft、Copilot「スーパーアプリ」を2026年内に提供へ チャット、業務代行、AIエージェント、コードを統合のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/china_ai_face_licensing_market": {
+          "title": "中国で「顔をAIに貸す」ビジネス 無断利用を逆手に、AIドラマ向け肖像ライセンス市場が登場のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E4%B8%AD%E5%9B%BD": {
+          "title": "中国",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E7%9F%A5%E8%B2%A1": {
+          "title": "知財",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_academic_researchers": {
+          "title": "OpenAI、対象大学の研究者に「ChatGPT for Academic Researchers」を12カ月無料提供 今夏1万人、2027年までに10万人へのサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/google_lyria_3_5_music_generation": {
+          "title": "Google、音楽生成AI「Lyria 3.5」発表 歌詞・歌声・メロディーを強化、Flow Musicで提供開始のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E5%9F%BA%E7%9B%A4%E3%83%A2%E3%83%87%E3%83%AB": {
+          "title": "基盤モデル",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/softbank_tohoku_ai_for_disaster_science": {
+          "title": "東北大学とソフトバンク、「AI for Disaster Science共創研究所」を8月設立 災害デジタルツインとLLM・VLM、AIエージェントを融合のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88": {
+          "title": "AIエージェント",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/valance_interview_20260724": {
+          "title": "AI前提の組織設計――VALANCE独占インタビュー「AI駆動型組織」のつくり方のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC": {
+          "title": "インタビュー",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/microsoft_mai_cyber_1_flash_mdash": {
+          "title": "Microsoft、サイバー特化AI「MAI-Cyber-1-Flash」をMDASHに統合 CyberGym 95.95％、従来構成比でコスト半減のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/kddi_buffmee_ai_service": {
+          "title": "KDDI、出版社・専門メディアの編集済みコンテンツを横断検索するAI「Buffmee」開始 約150コンテンツ、回答に出典表示のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/open_secure_ai_alliance": {
+          "title": "NVIDIAやMicrosoftなど、「Open Secure AI Alliance」設立 AIエージェントを守るオープンな防御技術を共同開発のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_gpt_transcribe_live_transcribe": {
+          "title": "OpenAI、文字起こしAI「GPT Transcribe」「GPT Live Transcribe」公開 専門用語・多言語・ノイズ環境の認識精度を向上のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_ai_agent_modal_labs_hugging_face_intrusion": {
+          "title": "OpenAIの暴走AIエージェント、Modal Labs顧客のサンドボックスも侵害 \"最初の被害者\"Hugging Faceが一連の攻撃経路を公開のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/hitachi_agentic_ai_integration_platform": {
+          "title": "日立、SI全工程にAIエージェントを適用する「Agentic AI Integration Platform」開発 社内試行で設計～テストの生産性約200倍も、2027年度に全体30％向上へのサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/waymo_uber_robotaxi_partnership_split": {
+          "title": "Waymo、Uberとのロボタクシー提携解消を検討 2028年に2都市へ単独参入かのサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB": {
+          "title": "アメリカ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%C3%97AI": {
+          "title": "モビリティ×AI",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_values_models_languages": {
+          "title": "Anthropic、Claudeの応答に現れる「価値観」を4軸で分析 30万件超の会話を3モデル・20言語で比較のサムネイル画像",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/ledgeai25to26-specialfeature": {
+          "title": "Ledge.ai年末年始特集「'25 to '26」",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/ledgeai-expo-2025-summer-Special": {
+          "title": "Ledge.ai EXPO 2025 Summer",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/alibaba-usecase-games": {
+          "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/ledgeai24to25-Special": {
+          "title": "AIの浸透と拡散 Ledge.ai年末年始特集「24to25」",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/42tokyo": {
+          "title": "42 Tokyo、知ってますか？ AIも学べるパリ発の究極のエンジニアスクール 特別インタビュー",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top": {
+          "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/videos/expo-2025-summer-ledge-1": {
+          "title": "動画",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/videos/expo-2025-summer-ledge-2": {
+          "title": "動画",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/videos/expo-2025-summer-rag": {
+          "title": "動画",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_atlas_shutdown_desktop_browser": {
+          "title": "OpenAI、AIブラウザ「ChatGPT Atlas」を8月9日に終了 機能をChatGPTとCodexへ統合、新ChatGPTデスクトップアプリに内蔵ブラウザ",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_fable_5_jacobian_conjecture_counterexample": {
+          "title": "Anthropic所属の数学者、Claude Fable 5を使い87年間未解決の「ヤコビアン予想」に反例 3変数以上で否定",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_spark_japan": {
+          "title": "Google、24時間365日働く個人向けAIエージェント「Gemini Spark」を日本語展開 Gmailやカレンダーを横断してタスクを実行",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/preferred_networks_plamo_3_0_prime_interview": {
+          "title": "国産LLMの現在地と、PLaMo 3.0 Primeが目指したもの── Preferred NetworksのLLM開発キーパーソンに独占インタビュー",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_opus_5_release": {
+          "title": "Anthropic「Claude Opus 5」公開 Fable 5に迫る知能を半額で、長時間のAIエージェント作業を強化",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/articles/chatgpt_claude_desktop_voice": {
+          "title": "ChatGPTとClaude、音声機能をPC上の実務へ拡張 Work・Codex操作、Opus・Sonnetや連携ツールに対応",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93": {
+          "title": "半導体",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9": {
+          "title": "ロボティクス",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=EXPO2025": {
+          "title": "EXPO2025",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E8%BF%91%E6%9C%AA%E6%9D%A5": {
+          "title": "近未来",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/search?q=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C": {
+          "title": "日本政府",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/contact/offer-form": {
+          "title": "情報提供",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/contact/ad-form": {
+          "title": "広告掲載",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/privacy-policy": {
+          "title": "個人情報等の保護について",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        },
+        "https://ledge.ai/terms-of-service": {
+          "title": "利用規約",
+          "first_seen": "2026-08-03T02:52:10+00:00"
+        }
+      },
+      "recent": []
+    },
     "meti-press": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:09:55+00:00",
+      "last_checked": "2026-08-03T02:52:10+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
@@ -137,7 +713,7 @@
     "soumu-news": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T02:09:55+00:00",
+      "last_checked": "2026-08-03T02:52:10+00:00",
       "last_update": null,
       "last_status": "ok",
       "last_error": null,
