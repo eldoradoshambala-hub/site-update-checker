@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T02:58:39+00:00",
+  "generated_at": "2026-08-03T03:01:09+00:00",
   "site_count": 4,
-  "new_count": 5,
+  "new_count": 0,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T02:58:39+00:00",
+      "last_checked": "2026-08-03T03:01:09+00:00",
       "last_update": "2026-08-03T02:58:39+00:00",
-      "new_count": 5,
-      "link_count": 45,
+      "new_count": 0,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
         {
@@ -82,7 +82,7 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T02:58:39+00:00",
+      "last_checked": "2026-08-03T03:01:09+00:00",
       "last_update": null,
       "new_count": 0,
       "link_count": 50,
@@ -96,7 +96,7 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T02:58:39+00:00",
+      "last_checked": "2026-08-03T03:01:09+00:00",
       "last_update": null,
       "new_count": 0,
       "link_count": 30,
@@ -110,7 +110,7 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T02:58:39+00:00",
+      "last_checked": "2026-08-03T03:01:09+00:00",
       "last_update": null,
       "new_count": 0,
       "link_count": 28,
