@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T06:23:02+00:00",
+  "generated_at": "2026-08-03T18:26:45+00:00",
   "site_count": 4,
-  "new_count": 124,
+  "new_count": 3,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-03T18:26:45+00:00",
       "last_update": "2026-08-03T06:23:02+00:00",
-      "new_count": 21,
-      "link_count": 21,
+      "new_count": 0,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
         {
@@ -132,9 +132,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-03T18:26:45+00:00",
       "last_update": "2026-08-03T06:23:02+00:00",
-      "new_count": 41,
+      "new_count": 0,
       "link_count": 41,
       "seeded_now": false,
       "items": [
@@ -352,12 +352,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T06:23:02+00:00",
-      "last_update": "2026-08-03T06:23:02+00:00",
-      "new_count": 30,
+      "last_checked": "2026-08-03T18:26:45+00:00",
+      "last_update": "2026-08-03T18:26:45+00:00",
+      "new_count": 3,
       "link_count": 30,
       "seeded_now": false,
       "items": [
+        {
+          "title": "「北朝鮮IT労働者に関する各国・企業等に対する注意喚起」を公表しました",
+          "url": "https://www.meti.go.jp/press/2026/08/20260803005.html",
+          "first_seen": "2026-08-03T18:26:45+00:00"
+        },
+        {
+          "title": "ラベルレスPETボトルの対象拡大に関する省令が公布・施行されるとともに、小森経済産業大臣政務官が当該取組等について発信するためのイベントに参加しました",
+          "url": "https://www.meti.go.jp/press/2026/08/20260803002.html",
+          "first_seen": "2026-08-03T18:26:45+00:00"
+        },
+        {
+          "title": "小森経済産業大臣政務官がアンティグア・バーブーダ共和国のニコラス情報通信技術・公共事業・エネルギー大臣と会談しました",
+          "url": "https://www.meti.go.jp/press/2026/08/20260803004.html",
+          "first_seen": "2026-08-03T18:26:45+00:00"
+        },
         {
           "title": "サイトマップからページをご覧ください。",
           "url": "https://www.meti.go.jp/press/sitemap/index.html",
@@ -517,9 +532,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-03T18:26:45+00:00",
       "last_update": "2026-08-03T06:23:02+00:00",
-      "new_count": 32,
+      "new_count": 0,
       "link_count": 32,
       "seeded_now": false,
       "items": [
@@ -687,6 +702,27 @@
     }
   ],
   "timeline": [
+    {
+      "site_id": "meti-press",
+      "site_name": "経済産業省 ニュースリリース",
+      "title": "「北朝鮮IT労働者に関する各国・企業等に対する注意喚起」を公表しました",
+      "url": "https://www.meti.go.jp/press/2026/08/20260803005.html",
+      "first_seen": "2026-08-03T18:26:45+00:00"
+    },
+    {
+      "site_id": "meti-press",
+      "site_name": "経済産業省 ニュースリリース",
+      "title": "ラベルレスPETボトルの対象拡大に関する省令が公布・施行されるとともに、小森経済産業大臣政務官が当該取組等について発信するためのイベントに参加しました",
+      "url": "https://www.meti.go.jp/press/2026/08/20260803002.html",
+      "first_seen": "2026-08-03T18:26:45+00:00"
+    },
+    {
+      "site_id": "meti-press",
+      "site_name": "経済産業省 ニュースリリース",
+      "title": "小森経済産業大臣政務官がアンティグア・バーブーダ共和国のニコラス情報通信技術・公共事業・エネルギー大臣と会談しました",
+      "url": "https://www.meti.go.jp/press/2026/08/20260803004.html",
+      "first_seen": "2026-08-03T18:26:45+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
