@@ -23,11 +23,13 @@ defaults:
   max_items: 50
 
 sites:
-  # 記事は /event/ /gourmet/ /life/ などの日付入りURL。
-  # カテゴリや会社案内のリンクは静的なので初回で既知化され、絞り込みは不要。
+  # トップページ（https://www.cjnavi.co.jp/）には、おすすめ記事やAD枠に
+  # 過去記事がローテーション表示される部分があり、巡回のたびに古い記事が
+  # 新着として誤検知された（実際に2024年・2025年の記事が6件出た）。
+  # サイト自身の新着記事一覧ページを見ることで、掲載順が更新順に固定される。
   - id: cjnavi
-    name: シティ情報ふくしま（イベント情報）
-    url: https://www.cjnavi.co.jp/
+    name: シティ情報ふくしま（新着記事）
+    url: https://www.cjnavi.co.jp/all/
 
   # 記事は /articles/<slug>。
   # /search?q=... はタグリンクで、記事が増えるたびに新しいものが現れて
