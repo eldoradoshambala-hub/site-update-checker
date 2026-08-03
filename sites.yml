@@ -23,23 +23,21 @@ defaults:
   max_items: 50
 
 sites:
-  # --- ここから下はサンプルです。不要な行は削除してください ---
+  # --- ここから下は動作確認用のサンプルです。ご自分のサイトに置き換えてください ---
 
-  - id: soumu-news
-    name: 総務省 報道資料
-    url: https://www.soumu.go.jp/menu_news/s-news/index.html
-    include: ["/menu_news/s-news/"]
-
+  # 実巡回で20件のプレスリリースが取れることを確認済み。
   - id: meti-press
     name: 経済産業省 ニュースリリース
     url: https://www.meti.go.jp/press/index.html
     include: ["/press/"]
 
-  - id: jma-press
-    name: 気象庁 報道発表
-    url: https://www.jma.go.jp/jma/press/index.html
-    include: ["/press/"]
+  # 動作するが、トップページに載る記事が数件と少なく年別アーカイブが多め。
+  - id: soumu-news
+    name: 総務省 報道資料
+    url: https://www.soumu.go.jp/menu_news/s-news/index.html
+    include: ["/menu_news/s-news/"]
 
-  - id: kantei-headline
-    name: 首相官邸 新着情報
-    url: https://www.kantei.go.jp/jp/headline/index.html
+  # 気象庁（https://www.jma.go.jp/jma/press/index.html）と
+  # 首相官邸（https://www.kantei.go.jp/jp/headline/index.html）も試しましたが、
+  # 前者は記事リンクが通常の <a href> として出ておらず抽出できず、
+  # 後者は HTTP 404 だったため外しました。
