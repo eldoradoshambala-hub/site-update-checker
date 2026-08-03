@@ -1,9 +1,66 @@
 {
   "version": 1,
-  "generated_at": null,
-  "site_count": 0,
+  "generated_at": "2026-08-03T02:04:59+00:00",
+  "site_count": 4,
   "new_count": 0,
-  "error_count": 0,
-  "sites": [],
+  "error_count": 1,
+  "sites": [
+    {
+      "id": "soumu-news",
+      "name": "総務省 報道資料",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "new_count": 0,
+      "link_count": 28,
+      "seeded_now": true,
+      "items": []
+    },
+    {
+      "id": "meti-press",
+      "name": "経済産業省 ニュースリリース",
+      "url": "https://www.meti.go.jp/press/index.html",
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "new_count": 0,
+      "link_count": 30,
+      "seeded_now": true,
+      "items": []
+    },
+    {
+      "id": "jma-press",
+      "name": "気象庁 報道発表",
+      "url": "https://www.jma.go.jp/jma/press/index.html",
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "new_count": 0,
+      "link_count": 32,
+      "seeded_now": true,
+      "items": []
+    },
+    {
+      "id": "kantei-headline",
+      "name": "首相官邸 新着情報",
+      "url": "https://www.kantei.go.jp/jp/headline/index.html",
+      "status": "error",
+      "error": "HTTP 404",
+      "consecutive_errors": 1,
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "new_count": 0,
+      "link_count": 0,
+      "seeded_now": false,
+      "items": []
+    }
+  ],
   "timeline": []
 }

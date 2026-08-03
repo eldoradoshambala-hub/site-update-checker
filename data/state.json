@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-03T02:04:59+00:00",
+  "sites": {
+    "jma-press": {
+      "seeded": true,
+      "first_checked": "2026-08-03T02:04:59+00:00",
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
+      "known": {
+        "https://www.jma.go.jp/jma/press/hodo.html": {
+          "title": "報道発表資料",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=08": {
+          "title": "令和８年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=07": {
+          "title": "令和７年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=06": {
+          "title": "令和６年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=05": {
+          "title": "令和５年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=04": {
+          "title": "令和４年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=03": {
+          "title": "令和３年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=02": {
+          "title": "令和２年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=01": {
+          "title": "令和元年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=31": {
+          "title": "平成３１年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=30": {
+          "title": "平成３０年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=29": {
+          "title": "平成２９年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=28": {
+          "title": "平成２８年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=27": {
+          "title": "平成２７年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=26": {
+          "title": "平成２６年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=25": {
+          "title": "平成２５年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=24": {
+          "title": "平成２４年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=23": {
+          "title": "平成２３年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=22": {
+          "title": "平成２２年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=21": {
+          "title": "平成２１年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=20": {
+          "title": "平成２０年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=19": {
+          "title": "平成１９年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=18": {
+          "title": "平成１８年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=17": {
+          "title": "平成１７年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=16": {
+          "title": "平成１６年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=15": {
+          "title": "平成１５年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=14": {
+          "title": "平成１４年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=13": {
+          "title": "平成１３年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/index.html?t=1&y=12": {
+          "title": "平成１２年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/hantei.html": {
+          "title": "南海トラフ沿いの地震に関する評価検討会 地震防災対策強化地域判定会",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/yochiren.html": {
+          "title": "火山噴火予知連絡会",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.jma.go.jp/jma/press/taihuu.html": {
+          "title": "台風のまとめ",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        }
+      },
+      "recent": []
+    },
+    "kantei-headline": {
+      "seeded": false,
+      "first_checked": null,
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "last_status": "error",
+      "last_error": "HTTP 404",
+      "consecutive_errors": 1,
+      "known": {},
+      "recent": []
+    },
+    "meti-press": {
+      "seeded": true,
+      "first_checked": "2026-08-03T02:04:59+00:00",
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
+      "known": {
+        "https://www.meti.go.jp/press/sitemap/index.html": {
+          "title": "サイトマップからページをご覧ください。",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/english/press/index.html": {
+          "title": "English",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_01.html": {
+          "title": "経済産業",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_02.html": {
+          "title": "対外経済",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_03.html": {
+          "title": "ものづくり/ 情報/ 流通・サービス",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_04.html": {
+          "title": "中小企業・地域経済産業",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_05.html": {
+          "title": "エネルギー・環境",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_06.html": {
+          "title": "安全・安心",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/category_07.html": {
+          "title": "その他",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/08/20260803003.html": {
+          "title": "第62回電気保安功労者経済産業⼤⾂表彰の受賞者が決定しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/08/20260803001.html": {
+          "title": "日・インドネシア経済連携協定（EPA）改正議定書が発効しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731001.html": {
+          "title": "CO2排出量を削減した鋼材の試行工事を開始！",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731003.html": {
+          "title": "経済産業省組織令の一部を改正する政令が閣議決定されました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731006.html": {
+          "title": "令和8年熊本地震の影響を受けた事業者への資金繰り支援の徹底等について要請を行いました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731004.html": {
+          "title": "大胆な投資促進税制（特定生産性向上設備等投資促進税制）の申請受付開始について",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731005.html": {
+          "title": "APECデジタルAI大臣会合（TELMIN12）及びハイレベルイベントが開催されました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260731002.html": {
+          "title": "第二回「経済安全保障グローバルフォーラム・ウィーク」を実施するとともに関連イベントを募集します",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260730002.html": {
+          "title": "「企業買収における行動指針」のポイント・Q&A等を策定しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260730001.html": {
+          "title": "サイバーセキュリティのためのソフトウェア部品表（SBOM）の最小要素に関する国際ガイダンスに共同署名しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260729002.html": {
+          "title": "赤澤経済産業大臣がマリック駐日インド大使による表敬を受けました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260729004.html": {
+          "title": "令和8年熊本地震の被災地に関する情報処理技術者試験の救済措置を行います",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/20260729003.html": {
+          "title": "令和8年熊本地震に伴う災害に関して被災中小企業・小規模事業者支援措置を行います",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260729001.html": {
+          "title": "赤澤経済産業大臣がロングボトム駐日英国大使と会談を行いました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260728001.html": {
+          "title": "「経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行期日を定める政令」及び「経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令」が閣議決定されました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260727001.html": {
+          "title": "特許庁におけるAI活用の基本方針「JPO AIビジョン」を策定しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260727003.html": {
+          "title": "井野経済産業副大臣が英国及びフランス共和国に出張しました",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/20260724005.html": {
+          "title": "全東信の破産手続開始により影響を受ける中小企業・小規模事業者への支援を実施します",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260724002.html": {
+          "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税に関する調査の期間を延長します",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/07/20260724003.html": {
+          "title": "大韓民国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ビスフェノールAに対する不当廉売関税の課税に関する調査の期間を延長します",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.meti.go.jp/press/archive.html": {
+          "title": "アーカイブはこちら",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        }
+      },
+      "recent": []
+    },
+    "soumu-news": {
+      "seeded": true,
+      "first_checked": "2026-08-03T02:04:59+00:00",
+      "last_checked": "2026-08-03T02:04:59+00:00",
+      "last_update": null,
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
+      "known": {
+        "https://www.soumu.go.jp/menu_news/s-news/2512m.html": {
+          "title": "2025年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2412m.html": {
+          "title": "2024年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2312m.html": {
+          "title": "2023年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2212m.html": {
+          "title": "2022年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2112m.html": {
+          "title": "2021年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2012m.html": {
+          "title": "2020年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1912m.html": {
+          "title": "2019年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1812m.html": {
+          "title": "2018年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1712m.html": {
+          "title": "2017年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1612m.html": {
+          "title": "2016年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1512m.html": {
+          "title": "2015年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1412m.html": {
+          "title": "2014年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1312m.html": {
+          "title": "2013年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1212m.html": {
+          "title": "2012年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1112m.html": {
+          "title": "2011年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/1012m.html": {
+          "title": "2010年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/0912m.html": {
+          "title": "2009年",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2601m.html": {
+          "title": "1月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2602m.html": {
+          "title": "2月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2603m.html": {
+          "title": "3月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2604m.html": {
+          "title": "4月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2605m.html": {
+          "title": "5月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2606m.html": {
+          "title": "6月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/2607m.html": {
+          "title": "7月",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001164.html": {
+          "title": "令和8年8月3日付 総務省人事",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001246.html": {
+          "title": "令和8年8月3日付 消防庁人事",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001159.html": {
+          "title": "令和8年8月1日付 総務省人事",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001156.html": {
+          "title": "総務省参与（総務大臣科学技術顧問）の発令",
+          "first_seen": "2026-08-03T02:04:59+00:00"
+        }
+      },
+      "recent": []
+    }
+  }
+}
