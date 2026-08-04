@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T18:26:47+00:00",
+  "updated_at": "2026-08-04T06:29:55+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T18:26:45+00:00",
-      "last_update": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-04T06:29:53+00:00",
+      "last_update": "2026-08-04T06:29:53+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -94,9 +94,45 @@
         "https://www.cjnavi.co.jp/life/20260225kosodate-spring/": {
           "title": "【2026年・春】ふくしまの子育て",
           "first_seen": "2026-08-03T06:23:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260804hobara-summerfes/": {
+          "title": "イベント 今年で38回目、伝統ある保原町の夏祭り。食べて、遊んで、踊って楽しもう！ ほばらサマーフェスティバル 2026年8月11日（祝）",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260804nhk-nodojiman/": {
+          "title": "イベント AD 市制20周年を記念し、南相馬市で『NHKのど自慢』を開催！出場者を募集中 南相馬市制20周年記念 NHKのど自慢 2026年9月27日（日） ※出場応募締切2026年8月17日（月）",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260525cj-monmo-clinic/": {
+          "title": "2026ふくしま医療ガイド",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/fukushima-higaeri-onsen/": {
+          "title": "ふくしま日帰り温泉 2025-2026",
+          "first_seen": "2026-08-04T06:29:53+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 今年で38回目、伝統ある保原町の夏祭り。食べて、遊んで、踊って楽しもう！ ほばらサマーフェスティバル 2026年8月11日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260804hobara-summerfes/",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "イベント AD 市制20周年を記念し、南相馬市で『NHKのど自慢』を開催！出場者を募集中 南相馬市制20周年記念 NHKのど自慢 2026年9月27日（日） ※出場応募締切2026年8月17日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20260804nhk-nodojiman/",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "2026ふくしま医療ガイド",
+          "url": "https://www.cjnavi.co.jp/life/20260525cj-monmo-clinic/",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "ふくしま日帰り温泉 2025-2026",
+          "url": "https://www.cjnavi.co.jp/magazine/fukushima-higaeri-onsen/",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
         {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
           "url": "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/",
@@ -207,8 +243,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-03T18:26:45+00:00",
-      "last_update": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-04T06:29:53+00:00",
+      "last_update": "2026-08-04T06:29:53+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -376,9 +412,45 @@
         "https://ledge.ai/articles/chatgpt_claude_desktop_voice": {
           "title": "ChatGPTとClaude、音声機能をPC上の実務へ拡張 Work・Codex操作、Opus・Sonnetや連携ツールに対応",
           "first_seen": "2026-08-03T06:23:02+00:00"
+        },
+        "https://ledge.ai/articles/alibaba_qwen3_8_max_2_4_trillion_parameters": {
+          "title": "Alibaba、2.4兆パラメータの「Qwen3.8-Max」発表 10日超の自律コーディング、Max級初のオープンウェイト化へのサムネイル画像",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_spark_chrome_integration": {
+          "title": "ビジネス 2026 / 8 / 4 [TUE] Google、パーソナルAIエージェント「Gemini Spark」をChromeに統合 物件内覧予約や航空券調査を代行、まず米国で",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://ledge.ai/articles/google_deepmind_gemini_robotics_2": {
+          "title": "ビジネス 2026 / 8 / 4 [TUE] Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://ledge.ai/articles/openai_active_users_business_customers": {
+          "title": "OpenAI、AIモデルのアクティブユーザー10億人超に ビジネス顧客は200万超、登録半年後のメッセージ数は約50％増のサムネイル画像",
+          "first_seen": "2026-08-04T06:29:53+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Alibaba、2.4兆パラメータの「Qwen3.8-Max」発表 10日超の自律コーディング、Max級初のオープンウェイト化へのサムネイル画像",
+          "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_2_4_trillion_parameters",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 8 / 4 [TUE] Google、パーソナルAIエージェント「Gemini Spark」をChromeに統合 物件内覧予約や航空券調査を代行、まず米国で",
+          "url": "https://ledge.ai/articles/google_gemini_spark_chrome_integration",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 8 / 4 [TUE] Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
+          "url": "https://ledge.ai/articles/google_deepmind_gemini_robotics_2",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "OpenAI、AIモデルのアクティブユーザー10億人超に ビジネス顧客は200万超、登録半年後のメッセージ数は約50％増のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_active_users_business_customers",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
         {
           "title": "動画",
           "url": "https://ledge.ai/videos",
@@ -589,8 +661,8 @@
     "meti-press": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T18:26:45+00:00",
-      "last_update": "2026-08-03T18:26:45+00:00",
+      "last_checked": "2026-08-04T06:29:53+00:00",
+      "last_update": "2026-08-04T06:29:53+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -726,9 +798,36 @@
         "https://www.meti.go.jp/press/2026/08/20260803004.html": {
           "title": "小森経済産業大臣政務官がアンティグア・バーブーダ共和国のニコラス情報通信技術・公共事業・エネルギー大臣と会談しました",
           "first_seen": "2026-08-03T18:26:45+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/08/20260804003.html": {
+          "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する暫定的な不当廉売関税の課税を決定しました",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/08/20260804002.html": {
+          "title": "電動車は災害時に医療機器への非常用電源としても使えます",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.meti.go.jp/press/2026/08/20260804001.html": {
+          "title": "地方公共団体によるスタートアップ調達の強化に向けて、「4号随契」の積極的な活用について地方公共団体へ通知を発出しました",
+          "first_seen": "2026-08-04T06:29:53+00:00"
         }
       },
       "recent": [
+        {
+          "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する暫定的な不当廉売関税の課税を決定しました",
+          "url": "https://www.meti.go.jp/press/2026/08/20260804003.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "電動車は災害時に医療機器への非常用電源としても使えます",
+          "url": "https://www.meti.go.jp/press/2026/08/20260804002.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "地方公共団体によるスタートアップ調達の強化に向けて、「4号随契」の積極的な活用について地方公共団体へ通知を発出しました",
+          "url": "https://www.meti.go.jp/press/2026/08/20260804001.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
         {
           "title": "「北朝鮮IT労働者に関する各国・企業等に対する注意喚起」を公表しました",
           "url": "https://www.meti.go.jp/press/2026/08/20260803005.html",
@@ -899,8 +998,8 @@
     "soumu-news": {
       "seeded": true,
       "first_checked": "2026-08-03T02:04:59+00:00",
-      "last_checked": "2026-08-03T18:26:45+00:00",
-      "last_update": "2026-08-03T06:23:02+00:00",
+      "last_checked": "2026-08-04T06:29:53+00:00",
+      "last_update": "2026-08-04T06:29:53+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1032,9 +1131,108 @@
         "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001156.html": {
           "title": "総務省参与（総務大臣科学技術顧問）の発令",
           "first_seen": "2026-08-03T06:23:02+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001250.html": {
+          "title": "救助隊の編成、装備及び配置の基準を定める省令の一部を改正する省令（案）等に対する意見公募",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000466.html": {
+          "title": "地方税法施行規則第三条の三の二第三項、第五条の二第三項、第十条第五項、第十条の二の 八第三項及び第二十四条の三十九第一項に規定する情報通信の技術の利用における安全性及 び信頼性を確保するために必要な基準の一部を改正する告示（案）等に対する意見募集",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000374.html": {
+          "title": "地方公共団体におけるスタートアップからの調達の拡大に関する技術的な助言（通知）の発出",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000799.html": {
+          "title": "電波法施行規則及び無線局免許手続規則の一部を改正する省令案等に関する意見募集",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000469.html": {
+          "title": "令和8年熊本地震における航空機搭載合成開口レーダー観測データの公開",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01gyosei02_02000430.html": {
+          "title": "地方公共団体におけるサイバーセキュリティの確保に関する総務大臣書簡の発出",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000105.html": {
+          "title": "データサイエンス・オンライン講座「社会人のためのデータサイエンス入門」のリニューアル開講",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000484.html": {
+          "title": "令和8年度地域社会DX推進パッケージ事業（補助事業）の三次公募を開始",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001166.html": {
+          "title": "令和8年8月4日付 総務省人事",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001165.html": {
+          "title": "独立行政法人の役員人事",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001247.html": {
+          "title": "令和8年8月4日付 消防庁人事",
+          "first_seen": "2026-08-04T06:29:53+00:00"
         }
       },
       "recent": [
+        {
+          "title": "救助隊の編成、装備及び配置の基準を定める省令の一部を改正する省令（案）等に対する意見公募",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001250.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "地方税法施行規則第三条の三の二第三項、第五条の二第三項、第十条第五項、第十条の二の 八第三項及び第二十四条の三十九第一項に規定する情報通信の技術の利用における安全性及 び信頼性を確保するために必要な基準の一部を改正する告示（案）等に対する意見募集",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000466.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "地方公共団体におけるスタートアップからの調達の拡大に関する技術的な助言（通知）の発出",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000374.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "電波法施行規則及び無線局免許手続規則の一部を改正する省令案等に関する意見募集",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban14_02000799.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "令和8年熊本地震における航空機搭載合成開口レーダー観測データの公開",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01tsushin03_02000469.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "地方公共団体におけるサイバーセキュリティの確保に関する総務大臣書簡の発出",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei02_02000430.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "データサイエンス・オンライン講座「社会人のためのデータサイエンス入門」のリニューアル開講",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000105.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "令和8年度地域社会DX推進パッケージ事業（補助事業）の三次公募を開始",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000484.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "令和8年8月4日付 総務省人事",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001166.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "独立行政法人の役員人事",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001165.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        {
+          "title": "令和8年8月4日付 消防庁人事",
+          "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001247.html",
+          "first_seen": "2026-08-04T06:29:53+00:00"
+        },
         {
           "title": "2025年",
           "url": "https://www.soumu.go.jp/menu_news/s-news/2512m.html",
