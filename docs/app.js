@@ -21,10 +21,36 @@
     unreadOnly: document.getElementById("unread-only"),
     markAll: document.getElementById("mark-all"),
     reload: document.getElementById("reload"),
+    manualUpdate: document.getElementById("manual-update"),
     tabTimeline: document.getElementById("tab-timeline"),
     tabSites: document.getElementById("tab-sites"),
     footer: document.getElementById("footer-note")
   };
+
+  /* ---------- 手動更新ボタン ---------- */
+
+  // GitHub Pages の URL（https://OWNER.github.io/REPO/）から
+  // Actions のワークフローページを逆算する。ページ側からトークンなしで
+  // 巡回そのものは起動できないので、GitHub 上の実行画面へ橋渡しする。
+  function actionsWorkflowUrl() {
+    var host = location.hostname; // 例: eldoradoshambala-hub.github.io
+    var owner = host.split(".")[0];
+    var repo = location.pathname.split("/").filter(Boolean)[0];
+    if (!host.endsWith(".github.io") || !owner || !repo) { return null; }
+    return "https://github.com/" + owner + "/" + repo + "/actions/workflows/crawl.yml";
+  }
+
+  function setupManualUpdateButton() {
+    var url = actionsWorkflowUrl();
+    if (!url) {
+      // ローカルプレビューなど、GitHub Pages 以外で開いているときは無効化する。
+      el.manualUpdate.setAttribute("aria-disabled", "true");
+      el.manualUpdate.removeAttribute("href");
+      el.manualUpdate.title = "GitHub Pages で開いているときだけ使えます。";
+      return;
+    }
+    el.manualUpdate.href = url;
+  }
 
   /* ---------- 保存まわり ---------- */
 
@@ -316,7 +342,7 @@
 
   function applyFeed(data) {
     feed = data;
-    el.footer.textContent = "巡回は1日3回（07:00 / 12:00 / 21:00）。既読状態はこのブラウザにのみ保存されます。";
+    el.footer.textContent = "自動巡回は1日1回（12:00）。来ていなければ上の「手動更新」から実行できます。既読状態はこのブラウザにのみ保存されます。";
     render();
   }
 
@@ -365,5 +391,6 @@
   });
 
   el.unreadOnly.checked = prefs.unreadOnly;
+  setupManualUpdateButton();
   load();
 })();

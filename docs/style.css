@@ -56,6 +56,12 @@ body {
 
 .header-main { flex: 1; min-width: 0; }
 
+.header-actions {
+  flex: none;
+  display: flex;
+  gap: 8px;
+}
+
 .title {
   margin: 0;
   font-size: 20px;
@@ -83,12 +89,18 @@ body {
   color: var(--text);
   font: inherit;
   font-size: 13px;
+  text-decoration: none;
   cursor: pointer;
 }
 
 .btn:hover { background: var(--surface-alt); }
 .btn:active { transform: translateY(1px); }
 .btn-quiet { color: var(--text-dim); }
+
+.btn[aria-disabled="true"] {
+  opacity: .5;
+  pointer-events: none;
+}
 
 /* ---- タブ ---- */
 

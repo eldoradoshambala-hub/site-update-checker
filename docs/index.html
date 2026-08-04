@@ -15,7 +15,11 @@
     <h1 class="title">サイト更新チェッカー</h1>
     <p class="meta" id="meta">読み込み中…</p>
   </div>
-  <button type="button" class="btn" id="reload" title="最新の巡回結果を読み込みます">再読込</button>
+  <div class="header-actions">
+    <a class="btn" id="manual-update" target="_blank" rel="noopener noreferrer"
+       title="GitHubのActionsページを開きます。「Run workflow」を押すと巡回が始まります">手動更新</a>
+    <button type="button" class="btn btn-quiet" id="reload" title="最新の巡回結果を読み込みます">再読込</button>
+  </div>
 </header>
 
 <nav class="tabs" role="tablist">

@@ -1,7 +1,8 @@
 # 監視するサイトの一覧。
 #
 # 追加するときは sites: の下に url を1件書き足すだけで動きます。
-# 変更は次回の巡回（JST 07:00 / 12:00 / 21:00）から反映されます。
+# 変更は次回の巡回（自動は1日1回 JST 12:00。取れなかったときは
+# 画面の「手動更新」ボタンから GitHub Actions を直接実行できます）から反映されます。
 #
 # よく使う任意項目:
 #   selector: "ul.news a"   記事リンクを絞り込む CSS セレクタ。うまく取れないときだけ指定する
@@ -44,22 +45,3 @@ sites:
     name: Ledge.ai（AIニュース）
     url: https://ledge.ai/
     exclude: ["/search?"]
-
-  # --- ここから下は動作確認用のサンプルです。不要になったら削除してください ---
-
-  # 実巡回で20件のプレスリリースが取れることを確認済み。
-  - id: meti-press
-    name: 経済産業省 ニュースリリース
-    url: https://www.meti.go.jp/press/index.html
-    include: ["/press/"]
-
-  # 動作するが、トップページに載る記事が数件と少なく年別アーカイブが多め。
-  - id: soumu-news
-    name: 総務省 報道資料
-    url: https://www.soumu.go.jp/menu_news/s-news/index.html
-    include: ["/menu_news/s-news/"]
-
-  # 気象庁（https://www.jma.go.jp/jma/press/index.html）と
-  # 首相官邸（https://www.kantei.go.jp/jp/headline/index.html）も試しましたが、
-  # 前者は記事リンクが通常の <a href> として出ておらず抽出できず、
-  # 後者は HTTP 404 だったため外しました。
