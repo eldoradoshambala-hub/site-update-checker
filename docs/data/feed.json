@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T06:46:48+00:00",
+  "generated_at": "2026-08-05T00:56:07+00:00",
   "site_count": 2,
-  "new_count": 0,
+  "new_count": 2,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-04T06:46:48+00:00",
+      "last_checked": "2026-08-05T00:56:07+00:00",
       "last_update": "2026-08-04T06:29:53+00:00",
       "new_count": 0,
-      "link_count": 21,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
         {
@@ -152,12 +152,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-04T06:46:48+00:00",
-      "last_update": "2026-08-04T06:29:53+00:00",
-      "new_count": 0,
-      "link_count": 43,
+      "last_checked": "2026-08-05T00:56:07+00:00",
+      "last_update": "2026-08-05T00:56:07+00:00",
+      "new_count": 2,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
+          "first_seen": "2026-08-05T00:56:07+00:00"
+        },
+        {
+          "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_astra_math_unsolved_problems",
+          "first_seen": "2026-08-05T00:56:07+00:00"
+        },
         {
           "title": "Alibaba、2.4兆パラメータの「Qwen3.8-Max」発表 10日超の自律コーディング、Max級初のオープンウェイト化へのサムネイル画像",
           "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_2_4_trillion_parameters",
@@ -387,6 +397,20 @@
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
+      "first_seen": "2026-08-05T00:56:07+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_astra_math_unsolved_problems",
+      "first_seen": "2026-08-05T00:56:07+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",

@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-04T06:46:49+00:00",
+  "updated_at": "2026-08-05T00:56:09+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-04T06:46:48+00:00",
+      "last_checked": "2026-08-05T00:56:07+00:00",
       "last_update": "2026-08-04T06:29:53+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -243,8 +243,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-04T06:46:48+00:00",
-      "last_update": "2026-08-04T06:29:53+00:00",
+      "last_checked": "2026-08-05T00:56:07+00:00",
+      "last_update": "2026-08-05T00:56:07+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -428,9 +428,27 @@
         "https://ledge.ai/articles/openai_active_users_business_customers": {
           "title": "OpenAI、AIモデルのアクティブユーザー10億人超に ビジネス顧客は200万超、登録半年後のメッセージ数は約50％増のサムネイル画像",
           "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture": {
+          "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
+          "first_seen": "2026-08-05T00:56:07+00:00"
+        },
+        "https://ledge.ai/articles/openai_astra_math_unsolved_problems": {
+          "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
+          "first_seen": "2026-08-05T00:56:07+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
+          "first_seen": "2026-08-05T00:56:07+00:00"
+        },
+        {
+          "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_astra_math_unsolved_problems",
+          "first_seen": "2026-08-05T00:56:07+00:00"
+        },
         {
           "title": "Alibaba、2.4兆パラメータの「Qwen3.8-Max」発表 10日超の自律コーディング、Max級初のオープンウェイト化へのサムネイル画像",
           "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_2_4_trillion_parameters",
