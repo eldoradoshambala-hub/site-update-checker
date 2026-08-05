@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-05T00:57:41+00:00",
+  "updated_at": "2026-08-05T11:32:09+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-05T00:57:39+00:00",
-      "last_update": "2026-08-04T06:29:53+00:00",
+      "last_checked": "2026-08-05T11:32:07+00:00",
+      "last_update": "2026-08-05T11:32:07+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -110,9 +110,27 @@
         "https://www.cjnavi.co.jp/magazine/fukushima-higaeri-onsen/": {
           "title": "ふくしま日帰り温泉 2025-2026",
           "first_seen": "2026-08-04T06:29:53+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260805uekiakio-nishidakinenkan/": {
+          "title": "イベント AD 福島市「西田記念館」で『植木昭夫コレクション展』を開催。こけしに寄せ… 「こけし部屋」からの伝言 植木昭夫コレクション展 2026年8月4日（火）〜11月29日（日）",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260805adachi-natsumatsuri/": {
+          "title": "イベント 音楽や花火を楽しめる！二本松市安達地域の夏祭り 第37回 智恵子の里 安達夏祭り 2026年8月12日（水）",
+          "first_seen": "2026-08-05T11:32:07+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント AD 福島市「西田記念館」で『植木昭夫コレクション展』を開催。こけしに寄せ… 「こけし部屋」からの伝言 植木昭夫コレクション展 2026年8月4日（火）〜11月29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260805uekiakio-nishidakinenkan/",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        {
+          "title": "イベント 音楽や花火を楽しめる！二本松市安達地域の夏祭り 第37回 智恵子の里 安達夏祭り 2026年8月12日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20260805adachi-natsumatsuri/",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
         {
           "title": "イベント 今年で38回目、伝統ある保原町の夏祭り。食べて、遊んで、踊って楽しもう！ ほばらサマーフェスティバル 2026年8月11日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20260804hobara-summerfes/",
@@ -243,8 +261,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-05T00:57:39+00:00",
-      "last_update": "2026-08-05T00:56:07+00:00",
+      "last_checked": "2026-08-05T11:32:07+00:00",
+      "last_update": "2026-08-05T11:32:07+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -436,9 +454,27 @@
         "https://ledge.ai/articles/openai_astra_math_unsolved_problems": {
           "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
           "first_seen": "2026-08-05T00:56:07+00:00"
+        },
+        "https://ledge.ai/articles/genoffice_ai_office_suite_alpha": {
+          "title": "Genspark、Windows・Mac向けAIオフィススイート「GenOffice」Alpha版を公開 基本機能は無料、コードも公開のサムネイル画像",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        "https://ledge.ai/articles/google_chrome_ai_security_bug_fix": {
+          "title": "Google、AIでChromeの脆弱性発見・修正を高速化 直近2世代で1072件、過去23世代の合計超えるのサムネイル画像",
+          "first_seen": "2026-08-05T11:32:07+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Genspark、Windows・Mac向けAIオフィススイート「GenOffice」Alpha版を公開 基本機能は無料、コードも公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/genoffice_ai_office_suite_alpha",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        {
+          "title": "Google、AIでChromeの脆弱性発見・修正を高速化 直近2世代で1072件、過去23世代の合計超えるのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_chrome_ai_security_bug_fix",
+          "first_seen": "2026-08-05T11:32:07+00:00"
+        },
         {
           "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
           "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
