@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-05T11:32:09+00:00",
+  "updated_at": "2026-08-06T11:36:48+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-05T11:32:07+00:00",
-      "last_update": "2026-08-05T11:32:07+00:00",
+      "last_checked": "2026-08-06T11:36:46+00:00",
+      "last_update": "2026-08-06T11:36:46+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -118,9 +118,27 @@
         "https://www.cjnavi.co.jp/event/20260805adachi-natsumatsuri/": {
           "title": "イベント 音楽や花火を楽しめる！二本松市安達地域の夏祭り 第37回 智恵子の里 安達夏祭り 2026年8月12日（水）",
           "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260806narikawa-matsuri/": {
+          "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260806iwaki-kaitenyagura/": {
+          "title": "イベント いわき市で、日本一大きな回転やぐらと盆踊りを楽しむ 第71回 いわき回転やぐら盆踊り大会 2026年8月13日（木）～15日（土）",
+          "first_seen": "2026-08-06T11:36:46+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
+          "url": "https://www.cjnavi.co.jp/event/20260806narikawa-matsuri/",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        {
+          "title": "イベント いわき市で、日本一大きな回転やぐらと盆踊りを楽しむ 第71回 いわき回転やぐら盆踊り大会 2026年8月13日（木）～15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260806iwaki-kaitenyagura/",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
         {
           "title": "イベント AD 福島市「西田記念館」で『植木昭夫コレクション展』を開催。こけしに寄せ… 「こけし部屋」からの伝言 植木昭夫コレクション展 2026年8月4日（火）〜11月29日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260805uekiakio-nishidakinenkan/",
@@ -261,8 +279,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-05T11:32:07+00:00",
-      "last_update": "2026-08-05T11:32:07+00:00",
+      "last_checked": "2026-08-06T11:36:46+00:00",
+      "last_update": "2026-08-06T11:36:46+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -462,9 +480,45 @@
         "https://ledge.ai/articles/google_chrome_ai_security_bug_fix": {
           "title": "Google、AIでChromeの脆弱性発見・修正を高速化 直近2世代で1072件、過去23世代の合計超えるのサムネイル画像",
           "first_seen": "2026-08-05T11:32:07+00:00"
+        },
+        "https://ledge.ai/articles/cloudflare_computer_workers_ai": {
+          "title": "Cloudflare、AIエージェントの実行基盤を両面強化 「@cloudflare/computer」公開、Kimi・GLMの推論効率化ものサムネイル画像",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://ledge.ai/articles/owndays_mirror_Interview": {
+          "title": "AIレコメンドを“使われるサービス”にするには──OWNDAYSに学ぶ、現場で機能するAI実装のサムネイル画像",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://ledge.ai/articles/panasonic_connect_connectai_ai_agent": {
+          "title": "パナソニック コネクト、AI活用で78.8万時間を削減 50の社内システムと連携しAIエージェント拡大へのサムネイル画像",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://ledge.ai/articles/ibm_bob_enterprise_ai_development_features": {
+          "title": "IBM、AI開発支援「IBM Bob」を強化 サブエージェントや並列実行、IBM Z・IBM i・Java刷新向け機能を追加のサムネイル画像",
+          "first_seen": "2026-08-06T11:36:46+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Cloudflare、AIエージェントの実行基盤を両面強化 「@cloudflare/computer」公開、Kimi・GLMの推論効率化ものサムネイル画像",
+          "url": "https://ledge.ai/articles/cloudflare_computer_workers_ai",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        {
+          "title": "AIレコメンドを“使われるサービス”にするには──OWNDAYSに学ぶ、現場で機能するAI実装のサムネイル画像",
+          "url": "https://ledge.ai/articles/owndays_mirror_Interview",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        {
+          "title": "パナソニック コネクト、AI活用で78.8万時間を削減 50の社内システムと連携しAIエージェント拡大へのサムネイル画像",
+          "url": "https://ledge.ai/articles/panasonic_connect_connectai_ai_agent",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        {
+          "title": "IBM、AI開発支援「IBM Bob」を強化 サブエージェントや並列実行、IBM Z・IBM i・Java刷新向け機能を追加のサムネイル画像",
+          "url": "https://ledge.ai/articles/ibm_bob_enterprise_ai_development_features",
+          "first_seen": "2026-08-06T11:36:46+00:00"
+        },
         {
           "title": "Genspark、Windows・Mac向けAIオフィススイート「GenOffice」Alpha版を公開 基本機能は無料、コードも公開のサムネイル画像",
           "url": "https://ledge.ai/articles/genoffice_ai_office_suite_alpha",
@@ -693,21 +747,6 @@
         {
           "title": "Google、24時間365日働く個人向けAIエージェント「Gemini Spark」を日本語展開 Gmailやカレンダーを横断してタスクを実行",
           "url": "https://ledge.ai/articles/google_gemini_spark_japan",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "国産LLMの現在地と、PLaMo 3.0 Primeが目指したもの── Preferred NetworksのLLM開発キーパーソンに独占インタビュー",
-          "url": "https://ledge.ai/articles/preferred_networks_plamo_3_0_prime_interview",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Anthropic「Claude Opus 5」公開 Fable 5に迫る知能を半額で、長時間のAIエージェント作業を強化",
-          "url": "https://ledge.ai/articles/anthropic_claude_opus_5_release",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ChatGPTとClaude、音声機能をPC上の実務へ拡張 Work・Codex操作、Opus・Sonnetや連携ツールに対応",
-          "url": "https://ledge.ai/articles/chatgpt_claude_desktop_voice",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
