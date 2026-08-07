@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-06T11:36:48+00:00",
+  "updated_at": "2026-08-07T06:54:48+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-06T11:36:46+00:00",
-      "last_update": "2026-08-06T11:36:46+00:00",
+      "last_checked": "2026-08-07T06:54:47+00:00",
+      "last_update": "2026-08-07T06:54:47+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -126,9 +126,36 @@
         "https://www.cjnavi.co.jp/event/20260806iwaki-kaitenyagura/": {
           "title": "イベント いわき市で、日本一大きな回転やぐらと盆踊りを楽しむ 第71回 いわき回転やぐら盆踊り大会 2026年8月13日（木）～15日（土）",
           "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260807kitakata-natsumatsuri/": {
+          "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260725fukushima-daihatsu/": {
+          "title": "おでかけ AD 【夏にしたいこと2026】乗る人の毎日を彩る！『福島ダイハツ』の「ムーヴ… カーディーラー 福島ダイハツ販売（株） いわき内郷店",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260807asakano-hanabi/": {
+          "title": "イベント 360度どの角度からも美しい安積町を照らす大輪の花火 第55回 あさか野夏まつり花火大会 2026年8月14日（金）",
+          "first_seen": "2026-08-07T06:54:47+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260807kitakata-natsumatsuri/",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        {
+          "title": "おでかけ AD 【夏にしたいこと2026】乗る人の毎日を彩る！『福島ダイハツ』の「ムーヴ… カーディーラー 福島ダイハツ販売（株） いわき内郷店",
+          "url": "https://www.cjnavi.co.jp/trip/20260725fukushima-daihatsu/",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        {
+          "title": "イベント 360度どの角度からも美しい安積町を照らす大輪の花火 第55回 あさか野夏まつり花火大会 2026年8月14日（金）",
+          "url": "https://www.cjnavi.co.jp/event/20260807asakano-hanabi/",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
         {
           "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
           "url": "https://www.cjnavi.co.jp/event/20260806narikawa-matsuri/",
@@ -279,8 +306,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-06T11:36:46+00:00",
-      "last_update": "2026-08-06T11:36:46+00:00",
+      "last_checked": "2026-08-07T06:54:47+00:00",
+      "last_update": "2026-08-07T06:54:47+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -496,9 +523,45 @@
         "https://ledge.ai/articles/ibm_bob_enterprise_ai_development_features": {
           "title": "IBM、AI開発支援「IBM Bob」を強化 サブエージェントや並列実行、IBM Z・IBM i・Java刷新向け機能を追加のサムネイル画像",
           "first_seen": "2026-08-06T11:36:46+00:00"
+        },
+        "https://ledge.ai/articles/eu_ai_act_ai_generated_content_transparency": {
+          "title": "EU、AI生成コンテンツの透明性規則を適用開始 機械可読マークとディープフェイク表示を義務化のサムネイル画像",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        "https://ledge.ai/articles/openai_apple_trade_secret_lawsuit": {
+          "title": "OpenAI、Appleのハードウェア開発に関する営業秘密訴訟に反論 元社員との通信記録を公開のサムネイル画像",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        "https://ledge.ai/articles/otsuka_shokai_japan_ai_business_alliance": {
+          "title": "大塚商会、JAPAN AIと資本業務提携 中堅・中小企業の「AI活用」からAX実現を支援のサムネイル画像",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        "https://ledge.ai/articles/aisi_ai_agent_cyber_incident": {
+          "title": "英AIセキュリティ研究所、各種フロンティアAIモデルのサイバー試験で19件の権限外行動 AIが偽アカウントで人間に働きかけのサムネイル画像",
+          "first_seen": "2026-08-07T06:54:47+00:00"
         }
       },
       "recent": [
+        {
+          "title": "EU、AI生成コンテンツの透明性規則を適用開始 機械可読マークとディープフェイク表示を義務化のサムネイル画像",
+          "url": "https://ledge.ai/articles/eu_ai_act_ai_generated_content_transparency",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        {
+          "title": "OpenAI、Appleのハードウェア開発に関する営業秘密訴訟に反論 元社員との通信記録を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_apple_trade_secret_lawsuit",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        {
+          "title": "大塚商会、JAPAN AIと資本業務提携 中堅・中小企業の「AI活用」からAX実現を支援のサムネイル画像",
+          "url": "https://ledge.ai/articles/otsuka_shokai_japan_ai_business_alliance",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
+        {
+          "title": "英AIセキュリティ研究所、各種フロンティアAIモデルのサイバー試験で19件の権限外行動 AIが偽アカウントで人間に働きかけのサムネイル画像",
+          "url": "https://ledge.ai/articles/aisi_ai_agent_cyber_incident",
+          "first_seen": "2026-08-07T06:54:47+00:00"
+        },
         {
           "title": "Cloudflare、AIエージェントの実行基盤を両面強化 「@cloudflare/computer」公開、Kimi・GLMの推論効率化ものサムネイル画像",
           "url": "https://ledge.ai/articles/cloudflare_computer_workers_ai",
@@ -727,26 +790,6 @@
         {
           "title": "動画",
           "url": "https://ledge.ai/videos/expo-2025-summer-rag",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "OpenAI、AIブラウザ「ChatGPT Atlas」を8月9日に終了 機能をChatGPTとCodexへ統合、新ChatGPTデスクトップアプリに内蔵ブラウザ",
-          "url": "https://ledge.ai/articles/openai_chatgpt_atlas_shutdown_desktop_browser",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Anthropic所属の数学者、Claude Fable 5を使い87年間未解決の「ヤコビアン予想」に反例 3変数以上で否定",
-          "url": "https://ledge.ai/articles/anthropic_claude_fable_5_jacobian_conjecture_counterexample",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Anthropic、Claudeの応答に現れる「価値観」を4軸で分析 30万件超の会話を3モデル・20言語で比較",
-          "url": "https://ledge.ai/articles/anthropic_claude_values_models_languages",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Google、24時間365日働く個人向けAIエージェント「Gemini Spark」を日本語展開 Gmailやカレンダーを横断してタスクを実行",
-          "url": "https://ledge.ai/articles/google_gemini_spark_japan",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
