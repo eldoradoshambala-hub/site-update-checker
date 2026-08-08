@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T06:54:47+00:00",
+  "generated_at": "2026-08-08T05:25:36+00:00",
   "site_count": 2,
-  "new_count": 7,
+  "new_count": 9,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-07T06:54:47+00:00",
-      "last_update": "2026-08-07T06:54:47+00:00",
-      "new_count": 3,
-      "link_count": 21,
+      "last_checked": "2026-08-08T05:25:36+00:00",
+      "last_update": "2026-08-08T05:25:36+00:00",
+      "new_count": 5,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260808onotown-natsumatsuri/",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "イベント 塙町の夜を灯ろう流しと花火が彩る 第97回 塙流灯花火大会 2026年8月15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260808hanawa-ryutou-hanabi/",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "イベント 広野町の夏祭り。音楽に合わせて約4,000発の花火が夜空に咲き誇る 広野町サマフェス2026 2026年8月15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260808hirono-summerfes/",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "イベント 富岡町で400年の伝統を受け継ぐ、歴史ある伝統行事 麓山の火祭り 2026年8月15日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260808hayama-himatsuri/",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "スペシャル 『ふくしま日帰り温泉』最新版が9月13日（日）まで100円引き＆送料無料で… 『ふくしま日帰り温泉2026-2027』予約キャンペーン",
+          "url": "https://www.cjnavi.co.jp/special/20260807higaerionsen-yoyaku/",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
         {
           "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260807kitakata-natsumatsuri/",
@@ -187,12 +212,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-07T06:54:47+00:00",
-      "last_update": "2026-08-07T06:54:47+00:00",
+      "last_checked": "2026-08-08T05:25:36+00:00",
+      "last_update": "2026-08-08T05:25:36+00:00",
       "new_count": 4,
-      "link_count": 39,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "リクルート、2026年度の新卒エンジニア研修資料を無料で公開 「AIは増幅器」、開発のボトルネックは維持保守へのサムネイル画像",
+          "url": "https://ledge.ai/articles/recruit_engineer_ai_training_2026",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "AI設計ウイルス研究がScienceに正式掲載 バイオセキュリティ専門家が安全管理に警鐘のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_designed_virus_science_biosecurity",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        {
+          "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2",
+          "first_seen": "2026-08-08T05:25:36+00:00"
+        },
         {
           "title": "EU、AI生成コンテンツの透明性規則を適用開始 機械可読マークとディープフェイク表示を義務化のサムネイル画像",
           "url": "https://ledge.ai/articles/eu_ai_act_ai_generated_content_transparency",
@@ -422,31 +467,74 @@
           "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
           "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "特集をもっと見る",
-          "url": "https://ledge.ai/categories/coverstory",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "動画",
-          "url": "https://ledge.ai/videos/expo-2025-summer-ledge-1",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "動画",
-          "url": "https://ledge.ai/videos/expo-2025-summer-ledge-2",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "動画",
-          "url": "https://ledge.ai/videos/expo-2025-summer-rag",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260808onotown-natsumatsuri/",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 塙町の夜を灯ろう流しと花火が彩る 第97回 塙流灯花火大会 2026年8月15日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260808hanawa-ryutou-hanabi/",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 広野町の夏祭り。音楽に合わせて約4,000発の花火が夜空に咲き誇る 広野町サマフェス2026 2026年8月15日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260808hirono-summerfes/",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 富岡町で400年の伝統を受け継ぐ、歴史ある伝統行事 麓山の火祭り 2026年8月15日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260808hayama-himatsuri/",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "スペシャル 『ふくしま日帰り温泉』最新版が9月13日（日）まで100円引き＆送料無料で… 『ふくしま日帰り温泉2026-2027』予約キャンペーン",
+      "url": "https://www.cjnavi.co.jp/special/20260807higaerionsen-yoyaku/",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "リクルート、2026年度の新卒エンジニア研修資料を無料で公開 「AIは増幅器」、開発のボトルネックは維持保守へのサムネイル画像",
+      "url": "https://ledge.ai/articles/recruit_engineer_ai_training_2026",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AI設計ウイルス研究がScienceに正式掲載 バイオセキュリティ専門家が安全管理に警鐘のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_designed_virus_science_biosecurity",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2",
+      "first_seen": "2026-08-08T05:25:36+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -991,34 +1079,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
       "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "特集をもっと見る",
-      "url": "https://ledge.ai/categories/coverstory",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "動画",
-      "url": "https://ledge.ai/videos/expo-2025-summer-ledge-1",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "動画",
-      "url": "https://ledge.ai/videos/expo-2025-summer-ledge-2",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "動画",
-      "url": "https://ledge.ai/videos/expo-2025-summer-rag",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
