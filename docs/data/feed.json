@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T05:25:36+00:00",
+  "generated_at": "2026-08-09T05:37:17+00:00",
   "site_count": 2,
-  "new_count": 9,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-08T05:25:36+00:00",
-      "last_update": "2026-08-08T05:25:36+00:00",
-      "new_count": 5,
-      "link_count": 20,
+      "last_checked": "2026-08-09T05:37:17+00:00",
+      "last_update": "2026-08-09T05:37:17+00:00",
+      "new_count": 2,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
         {
           "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260808onotown-natsumatsuri/",
@@ -212,12 +222,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-08T05:25:36+00:00",
-      "last_update": "2026-08-08T05:25:36+00:00",
-      "new_count": 4,
-      "link_count": 41,
+      "last_checked": "2026-08-09T05:37:17+00:00",
+      "last_update": "2026-08-09T05:37:17+00:00",
+      "new_count": 3,
+      "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
+          "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_book_scanning_rare_books",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
+          "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
         {
           "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
           "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
@@ -452,26 +477,46 @@
           "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
           "url": "https://ledge.ai/categories/coverstory/alibaba-usecase-games",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "AIの浸透と拡散 Ledge.ai年末年始特集「24to25」",
-          "url": "https://ledge.ai/categories/coverstory/ledgeai24to25-Special",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "42 Tokyo、知ってますか？ AIも学べるパリ発の究極のエンジニアスクール 特別インタビュー",
-          "url": "https://ledge.ai/categories/coverstory/42tokyo",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
-          "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
+      "first_seen": "2026-08-09T05:37:17+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
+      "first_seen": "2026-08-09T05:37:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
+      "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
+      "first_seen": "2026-08-09T05:37:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_book_scanning_rare_books",
+      "first_seen": "2026-08-09T05:37:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
+      "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
+      "first_seen": "2026-08-09T05:37:17+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1058,27 +1103,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
       "url": "https://ledge.ai/categories/coverstory/alibaba-usecase-games",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIの浸透と拡散 Ledge.ai年末年始特集「24to25」",
-      "url": "https://ledge.ai/categories/coverstory/ledgeai24to25-Special",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "42 Tokyo、知ってますか？ AIも学べるパリ発の究極のエンジニアスクール 特別インタビュー",
-      "url": "https://ledge.ai/categories/coverstory/42tokyo",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
-      "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]

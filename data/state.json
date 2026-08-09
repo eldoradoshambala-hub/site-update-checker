@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-08T05:25:38+00:00",
+  "updated_at": "2026-08-09T05:37:19+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-08T05:25:36+00:00",
-      "last_update": "2026-08-08T05:25:36+00:00",
+      "last_checked": "2026-08-09T05:37:17+00:00",
+      "last_update": "2026-08-09T05:37:17+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -158,9 +158,27 @@
         "https://www.cjnavi.co.jp/special/20260807higaerionsen-yoyaku/": {
           "title": "スペシャル 『ふくしま日帰り温泉』最新版が9月13日（日）まで100円引き＆送料無料で… 『ふくしま日帰り温泉2026-2027』予約キャンペーン",
           "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/": {
+          "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/": {
+          "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
+          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
         {
           "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260808onotown-natsumatsuri/",
@@ -351,8 +369,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-08T05:25:36+00:00",
-      "last_update": "2026-08-08T05:25:36+00:00",
+      "last_checked": "2026-08-09T05:37:17+00:00",
+      "last_update": "2026-08-09T05:37:17+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -600,9 +618,36 @@
         "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2": {
           "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
           "first_seen": "2026-08-08T05:25:36+00:00"
+        },
+        "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku": {
+          "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_book_scanning_rare_books": {
+          "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        "https://ledge.ai/articles/spacex_nvidia_starmind_ai1": {
+          "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
+          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       },
       "recent": [
+        {
+          "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
+          "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_book_scanning_rare_books",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
+        {
+          "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
+          "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
+          "first_seen": "2026-08-09T05:37:17+00:00"
+        },
         {
           "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
           "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
@@ -836,21 +881,6 @@
         {
           "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
           "url": "https://ledge.ai/categories/coverstory/alibaba-usecase-games",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "AIの浸透と拡散 Ledge.ai年末年始特集「24to25」",
-          "url": "https://ledge.ai/categories/coverstory/ledgeai24to25-Special",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "42 Tokyo、知ってますか？ AIも学べるパリ発の究極のエンジニアスクール 特別インタビュー",
-          "url": "https://ledge.ai/categories/coverstory/42tokyo",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "生成AI活用の価値と留意点 デル・テクノロジーズ Al Specialist インタビュー連載",
-          "url": "https://ledge.ai/categories/coverstory/delltechnologies-2024-interview-top",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
