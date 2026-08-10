@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T05:37:17+00:00",
+  "generated_at": "2026-08-10T08:18:00+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-09T05:37:17+00:00",
-      "last_update": "2026-08-09T05:37:17+00:00",
+      "last_checked": "2026-08-10T08:18:00+00:00",
+      "last_update": "2026-08-10T08:18:00+00:00",
       "new_count": 2,
-      "link_count": 22,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
+        {
+          "title": "グルメ パティシエとバリスタのいるカフェ『salon de cafe SUCLIER』が郡山市小原… salon de cafe SUCLIER（サロンドカフェシュクリエ）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260810newopen-suclier/",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
         {
           "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
@@ -222,12 +232,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-09T05:37:17+00:00",
-      "last_update": "2026-08-09T05:37:17+00:00",
-      "new_count": 3,
+      "last_checked": "2026-08-10T08:18:00+00:00",
+      "last_update": "2026-08-10T08:18:00+00:00",
+      "new_count": 4,
       "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、開発中AI「Astra」が初の最高水準「Critical」に達する可能性 一部の内部活動を停止のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_astra_critical_cyber",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
+        {
+          "title": "生成AIは「使わせるだけ」では成果につながらない？ ルール・利用状況の管理で業務削減の実感に差 KPMG調査のサムネイル画像",
+          "url": "https://ledge.ai/articles/kpmg_ai_governance_productivity",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
+        {
+          "title": "Microsoft、エンジニアに「AIを大量に使えばいいわけではない」 社内メールで成果重視を強調のサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_ai_token_usage_outcomes",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
+        {
+          "title": "ガートナー、日本のデジタル・ワークプレース2026年版を発表 エージェント型AIは主流採用まで5〜10年のサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_japan_digital_workplace_hype_cycle_2026",
+          "first_seen": "2026-08-10T08:18:00+00:00"
+        },
         {
           "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
           "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
@@ -457,31 +487,53 @@
           "title": "日立、SI全工程にAIエージェントを適用する「Agentic AI Integration Platform」開発 社内試行で設計～テストの生産性約200倍も、2027年度に全体30％向上へのサムネイル画像",
           "url": "https://ledge.ai/articles/hitachi_agentic_ai_integration_platform",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Waymo、Uberとのロボタクシー提携解消を検討 2028年に2都市へ単独参入かのサムネイル画像",
-          "url": "https://ledge.ai/articles/waymo_uber_robotaxi_partnership_split",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Ledge.ai年末年始特集「'25 to '26」",
-          "url": "https://ledge.ai/categories/coverstory/ledgeai25to26-specialfeature",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Ledge.ai EXPO 2025 Summer",
-          "url": "https://ledge.ai/categories/coverstory/ledgeai-expo-2025-summer-Special",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
-          "url": "https://ledge.ai/categories/coverstory/alibaba-usecase-games",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
+      "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ パティシエとバリスタのいるカフェ『salon de cafe SUCLIER』が郡山市小原… salon de cafe SUCLIER（サロンドカフェシュクリエ）",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260810newopen-suclier/",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、開発中AI「Astra」が初の最高水準「Critical」に達する可能性 一部の内部活動を停止のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_astra_critical_cyber",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "生成AIは「使わせるだけ」では成果につながらない？ ルール・利用状況の管理で業務削減の実感に差 KPMG調査のサムネイル画像",
+      "url": "https://ledge.ai/articles/kpmg_ai_governance_productivity",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Microsoft、エンジニアに「AIを大量に使えばいいわけではない」 社内メールで成果重視を強調のサムネイル画像",
+      "url": "https://ledge.ai/articles/microsoft_ai_token_usage_outcomes",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ガートナー、日本のデジタル・ワークプレース2026年版を発表 エージェント型AIは主流採用まで5〜10年のサムネイル画像",
+      "url": "https://ledge.ai/articles/gartner_japan_digital_workplace_hype_cycle_2026",
+      "first_seen": "2026-08-10T08:18:00+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1075,34 +1127,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "日立、SI全工程にAIエージェントを適用する「Agentic AI Integration Platform」開発 社内試行で設計～テストの生産性約200倍も、2027年度に全体30％向上へのサムネイル画像",
       "url": "https://ledge.ai/articles/hitachi_agentic_ai_integration_platform",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Waymo、Uberとのロボタクシー提携解消を検討 2028年に2都市へ単独参入かのサムネイル画像",
-      "url": "https://ledge.ai/articles/waymo_uber_robotaxi_partnership_split",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Ledge.ai年末年始特集「'25 to '26」",
-      "url": "https://ledge.ai/categories/coverstory/ledgeai25to26-specialfeature",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Ledge.ai EXPO 2025 Summer",
-      "url": "https://ledge.ai/categories/coverstory/ledgeai-expo-2025-summer-Special",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ゲーム系企業が今、なぜ、「アリババクラウド」を採用するのか。",
-      "url": "https://ledge.ai/categories/coverstory/alibaba-usecase-games",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
