@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T08:18:00+00:00",
+  "generated_at": "2026-08-11T06:01:51+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-10T08:18:00+00:00",
-      "last_update": "2026-08-10T08:18:00+00:00",
-      "new_count": 2,
+      "last_checked": "2026-08-11T06:01:51+00:00",
+      "last_update": "2026-08-11T06:01:51+00:00",
+      "new_count": 1,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
+          "url": "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/",
+          "first_seen": "2026-08-11T06:01:51+00:00"
+        },
         {
           "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
           "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
@@ -232,12 +237,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-10T08:18:00+00:00",
-      "last_update": "2026-08-10T08:18:00+00:00",
-      "new_count": 4,
+      "last_checked": "2026-08-11T06:01:51+00:00",
+      "last_update": "2026-08-11T06:01:51+00:00",
+      "new_count": 3,
       "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、Hugging Face侵害の詳細をBlack Hatで説明 AIエージェント同士が「掲示板」を作り攻撃情報を共有のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_hugging_face_black_hat_2026",
+          "first_seen": "2026-08-11T06:01:51+00:00"
+        },
+        {
+          "title": "Anthropic、「Claude Fable 5」の生物学セーフガードを緩和 誤検知85％削減、危険領域の制限は維持のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_fable_5_biology_safeguards",
+          "first_seen": "2026-08-11T06:01:51+00:00"
+        },
+        {
+          "title": "Anthropic、Claude Code「auto mode」をデフォルト化へ 危険なコマンドを89％ブロック、人間は13.6％のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_code_auto_mode_default",
+          "first_seen": "2026-08-11T06:01:51+00:00"
+        },
         {
           "title": "OpenAI、開発中AI「Astra」が初の最高水準「Critical」に達する可能性 一部の内部活動を停止のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_astra_critical_cyber",
@@ -472,26 +492,39 @@
           "title": "NVIDIAやMicrosoftなど、「Open Secure AI Alliance」設立 AIエージェントを守るオープンな防御技術を共同開発のサムネイル画像",
           "url": "https://ledge.ai/articles/open_secure_ai_alliance",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "OpenAI、文字起こしAI「GPT Transcribe」「GPT Live Transcribe」公開 専門用語・多言語・ノイズ環境の認識精度を向上のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_gpt_transcribe_live_transcribe",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "OpenAIの暴走AIエージェント、Modal Labs顧客のサンドボックスも侵害 \"最初の被害者\"Hugging Faceが一連の攻撃経路を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_ai_agent_modal_labs_hugging_face_intrusion",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "日立、SI全工程にAIエージェントを適用する「Agentic AI Integration Platform」開発 社内試行で設計～テストの生産性約200倍も、2027年度に全体30％向上へのサムネイル画像",
-          "url": "https://ledge.ai/articles/hitachi_agentic_ai_integration_platform",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
+      "url": "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/",
+      "first_seen": "2026-08-11T06:01:51+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、Hugging Face侵害の詳細をBlack Hatで説明 AIエージェント同士が「掲示板」を作り攻撃情報を共有のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_hugging_face_black_hat_2026",
+      "first_seen": "2026-08-11T06:01:51+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、「Claude Fable 5」の生物学セーフガードを緩和 誤検知85％削減、危険領域の制限は維持のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_fable_5_biology_safeguards",
+      "first_seen": "2026-08-11T06:01:51+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claude Code「auto mode」をデフォルト化へ 危険なコマンドを89％ブロック、人間は13.6％のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_code_auto_mode_default",
+      "first_seen": "2026-08-11T06:01:51+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1106,27 +1139,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "NVIDIAやMicrosoftなど、「Open Secure AI Alliance」設立 AIエージェントを守るオープンな防御技術を共同開発のサムネイル画像",
       "url": "https://ledge.ai/articles/open_secure_ai_alliance",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、文字起こしAI「GPT Transcribe」「GPT Live Transcribe」公開 専門用語・多言語・ノイズ環境の認識精度を向上のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_gpt_transcribe_live_transcribe",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAIの暴走AIエージェント、Modal Labs顧客のサンドボックスも侵害 \"最初の被害者\"Hugging Faceが一連の攻撃経路を公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_ai_agent_modal_labs_hugging_face_intrusion",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "日立、SI全工程にAIエージェントを適用する「Agentic AI Integration Platform」開発 社内試行で設計～テストの生産性約200倍も、2027年度に全体30％向上へのサムネイル画像",
-      "url": "https://ledge.ai/articles/hitachi_agentic_ai_integration_platform",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
