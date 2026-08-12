@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T06:01:53+00:00",
+  "updated_at": "2026-08-12T08:02:52+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-11T06:01:51+00:00",
-      "last_update": "2026-08-11T06:01:51+00:00",
+      "last_checked": "2026-08-12T08:02:50+00:00",
+      "last_update": "2026-08-12T08:02:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -178,9 +178,27 @@
         "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/": {
           "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
           "first_seen": "2026-08-11T06:01:51+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260812hinoemata-spot/": {
+          "title": "おでかけ 【福島県】檜枝岐村に来たら行くべきはココ！おすすめスポット3選 尾瀬国立公園の玄関口として知られる檜枝岐村。国重要有形民俗文化財の舞台で上演される「檜...",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260812newopen-r-baker/": {
+          "title": "グルメ 国産米粉のベーカリー『R Baker（アールベイカー）』が福島県内初出店！『… R Baker（アールベイカー） 郡山店",
+          "first_seen": "2026-08-12T08:02:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】檜枝岐村に来たら行くべきはココ！おすすめスポット3選 尾瀬国立公園の玄関口として知られる檜枝岐村。国重要有形民俗文化財の舞台で上演される「檜...",
+          "url": "https://www.cjnavi.co.jp/trip/20260812hinoemata-spot/",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        {
+          "title": "グルメ 国産米粉のベーカリー『R Baker（アールベイカー）』が福島県内初出店！『… R Baker（アールベイカー） 郡山店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260812newopen-r-baker/",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
         {
           "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
           "url": "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/",
@@ -396,8 +414,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-11T06:01:51+00:00",
-      "last_update": "2026-08-11T06:01:51+00:00",
+      "last_checked": "2026-08-12T08:02:50+00:00",
+      "last_update": "2026-08-12T08:02:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -685,9 +703,36 @@
         "https://ledge.ai/articles/anthropic_claude_code_auto_mode_default": {
           "title": "Anthropic、Claude Code「auto mode」をデフォルト化へ 危険なコマンドを89％ブロック、人間は13.6％のサムネイル画像",
           "first_seen": "2026-08-11T06:01:51+00:00"
+        },
+        "https://ledge.ai/articles/suno_ai_music_safety_download_limits": {
+          "title": "Suno、AI生成楽曲に「音声ウォーターマーク」導入へ 模倣防止を強化、9月3日からダウンロード制限 無料は生涯7回のサムネイル画像",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        "https://ledge.ai/articles/google_maps_ask_maps_japan": {
+          "title": "お盆の旅行計画や混雑・遅延確認もGoogle マップに“相談” Gemini融合の新機能、日本で順次提供開始のサムネイル画像",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        "https://ledge.ai/articles/shopify_ai_search_long_tail": {
+          "title": "Shopify、AI検索は従来検索の代替ではなく新たな流入経路との見方 小規模ブランドに恩恵、AI経由の流入・注文は3倍のサムネイル画像",
+          "first_seen": "2026-08-12T08:02:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Suno、AI生成楽曲に「音声ウォーターマーク」導入へ 模倣防止を強化、9月3日からダウンロード制限 無料は生涯7回のサムネイル画像",
+          "url": "https://ledge.ai/articles/suno_ai_music_safety_download_limits",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        {
+          "title": "お盆の旅行計画や混雑・遅延確認もGoogle マップに“相談” Gemini融合の新機能、日本で順次提供開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_maps_ask_maps_japan",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        {
+          "title": "Shopify、AI検索は従来検索の代替ではなく新たな流入経路との見方 小規模ブランドに恩恵、AI経由の流入・注文は3倍のサムネイル画像",
+          "url": "https://ledge.ai/articles/shopify_ai_search_long_tail",
+          "first_seen": "2026-08-12T08:02:50+00:00"
+        },
         {
           "title": "OpenAI、Hugging Face侵害の詳細をBlack Hatで説明 AIエージェント同士が「掲示板」を作り攻撃情報を共有のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_hugging_face_black_hat_2026",
@@ -921,21 +966,6 @@
         {
           "title": "AI前提の組織設計――VALANCE独占インタビュー「AI駆動型組織」のつくり方のサムネイル画像",
           "url": "https://ledge.ai/articles/valance_interview_20260724",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Microsoft、サイバー特化AI「MAI-Cyber-1-Flash」をMDASHに統合 CyberGym 95.95％、従来構成比でコスト半減のサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_mai_cyber_1_flash_mdash",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "KDDI、出版社・専門メディアの編集済みコンテンツを横断検索するAI「Buffmee」開始 約150コンテンツ、回答に出典表示のサムネイル画像",
-          "url": "https://ledge.ai/articles/kddi_buffmee_ai_service",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "NVIDIAやMicrosoftなど、「Open Secure AI Alliance」設立 AIエージェントを守るオープンな防御技術を共同開発のサムネイル画像",
-          "url": "https://ledge.ai/articles/open_secure_ai_alliance",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
