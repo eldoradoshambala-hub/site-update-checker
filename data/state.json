@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T08:02:52+00:00",
+  "updated_at": "2026-08-13T08:04:22+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-12T08:02:50+00:00",
-      "last_update": "2026-08-12T08:02:50+00:00",
+      "last_checked": "2026-08-13T08:04:21+00:00",
+      "last_update": "2026-08-13T08:04:21+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -186,9 +186,18 @@
         "https://www.cjnavi.co.jp/gourmet/20260812newopen-r-baker/": {
           "title": "グルメ 国産米粉のベーカリー『R Baker（アールベイカー）』が福島県内初出店！『… R Baker（アールベイカー） 郡山店",
           "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/": {
+          "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "first_seen": "2026-08-13T08:04:21+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "url": "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
         {
           "title": "おでかけ 【福島県】檜枝岐村に来たら行くべきはココ！おすすめスポット3選 尾瀬国立公園の玄関口として知られる檜枝岐村。国重要有形民俗文化財の舞台で上演される「檜...",
           "url": "https://www.cjnavi.co.jp/trip/20260812hinoemata-spot/",
@@ -414,8 +423,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-12T08:02:50+00:00",
-      "last_update": "2026-08-12T08:02:50+00:00",
+      "last_checked": "2026-08-13T08:04:21+00:00",
+      "last_update": "2026-08-13T08:04:21+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -715,9 +724,45 @@
         "https://ledge.ai/articles/shopify_ai_search_long_tail": {
           "title": "Shopify、AI検索は従来検索の代替ではなく新たな流入経路との見方 小規模ブランドに恩恵、AI経由の流入・注文は3倍のサムネイル画像",
           "first_seen": "2026-08-12T08:02:50+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_text_watermark": {
+          "title": "Anthropic、Claude生成テキストに「見えない透かし」 コピペ後も付随、APIやClaude Codeも対象のサムネイル画像",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        "https://ledge.ai/articles/tv_asahi_green_dakara_generative_ai_cm": {
+          "title": "テレビ朝日、サントリー「GREEN DA・KA・RA」のCM映像を全編生成AIで制作 放送現場でのAI活用も進むのサムネイル画像",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        "https://ledge.ai/articles/gemini_app_one_billion_mau": {
+          "title": "Geminiアプリ、月間ユーザー10億人突破 Google史上最速の成長製品にのサムネイル画像",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        "https://ledge.ai/articles/meta_muse_glimmer_open_model": {
+          "title": "Meta、ローカルAIエージェント向け「Muse Glimmer」公開 296億パラメータ、量子化版は24GB GPUで動作のサムネイル画像",
+          "first_seen": "2026-08-13T08:04:21+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Anthropic、Claude生成テキストに「見えない透かし」 コピペ後も付随、APIやClaude Codeも対象のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_text_watermark",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        {
+          "title": "テレビ朝日、サントリー「GREEN DA・KA・RA」のCM映像を全編生成AIで制作 放送現場でのAI活用も進むのサムネイル画像",
+          "url": "https://ledge.ai/articles/tv_asahi_green_dakara_generative_ai_cm",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        {
+          "title": "Geminiアプリ、月間ユーザー10億人突破 Google史上最速の成長製品にのサムネイル画像",
+          "url": "https://ledge.ai/articles/gemini_app_one_billion_mau",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        {
+          "title": "Meta、ローカルAIエージェント向け「Muse Glimmer」公開 296億パラメータ、量子化版は24GB GPUで動作のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_glimmer_open_model",
+          "first_seen": "2026-08-13T08:04:21+00:00"
+        },
         {
           "title": "Suno、AI生成楽曲に「音声ウォーターマーク」導入へ 模倣防止を強化、9月3日からダウンロード制限 無料は生涯7回のサムネイル画像",
           "url": "https://ledge.ai/articles/suno_ai_music_safety_download_limits",
@@ -946,26 +991,6 @@
         {
           "title": "中国で「顔をAIに貸す」ビジネス 無断利用を逆手に、AIドラマ向け肖像ライセンス市場が登場のサムネイル画像",
           "url": "https://ledge.ai/articles/china_ai_face_licensing_market",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "OpenAI、対象大学の研究者に「ChatGPT for Academic Researchers」を12カ月無料提供 今夏1万人、2027年までに10万人へのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_academic_researchers",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Google、音楽生成AI「Lyria 3.5」発表 歌詞・歌声・メロディーを強化、Flow Musicで提供開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_lyria_3_5_music_generation",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "東北大学とソフトバンク、「AI for Disaster Science共創研究所」を8月設立 災害デジタルツインとLLM・VLM、AIエージェントを融合のサムネイル画像",
-          "url": "https://ledge.ai/articles/softbank_tohoku_ai_for_disaster_science",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "AI前提の組織設計――VALANCE独占インタビュー「AI駆動型組織」のつくり方のサムネイル画像",
-          "url": "https://ledge.ai/articles/valance_interview_20260724",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
