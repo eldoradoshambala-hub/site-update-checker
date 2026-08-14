@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-13T08:04:22+00:00",
+  "updated_at": "2026-08-14T08:00:07+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-13T08:04:21+00:00",
-      "last_update": "2026-08-13T08:04:21+00:00",
+      "last_checked": "2026-08-14T08:00:04+00:00",
+      "last_update": "2026-08-14T08:00:04+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -190,9 +190,18 @@
         "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/": {
           "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260814record-cafe/": {
+          "title": "おでかけ 【福島県】レコードの魅力に触れよう！音楽好きにおすすめの喜多方市・福… レコードならではの温かみのある音や、ジャケットを手に取る楽しさ。近年は若い世代からも注...",
+          "first_seen": "2026-08-14T08:00:04+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】レコードの魅力に触れよう！音楽好きにおすすめの喜多方市・福… レコードならではの温かみのある音や、ジャケットを手に取る楽しさ。近年は若い世代からも注...",
+          "url": "https://www.cjnavi.co.jp/trip/20260814record-cafe/",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
         {
           "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "url": "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/",
@@ -423,8 +432,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-13T08:04:21+00:00",
-      "last_update": "2026-08-13T08:04:21+00:00",
+      "last_checked": "2026-08-14T08:00:04+00:00",
+      "last_update": "2026-08-14T08:00:04+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -740,9 +749,45 @@
         "https://ledge.ai/articles/meta_muse_glimmer_open_model": {
           "title": "Meta、ローカルAIエージェント向け「Muse Glimmer」公開 296億パラメータ、量子化版は24GB GPUで動作のサムネイル画像",
           "first_seen": "2026-08-13T08:04:21+00:00"
+        },
+        "https://ledge.ai/articles/vercel_agent_plugins": {
+          "title": "Vercel、AIエージェント向け共通プラグイン規格「Agent Plugins」公開 SkillsとMCPを一括配布のサムネイル画像",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        "https://ledge.ai/articles/cat-ai-study-meeting": {
+          "title": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会のサムネイル画像",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        "https://ledge.ai/articles/alibaba_qwen3_8_max_revenue_sharing": {
+          "title": "Alibaba、「Qwen3.8-Max」で大口商用ユーザーに収益分配求める方針 オープンモデルを“フリーミアム”化かのサムネイル画像",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        "https://ledge.ai/articles/openai_daybreak_blue_red_gpt_5_6_cyber": {
+          "title": "OpenAI、サイバー防御者向け「Daybreak」をBlue／Redに2階層化 Redで新モデル「GPT-5.6-Cyber」提供のサムネイル画像",
+          "first_seen": "2026-08-14T08:00:04+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Vercel、AIエージェント向け共通プラグイン規格「Agent Plugins」公開 SkillsとMCPを一括配布のサムネイル画像",
+          "url": "https://ledge.ai/articles/vercel_agent_plugins",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        {
+          "title": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会のサムネイル画像",
+          "url": "https://ledge.ai/articles/cat-ai-study-meeting",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        {
+          "title": "Alibaba、「Qwen3.8-Max」で大口商用ユーザーに収益分配求める方針 オープンモデルを“フリーミアム”化かのサムネイル画像",
+          "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_revenue_sharing",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
+        {
+          "title": "OpenAI、サイバー防御者向け「Daybreak」をBlue／Redに2階層化 Redで新モデル「GPT-5.6-Cyber」提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_daybreak_blue_red_gpt_5_6_cyber",
+          "first_seen": "2026-08-14T08:00:04+00:00"
+        },
         {
           "title": "Anthropic、Claude生成テキストに「見えない透かし」 コピペ後も付随、APIやClaude Codeも対象のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_text_watermark",
@@ -971,26 +1016,6 @@
         {
           "title": "ビジネス 2026 / 7 / 31 [FRI] SpaceXAI、音声エージェント向けAI「Grok Voice Think Fast 2.0」発表 会話能力を強化、初回音声まで0.70秒",
           "url": "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "PFN、防衛装備庁の生成AI実証を受託 「PLaMo 3.0 Prime」で自衛隊の作戦計画立案を支援のサムネイル画像",
-          "url": "https://ledge.ai/articles/pfn_defense_ai_planning_support",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "LINEヤフー、「Agent i」に写真検索「ショッピングレンズ」追加 同一商品の取扱ストア・価格をまとめて比較のサムネイル画像",
-          "url": "https://ledge.ai/articles/line_yahoo_agent_i_shopping_lens",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "Microsoft、Copilot「スーパーアプリ」を2026年内に提供へ チャット、業務代行、AIエージェント、コードを統合のサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_copilot_super_app",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "中国で「顔をAIに貸す」ビジネス 無断利用を逆手に、AIドラマ向け肖像ライセンス市場が登場のサムネイル画像",
-          "url": "https://ledge.ai/articles/china_ai_face_licensing_market",
           "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
