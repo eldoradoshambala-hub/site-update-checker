@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T08:00:04+00:00",
+  "generated_at": "2026-08-15T04:15:33+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-14T08:00:04+00:00",
-      "last_update": "2026-08-14T08:00:04+00:00",
+      "last_checked": "2026-08-15T04:15:33+00:00",
+      "last_update": "2026-08-15T04:15:33+00:00",
       "new_count": 1,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 屋台や花火、多彩な体験を楽しめる富岡町の夏祭り 富岡夏祭り 2026年8月22日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260815tomioka-natsumatsuri/",
+          "first_seen": "2026-08-15T04:15:33+00:00"
+        },
         {
           "title": "おでかけ 【福島県】レコードの魅力に触れよう！音楽好きにおすすめの喜多方市・福… レコードならではの温かみのある音や、ジャケットを手に取る楽しさ。近年は若い世代からも注...",
           "url": "https://www.cjnavi.co.jp/trip/20260814record-cafe/",
@@ -257,12 +262,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-14T08:00:04+00:00",
-      "last_update": "2026-08-14T08:00:04+00:00",
-      "new_count": 4,
+      "last_checked": "2026-08-15T04:15:33+00:00",
+      "last_update": "2026-08-15T04:15:33+00:00",
+      "new_count": 3,
       "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "AIとの長い会話で「妄想スパイラル」が悪化 自傷を止めない割合30％→41％、スタンフォード大などの研究のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_delusional_spirals_stanford",
+          "first_seen": "2026-08-15T04:15:33+00:00"
+        },
+        {
+          "title": "Anthropic、未公開Claudeが「リーマン予想」に挑戦 証明は失敗も関連問題で41.6％→67.2％、「自分を信じて」と人間が励ますのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis",
+          "first_seen": "2026-08-15T04:15:33+00:00"
+        },
+        {
+          "title": "SpaceXAI、「Grok 4.6」公開 長時間稼働するAIエージェントを強化、4.5から約4週間で更新のサムネイル画像",
+          "url": "https://ledge.ai/articles/spacexai_grok_4_6_release",
+          "first_seen": "2026-08-15T04:15:33+00:00"
+        },
         {
           "title": "Vercel、AIエージェント向け共通プラグイン規格「Agent Plugins」公開 SkillsとMCPを一括配布のサムネイル画像",
           "url": "https://ledge.ai/articles/vercel_agent_plugins",
@@ -497,26 +517,39 @@
           "title": "ビジネス 2026 / 8 / 2 [SUN] Google DeepMind、AlphaFold開発チームを事実上解体か 研究者をGeminiなどへ再配置、幹部は研究拡大を強調",
           "url": "https://ledge.ai/articles/google_deepmind_alphafold_team_reorganization",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "公共 2026 / 8 / 1 [SAT] OpenAI、Anthropic、Google、Metaなどの従業員1000人超、AI研究自動化に備え「開発ペース調整」の国際枠組みを米政府に要請",
-          "url": "https://ledge.ai/articles/pacing_the_frontier_ai_development_pace_control",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "公共 2026 / 7 / 29 [WED] Microsoft・NVIDIAら、オープンウェイトAIへの性急な規制回避を要請 Anthropicは署名せず「一律禁止ではなく安全性試験を」",
-          "url": "https://ledge.ai/articles/open_weights_ai_regulation_anthropic",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 7 / 31 [FRI] SpaceXAI、音声エージェント向けAI「Grok Voice Think Fast 2.0」発表 会話能力を強化、初回音声まで0.70秒",
-          "url": "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 屋台や花火、多彩な体験を楽しめる富岡町の夏祭り 富岡夏祭り 2026年8月22日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260815tomioka-natsumatsuri/",
+      "first_seen": "2026-08-15T04:15:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIとの長い会話で「妄想スパイラル」が悪化 自傷を止めない割合30％→41％、スタンフォード大などの研究のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_delusional_spirals_stanford",
+      "first_seen": "2026-08-15T04:15:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、未公開Claudeが「リーマン予想」に挑戦 証明は失敗も関連問題で41.6％→67.2％、「自分を信じて」と人間が励ますのサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis",
+      "first_seen": "2026-08-15T04:15:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "SpaceXAI、「Grok 4.6」公開 長時間稼働するAIエージェントを強化、4.5から約4週間で更新のサムネイル画像",
+      "url": "https://ledge.ai/articles/spacexai_grok_4_6_release",
+      "first_seen": "2026-08-15T04:15:33+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1166,27 +1199,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ビジネス 2026 / 8 / 2 [SUN] Google DeepMind、AlphaFold開発チームを事実上解体か 研究者をGeminiなどへ再配置、幹部は研究拡大を強調",
       "url": "https://ledge.ai/articles/google_deepmind_alphafold_team_reorganization",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "公共 2026 / 8 / 1 [SAT] OpenAI、Anthropic、Google、Metaなどの従業員1000人超、AI研究自動化に備え「開発ペース調整」の国際枠組みを米政府に要請",
-      "url": "https://ledge.ai/articles/pacing_the_frontier_ai_development_pace_control",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "公共 2026 / 7 / 29 [WED] Microsoft・NVIDIAら、オープンウェイトAIへの性急な規制回避を要請 Anthropicは署名せず「一律禁止ではなく安全性試験を」",
-      "url": "https://ledge.ai/articles/open_weights_ai_regulation_anthropic",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ビジネス 2026 / 7 / 31 [FRI] SpaceXAI、音声エージェント向けAI「Grok Voice Think Fast 2.0」発表 会話能力を強化、初回音声まで0.70秒",
-      "url": "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
