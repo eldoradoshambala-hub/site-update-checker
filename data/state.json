@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-16T04:51:58+00:00",
+  "updated_at": "2026-08-17T05:11:30+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-16T04:51:56+00:00",
-      "last_update": "2026-08-16T04:51:56+00:00",
+      "last_checked": "2026-08-17T05:11:28+00:00",
+      "last_update": "2026-08-17T05:11:28+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -206,9 +206,27 @@
         "https://www.cjnavi.co.jp/event/20260816voice-fukushima/": {
           "title": "イベント ステージショーと車輌展示を福島市「まちなか広場」で楽しもう！ 第10回 ヴォイスふくしま納涼祭 2026年8月23日（日）",
           "first_seen": "2026-08-16T04:51:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260817fukushima-museum/": {
+          "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260817shinjou-matsuri/": {
+          "title": "イベント 270年以上続く山形県新庄市の伝統行事。華麗な山車が描く歴史絵巻が現代に… 新庄まつり 2026年8月24日（月）～26日（水）",
+          "first_seen": "2026-08-17T05:11:28+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
+          "url": "https://www.cjnavi.co.jp/trip/20260817fukushima-museum/",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        {
+          "title": "イベント 270年以上続く山形県新庄市の伝統行事。華麗な山車が描く歴史絵巻が現代に… 新庄まつり 2026年8月24日（月）～26日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20260817shinjou-matsuri/",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
         {
           "title": "イベント 田村市船引町で日本最大級の大型灯ろう流し。今年は青森小型ねぶたも登場 灯籠流しと花火大会 2026年8月23日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260816tamura-tourounagashi/",
@@ -448,19 +466,14 @@
           "title": "福島おとな旅 2025-2026",
           "url": "https://www.cjnavi.co.jp/magazine/fukushima-otonatabi2025-2026/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "【2026年・春】ふくしまの子育て",
-          "url": "https://www.cjnavi.co.jp/life/20260225kosodate-spring/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-16T04:51:56+00:00",
-      "last_update": "2026-08-16T04:51:56+00:00",
+      "last_checked": "2026-08-17T05:11:28+00:00",
+      "last_update": "2026-08-17T05:11:28+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -816,9 +829,45 @@
         "https://ledge.ai/articles/openai_brad_lightcap_executive_departures": {
           "title": "OpenAI元COOブラッド・ライトキャップ氏が退社 安全・倫理責任者など重要人物の離職相次ぐのサムネイル画像",
           "first_seen": "2026-08-16T04:51:56+00:00"
+        },
+        "https://ledge.ai/articles/elith-interview": {
+          "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        "https://ledge.ai/articles/manus_meta_independent_operations_data_backup": {
+          "title": "Manus、Meta参加発表から7カ月余りで独立運営へ 一部ユーザーのデータ削除、8月23日までにバックアップのサムネイル画像",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        "https://ledge.ai/articles/nec_corporate_ai_workforce": {
+          "title": "NEC、部門長から社員まですべてAIが担う社内部門を新設 AI社員を必要に応じて生成、人は最終判断のサムネイル画像",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11": {
+          "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
+          "first_seen": "2026-08-17T05:11:28+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
+          "url": "https://ledge.ai/articles/elith-interview",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        {
+          "title": "Manus、Meta参加発表から7カ月余りで独立運営へ 一部ユーザーのデータ削除、8月23日までにバックアップのサムネイル画像",
+          "url": "https://ledge.ai/articles/manus_meta_independent_operations_data_backup",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        {
+          "title": "NEC、部門長から社員まですべてAIが担う社内部門を新設 AI社員を必要に応じて生成、人は最終判断のサムネイル画像",
+          "url": "https://ledge.ai/articles/nec_corporate_ai_workforce",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        {
+          "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11",
+          "first_seen": "2026-08-17T05:11:28+00:00"
+        },
         {
           "title": "LTX、オープンウェイト世界モデル「LTX-2.5」公開 ネイティブ複数ショット・4K HDR対応、Physical AI向け基盤ものサムネイル画像",
           "url": "https://ledge.ai/articles/ltx_2_5_open_weight_world_model",
@@ -1048,26 +1097,6 @@
           "title": "ビジネス 2026 / 8 / 4 [TUE] Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
           "url": "https://ledge.ai/articles/google_deepmind_gemini_robotics_2",
           "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "OpenAI、AIモデルのアクティブユーザー10億人超に ビジネス顧客は200万超、登録半年後のメッセージ数は約50％増のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_active_users_business_customers",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "動画",
-          "url": "https://ledge.ai/videos",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ソリューション",
-          "url": "https://ledge.ai/brand_solution",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "About",
-          "url": "https://ledge.ai/about",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     }
