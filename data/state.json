@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T05:11:30+00:00",
+  "updated_at": "2026-08-18T04:56:11+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-17T05:11:28+00:00",
+      "last_checked": "2026-08-18T04:56:09+00:00",
       "last_update": "2026-08-17T05:11:28+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -472,8 +472,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-17T05:11:28+00:00",
-      "last_update": "2026-08-17T05:11:28+00:00",
+      "last_checked": "2026-08-18T04:56:09+00:00",
+      "last_update": "2026-08-18T04:56:09+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -845,9 +845,45 @@
         "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11": {
           "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
           "first_seen": "2026-08-17T05:11:28+00:00"
+        },
+        "https://ledge.ai/articles/claude_text_watermark_detection_limits": {
+          "title": "Claudeの「見えない透かし」、Anthropicが仕組み説明 隠し文字を入れるのではなく「単語の選び方」にパターンのサムネイル画像",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        "https://ledge.ai/articles/alibaba_qwen_3_billion_downloads_qwen3_8_27b": {
+          "title": "Alibaba「Qwen」シリーズ、半年で30億ダウンロード 新モデル「Qwen3.8-27B」のウェイトも公開のサムネイル画像",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        "https://ledge.ai/articles/gemini_3_7_flash_coding_agent_update": {
+          "title": "Google「Gemini 3.7 Flash」公開 わずか3週間で更新、コーディング・AIエージェント強化 初回価格は従来比半額のサムネイル画像",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        "https://ledge.ai/articles/uber_hinomaru_robotaxi_tokyo": {
+          "title": "Uber、東京ロボタクシー試験運行で日の丸交通と提携 WayveのAI搭載・日産リーフを2026年後半に導入のサムネイル画像",
+          "first_seen": "2026-08-18T04:56:09+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Claudeの「見えない透かし」、Anthropicが仕組み説明 隠し文字を入れるのではなく「単語の選び方」にパターンのサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_text_watermark_detection_limits",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        {
+          "title": "Alibaba「Qwen」シリーズ、半年で30億ダウンロード 新モデル「Qwen3.8-27B」のウェイトも公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/alibaba_qwen_3_billion_downloads_qwen3_8_27b",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        {
+          "title": "Google「Gemini 3.7 Flash」公開 わずか3週間で更新、コーディング・AIエージェント強化 初回価格は従来比半額のサムネイル画像",
+          "url": "https://ledge.ai/articles/gemini_3_7_flash_coding_agent_update",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
+        {
+          "title": "Uber、東京ロボタクシー試験運行で日の丸交通と提携 WayveのAI搭載・日産リーフを2026年後半に導入のサムネイル画像",
+          "url": "https://ledge.ai/articles/uber_hinomaru_robotaxi_tokyo",
+          "first_seen": "2026-08-18T04:56:09+00:00"
+        },
         {
           "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
           "url": "https://ledge.ai/articles/elith-interview",
@@ -1077,26 +1113,6 @@
           "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
           "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
           "first_seen": "2026-08-05T00:56:07+00:00"
-        },
-        {
-          "title": "OpenAI、数学・理論計算機科学の未解決問題で10の成果 未公開の次期AIモデル「Astra」が証明を生成、Leanで形式化のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_astra_math_unsolved_problems",
-          "first_seen": "2026-08-05T00:56:07+00:00"
-        },
-        {
-          "title": "Alibaba、2.4兆パラメータの「Qwen3.8-Max」発表 10日超の自律コーディング、Max級初のオープンウェイト化へのサムネイル画像",
-          "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_2_4_trillion_parameters",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 4 [TUE] Google、パーソナルAIエージェント「Gemini Spark」をChromeに統合 物件内覧予約や航空券調査を代行、まず米国で",
-          "url": "https://ledge.ai/articles/google_gemini_spark_chrome_integration",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 4 [TUE] Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
-          "url": "https://ledge.ai/articles/google_deepmind_gemini_robotics_2",
-          "first_seen": "2026-08-04T06:29:53+00:00"
         }
       ]
     }
