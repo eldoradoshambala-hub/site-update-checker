@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T04:56:09+00:00",
+  "generated_at": "2026-08-19T04:55:40+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 7,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-18T04:56:09+00:00",
-      "last_update": "2026-08-17T05:11:28+00:00",
-      "new_count": 0,
-      "link_count": 21,
+      "last_checked": "2026-08-19T04:55:40+00:00",
+      "last_update": "2026-08-19T04:55:40+00:00",
+      "new_count": 3,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260819art-gallery-ateliercafe/",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
+        {
+          "title": "おでかけ 松川浦と太平洋を望む、ホテル＆カフェ『Ola bayfront inn』が相馬市に誕生 Ola bayfront inn（オラ・ベイフロント・イン）",
+          "url": "https://www.cjnavi.co.jp/trip/20260818newopen-ola-bayfront-inn/",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
+        {
+          "title": "イベント 食べて、遊んで、楽しむ！白河市「きつねうち温泉」の夏祭り きつねうち温泉 夏まつり2026 2026年8月21日（金）～23日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260814kitsuneuchi-onsen/",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
         {
           "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
           "url": "https://www.cjnavi.co.jp/trip/20260817fukushima-museum/",
@@ -252,21 +267,6 @@
           "title": "ラーメン戦国時代〜地元タウン誌編集部が選んだ最強の120杯!!〜",
           "url": "https://www.cjnavi.co.jp/magazine/20260225ra-men-sengokujidai/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "福島県の企業ガイド BeCAL福島版2026-2027",
-          "url": "https://www.cjnavi.co.jp/special/20260125becal-fukushima/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "【キャリア採用情報】（株）エス・シー・シー",
-          "url": "https://www.cjnavi.co.jp/special/20241211scc-recruit/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "福島おとな旅 2025-2026",
-          "url": "https://www.cjnavi.co.jp/magazine/fukushima-otonatabi2025-2026/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-18T04:56:09+00:00",
-      "last_update": "2026-08-18T04:56:09+00:00",
+      "last_checked": "2026-08-19T04:55:40+00:00",
+      "last_update": "2026-08-19T04:55:40+00:00",
       "new_count": 4,
-      "link_count": 37,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
+          "url": "https://ledge.ai/articles/mcd3-hr-interview",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
+        {
+          "title": "OpenAI、Linux版「ChatGPT」デスクトップアプリをプレビュー公開 「Work」「Codex」も利用可能のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_linux_desktop_app",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
+        {
+          "title": "Google Meet、対面会議でもGeminiが自動メモ 要約・アクション項目・全文文字起こしをGoogle Docsに保存のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_meet_in_person_ai_notes",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
+        {
+          "title": "OpenAI、GPT-5.6 Solを最大14倍高速化 Cerebras基盤の「Ultrafast」発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_5_6_sol_ultrafast_cerebras",
+          "first_seen": "2026-08-19T04:55:40+00:00"
+        },
         {
           "title": "Claudeの「見えない透かし」、Anthropicが仕組み説明 隠し文字を入れるのではなく「単語の選び方」にパターンのサムネイル画像",
           "url": "https://ledge.ai/articles/claude_text_watermark_detection_limits",
@@ -512,31 +532,60 @@
           "title": "パナソニック コネクト、AI活用で78.8万時間を削減 50の社内システムと連携しAIエージェント拡大へのサムネイル画像",
           "url": "https://ledge.ai/articles/panasonic_connect_connectai_ai_agent",
           "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "IBM、AI開発支援「IBM Bob」を強化 サブエージェントや並列実行、IBM Z・IBM i・Java刷新向け機能を追加のサムネイル画像",
-          "url": "https://ledge.ai/articles/ibm_bob_enterprise_ai_development_features",
-          "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "Genspark、Windows・Mac向けAIオフィススイート「GenOffice」Alpha版を公開 基本機能は無料、コードも公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/genoffice_ai_office_suite_alpha",
-          "first_seen": "2026-08-05T11:32:07+00:00"
-        },
-        {
-          "title": "Google、AIでChromeの脆弱性発見・修正を高速化 直近2世代で1072件、過去23世代の合計超えるのサムネイル画像",
-          "url": "https://ledge.ai/articles/google_chrome_ai_security_bug_fix",
-          "first_seen": "2026-08-05T11:32:07+00:00"
-        },
-        {
-          "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
-          "first_seen": "2026-08-05T00:56:07+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260819art-gallery-ateliercafe/",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 松川浦と太平洋を望む、ホテル＆カフェ『Ola bayfront inn』が相馬市に誕生 Ola bayfront inn（オラ・ベイフロント・イン）",
+      "url": "https://www.cjnavi.co.jp/trip/20260818newopen-ola-bayfront-inn/",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 食べて、遊んで、楽しむ！白河市「きつねうち温泉」の夏祭り きつねうち温泉 夏まつり2026 2026年8月21日（金）～23日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260814kitsuneuchi-onsen/",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
+      "url": "https://ledge.ai/articles/mcd3-hr-interview",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、Linux版「ChatGPT」デスクトップアプリをプレビュー公開 「Work」「Codex」も利用可能のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_chatgpt_linux_desktop_app",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google Meet、対面会議でもGeminiが自動メモ 要約・アクション項目・全文文字起こしをGoogle Docsに保存のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_meet_in_person_ai_notes",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、GPT-5.6 Solを最大14倍高速化 Cerebras基盤の「Ultrafast」発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_gpt_5_6_sol_ultrafast_cerebras",
+      "first_seen": "2026-08-19T04:55:40+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1028,13 +1077,6 @@
       "first_seen": "2026-08-06T11:36:46+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "IBM、AI開発支援「IBM Bob」を強化 サブエージェントや並列実行、IBM Z・IBM i・Java刷新向け機能を追加のサムネイル画像",
-      "url": "https://ledge.ai/articles/ibm_bob_enterprise_ai_development_features",
-      "first_seen": "2026-08-06T11:36:46+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 福島市「西田記念館」で『植木昭夫コレクション展』を開催。こけしに寄せ… 「こけし部屋」からの伝言 植木昭夫コレクション展 2026年8月4日（火）〜11月29日（日）",
@@ -1047,27 +1089,6 @@
       "title": "イベント 音楽や花火を楽しめる！二本松市安達地域の夏祭り 第37回 智恵子の里 安達夏祭り 2026年8月12日（水）",
       "url": "https://www.cjnavi.co.jp/event/20260805adachi-natsumatsuri/",
       "first_seen": "2026-08-05T11:32:07+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Genspark、Windows・Mac向けAIオフィススイート「GenOffice」Alpha版を公開 基本機能は無料、コードも公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/genoffice_ai_office_suite_alpha",
-      "first_seen": "2026-08-05T11:32:07+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、AIでChromeの脆弱性発見・修正を高速化 直近2世代で1072件、過去23世代の合計超えるのサムネイル画像",
-      "url": "https://ledge.ai/articles/google_chrome_ai_security_bug_fix",
-      "first_seen": "2026-08-05T11:32:07+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Meta、BlackRockと約140億ドルのAIデータセンター合弁事業 1GWのエルパソ拠点を2028年から稼働へのサムネイル画像",
-      "url": "https://ledge.ai/articles/meta_blackrock_el_paso_ai_data_center_joint_venture",
-      "first_seen": "2026-08-05T00:56:07+00:00"
     },
     {
       "site_id": "cjnavi",
@@ -1214,27 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ラーメン戦国時代〜地元タウン誌編集部が選んだ最強の120杯!!〜",
       "url": "https://www.cjnavi.co.jp/magazine/20260225ra-men-sengokujidai/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "福島県の企業ガイド BeCAL福島版2026-2027",
-      "url": "https://www.cjnavi.co.jp/special/20260125becal-fukushima/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "【キャリア採用情報】（株）エス・シー・シー",
-      "url": "https://www.cjnavi.co.jp/special/20241211scc-recruit/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "福島おとな旅 2025-2026",
-      "url": "https://www.cjnavi.co.jp/magazine/fukushima-otonatabi2025-2026/",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
