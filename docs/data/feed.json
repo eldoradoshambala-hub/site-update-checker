@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T04:55:40+00:00",
+  "generated_at": "2026-08-20T04:58:21+00:00",
   "site_count": 2,
-  "new_count": 7,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-19T04:55:40+00:00",
-      "last_update": "2026-08-19T04:55:40+00:00",
-      "new_count": 3,
-      "link_count": 20,
+      "last_checked": "2026-08-20T04:58:21+00:00",
+      "last_update": "2026-08-20T04:58:21+00:00",
+      "new_count": 1,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
+          "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
+          "first_seen": "2026-08-20T04:58:21+00:00"
+        },
         {
           "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
           "url": "https://www.cjnavi.co.jp/gourmet/20260819art-gallery-ateliercafe/",
@@ -262,11 +267,6 @@
           "title": "月刊CJ Monmo 2026年8月号",
           "url": "https://www.cjnavi.co.jp/magazine/20260725cjmonmo-61/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ラーメン戦国時代〜地元タウン誌編集部が選んだ最強の120杯!!〜",
-          "url": "https://www.cjnavi.co.jp/magazine/20260225ra-men-sengokujidai/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-19T04:55:40+00:00",
-      "last_update": "2026-08-19T04:55:40+00:00",
+      "last_checked": "2026-08-20T04:58:21+00:00",
+      "last_update": "2026-08-20T04:58:21+00:00",
       "new_count": 4,
       "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "ビジネス 2026 / 8 / 19 [WED] OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留",
+          "url": "https://ledge.ai/articles/openai_model_development_slowdown_rl_pause",
+          "first_seen": "2026-08-20T04:58:21+00:00"
+        },
+        {
+          "title": "SpaceX傘下のCursor、コードホスティング「Origin」提供開始 GitHub同期に対応、AIエージェント時代を想定のサムネイル画像",
+          "url": "https://ledge.ai/articles/cursor_origin_code_hosting",
+          "first_seen": "2026-08-20T04:58:21+00:00"
+        },
+        {
+          "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_for_teens",
+          "first_seen": "2026-08-20T04:58:21+00:00"
+        },
+        {
+          "title": "NTTドコモとSamsung、AIでスマホ通信の速度低下を事前予測 自動切り替えで発生頻度13.1％→7.2％のサムネイル画像",
+          "url": "https://ledge.ai/articles/ntt_docomo_samsung_ai_network_switching",
+          "first_seen": "2026-08-20T04:58:21+00:00"
+        },
         {
           "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
           "url": "https://ledge.ai/articles/mcd3-hr-interview",
@@ -512,31 +532,46 @@
           "title": "大塚商会、JAPAN AIと資本業務提携 中堅・中小企業の「AI活用」からAX実現を支援のサムネイル画像",
           "url": "https://ledge.ai/articles/otsuka_shokai_japan_ai_business_alliance",
           "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "英AIセキュリティ研究所、各種フロンティアAIモデルのサイバー試験で19件の権限外行動 AIが偽アカウントで人間に働きかけのサムネイル画像",
-          "url": "https://ledge.ai/articles/aisi_ai_agent_cyber_incident",
-          "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "Cloudflare、AIエージェントの実行基盤を両面強化 「@cloudflare/computer」公開、Kimi・GLMの推論効率化ものサムネイル画像",
-          "url": "https://ledge.ai/articles/cloudflare_computer_workers_ai",
-          "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "AIレコメンドを“使われるサービス”にするには──OWNDAYSに学ぶ、現場で機能するAI実装のサムネイル画像",
-          "url": "https://ledge.ai/articles/owndays_mirror_Interview",
-          "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "パナソニック コネクト、AI活用で78.8万時間を削減 50の社内システムと連携しAIエージェント拡大へのサムネイル画像",
-          "url": "https://ledge.ai/articles/panasonic_connect_connectai_ai_agent",
-          "first_seen": "2026-08-06T11:36:46+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
+      "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
+      "first_seen": "2026-08-20T04:58:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 8 / 19 [WED] OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留",
+      "url": "https://ledge.ai/articles/openai_model_development_slowdown_rl_pause",
+      "first_seen": "2026-08-20T04:58:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "SpaceX傘下のCursor、コードホスティング「Origin」提供開始 GitHub同期に対応、AIエージェント時代を想定のサムネイル画像",
+      "url": "https://ledge.ai/articles/cursor_origin_code_hosting",
+      "first_seen": "2026-08-20T04:58:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_chatgpt_for_teens",
+      "first_seen": "2026-08-20T04:58:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "NTTドコモとSamsung、AIでスマホ通信の速度低下を事前予測 自動切り替えで発生頻度13.1％→7.2％のサムネイル画像",
+      "url": "https://ledge.ai/articles/ntt_docomo_samsung_ai_network_switching",
+      "first_seen": "2026-08-20T04:58:21+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1035,13 +1070,6 @@
       "first_seen": "2026-08-07T06:54:47+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "英AIセキュリティ研究所、各種フロンティアAIモデルのサイバー試験で19件の権限外行動 AIが偽アカウントで人間に働きかけのサムネイル画像",
-      "url": "https://ledge.ai/articles/aisi_ai_agent_cyber_incident",
-      "first_seen": "2026-08-07T06:54:47+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
@@ -1053,27 +1081,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント いわき市で、日本一大きな回転やぐらと盆踊りを楽しむ 第71回 いわき回転やぐら盆踊り大会 2026年8月13日（木）～15日（土）",
       "url": "https://www.cjnavi.co.jp/event/20260806iwaki-kaitenyagura/",
-      "first_seen": "2026-08-06T11:36:46+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Cloudflare、AIエージェントの実行基盤を両面強化 「@cloudflare/computer」公開、Kimi・GLMの推論効率化ものサムネイル画像",
-      "url": "https://ledge.ai/articles/cloudflare_computer_workers_ai",
-      "first_seen": "2026-08-06T11:36:46+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIレコメンドを“使われるサービス”にするには──OWNDAYSに学ぶ、現場で機能するAI実装のサムネイル画像",
-      "url": "https://ledge.ai/articles/owndays_mirror_Interview",
-      "first_seen": "2026-08-06T11:36:46+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "パナソニック コネクト、AI活用で78.8万時間を削減 50の社内システムと連携しAIエージェント拡大へのサムネイル画像",
-      "url": "https://ledge.ai/articles/panasonic_connect_connectai_ai_agent",
       "first_seen": "2026-08-06T11:36:46+00:00"
     },
     {
@@ -1228,13 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "月刊CJ Monmo 2026年8月号",
       "url": "https://www.cjnavi.co.jp/magazine/20260725cjmonmo-61/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ラーメン戦国時代〜地元タウン誌編集部が選んだ最強の120杯!!〜",
-      "url": "https://www.cjnavi.co.jp/magazine/20260225ra-men-sengokujidai/",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
