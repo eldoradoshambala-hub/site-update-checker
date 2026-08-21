@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T04:58:21+00:00",
+  "generated_at": "2026-08-21T04:59:43+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-20T04:58:21+00:00",
-      "last_update": "2026-08-20T04:58:21+00:00",
+      "last_checked": "2026-08-21T04:59:43+00:00",
+      "last_update": "2026-08-21T04:59:43+00:00",
       "new_count": 1,
-      "link_count": 21,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
+          "url": "https://www.cjnavi.co.jp/trip/20260821fukushima-bookstore/",
+          "first_seen": "2026-08-21T04:59:43+00:00"
+        },
         {
           "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
           "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
@@ -262,11 +267,6 @@
           "title": "イベント AD 福島市「こむこむ館」で、重機操作シミュレーション『重機でGo』を使用し… 本物みたいに重機を操作！重機でGo体験会 2026年8月8日（土）・9日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260801comcom-kensetsu/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "月刊CJ Monmo 2026年8月号",
-          "url": "https://www.cjnavi.co.jp/magazine/20260725cjmonmo-61/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-20T04:58:21+00:00",
-      "last_update": "2026-08-20T04:58:21+00:00",
-      "new_count": 4,
-      "link_count": 39,
+      "last_checked": "2026-08-21T04:59:43+00:00",
+      "last_update": "2026-08-21T04:59:43+00:00",
+      "new_count": 3,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
+          "first_seen": "2026-08-21T04:59:43+00:00"
+        },
+        {
+          "title": "マネックス証券、ChatGPT・Claudeから口座情報を確認可能に 「MONEX MCP Server」提供開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/monex_mcp_server_chatgpt_claude",
+          "first_seen": "2026-08-21T04:59:43+00:00"
+        },
+        {
+          "title": "NVIDIA、SB Energyに15億ドル投資 OpenAIが20年契約、オハイオに8 IT-GWのAIデータセンターのサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_sb_energy_ports_pike_openai",
+          "first_seen": "2026-08-21T04:59:43+00:00"
+        },
         {
           "title": "ビジネス 2026 / 8 / 19 [WED] OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留",
           "url": "https://ledge.ai/articles/openai_model_development_slowdown_rl_pause",
@@ -517,26 +532,39 @@
           "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2",
           "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "EU、AI生成コンテンツの透明性規則を適用開始 機械可読マークとディープフェイク表示を義務化のサムネイル画像",
-          "url": "https://ledge.ai/articles/eu_ai_act_ai_generated_content_transparency",
-          "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "OpenAI、Appleのハードウェア開発に関する営業秘密訴訟に反論 元社員との通信記録を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_apple_trade_secret_lawsuit",
-          "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "大塚商会、JAPAN AIと資本業務提携 中堅・中小企業の「AI活用」からAX実現を支援のサムネイル画像",
-          "url": "https://ledge.ai/articles/otsuka_shokai_japan_ai_business_alliance",
-          "first_seen": "2026-08-07T06:54:47+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
+      "url": "https://www.cjnavi.co.jp/trip/20260821fukushima-bookstore/",
+      "first_seen": "2026-08-21T04:59:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
+      "first_seen": "2026-08-21T04:59:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "マネックス証券、ChatGPT・Claudeから口座情報を確認可能に 「MONEX MCP Server」提供開始のサムネイル画像",
+      "url": "https://ledge.ai/articles/monex_mcp_server_chatgpt_claude",
+      "first_seen": "2026-08-21T04:59:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "NVIDIA、SB Energyに15億ドル投資 OpenAIが20年契約、オハイオに8 IT-GWのAIデータセンターのサムネイル画像",
+      "url": "https://ledge.ai/articles/nvidia_sb_energy_ports_pike_openai",
+      "first_seen": "2026-08-21T04:59:43+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1049,27 +1077,6 @@
       "first_seen": "2026-08-07T06:54:47+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "EU、AI生成コンテンツの透明性規則を適用開始 機械可読マークとディープフェイク表示を義務化のサムネイル画像",
-      "url": "https://ledge.ai/articles/eu_ai_act_ai_generated_content_transparency",
-      "first_seen": "2026-08-07T06:54:47+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、Appleのハードウェア開発に関する営業秘密訴訟に反論 元社員との通信記録を公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_apple_trade_secret_lawsuit",
-      "first_seen": "2026-08-07T06:54:47+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "大塚商会、JAPAN AIと資本業務提携 中堅・中小企業の「AI活用」からAX実現を支援のサムネイル画像",
-      "url": "https://ledge.ai/articles/otsuka_shokai_japan_ai_business_alliance",
-      "first_seen": "2026-08-07T06:54:47+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
@@ -1228,13 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 福島市「こむこむ館」で、重機操作シミュレーション『重機でGo』を使用し… 本物みたいに重機を操作！重機でGo体験会 2026年8月8日（土）・9日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260801comcom-kensetsu/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "月刊CJ Monmo 2026年8月号",
-      "url": "https://www.cjnavi.co.jp/magazine/20260725cjmonmo-61/",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
