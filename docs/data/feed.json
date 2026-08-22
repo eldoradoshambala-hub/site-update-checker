@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T04:59:43+00:00",
+  "generated_at": "2026-08-22T04:18:28+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 9,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-21T04:59:43+00:00",
-      "last_update": "2026-08-21T04:59:43+00:00",
-      "new_count": 1,
+      "last_checked": "2026-08-22T04:18:28+00:00",
+      "last_update": "2026-08-22T04:18:28+00:00",
+      "new_count": 5,
       "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
+          "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "イベント 「東北カフェ部」主催のスイーツとコーヒーの祭典を郡山市「ビッグパレッ… TOHOKU CAFE FES 夏祭り 2026年8月29日（土）・30日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260822tohoku-cafefes/",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "イベント いわき市の鮫川を照らす大輪の花火を見に行こう 第28回 鮫川花火大会 2026年8月29日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260822samegawa-hanabi-iwaki/",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "イベント AD 福島市「ウィル福島 アクティおろしまち」で、サーキュラーエコノミー（循… ふくしまサーキュラーエコノミーシンポジウム 2026年8月28日（金）",
+          "url": "https://www.cjnavi.co.jp/event/20260821circular-economy-symposium/",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "ライフ AD 【ふくしま花回廊フォトラリー】ベストフォト賞 受賞作品決定！ ふくしま花回廊フォトラリー ベストフォト賞",
+          "url": "https://www.cjnavi.co.jp/life/20260821fukushima-hanakairo-result/",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
         {
           "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
           "url": "https://www.cjnavi.co.jp/trip/20260821fukushima-bookstore/",
@@ -242,31 +267,6 @@
           "title": "イベント AD 福島県北・宮城仙南・山形置賜の“推しスポット”を巡ろう！デジタル周遊ラ… 県北・仙南・置賜へGO！推しスポット周遊ラリー 2026年8月1日（土）〜10月31日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260801f-kenpoku-co-cre-map/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "ライフ 【モンモ良品】季節のご挨拶に福島の逸品を。2026年8月の夏ギフト8選 地元編集者が厳選する良品を集めた福島の通販サイト「Monmo良品」。今回はミニうな重やかまぼ...",
-          "url": "https://www.cjnavi.co.jp/life/20260801monmoryouhin/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 人気と実力を兼ね備えた、珠玉の豪華二人会を郡山市で開催 こおりやま寄席 林家正蔵・古今亭菊之丞二人会 2026年11月14日（土） ［チケット販売］2026年8月8日（土）〜",
-          "url": "https://www.cjnavi.co.jp/event/20260801koriyama-yose-futarikai/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 自然に囲まれた福島市「四季の里」でおいしいグルメや花火を満喫 四季の里 夏の花火大会2026 2026年8月8日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260801shikinosato-hanabi/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 伊達市で恒例の夏祭りを開催。約5,000発の花火の打ち上げも 伊達のふる里夏まつり2026 2026年8月8日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260801date-natsumatsuri/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント AD 福島市「こむこむ館」で、重機操作シミュレーション『重機でGo』を使用し… 本物みたいに重機を操作！重機でGo体験会 2026年8月8日（土）・9日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260801comcom-kensetsu/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-21T04:59:43+00:00",
-      "last_update": "2026-08-21T04:59:43+00:00",
-      "new_count": 3,
-      "link_count": 40,
+      "last_checked": "2026-08-22T04:18:28+00:00",
+      "last_update": "2026-08-22T04:18:28+00:00",
+      "new_count": 4,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "生成AIで架空の女性「中村りほ」を演出し政治投稿 立憲民主党栃木県連の男性党員がX運用のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_fake_political_persona_x",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "Slack、AIコーディングエージェントとチームで共同開発 新機能「Slack Code」発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/slack_code_ai_coding_agents",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
+        {
+          "title": "AIエージェントに買い物は任せても「完全自動購入」は1％ Visa調査、50％が「自分で確認」を重視のサムネイル画像",
+          "url": "https://ledge.ai/articles/visa_ai_agent_shopping_survey",
+          "first_seen": "2026-08-22T04:18:28+00:00"
+        },
         {
           "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
@@ -512,31 +532,74 @@
           "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
           "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
           "first_seen": "2026-08-09T05:37:17+00:00"
-        },
-        {
-          "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
-          "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "リクルート、2026年度の新卒エンジニア研修資料を無料で公開 「AIは増幅器」、開発のボトルネックは維持保守へのサムネイル画像",
-          "url": "https://ledge.ai/articles/recruit_engineer_ai_training_2026",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "AI設計ウイルス研究がScienceに正式掲載 バイオセキュリティ専門家が安全管理に警鐘のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_designed_virus_science_biosecurity",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2",
-          "first_seen": "2026-08-08T05:25:36+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
+      "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 「東北カフェ部」主催のスイーツとコーヒーの祭典を郡山市「ビッグパレッ… TOHOKU CAFE FES 夏祭り 2026年8月29日（土）・30日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260822tohoku-cafefes/",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント いわき市の鮫川を照らす大輪の花火を見に行こう 第28回 鮫川花火大会 2026年8月29日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260822samegawa-hanabi-iwaki/",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 福島市「ウィル福島 アクティおろしまち」で、サーキュラーエコノミー（循… ふくしまサーキュラーエコノミーシンポジウム 2026年8月28日（金）",
+      "url": "https://www.cjnavi.co.jp/event/20260821circular-economy-symposium/",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ AD 【ふくしま花回廊フォトラリー】ベストフォト賞 受賞作品決定！ ふくしま花回廊フォトラリー ベストフォト賞",
+      "url": "https://www.cjnavi.co.jp/life/20260821fukushima-hanakairo-result/",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "生成AIで架空の女性「中村りほ」を演出し政治投稿 立憲民主党栃木県連の男性党員がX運用のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_fake_political_persona_x",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
+      "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Slack、AIコーディングエージェントとチームで共同開発 新機能「Slack Code」発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/slack_code_ai_coding_agents",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIエージェントに買い物は任せても「完全自動購入」は1％ Visa調査、50％が「自分で確認」を重視のサムネイル画像",
+      "url": "https://ledge.ai/articles/visa_ai_agent_shopping_survey",
+      "first_seen": "2026-08-22T04:18:28+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1028,34 +1091,6 @@
       "first_seen": "2026-08-08T05:25:36+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google DeepMind、デミス・ハサビスCEOが退任し会長に、本社Alphabetチーフサイエンティストも兼任 GDMはカヴクチュオール氏が率いるのサムネイル画像",
-      "url": "https://ledge.ai/articles/google_deepmind_hassabis_alphabet_chief_scientist",
-      "first_seen": "2026-08-08T05:25:36+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "リクルート、2026年度の新卒エンジニア研修資料を無料で公開 「AIは増幅器」、開発のボトルネックは維持保守へのサムネイル画像",
-      "url": "https://ledge.ai/articles/recruit_engineer_ai_training_2026",
-      "first_seen": "2026-08-08T05:25:36+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AI設計ウイルス研究がScienceに正式掲載 バイオセキュリティ専門家が安全管理に警鐘のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_designed_virus_science_biosecurity",
-      "first_seen": "2026-08-08T05:25:36+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Meta、ターミナル型AIコーディングエージェント「Muse Code」をベータ公開 100万トークンの新モデル「Muse Spark 1.2」搭載のサムネイル画像",
-      "url": "https://ledge.ai/articles/meta_muse_code_muse_spark_1_2",
-      "first_seen": "2026-08-08T05:25:36+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
@@ -1200,41 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 福島県北・宮城仙南・山形置賜の“推しスポット”を巡ろう！デジタル周遊ラ… 県北・仙南・置賜へGO！推しスポット周遊ラリー 2026年8月1日（土）〜10月31日（土）",
       "url": "https://www.cjnavi.co.jp/event/20260801f-kenpoku-co-cre-map/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ 【モンモ良品】季節のご挨拶に福島の逸品を。2026年8月の夏ギフト8選 地元編集者が厳選する良品を集めた福島の通販サイト「Monmo良品」。今回はミニうな重やかまぼ...",
-      "url": "https://www.cjnavi.co.jp/life/20260801monmoryouhin/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 人気と実力を兼ね備えた、珠玉の豪華二人会を郡山市で開催 こおりやま寄席 林家正蔵・古今亭菊之丞二人会 2026年11月14日（土） ［チケット販売］2026年8月8日（土）〜",
-      "url": "https://www.cjnavi.co.jp/event/20260801koriyama-yose-futarikai/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 自然に囲まれた福島市「四季の里」でおいしいグルメや花火を満喫 四季の里 夏の花火大会2026 2026年8月8日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260801shikinosato-hanabi/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 伊達市で恒例の夏祭りを開催。約5,000発の花火の打ち上げも 伊達のふる里夏まつり2026 2026年8月8日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260801date-natsumatsuri/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 福島市「こむこむ館」で、重機操作シミュレーション『重機でGo』を使用し… 本物みたいに重機を操作！重機でGo体験会 2026年8月8日（土）・9日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260801comcom-kensetsu/",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
