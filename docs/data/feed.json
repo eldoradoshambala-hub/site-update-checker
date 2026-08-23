@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T04:18:28+00:00",
+  "generated_at": "2026-08-23T04:55:21+00:00",
   "site_count": 2,
-  "new_count": 9,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-22T04:18:28+00:00",
-      "last_update": "2026-08-22T04:18:28+00:00",
-      "new_count": 5,
-      "link_count": 20,
+      "last_checked": "2026-08-23T04:55:21+00:00",
+      "last_update": "2026-08-23T04:55:21+00:00",
+      "new_count": 3,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
+          "first_seen": "2026-08-23T04:55:21+00:00"
+        },
+        {
+          "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
+          "first_seen": "2026-08-23T04:55:21+00:00"
+        },
+        {
+          "title": "スペシャル 『CJ Monmo』2026年9月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年9月号を読んで以下のアンケートに答えると、抽選で豪...",
+          "url": "https://www.cjnavi.co.jp/special/20260825readers-gifts/",
+          "first_seen": "2026-08-23T04:55:21+00:00"
+        },
         {
           "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
           "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
@@ -252,21 +267,6 @@
           "title": "イベント 福島市大波地区の斜面に広がる黄色の花々。笑顔に包まれるイベントも 大波ひまわりまつり 2026年8月9日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260802oonami-himawari-fes/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 郡山市磐梯熱海に伝わる「萩姫伝説」にちなんだ祭りを開催 第60回 萩姫まつり 2026年8月9日（日）・10日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260802hagihime-matsuri/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント AD 沿線地域を見て、触れて、味わう「あぶくまロマンチック街道」周遊デジタ… あぶくまロマンチック街道 周遊デジタルラリー 2026年8月1日（土）～9月30日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260801aburoma-digitalrally/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント AD 福島県北・宮城仙南・山形置賜の“推しスポット”を巡ろう！デジタル周遊ラ… 県北・仙南・置賜へGO！推しスポット周遊ラリー 2026年8月1日（土）〜10月31日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260801f-kenpoku-co-cre-map/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
@@ -277,12 +277,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-22T04:18:28+00:00",
-      "last_update": "2026-08-22T04:18:28+00:00",
-      "new_count": 4,
-      "link_count": 39,
+      "last_checked": "2026-08-23T04:55:21+00:00",
+      "last_update": "2026-08-23T04:55:21+00:00",
+      "new_count": 2,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Googleと英政府、AIで温暖化につながる飛行機雲を避けるプロジェクト「Operation Blue Skies」始動 北大西洋の空域全体で実証へのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_operation_blue_skies_contrail_avoidance",
+          "first_seen": "2026-08-23T04:55:21+00:00"
+        },
+        {
+          "title": "Gartner調査、AI時代の職場変革で「デジタル／AIリテラシー教育」が首位 「テクノロジの積極活用」は2位→9位にのサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_ai_literacy_training_survey",
+          "first_seen": "2026-08-23T04:55:21+00:00"
+        },
         {
           "title": "生成AIで架空の女性「中村りほ」を演出し政治投稿 立憲民主党栃木県連の男性党員がX運用のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_fake_political_persona_x",
@@ -522,21 +532,46 @@
           "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
           "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
           "first_seen": "2026-08-09T05:37:17+00:00"
-        },
-        {
-          "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_book_scanning_rare_books",
-          "first_seen": "2026-08-09T05:37:17+00:00"
-        },
-        {
-          "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
-          "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
-          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
+      "first_seen": "2026-08-23T04:55:21+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
+      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
+      "first_seen": "2026-08-23T04:55:21+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "スペシャル 『CJ Monmo』2026年9月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年9月号を読んで以下のアンケートに答えると、抽選で豪...",
+      "url": "https://www.cjnavi.co.jp/special/20260825readers-gifts/",
+      "first_seen": "2026-08-23T04:55:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Googleと英政府、AIで温暖化につながる飛行機雲を避けるプロジェクト「Operation Blue Skies」始動 北大西洋の空域全体で実証へのサムネイル画像",
+      "url": "https://ledge.ai/articles/google_operation_blue_skies_contrail_avoidance",
+      "first_seen": "2026-08-23T04:55:21+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Gartner調査、AI時代の職場変革で「デジタル／AIリテラシー教育」が首位 「テクノロジの積極活用」は2位→9位にのサムネイル画像",
+      "url": "https://ledge.ai/articles/gartner_ai_literacy_training_survey",
+      "first_seen": "2026-08-23T04:55:21+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1042,20 +1077,6 @@
       "first_seen": "2026-08-09T05:37:17+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、AI学習用に数百万冊の書籍を裁断・スキャンし廃棄 希少本・古書の保存めぐり懸念のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_book_scanning_rare_books",
-      "first_seen": "2026-08-09T05:37:17+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "SpaceX、NVIDIAとAI衛星「Starmind AI1」を共同設計 マスク氏 「NVIDIA GPUを独占採用、だって最高だから」のサムネイル画像",
-      "url": "https://ledge.ai/articles/spacex_nvidia_starmind_ai1",
-      "first_seen": "2026-08-09T05:37:17+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
@@ -1214,27 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島市大波地区の斜面に広がる黄色の花々。笑顔に包まれるイベントも 大波ひまわりまつり 2026年8月9日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260802oonami-himawari-fes/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 郡山市磐梯熱海に伝わる「萩姫伝説」にちなんだ祭りを開催 第60回 萩姫まつり 2026年8月9日（日）・10日（月）",
-      "url": "https://www.cjnavi.co.jp/event/20260802hagihime-matsuri/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 沿線地域を見て、触れて、味わう「あぶくまロマンチック街道」周遊デジタ… あぶくまロマンチック街道 周遊デジタルラリー 2026年8月1日（土）～9月30日（水）",
-      "url": "https://www.cjnavi.co.jp/event/20260801aburoma-digitalrally/",
-      "first_seen": "2026-08-03T06:23:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 福島県北・宮城仙南・山形置賜の“推しスポット”を巡ろう！デジタル周遊ラ… 県北・仙南・置賜へGO！推しスポット周遊ラリー 2026年8月1日（土）〜10月31日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260801f-kenpoku-co-cre-map/",
       "first_seen": "2026-08-03T06:23:02+00:00"
     }
   ]
