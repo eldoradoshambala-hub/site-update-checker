@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-23T04:55:23+00:00",
+  "updated_at": "2026-08-24T05:24:03+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-23T04:55:21+00:00",
-      "last_update": "2026-08-23T04:55:21+00:00",
+      "last_checked": "2026-08-24T05:24:01+00:00",
+      "last_update": "2026-08-24T05:24:01+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -266,9 +266,18 @@
         "https://www.cjnavi.co.jp/special/20260825readers-gifts/": {
           "title": "スペシャル 『CJ Monmo』2026年9月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年9月号を読んで以下のアンケートに答えると、抽選で豪...",
           "first_seen": "2026-08-23T04:55:21+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260824monmoryouhin/": {
+          "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
+          "first_seen": "2026-08-24T05:24:01+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
+          "url": "https://www.cjnavi.co.jp/life/20260824monmoryouhin/",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
         {
           "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
           "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
@@ -513,19 +522,14 @@
           "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開幕！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年8月 2026年8月9日（日）・29日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260802united-fc-homegame/",
           "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 福島市大波地区の斜面に広がる黄色の花々。笑顔に包まれるイベントも 大波ひまわりまつり 2026年8月9日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260802oonami-himawari-fes/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-23T04:55:21+00:00",
-      "last_update": "2026-08-23T04:55:21+00:00",
+      "last_checked": "2026-08-24T05:24:01+00:00",
+      "last_update": "2026-08-24T05:24:01+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -981,9 +985,45 @@
         "https://ledge.ai/articles/gartner_ai_literacy_training_survey": {
           "title": "Gartner調査、AI時代の職場変革で「デジタル／AIリテラシー教育」が首位 「テクノロジの積極活用」は2位→9位にのサムネイル画像",
           "first_seen": "2026-08-23T04:55:21+00:00"
+        },
+        "https://ledge.ai/articles/kddi-market-compass-session": {
+          "title": "法人向けAIサービス説明会を開催 AIの競争軸は「モデル」から「データ」へ―KDDIのサムネイル画像",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        "https://ledge.ai/articles/stripe_openrouter_acquisition": {
+          "title": "決済プラットフォーム運営の米Stripe、AIモデルゲートウェイOpenRouterを買収へ 400超のモデルを横断、トークン利用を最適化のサムネイル画像",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        "https://ledge.ai/articles/sakana_translate_namazu_update": {
+          "title": "Sakana AI、「Sakana Translate」を新世代Namazuに更新 日英翻訳の自社評価でGoogle翻訳・DeepLなど上回るのサムネイル画像",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        "https://ledge.ai/articles/hanover_ai_chatbot_influence": {
+          "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開のサムネイル画像",
+          "first_seen": "2026-08-24T05:24:01+00:00"
         }
       },
       "recent": [
+        {
+          "title": "法人向けAIサービス説明会を開催 AIの競争軸は「モデル」から「データ」へ―KDDIのサムネイル画像",
+          "url": "https://ledge.ai/articles/kddi-market-compass-session",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        {
+          "title": "決済プラットフォーム運営の米Stripe、AIモデルゲートウェイOpenRouterを買収へ 400超のモデルを横断、トークン利用を最適化のサムネイル画像",
+          "url": "https://ledge.ai/articles/stripe_openrouter_acquisition",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        {
+          "title": "Sakana AI、「Sakana Translate」を新世代Namazuに更新 日英翻訳の自社評価でGoogle翻訳・DeepLなど上回るのサムネイル画像",
+          "url": "https://ledge.ai/articles/sakana_translate_namazu_update",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        {
+          "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/hanover_ai_chatbot_influence",
+          "first_seen": "2026-08-24T05:24:01+00:00"
+        },
         {
           "title": "Googleと英政府、AIで温暖化につながる飛行機雲を避けるプロジェクト「Operation Blue Skies」始動 北大西洋の空域全体で実証へのサムネイル画像",
           "url": "https://ledge.ai/articles/google_operation_blue_skies_contrail_avoidance",
@@ -1213,26 +1253,6 @@
           "title": "OpenAI、開発中AI「Astra」が初の最高水準「Critical」に達する可能性 一部の内部活動を停止のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_astra_critical_cyber",
           "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "生成AIは「使わせるだけ」では成果につながらない？ ルール・利用状況の管理で業務削減の実感に差 KPMG調査のサムネイル画像",
-          "url": "https://ledge.ai/articles/kpmg_ai_governance_productivity",
-          "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "Microsoft、エンジニアに「AIを大量に使えばいいわけではない」 社内メールで成果重視を強調のサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_ai_token_usage_outcomes",
-          "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "ガートナー、日本のデジタル・ワークプレース2026年版を発表 エージェント型AIは主流採用まで5〜10年のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_japan_digital_workplace_hype_cycle_2026",
-          "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "KADOKAWAとはてな、AI小説エディタ「RIKU」発表 物語を代筆せず、発想整理や校正・校閲を支援のサムネイル画像",
-          "url": "https://ledge.ai/articles/kadokawa_hatena_ai_novel_editor_riku",
-          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       ]
     }
