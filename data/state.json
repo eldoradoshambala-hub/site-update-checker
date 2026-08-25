@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-24T05:24:03+00:00",
+  "updated_at": "2026-08-25T04:59:33+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-24T05:24:01+00:00",
-      "last_update": "2026-08-24T05:24:01+00:00",
+      "last_checked": "2026-08-25T04:59:31+00:00",
+      "last_update": "2026-08-25T04:59:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -270,9 +270,144 @@
         "https://www.cjnavi.co.jp/life/20260824monmoryouhin/": {
           "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
           "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260825fukushima-pridebin/": {
+          "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/": {
+          "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825greenpilafit/": {
+          "title": "ライフ AD 【スポーツライフ快適ナビ2026】「鍛える・整える・癒やす」がここで完結！ GreenPilaFit （グリーンピラフィット）",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-naraigoto/": {
+          "title": "ライフ AD 子どもの習い事を始めるなら？福島市でおすすめのスクール3選 子どもの「楽しい」や「頑張ろう」という気持ちを引き出す習い事がきっと見つかる！福島市の...",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/": {
+          "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825hattatsushien-mast/": {
+          "title": "ライフ AD 【発達支援施設】園や学校と連携し、子どもの「困り感」を支援 発達支援センター ますと",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-shiminpc/": {
+          "title": "ライフ AD 【子どもの習い事】はじめてパソコンに触れる子どもでも安心の教室 市民パソコン塾 福島荒井校",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-sports-shinkoukousya/": {
+          "title": "ライフ AD 【子どもの習い事】体は強くなる！ジュニアスポーツ教室を通年開催 福島市スポーツ振興公社",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-kodomoclub/": {
+          "title": "ライフ AD 【子どもの習い事】思考力を育てる幼児教室！秋キャンペーン実施 幼児教室 こどもクラブ 福島教室",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-pianohouse-fukushima/": {
+          "title": "ライフ AD 【子育てお役立ち情報】販売・買取・レッスン、ピアノのことはお任せ！ ピアノハウス福島",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-obaramegane/": {
+          "title": "ライフ AD 【子育てお役立ち情報】国家検定資格のプロがつくる、安心の適正メガネ 眼鏡専門店 小原眼鏡（おばらめがね）",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-jellybeans/": {
+          "title": "ライフ AD 【子育てお役立ち情報】「いつもの個室美容室」で、家族の笑顔も成長中！ 美容室 Jelly Beans（ジェリービーンズ）",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260825kosodate-appease/": {
+          "title": "ライフ AD 【子育てお役立ち情報】親子カットや赤ちゃん筆も！子育て応援サロン HAIR MAKE APPEASE（アピーズ）",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260825kosodate-yamu/": {
+          "title": "グルメ AD 【子育てお役立ち情報】個室ありの古民家会席で大切な節目をお祝い 四季茶房 八夢（やむ）",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260825cjmonmo-62/": {
+          "title": "月刊CJ Monmo 2026年9月号",
+          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260825fukushima-pridebin/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
+          "url": "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【スポーツライフ快適ナビ2026】「鍛える・整える・癒やす」がここで完結！ GreenPilaFit （グリーンピラフィット）",
+          "url": "https://www.cjnavi.co.jp/life/20260825greenpilafit/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 子どもの習い事を始めるなら？福島市でおすすめのスクール3選 子どもの「楽しい」や「頑張ろう」という気持ちを引き出す習い事がきっと見つかる！福島市の...",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-naraigoto/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【発達支援施設】園や学校と連携し、子どもの「困り感」を支援 発達支援センター ますと",
+          "url": "https://www.cjnavi.co.jp/life/20260825hattatsushien-mast/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子どもの習い事】はじめてパソコンに触れる子どもでも安心の教室 市民パソコン塾 福島荒井校",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-shiminpc/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子どもの習い事】体は強くなる！ジュニアスポーツ教室を通年開催 福島市スポーツ振興公社",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-sports-shinkoukousya/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子どもの習い事】思考力を育てる幼児教室！秋キャンペーン実施 幼児教室 こどもクラブ 福島教室",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-kodomoclub/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子育てお役立ち情報】販売・買取・レッスン、ピアノのことはお任せ！ ピアノハウス福島",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-pianohouse-fukushima/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子育てお役立ち情報】国家検定資格のプロがつくる、安心の適正メガネ 眼鏡専門店 小原眼鏡（おばらめがね）",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-obaramegane/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子育てお役立ち情報】「いつもの個室美容室」で、家族の笑顔も成長中！ 美容室 Jelly Beans（ジェリービーンズ）",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-jellybeans/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "ライフ AD 【子育てお役立ち情報】親子カットや赤ちゃん筆も！子育て応援サロン HAIR MAKE APPEASE（アピーズ）",
+          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-appease/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "グルメ AD 【子育てお役立ち情報】個室ありの古民家会席で大切な節目をお祝い 四季茶房 八夢（やむ）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260825kosodate-yamu/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "月刊CJ Monmo 2026年9月号",
+          "url": "https://www.cjnavi.co.jp/magazine/20260825cjmonmo-62/",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
         {
           "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
           "url": "https://www.cjnavi.co.jp/life/20260824monmoryouhin/",
@@ -447,89 +582,14 @@
           "title": "おでかけ AD 【夏にしたいこと2026】乗る人の毎日を彩る！『福島ダイハツ』の「ムーヴ… カーディーラー 福島ダイハツ販売（株） いわき内郷店",
           "url": "https://www.cjnavi.co.jp/trip/20260725fukushima-daihatsu/",
           "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "イベント 360度どの角度からも美しい安積町を照らす大輪の花火 第55回 あさか野夏まつり花火大会 2026年8月14日（金）",
-          "url": "https://www.cjnavi.co.jp/event/20260807asakano-hanabi/",
-          "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "イベント 子ども盆踊りなど、家族連れに人気！福島市成川区の夏祭り 第30回 成川区夏祭り 2026年8月13日（木）",
-          "url": "https://www.cjnavi.co.jp/event/20260806narikawa-matsuri/",
-          "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "イベント いわき市で、日本一大きな回転やぐらと盆踊りを楽しむ 第71回 いわき回転やぐら盆踊り大会 2026年8月13日（木）～15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260806iwaki-kaitenyagura/",
-          "first_seen": "2026-08-06T11:36:46+00:00"
-        },
-        {
-          "title": "イベント AD 福島市「西田記念館」で『植木昭夫コレクション展』を開催。こけしに寄せ… 「こけし部屋」からの伝言 植木昭夫コレクション展 2026年8月4日（火）〜11月29日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260805uekiakio-nishidakinenkan/",
-          "first_seen": "2026-08-05T11:32:07+00:00"
-        },
-        {
-          "title": "イベント 音楽や花火を楽しめる！二本松市安達地域の夏祭り 第37回 智恵子の里 安達夏祭り 2026年8月12日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260805adachi-natsumatsuri/",
-          "first_seen": "2026-08-05T11:32:07+00:00"
-        },
-        {
-          "title": "イベント 今年で38回目、伝統ある保原町の夏祭り。食べて、遊んで、踊って楽しもう！ ほばらサマーフェスティバル 2026年8月11日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260804hobara-summerfes/",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "イベント AD 市制20周年を記念し、南相馬市で『NHKのど自慢』を開催！出場者を募集中 南相馬市制20周年記念 NHKのど自慢 2026年9月27日（日） ※出場応募締切2026年8月17日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260804nhk-nodojiman/",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "2026ふくしま医療ガイド",
-          "url": "https://www.cjnavi.co.jp/life/20260525cj-monmo-clinic/",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "ふくしま日帰り温泉 2025-2026",
-          "url": "https://www.cjnavi.co.jp/magazine/fukushima-higaeri-onsen/",
-          "first_seen": "2026-08-04T06:29:53+00:00"
-        },
-        {
-          "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "グルメ 二本松市に『CALM 2号店』がオープン！緑あふれる空間で生パスタを味わう PASTA＆CAFE CALM（カーム）2号店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260803newopen-calm/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "グルメ オートキャンプ場でミートキャンプ！伊達市月舘町で職人の肉を喰らう 第107回「月舘肉食堂 ぶたの休日」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260802fukushima-teisyokubu107/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 福島市「ふくしん夢の音楽堂」で、ヴァイオリニスト・篠崎史紀氏をゲスト… 立花和夫記念 第13回演奏会 ラルカータ室内合奏団「冬桜コンサート」 2026年11月28日（土） ［チケット一般販売］2026年8月9日（日）～",
-          "url": "https://www.cjnavi.co.jp/event/20260802larcata-concert/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開幕！『いわきFC』を応援し… 【いわきFCホーム戦】2026年8月 2026年8月9日（日）・29日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260802iwakifc-homegame/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
-        },
-        {
-          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開幕！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年8月 2026年8月9日（日）・29日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260802united-fc-homegame/",
-          "first_seen": "2026-08-03T06:23:02+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-24T05:24:01+00:00",
-      "last_update": "2026-08-24T05:24:01+00:00",
+      "last_checked": "2026-08-25T04:59:31+00:00",
+      "last_update": "2026-08-25T04:59:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1001,9 +1061,54 @@
         "https://ledge.ai/articles/hanover_ai_chatbot_influence": {
           "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開のサムネイル画像",
           "first_seen": "2026-08-24T05:24:01+00:00"
+        },
+        "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open": {
+          "title": "「Ledge.ai EXPO 2026 AUTUMN」を本日より公開 9月4日には参加無料のLIVEウェビナーものサムネイル画像",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://ledge.ai/articles/lineyahoo-communications-interview": {
+          "title": "「困ったら、まずAI」が当たり前に。LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビューのサムネイル画像",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://ledge.ai/articles/moonshot_ai_kimi_japan_expansion": {
+          "title": "中国Moonshot AIの「Kimi」、日本向け展開を本格化 「今日から、日本での歩みを始める」のサムネイル画像",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_mythos_5_security_vulnerability_scan": {
+          "title": "Anthropic、「Claude Mythos 5」をClaude Securityに導入 モデルは直接開放せず脆弱性スキャンに限定のサムネイル画像",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://ledge.ai/articles/kddi_beyond_borders_accelerator": {
+          "title": "KDDI、日本発AIスタートアップ5社の米国顧客開拓を支援 「Beyond Borders Accelerator」開始のサムネイル画像",
+          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "「Ledge.ai EXPO 2026 AUTUMN」を本日より公開 9月4日には参加無料のLIVEウェビナーものサムネイル画像",
+          "url": "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "「困ったら、まずAI」が当たり前に。LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビューのサムネイル画像",
+          "url": "https://ledge.ai/articles/lineyahoo-communications-interview",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "中国Moonshot AIの「Kimi」、日本向け展開を本格化 「今日から、日本での歩みを始める」のサムネイル画像",
+          "url": "https://ledge.ai/articles/moonshot_ai_kimi_japan_expansion",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "Anthropic、「Claude Mythos 5」をClaude Securityに導入 モデルは直接開放せず脆弱性スキャンに限定のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_mythos_5_security_vulnerability_scan",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        {
+          "title": "KDDI、日本発AIスタートアップ5社の米国顧客開拓を支援 「Beyond Borders Accelerator」開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/kddi_beyond_borders_accelerator",
+          "first_seen": "2026-08-25T04:59:31+00:00"
+        },
         {
           "title": "法人向けAIサービス説明会を開催 AIの競争軸は「モデル」から「データ」へ―KDDIのサムネイル画像",
           "url": "https://ledge.ai/articles/kddi-market-compass-session",
@@ -1228,31 +1333,6 @@
           "title": "お盆の旅行計画や混雑・遅延確認もGoogle マップに“相談” Gemini融合の新機能、日本で順次提供開始のサムネイル画像",
           "url": "https://ledge.ai/articles/google_maps_ask_maps_japan",
           "first_seen": "2026-08-12T08:02:50+00:00"
-        },
-        {
-          "title": "Shopify、AI検索は従来検索の代替ではなく新たな流入経路との見方 小規模ブランドに恩恵、AI経由の流入・注文は3倍のサムネイル画像",
-          "url": "https://ledge.ai/articles/shopify_ai_search_long_tail",
-          "first_seen": "2026-08-12T08:02:50+00:00"
-        },
-        {
-          "title": "OpenAI、Hugging Face侵害の詳細をBlack Hatで説明 AIエージェント同士が「掲示板」を作り攻撃情報を共有のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_hugging_face_black_hat_2026",
-          "first_seen": "2026-08-11T06:01:51+00:00"
-        },
-        {
-          "title": "Anthropic、「Claude Fable 5」の生物学セーフガードを緩和 誤検知85％削減、危険領域の制限は維持のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_fable_5_biology_safeguards",
-          "first_seen": "2026-08-11T06:01:51+00:00"
-        },
-        {
-          "title": "Anthropic、Claude Code「auto mode」をデフォルト化へ 危険なコマンドを89％ブロック、人間は13.6％のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_code_auto_mode_default",
-          "first_seen": "2026-08-11T06:01:51+00:00"
-        },
-        {
-          "title": "OpenAI、開発中AI「Astra」が初の最高水準「Critical」に達する可能性 一部の内部活動を停止のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_astra_critical_cyber",
-          "first_seen": "2026-08-10T08:18:00+00:00"
         }
       ]
     }
