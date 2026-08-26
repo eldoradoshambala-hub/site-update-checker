@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T04:59:33+00:00",
+  "updated_at": "2026-08-26T05:02:57+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-25T04:59:31+00:00",
-      "last_update": "2026-08-25T04:59:31+00:00",
+      "last_checked": "2026-08-26T05:02:55+00:00",
+      "last_update": "2026-08-26T05:02:55+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -330,9 +330,18 @@
         "https://www.cjnavi.co.jp/magazine/20260825cjmonmo-62/": {
           "title": "月刊CJ Monmo 2026年9月号",
           "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/": {
+          "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
+          "first_seen": "2026-08-26T05:02:55+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
         {
           "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
           "url": "https://www.cjnavi.co.jp/gourmet/20260825fukushima-pridebin/",
@@ -577,19 +586,14 @@
           "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260807kitakata-natsumatsuri/",
           "first_seen": "2026-08-07T06:54:47+00:00"
-        },
-        {
-          "title": "おでかけ AD 【夏にしたいこと2026】乗る人の毎日を彩る！『福島ダイハツ』の「ムーヴ… カーディーラー 福島ダイハツ販売（株） いわき内郷店",
-          "url": "https://www.cjnavi.co.jp/trip/20260725fukushima-daihatsu/",
-          "first_seen": "2026-08-07T06:54:47+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-25T04:59:31+00:00",
-      "last_update": "2026-08-25T04:59:31+00:00",
+      "last_checked": "2026-08-26T05:02:55+00:00",
+      "last_update": "2026-08-26T05:02:55+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1081,9 +1085,36 @@
         "https://ledge.ai/articles/kddi_beyond_borders_accelerator": {
           "title": "KDDI、日本発AIスタートアップ5社の米国顧客開拓を支援 「Beyond Borders Accelerator」開始のサムネイル画像",
           "first_seen": "2026-08-25T04:59:31+00:00"
+        },
+        "https://ledge.ai/articles/intel_robotics_readiness_gap": {
+          "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_academy": {
+          "title": "Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べるのサムネイル画像",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        "https://ledge.ai/articles/hatena_parks_mouton_ai_moderation": {
+          "title": "はてな、AI「Mouton」が全スレッドに常駐する「はてなパークス」正式公開 AIが不適切投稿を自動非表示、要約やタイトル提案ものサムネイル画像",
+          "first_seen": "2026-08-26T05:02:55+00:00"
         }
       },
       "recent": [
+        {
+          "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
+          "url": "https://ledge.ai/articles/intel_robotics_readiness_gap",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        {
+          "title": "Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べるのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_academy",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        {
+          "title": "はてな、AI「Mouton」が全スレッドに常駐する「はてなパークス」正式公開 AIが不適切投稿を自動非表示、要約やタイトル提案ものサムネイル画像",
+          "url": "https://ledge.ai/articles/hatena_parks_mouton_ai_moderation",
+          "first_seen": "2026-08-26T05:02:55+00:00"
+        },
         {
           "title": "「Ledge.ai EXPO 2026 AUTUMN」を本日より公開 9月4日には参加無料のLIVEウェビナーものサムネイル画像",
           "url": "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open",
@@ -1318,21 +1349,6 @@
           "title": "Geminiアプリ、月間ユーザー10億人突破 Google史上最速の成長製品にのサムネイル画像",
           "url": "https://ledge.ai/articles/gemini_app_one_billion_mau",
           "first_seen": "2026-08-13T08:04:21+00:00"
-        },
-        {
-          "title": "Meta、ローカルAIエージェント向け「Muse Glimmer」公開 296億パラメータ、量子化版は24GB GPUで動作のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_glimmer_open_model",
-          "first_seen": "2026-08-13T08:04:21+00:00"
-        },
-        {
-          "title": "Suno、AI生成楽曲に「音声ウォーターマーク」導入へ 模倣防止を強化、9月3日からダウンロード制限 無料は生涯7回のサムネイル画像",
-          "url": "https://ledge.ai/articles/suno_ai_music_safety_download_limits",
-          "first_seen": "2026-08-12T08:02:50+00:00"
-        },
-        {
-          "title": "お盆の旅行計画や混雑・遅延確認もGoogle マップに“相談” Gemini融合の新機能、日本で順次提供開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_maps_ask_maps_japan",
-          "first_seen": "2026-08-12T08:02:50+00:00"
         }
       ]
     }
