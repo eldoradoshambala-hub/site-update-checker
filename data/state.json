@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T05:02:57+00:00",
+  "updated_at": "2026-08-28T21:13:04+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-26T05:02:55+00:00",
-      "last_update": "2026-08-26T05:02:55+00:00",
+      "last_checked": "2026-08-28T21:13:02+00:00",
+      "last_update": "2026-08-28T21:13:02+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -334,9 +334,63 @@
         "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/": {
           "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
           "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829ookuma-summerfes/": {
+          "title": "イベント 大熊町で夏祭りを開催。仮装盆踊りや花火大会を楽しもう！ なつ祭りinおおくま 2026年9月5日（土）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829geijutsusai-kunimi/": {
+          "title": "イベント 福島県内外の飲食店や物販、アーティストなど50組以上が国見町に集結 盆地と里の芸術祭 2026年9月5日（土）・6日（日）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829koriyama-art-museum/": {
+          "title": "イベント 「郡山市立美術館」で近代日本画の巨匠・小野竹喬が描いた自然の美をたどる うつりゆく⾃然を描く ⼩野⽵喬の世界 【前期】2026年9月5日（土）～23日（祝） 【後期】2026年9月25日（金）～10月12日（祝）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/": {
+          "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829new-naganuma-fes/": {
+          "title": "イベント 須賀川市長沼地区で、今と昔が出合う『ニューナガヌマフェスティバル』を… ニューナガヌマフェスティバル 2026年9月5日（土）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260829mucha-motomiya-artmuseum/": {
+          "title": "イベント アール・ヌーヴォーを代表するアルフォンス・ミュシャの世界を「本宮市ふ… アルフォンス・ミュシャ アール・ヌーヴォーの華 2026年9月5日（土）～11月1日（日）",
+          "first_seen": "2026-08-28T21:13:02+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 大熊町で夏祭りを開催。仮装盆踊りや花火大会を楽しもう！ なつ祭りinおおくま 2026年9月5日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260829ookuma-summerfes/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "イベント 福島県内外の飲食店や物販、アーティストなど50組以上が国見町に集結 盆地と里の芸術祭 2026年9月5日（土）・6日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260829geijutsusai-kunimi/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "イベント 「郡山市立美術館」で近代日本画の巨匠・小野竹喬が描いた自然の美をたどる うつりゆく⾃然を描く ⼩野⽵喬の世界 【前期】2026年9月5日（土）～23日（祝） 【後期】2026年9月25日（金）～10月12日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260829koriyama-art-museum/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "イベント 須賀川市長沼地区で、今と昔が出合う『ニューナガヌマフェスティバル』を… ニューナガヌマフェスティバル 2026年9月5日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260829new-naganuma-fes/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "イベント アール・ヌーヴォーを代表するアルフォンス・ミュシャの世界を「本宮市ふ… アルフォンス・ミュシャ アール・ヌーヴォーの華 2026年9月5日（土）～11月1日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260829mucha-motomiya-artmuseum/",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
         {
           "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
           "url": "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/",
@@ -556,44 +610,14 @@
           "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
           "first_seen": "2026-08-09T05:37:17+00:00"
-        },
-        {
-          "title": "イベント 伝統の「たかむら踊り」に太鼓演奏、花火で盛り上がる小野町の夏祭り おのまち夏まつり 2026年8月15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260808onotown-natsumatsuri/",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "イベント 塙町の夜を灯ろう流しと花火が彩る 第97回 塙流灯花火大会 2026年8月15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260808hanawa-ryutou-hanabi/",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "イベント 広野町の夏祭り。音楽に合わせて約4,000発の花火が夜空に咲き誇る 広野町サマフェス2026 2026年8月15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260808hirono-summerfes/",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "イベント 富岡町で400年の伝統を受け継ぐ、歴史ある伝統行事 麓山の火祭り 2026年8月15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260808hayama-himatsuri/",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "スペシャル 『ふくしま日帰り温泉』最新版が9月13日（日）まで100円引き＆送料無料で… 『ふくしま日帰り温泉2026-2027』予約キャンペーン",
-          "url": "https://www.cjnavi.co.jp/special/20260807higaerionsen-yoyaku/",
-          "first_seen": "2026-08-08T05:25:36+00:00"
-        },
-        {
-          "title": "イベント AD 一度は体験したい喜多方の熱い夏！『第59回 蔵のまち喜多方夏まつり』開催！ 第59回 蔵のまち喜多方夏まつり 2026年8月14日（金）・15日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260807kitakata-natsumatsuri/",
-          "first_seen": "2026-08-07T06:54:47+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-26T05:02:55+00:00",
-      "last_update": "2026-08-26T05:02:55+00:00",
+      "last_checked": "2026-08-28T21:13:02+00:00",
+      "last_update": "2026-08-28T21:13:02+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1097,9 +1121,99 @@
         "https://ledge.ai/articles/hatena_parks_mouton_ai_moderation": {
           "title": "はてな、AI「Mouton」が全スレッドに常駐する「はてなパークス」正式公開 AIが不適切投稿を自動非表示、要約やタイトル提案ものサムネイル画像",
           "first_seen": "2026-08-26T05:02:55+00:00"
+        },
+        "https://ledge.ai/articles/qwen3_8_flash_next_qwen4_architecture": {
+          "title": "Alibaba「Qwen3.8-Flash-Next」公開、Qwen4の次世代アーキテクチャを先行投入 学習コストは約9分の1のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/openai_jalapeno_benchmark_results": {
+          "title": "ビジネス 2026 / 8 / 27 [THU] OpenAI独自推論チップ「ハラペーニョ」実測公開、NVIDIA GB200/GB300比でワット当たり最大1.9倍",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/meta_metaroce_ai_ethernet": {
+          "title": "ビジネス 2026 / 8 / 27 [THU] Meta、100万GPU時代を見据えた新プロトコル「MetaRoCE」発表 AI向けEthernet通信を再設計",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/sakana_ai_defense_information_analysis": {
+          "title": "防衛省の情報分析をSakana AIがAI支援 公開情報で収集・分析・管理、AIエージェント技術を実証のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/openrouter_image_benchmarks": {
+          "title": "ワイングラスを縁まで満たせるか、指を3本描けるか OpenRouterが39の画像生成AIを比較する「Image Benchmarks」公開のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/claude_code_github_copilot_jetbrains_survey_2026": {
+          "title": "AIコーディングエージェント、開発者の90％が週1回以上利用 Claude Codeが39％でGitHub Copilotを逆転し首位に 1月18％から急伸のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/japan-ai-awards-announce": {
+          "title": "「日本AI大賞2026」エントリー受付中 効率化にとどまらないAI活用の挑戦を表彰のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/japan_ai_principle_code_ip_transparency": {
+          "title": "政府、生成AI事業者向け「プリンシプル・コード」公表 学習データの透明性や知財保護を求めるのサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/alibaba_wan3_general_availability": {
+          "title": "Alibaba、AI動画生成「Wan3.0」を一般提供 最大30秒、PDF・PowerPoint・Webページも動画化のサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        "https://ledge.ai/articles/world_humanoid_robot_games_tiangong_100m": {
+          "title": "北京「世界人型ロボット運動会」、天工Ultraが100mを9秒32 人類男子世界記録9秒58を上回るのサムネイル画像",
+          "first_seen": "2026-08-28T21:13:02+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Alibaba「Qwen3.8-Flash-Next」公開、Qwen4の次世代アーキテクチャを先行投入 学習コストは約9分の1のサムネイル画像",
+          "url": "https://ledge.ai/articles/qwen3_8_flash_next_qwen4_architecture",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 8 / 27 [THU] OpenAI独自推論チップ「ハラペーニョ」実測公開、NVIDIA GB200/GB300比でワット当たり最大1.9倍",
+          "url": "https://ledge.ai/articles/openai_jalapeno_benchmark_results",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 8 / 27 [THU] Meta、100万GPU時代を見据えた新プロトコル「MetaRoCE」発表 AI向けEthernet通信を再設計",
+          "url": "https://ledge.ai/articles/meta_metaroce_ai_ethernet",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "防衛省の情報分析をSakana AIがAI支援 公開情報で収集・分析・管理、AIエージェント技術を実証のサムネイル画像",
+          "url": "https://ledge.ai/articles/sakana_ai_defense_information_analysis",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "ワイングラスを縁まで満たせるか、指を3本描けるか OpenRouterが39の画像生成AIを比較する「Image Benchmarks」公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/openrouter_image_benchmarks",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "AIコーディングエージェント、開発者の90％が週1回以上利用 Claude Codeが39％でGitHub Copilotを逆転し首位に 1月18％から急伸のサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_code_github_copilot_jetbrains_survey_2026",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "「日本AI大賞2026」エントリー受付中 効率化にとどまらないAI活用の挑戦を表彰のサムネイル画像",
+          "url": "https://ledge.ai/articles/japan-ai-awards-announce",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "政府、生成AI事業者向け「プリンシプル・コード」公表 学習データの透明性や知財保護を求めるのサムネイル画像",
+          "url": "https://ledge.ai/articles/japan_ai_principle_code_ip_transparency",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "Alibaba、AI動画生成「Wan3.0」を一般提供 最大30秒、PDF・PowerPoint・Webページも動画化のサムネイル画像",
+          "url": "https://ledge.ai/articles/alibaba_wan3_general_availability",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
+        {
+          "title": "北京「世界人型ロボット運動会」、天工Ultraが100mを9秒32 人類男子世界記録9秒58を上回るのサムネイル画像",
+          "url": "https://ledge.ai/articles/world_humanoid_robot_games_tiangong_100m",
+          "first_seen": "2026-08-28T21:13:02+00:00"
+        },
         {
           "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
           "url": "https://ledge.ai/articles/intel_robotics_readiness_gap",
@@ -1299,56 +1413,6 @@
           "title": "OpenAI元COOブラッド・ライトキャップ氏が退社 安全・倫理責任者など重要人物の離職相次ぐのサムネイル画像",
           "url": "https://ledge.ai/articles/openai_brad_lightcap_executive_departures",
           "first_seen": "2026-08-16T04:51:56+00:00"
-        },
-        {
-          "title": "AIとの長い会話で「妄想スパイラル」が悪化 自傷を止めない割合30％→41％、スタンフォード大などの研究のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_delusional_spirals_stanford",
-          "first_seen": "2026-08-15T04:15:33+00:00"
-        },
-        {
-          "title": "Anthropic、未公開Claudeが「リーマン予想」に挑戦 証明は失敗も関連問題で41.6％→67.2％、「自分を信じて」と人間が励ますのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis",
-          "first_seen": "2026-08-15T04:15:33+00:00"
-        },
-        {
-          "title": "SpaceXAI、「Grok 4.6」公開 長時間稼働するAIエージェントを強化、4.5から約4週間で更新のサムネイル画像",
-          "url": "https://ledge.ai/articles/spacexai_grok_4_6_release",
-          "first_seen": "2026-08-15T04:15:33+00:00"
-        },
-        {
-          "title": "Vercel、AIエージェント向け共通プラグイン規格「Agent Plugins」公開 SkillsとMCPを一括配布のサムネイル画像",
-          "url": "https://ledge.ai/articles/vercel_agent_plugins",
-          "first_seen": "2026-08-14T08:00:04+00:00"
-        },
-        {
-          "title": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会のサムネイル画像",
-          "url": "https://ledge.ai/articles/cat-ai-study-meeting",
-          "first_seen": "2026-08-14T08:00:04+00:00"
-        },
-        {
-          "title": "Alibaba、「Qwen3.8-Max」で大口商用ユーザーに収益分配求める方針 オープンモデルを“フリーミアム”化かのサムネイル画像",
-          "url": "https://ledge.ai/articles/alibaba_qwen3_8_max_revenue_sharing",
-          "first_seen": "2026-08-14T08:00:04+00:00"
-        },
-        {
-          "title": "OpenAI、サイバー防御者向け「Daybreak」をBlue／Redに2階層化 Redで新モデル「GPT-5.6-Cyber」提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_daybreak_blue_red_gpt_5_6_cyber",
-          "first_seen": "2026-08-14T08:00:04+00:00"
-        },
-        {
-          "title": "Anthropic、Claude生成テキストに「見えない透かし」 コピペ後も付随、APIやClaude Codeも対象のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_text_watermark",
-          "first_seen": "2026-08-13T08:04:21+00:00"
-        },
-        {
-          "title": "テレビ朝日、サントリー「GREEN DA・KA・RA」のCM映像を全編生成AIで制作 放送現場でのAI活用も進むのサムネイル画像",
-          "url": "https://ledge.ai/articles/tv_asahi_green_dakara_generative_ai_cm",
-          "first_seen": "2026-08-13T08:04:21+00:00"
-        },
-        {
-          "title": "Geminiアプリ、月間ユーザー10億人突破 Google史上最速の成長製品にのサムネイル画像",
-          "url": "https://ledge.ai/articles/gemini_app_one_billion_mau",
-          "first_seen": "2026-08-13T08:04:21+00:00"
         }
       ]
     }
