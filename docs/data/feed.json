@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T21:13:02+00:00",
+  "generated_at": "2026-08-29T09:36:59+00:00",
   "site_count": 2,
-  "new_count": 16,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-28T21:13:02+00:00",
-      "last_update": "2026-08-28T21:13:02+00:00",
-      "new_count": 6,
-      "link_count": 20,
+      "last_checked": "2026-08-29T09:36:59+00:00",
+      "last_update": "2026-08-29T09:36:59+00:00",
+      "new_count": 1,
+      "link_count": 19,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
+          "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
+          "first_seen": "2026-08-29T09:36:59+00:00"
+        },
         {
           "title": "イベント 大熊町で夏祭りを開催。仮装盆踊りや花火大会を楽しもう！ なつ祭りinおおくま 2026年9月5日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260829ookuma-summerfes/",
@@ -262,11 +267,6 @@
           "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
           "first_seen": "2026-08-09T05:37:17+00:00"
-        },
-        {
-          "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
-          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-28T21:13:02+00:00",
-      "last_update": "2026-08-28T21:13:02+00:00",
-      "new_count": 10,
-      "link_count": 39,
+      "last_checked": "2026-08-29T09:36:59+00:00",
+      "last_update": "2026-08-29T09:36:59+00:00",
+      "new_count": 3,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Meta、52の州などの司法当局と未成年ユーザーの保護に最大約180億ドル（約２兆9000億円）で和解 Instagram・Facebookに未成年2時間制限、13歳未満を判定するAIモデル開発へのサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_teen_safety_settlement_ai_age_model",
+          "first_seen": "2026-08-29T09:36:59+00:00"
+        },
+        {
+          "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_eve_online_ai_research",
+          "first_seen": "2026-08-29T09:36:59+00:00"
+        },
+        {
+          "title": "米Accelerated Understanding、物理状態を4D予測するAIモデル公開 ポストTransformerの「ニューラルオペレーター」活用で推論時5兆超コンテキストのサムネイル画像",
+          "url": "https://ledge.ai/articles/accelerated_understanding_physical_ai_4d",
+          "first_seen": "2026-08-29T09:36:59+00:00"
+        },
         {
           "title": "Alibaba「Qwen3.8-Flash-Next」公開、Qwen4の次世代アーキテクチャを先行投入 学習コストは約9分の1のサムネイル画像",
           "url": "https://ledge.ai/articles/qwen3_8_flash_next_qwen4_architecture",
@@ -517,26 +532,39 @@
           "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
           "url": "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11",
           "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "LTX、オープンウェイト世界モデル「LTX-2.5」公開 ネイティブ複数ショット・4K HDR対応、Physical AI向け基盤ものサムネイル画像",
-          "url": "https://ledge.ai/articles/ltx_2_5_open_weight_world_model",
-          "first_seen": "2026-08-16T04:51:56+00:00"
-        },
-        {
-          "title": "AIエージェント同士が「縄張り争い」、価格カルテルや資源枯渇も Anthropicが複数AIの共同環境を検証のサムネイル画像",
-          "url": "https://ledge.ai/articles/multiagent_ai_coordination_anthropic",
-          "first_seen": "2026-08-16T04:51:56+00:00"
-        },
-        {
-          "title": "OpenAI元COOブラッド・ライトキャップ氏が退社 安全・倫理責任者など重要人物の離職相次ぐのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_brad_lightcap_executive_departures",
-          "first_seen": "2026-08-16T04:51:56+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
+      "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
+      "first_seen": "2026-08-29T09:36:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、52の州などの司法当局と未成年ユーザーの保護に最大約180億ドル（約２兆9000億円）で和解 Instagram・Facebookに未成年2時間制限、13歳未満を判定するAIモデル開発へのサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_teen_safety_settlement_ai_age_model",
+      "first_seen": "2026-08-29T09:36:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deepmind_eve_online_ai_research",
+      "first_seen": "2026-08-29T09:36:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "米Accelerated Understanding、物理状態を4D予測するAIモデル公開 ポストTransformerの「ニューラルオペレーター」活用で推論時5兆超コンテキストのサムネイル画像",
+      "url": "https://ledge.ai/articles/accelerated_understanding_physical_ai_4d",
+      "first_seen": "2026-08-29T09:36:59+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1147,27 +1175,6 @@
       "first_seen": "2026-08-16T04:51:56+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "LTX、オープンウェイト世界モデル「LTX-2.5」公開 ネイティブ複数ショット・4K HDR対応、Physical AI向け基盤ものサムネイル画像",
-      "url": "https://ledge.ai/articles/ltx_2_5_open_weight_world_model",
-      "first_seen": "2026-08-16T04:51:56+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIエージェント同士が「縄張り争い」、価格カルテルや資源枯渇も Anthropicが複数AIの共同環境を検証のサムネイル画像",
-      "url": "https://ledge.ai/articles/multiagent_ai_coordination_anthropic",
-      "first_seen": "2026-08-16T04:51:56+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI元COOブラッド・ライトキャップ氏が退社 安全・倫理責任者など重要人物の離職相次ぐのサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_brad_lightcap_executive_departures",
-      "first_seen": "2026-08-16T04:51:56+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 屋台や花火、多彩な体験を楽しめる富岡町の夏祭り 富岡夏祭り 2026年8月22日（土）",
@@ -1228,13 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
-      "first_seen": "2026-08-09T05:37:17+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 江戸時代から続く、浅川町の伝統ある花火大会 浅川の花火 2026年8月16日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260809asakawa-hanabi/",
       "first_seen": "2026-08-09T05:37:17+00:00"
     }
   ]
