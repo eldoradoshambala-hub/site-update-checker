@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T09:36:59+00:00",
+  "generated_at": "2026-08-30T08:47:40+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 3,
   "error_count": 0,
   "sites": [
     {
@@ -12,9 +12,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-29T09:36:59+00:00",
+      "last_checked": "2026-08-30T08:47:40+00:00",
       "last_update": "2026-08-29T09:36:59+00:00",
-      "new_count": 1,
+      "new_count": 0,
       "link_count": 19,
       "seeded_now": false,
       "items": [
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-29T09:36:59+00:00",
-      "last_update": "2026-08-29T09:36:59+00:00",
+      "last_checked": "2026-08-30T08:47:40+00:00",
+      "last_update": "2026-08-30T08:47:40+00:00",
       "new_count": 3,
       "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
+          "first_seen": "2026-08-30T08:47:40+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 8 / 29 [SAT] 話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論",
+          "url": "https://ledge.ai/articles/z_ai_glm_5_3_flash_china_ai_chips",
+          "first_seen": "2026-08-30T08:47:40+00:00"
+        },
+        {
+          "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコアのサムネイル画像",
+          "url": "https://ledge.ai/articles/bytedance_diffusionopsd",
+          "first_seen": "2026-08-30T08:47:40+00:00"
+        },
         {
           "title": "Meta、52の州などの司法当局と未成年ユーザーの保護に最大約180億ドル（約２兆9000億円）で和解 Instagram・Facebookに未成年2時間制限、13歳未満を判定するAIモデル開発へのサムネイル画像",
           "url": "https://ledge.ai/articles/meta_teen_safety_settlement_ai_age_model",
@@ -517,26 +532,32 @@
           "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
           "url": "https://ledge.ai/articles/elith-interview",
           "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "Manus、Meta参加発表から7カ月余りで独立運営へ 一部ユーザーのデータ削除、8月23日までにバックアップのサムネイル画像",
-          "url": "https://ledge.ai/articles/manus_meta_independent_operations_data_backup",
-          "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "NEC、部門長から社員まですべてAIが担う社内部門を新設 AI社員を必要に応じて生成、人は最終判断のサムネイル画像",
-          "url": "https://ledge.ai/articles/nec_corporate_ai_workforce",
-          "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11",
-          "first_seen": "2026-08-17T05:11:28+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
+      "first_seen": "2026-08-30T08:47:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 8 / 29 [SAT] 話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論",
+      "url": "https://ledge.ai/articles/z_ai_glm_5_3_flash_china_ai_chips",
+      "first_seen": "2026-08-30T08:47:40+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコアのサムネイル画像",
+      "url": "https://ledge.ai/articles/bytedance_diffusionopsd",
+      "first_seen": "2026-08-30T08:47:40+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1137,27 +1158,6 @@
       "site_name": "Ledge.ai（AIニュース）",
       "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
       "url": "https://ledge.ai/articles/elith-interview",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Manus、Meta参加発表から7カ月余りで独立運営へ 一部ユーザーのデータ削除、8月23日までにバックアップのサムネイル画像",
-      "url": "https://ledge.ai/articles/manus_meta_independent_operations_data_backup",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "NEC、部門長から社員まですべてAIが担う社内部門を新設 AI社員を必要に応じて生成、人は最終判断のサムネイル画像",
-      "url": "https://ledge.ai/articles/nec_corporate_ai_workforce",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google DeepMind、手話を文字にする多言語AI「SL2T」発表 Pixel 11でASL→英語入力、50以上の手話言語で学習のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_deepmind_sign_language_to_text_pixel_11",
       "first_seen": "2026-08-17T05:11:28+00:00"
     },
     {
