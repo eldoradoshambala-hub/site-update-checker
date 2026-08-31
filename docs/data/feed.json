@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T08:47:40+00:00",
+  "generated_at": "2026-08-31T09:09:34+00:00",
   "site_count": 2,
-  "new_count": 3,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-30T08:47:40+00:00",
+      "last_checked": "2026-08-31T09:09:34+00:00",
       "last_update": "2026-08-29T09:36:59+00:00",
       "new_count": 0,
-      "link_count": 19,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
         {
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-08-30T08:47:40+00:00",
-      "last_update": "2026-08-30T08:47:40+00:00",
-      "new_count": 3,
-      "link_count": 40,
+      "last_checked": "2026-08-31T09:09:34+00:00",
+      "last_update": "2026-08-31T09:09:34+00:00",
+      "new_count": 4,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google、Play Booksの対象電子書籍をGemini Notebookのソースに 「Expert Intelligence」10万冊超で開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_play_books_gemini_notebook_expert_intelligence",
+          "first_seen": "2026-08-31T09:09:34+00:00"
+        },
+        {
+          "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
+          "first_seen": "2026-08-31T09:09:34+00:00"
+        },
+        {
+          "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal",
+          "first_seen": "2026-08-31T09:09:34+00:00"
+        },
+        {
+          "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
+          "url": "https://ledge.ai/articles/qualcomm_japan_robotics_investment",
+          "first_seen": "2026-08-31T09:09:34+00:00"
+        },
         {
           "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
@@ -512,31 +532,39 @@
           "title": "Claudeの「見えない透かし」、Anthropicが仕組み説明 隠し文字を入れるのではなく「単語の選び方」にパターンのサムネイル画像",
           "url": "https://ledge.ai/articles/claude_text_watermark_detection_limits",
           "first_seen": "2026-08-18T04:56:09+00:00"
-        },
-        {
-          "title": "Alibaba「Qwen」シリーズ、半年で30億ダウンロード 新モデル「Qwen3.8-27B」のウェイトも公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/alibaba_qwen_3_billion_downloads_qwen3_8_27b",
-          "first_seen": "2026-08-18T04:56:09+00:00"
-        },
-        {
-          "title": "Google「Gemini 3.7 Flash」公開 わずか3週間で更新、コーディング・AIエージェント強化 初回価格は従来比半額のサムネイル画像",
-          "url": "https://ledge.ai/articles/gemini_3_7_flash_coding_agent_update",
-          "first_seen": "2026-08-18T04:56:09+00:00"
-        },
-        {
-          "title": "Uber、東京ロボタクシー試験運行で日の丸交通と提携 WayveのAI搭載・日産リーフを2026年後半に導入のサムネイル画像",
-          "url": "https://ledge.ai/articles/uber_hinomaru_robotaxi_tokyo",
-          "first_seen": "2026-08-18T04:56:09+00:00"
-        },
-        {
-          "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
-          "url": "https://ledge.ai/articles/elith-interview",
-          "first_seen": "2026-08-17T05:11:28+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、Play Booksの対象電子書籍をGemini Notebookのソースに 「Expert Intelligence」10万冊超で開始のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_play_books_gemini_notebook_expert_intelligence",
+      "first_seen": "2026-08-31T09:09:34+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
+      "first_seen": "2026-08-31T09:09:34+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal",
+      "first_seen": "2026-08-31T09:09:34+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
+      "url": "https://ledge.ai/articles/qualcomm_japan_robotics_investment",
+      "first_seen": "2026-08-31T09:09:34+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1119,27 +1147,6 @@
       "first_seen": "2026-08-18T04:56:09+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Alibaba「Qwen」シリーズ、半年で30億ダウンロード 新モデル「Qwen3.8-27B」のウェイトも公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/alibaba_qwen_3_billion_downloads_qwen3_8_27b",
-      "first_seen": "2026-08-18T04:56:09+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google「Gemini 3.7 Flash」公開 わずか3週間で更新、コーディング・AIエージェント強化 初回価格は従来比半額のサムネイル画像",
-      "url": "https://ledge.ai/articles/gemini_3_7_flash_coding_agent_update",
-      "first_seen": "2026-08-18T04:56:09+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Uber、東京ロボタクシー試験運行で日の丸交通と提携 WayveのAI搭載・日産リーフを2026年後半に導入のサムネイル画像",
-      "url": "https://ledge.ai/articles/uber_hinomaru_robotaxi_tokyo",
-      "first_seen": "2026-08-18T04:56:09+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
@@ -1151,13 +1158,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 270年以上続く山形県新庄市の伝統行事。華麗な山車が描く歴史絵巻が現代に… 新庄まつり 2026年8月24日（月）～26日（水）",
       "url": "https://www.cjnavi.co.jp/event/20260817shinjou-matsuri/",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIセキュリティに「万能なルール」はない――Elithが語る、AI時代に求められる防御の考え方のサムネイル画像",
-      "url": "https://ledge.ai/articles/elith-interview",
       "first_seen": "2026-08-17T05:11:28+00:00"
     },
     {
