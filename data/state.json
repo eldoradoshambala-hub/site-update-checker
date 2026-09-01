@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T09:09:36+00:00",
+  "updated_at": "2026-09-01T08:10:12+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-31T09:09:34+00:00",
-      "last_update": "2026-08-29T09:36:59+00:00",
+      "last_checked": "2026-09-01T08:10:10+00:00",
+      "last_update": "2026-09-01T08:10:10+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -362,9 +362,18 @@
         "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/": {
           "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
           "first_seen": "2026-08-29T09:36:59+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260901monmoryouhin/": {
+          "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
+          "first_seen": "2026-09-01T08:10:10+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
+          "url": "https://www.cjnavi.co.jp/life/20260901monmoryouhin/",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
         {
           "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
           "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
@@ -609,19 +618,14 @@
           "title": "グルメ パティシエとバリスタのいるカフェ『salon de cafe SUCLIER』が郡山市小原… salon de cafe SUCLIER（サロンドカフェシュクリエ）",
           "url": "https://www.cjnavi.co.jp/gourmet/20260810newopen-suclier/",
           "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "イベント 猪苗代町の河川敷で打ち上げられる花火を満喫！ いなわしろ花火大会 2026年8月16日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260809inawashiro-hanabi/",
-          "first_seen": "2026-08-09T05:37:17+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-08-31T09:09:34+00:00",
-      "last_update": "2026-08-31T09:09:34+00:00",
+      "last_checked": "2026-09-01T08:10:10+00:00",
+      "last_update": "2026-09-01T08:10:10+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1205,9 +1209,45 @@
         "https://ledge.ai/articles/qualcomm_japan_robotics_investment": {
           "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
           "first_seen": "2026-08-31T09:09:34+00:00"
+        },
+        "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving": {
+          "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        "https://ledge.ai/articles/brycen-us-report": {
+          "title": "【寄稿】ホタルが教えてくれた“現地の日常”。ミシガンで暮らして見えたAI先進国アメリカのリアルのサムネイル画像",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        "https://ledge.ai/articles/mcp_new_roadmap_2026": {
+          "title": "MCPの新ロードマップ公開 AIエージェントの「ID」「非同期処理」「大量ツール探索」など5領域を優先のサムネイル画像",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        "https://ledge.ai/articles/sony_warner_anthropic_copyright_lawsuit": {
+          "title": "「史上最大級の知財窃盗」Sony・Warner系音楽出版社がAnthropic提訴 海賊版取得や歌詞スクレイピングを主張のサムネイル画像",
+          "first_seen": "2026-09-01T08:10:10+00:00"
         }
       },
       "recent": [
+        {
+          "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
+          "url": "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        {
+          "title": "【寄稿】ホタルが教えてくれた“現地の日常”。ミシガンで暮らして見えたAI先進国アメリカのリアルのサムネイル画像",
+          "url": "https://ledge.ai/articles/brycen-us-report",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        {
+          "title": "MCPの新ロードマップ公開 AIエージェントの「ID」「非同期処理」「大量ツール探索」など5領域を優先のサムネイル画像",
+          "url": "https://ledge.ai/articles/mcp_new_roadmap_2026",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        {
+          "title": "「史上最大級の知財窃盗」Sony・Warner系音楽出版社がAnthropic提訴 海賊版取得や歌詞スクレイピングを主張のサムネイル画像",
+          "url": "https://ledge.ai/articles/sony_warner_anthropic_copyright_lawsuit",
+          "first_seen": "2026-09-01T08:10:10+00:00"
+        },
         {
           "title": "Google、Play Booksの対象電子書籍をGemini Notebookのソースに 「Expert Intelligence」10万冊超で開始のサムネイル画像",
           "url": "https://ledge.ai/articles/google_play_books_gemini_notebook_expert_intelligence",
@@ -1437,26 +1477,6 @@
           "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
           "url": "https://ledge.ai/articles/mcd3-hr-interview",
           "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "OpenAI、Linux版「ChatGPT」デスクトップアプリをプレビュー公開 「Work」「Codex」も利用可能のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_linux_desktop_app",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "Google Meet、対面会議でもGeminiが自動メモ 要約・アクション項目・全文文字起こしをGoogle Docsに保存のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_meet_in_person_ai_notes",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "OpenAI、GPT-5.6 Solを最大14倍高速化 Cerebras基盤の「Ultrafast」発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_gpt_5_6_sol_ultrafast_cerebras",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "Claudeの「見えない透かし」、Anthropicが仕組み説明 隠し文字を入れるのではなく「単語の選び方」にパターンのサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_text_watermark_detection_limits",
-          "first_seen": "2026-08-18T04:56:09+00:00"
         }
       ]
     }
