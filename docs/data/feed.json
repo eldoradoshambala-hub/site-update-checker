@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T08:10:10+00:00",
+  "generated_at": "2026-09-02T07:29:25+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 3,
   "error_count": 0,
   "sites": [
     {
@@ -12,9 +12,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-01T08:10:10+00:00",
+      "last_checked": "2026-09-02T07:29:25+00:00",
       "last_update": "2026-09-01T08:10:10+00:00",
-      "new_count": 1,
+      "new_count": 0,
       "link_count": 20,
       "seeded_now": false,
       "items": [
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-01T08:10:10+00:00",
-      "last_update": "2026-09-01T08:10:10+00:00",
-      "new_count": 4,
+      "last_checked": "2026-09-02T07:29:25+00:00",
+      "last_update": "2026-09-02T07:29:25+00:00",
+      "new_count": 3,
       "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        {
+          "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
+          "url": "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        {
+          "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_cursor_model_access_end",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
         {
           "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
           "url": "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving",
@@ -517,26 +532,32 @@
           "title": "SpaceX傘下のCursor、コードホスティング「Origin」提供開始 GitHub同期に対応、AIエージェント時代を想定のサムネイル画像",
           "url": "https://ledge.ai/articles/cursor_origin_code_hosting",
           "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_for_teens",
-          "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "NTTドコモとSamsung、AIでスマホ通信の速度低下を事前予測 自動切り替えで発生頻度13.1％→7.2％のサムネイル画像",
-          "url": "https://ledge.ai/articles/ntt_docomo_samsung_ai_network_switching",
-          "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
-          "url": "https://ledge.ai/articles/mcd3-hr-interview",
-          "first_seen": "2026-08-19T04:55:40+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
+      "first_seen": "2026-09-02T07:29:25+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
+      "url": "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work",
+      "first_seen": "2026-09-02T07:29:25+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_cursor_model_access_end",
+      "first_seen": "2026-09-02T07:29:25+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1112,20 +1133,6 @@
       "first_seen": "2026-08-20T04:58:21+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_chatgpt_for_teens",
-      "first_seen": "2026-08-20T04:58:21+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "NTTドコモとSamsung、AIでスマホ通信の速度低下を事前予測 自動切り替えで発生頻度13.1％→7.2％のサムネイル画像",
-      "url": "https://ledge.ai/articles/ntt_docomo_samsung_ai_network_switching",
-      "first_seen": "2026-08-20T04:58:21+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
@@ -1144,13 +1151,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 食べて、遊んで、楽しむ！白河市「きつねうち温泉」の夏祭り きつねうち温泉 夏まつり2026 2026年8月21日（金）～23日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260814kitsuneuchi-onsen/",
-      "first_seen": "2026-08-19T04:55:40+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
-      "url": "https://ledge.ai/articles/mcd3-hr-interview",
       "first_seen": "2026-08-19T04:55:40+00:00"
     },
     {

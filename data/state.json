@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T08:10:12+00:00",
+  "updated_at": "2026-09-02T07:29:27+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-01T08:10:10+00:00",
+      "last_checked": "2026-09-02T07:29:25+00:00",
       "last_update": "2026-09-01T08:10:10+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -624,8 +624,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-01T08:10:10+00:00",
-      "last_update": "2026-09-01T08:10:10+00:00",
+      "last_checked": "2026-09-02T07:29:25+00:00",
+      "last_update": "2026-09-02T07:29:25+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1225,9 +1225,36 @@
         "https://ledge.ai/articles/sony_warner_anthropic_copyright_lawsuit": {
           "title": "「史上最大級の知財窃盗」Sony・Warner系音楽出版社がAnthropic提訴 海賊版取得や歌詞スクレイピングを主張のサムネイル画像",
           "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_hugging_face_incident_report": {
+          "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work": {
+          "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        "https://ledge.ai/articles/openai_cursor_model_access_end": {
+          "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
+          "first_seen": "2026-09-02T07:29:25+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        {
+          "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
+          "url": "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        {
+          "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_cursor_model_access_end",
+          "first_seen": "2026-09-02T07:29:25+00:00"
+        },
         {
           "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
           "url": "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving",
@@ -1462,21 +1489,6 @@
           "title": "SpaceX傘下のCursor、コードホスティング「Origin」提供開始 GitHub同期に対応、AIエージェント時代を想定のサムネイル画像",
           "url": "https://ledge.ai/articles/cursor_origin_code_hosting",
           "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_for_teens",
-          "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "NTTドコモとSamsung、AIでスマホ通信の速度低下を事前予測 自動切り替えで発生頻度13.1％→7.2％のサムネイル画像",
-          "url": "https://ledge.ai/articles/ntt_docomo_samsung_ai_network_switching",
-          "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "AIで人事業務は変わる。これからの人事部に求められる役割とは――MCD3に聞くAI時代の人事のサムネイル画像",
-          "url": "https://ledge.ai/articles/mcd3-hr-interview",
-          "first_seen": "2026-08-19T04:55:40+00:00"
         }
       ]
     }
