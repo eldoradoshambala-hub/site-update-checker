@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T07:29:27+00:00",
+  "updated_at": "2026-09-03T07:35:12+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-02T07:29:25+00:00",
-      "last_update": "2026-09-01T08:10:10+00:00",
+      "last_checked": "2026-09-03T07:35:10+00:00",
+      "last_update": "2026-09-03T07:35:10+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -366,9 +366,18 @@
         "https://www.cjnavi.co.jp/life/20260901monmoryouhin/": {
           "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
           "first_seen": "2026-09-01T08:10:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/": {
+          "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "first_seen": "2026-09-03T07:35:10+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "url": "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
         {
           "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
           "url": "https://www.cjnavi.co.jp/life/20260901monmoryouhin/",
@@ -613,19 +622,14 @@
           "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
           "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
           "first_seen": "2026-08-10T08:18:00+00:00"
-        },
-        {
-          "title": "グルメ パティシエとバリスタのいるカフェ『salon de cafe SUCLIER』が郡山市小原… salon de cafe SUCLIER（サロンドカフェシュクリエ）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260810newopen-suclier/",
-          "first_seen": "2026-08-10T08:18:00+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-02T07:29:25+00:00",
-      "last_update": "2026-09-02T07:29:25+00:00",
+      "last_checked": "2026-09-03T07:35:10+00:00",
+      "last_update": "2026-09-03T07:35:10+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1237,9 +1241,45 @@
         "https://ledge.ai/articles/openai_cursor_model_access_end": {
           "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
           "first_seen": "2026-09-02T07:29:25+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1": {
+          "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        "https://ledge.ai/articles/grok_ani_animates_subscription": {
+          "title": "エンタメ＆アート 2026 / 9 / 3 [THU] GrokのAIコンパニオン「Ani」がAnimatesへ 最上位プランは月額5800円",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_ads_annualized_revenue_1b": {
+          "title": "OpenAI、ChatGPT広告が年換算売上高10億ドルに 開始200日未満、広告主は数万社のサムネイル画像",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_model_hardware_standard_mhs": {
+          "title": "Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表のサムネイル画像",
+          "first_seen": "2026-09-03T07:35:10+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        {
+          "title": "エンタメ＆アート 2026 / 9 / 3 [THU] GrokのAIコンパニオン「Ani」がAnimatesへ 最上位プランは月額5800円",
+          "url": "https://ledge.ai/articles/grok_ani_animates_subscription",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        {
+          "title": "OpenAI、ChatGPT広告が年換算売上高10億ドルに 開始200日未満、広告主は数万社のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_ads_annualized_revenue_1b",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        {
+          "title": "Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_model_hardware_standard_mhs",
+          "first_seen": "2026-09-03T07:35:10+00:00"
+        },
         {
           "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
@@ -1469,26 +1509,6 @@
           "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
           "first_seen": "2026-08-21T04:59:43+00:00"
-        },
-        {
-          "title": "マネックス証券、ChatGPT・Claudeから口座情報を確認可能に 「MONEX MCP Server」提供開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/monex_mcp_server_chatgpt_claude",
-          "first_seen": "2026-08-21T04:59:43+00:00"
-        },
-        {
-          "title": "NVIDIA、SB Energyに15億ドル投資 OpenAIが20年契約、オハイオに8 IT-GWのAIデータセンターのサムネイル画像",
-          "url": "https://ledge.ai/articles/nvidia_sb_energy_ports_pike_openai",
-          "first_seen": "2026-08-21T04:59:43+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 19 [WED] OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留",
-          "url": "https://ledge.ai/articles/openai_model_development_slowdown_rl_pause",
-          "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "SpaceX傘下のCursor、コードホスティング「Origin」提供開始 GitHub同期に対応、AIエージェント時代を想定のサムネイル画像",
-          "url": "https://ledge.ai/articles/cursor_origin_code_hosting",
-          "first_seen": "2026-08-20T04:58:21+00:00"
         }
       ]
     }
