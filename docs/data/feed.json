@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T07:35:10+00:00",
+  "generated_at": "2026-09-04T07:35:15+00:00",
   "site_count": 2,
-  "new_count": 5,
-  "error_count": 0,
+  "new_count": 3,
+  "error_count": 1,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "ok",
-      "error": null,
-      "consecutive_errors": 0,
-      "last_checked": "2026-09-03T07:35:10+00:00",
+      "status": "error",
+      "error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
+      "last_checked": "2026-09-04T07:35:15+00:00",
       "last_update": "2026-09-03T07:35:10+00:00",
-      "new_count": 1,
-      "link_count": 20,
+      "new_count": 0,
+      "link_count": 0,
       "seeded_now": false,
       "items": [
         {
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-03T07:35:10+00:00",
-      "last_update": "2026-09-03T07:35:10+00:00",
-      "new_count": 4,
-      "link_count": 43,
+      "last_checked": "2026-09-04T07:35:15+00:00",
+      "last_update": "2026-09-04T07:35:15+00:00",
+      "new_count": 3,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        {
+          "title": "EU、ChatGPTを「超大規模オンライン検索エンジン」に正式指定 DSAでリスク評価など追加義務、Reddit・Robloxも同時指定のサムネイル画像",
+          "url": "https://ledge.ai/articles/chatgpt_dsa_vlose",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        {
+          "title": "Google Research、時系列基盤モデル「TimesFM-3」公開 売上を天気、販促など多変量データから予測のサムネイル画像",
+          "url": "https://ledge.ai/articles/timesfm_3_multivariate_time_series_foundation_model",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
         {
           "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1",
@@ -517,26 +532,32 @@
           "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
           "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
           "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "Slack、AIコーディングエージェントとチームで共同開発 新機能「Slack Code」発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/slack_code_ai_coding_agents",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "AIエージェントに買い物は任せても「完全自動購入」は1％ Visa調査、50％が「自分で確認」を重視のサムネイル画像",
-          "url": "https://ledge.ai/articles/visa_ai_agent_shopping_survey",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
-          "first_seen": "2026-08-21T04:59:43+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards",
+      "first_seen": "2026-09-04T07:35:15+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "EU、ChatGPTを「超大規模オンライン検索エンジン」に正式指定 DSAでリスク評価など追加義務、Reddit・Robloxも同時指定のサムネイル画像",
+      "url": "https://ledge.ai/articles/chatgpt_dsa_vlose",
+      "first_seen": "2026-09-04T07:35:15+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google Research、時系列基盤モデル「TimesFM-3」公開 売上を天気、販促など多変量データから予測のサムネイル画像",
+      "url": "https://ledge.ai/articles/timesfm_3_multivariate_time_series_foundation_model",
+      "first_seen": "2026-09-04T07:35:15+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1105,31 +1126,10 @@
       "first_seen": "2026-08-22T04:18:28+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Slack、AIコーディングエージェントとチームで共同開発 新機能「Slack Code」発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/slack_code_ai_coding_agents",
-      "first_seen": "2026-08-22T04:18:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIエージェントに買い物は任せても「完全自動購入」は1％ Visa調査、50％が「自分で確認」を重視のサムネイル画像",
-      "url": "https://ledge.ai/articles/visa_ai_agent_shopping_survey",
-      "first_seen": "2026-08-22T04:18:28+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
       "url": "https://www.cjnavi.co.jp/trip/20260821fukushima-bookstore/",
-      "first_seen": "2026-08-21T04:59:43+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
       "first_seen": "2026-08-21T04:59:43+00:00"
     },
     {

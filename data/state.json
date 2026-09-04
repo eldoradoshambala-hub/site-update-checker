@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T07:35:12+00:00",
+  "updated_at": "2026-09-04T07:36:20+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-03T07:35:10+00:00",
+      "last_checked": "2026-09-04T07:35:15+00:00",
       "last_update": "2026-09-03T07:35:10+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
+      "last_status": "error",
+      "last_error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -628,8 +628,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-03T07:35:10+00:00",
-      "last_update": "2026-09-03T07:35:10+00:00",
+      "last_checked": "2026-09-04T07:35:15+00:00",
+      "last_update": "2026-09-04T07:35:15+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1257,9 +1257,36 @@
         "https://ledge.ai/articles/anthropic_model_hardware_standard_mhs": {
           "title": "Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表のサムネイル画像",
           "first_seen": "2026-09-03T07:35:10+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards": {
+          "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        "https://ledge.ai/articles/chatgpt_dsa_vlose": {
+          "title": "EU、ChatGPTを「超大規模オンライン検索エンジン」に正式指定 DSAでリスク評価など追加義務、Reddit・Robloxも同時指定のサムネイル画像",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        "https://ledge.ai/articles/timesfm_3_multivariate_time_series_foundation_model": {
+          "title": "Google Research、時系列基盤モデル「TimesFM-3」公開 売上を天気、販促など多変量データから予測のサムネイル画像",
+          "first_seen": "2026-09-04T07:35:15+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        {
+          "title": "EU、ChatGPTを「超大規模オンライン検索エンジン」に正式指定 DSAでリスク評価など追加義務、Reddit・Robloxも同時指定のサムネイル画像",
+          "url": "https://ledge.ai/articles/chatgpt_dsa_vlose",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
+        {
+          "title": "Google Research、時系列基盤モデル「TimesFM-3」公開 売上を天気、販促など多変量データから予測のサムネイル画像",
+          "url": "https://ledge.ai/articles/timesfm_3_multivariate_time_series_foundation_model",
+          "first_seen": "2026-09-04T07:35:15+00:00"
+        },
         {
           "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1",
@@ -1494,21 +1521,6 @@
           "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
           "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
           "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "Slack、AIコーディングエージェントとチームで共同開発 新機能「Slack Code」発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/slack_code_ai_coding_agents",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "AIエージェントに買い物は任せても「完全自動購入」は1％ Visa調査、50％が「自分で確認」を重視のサムネイル画像",
-          "url": "https://ledge.ai/articles/visa_ai_agent_shopping_survey",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "AIエージェントがHugging Faceへ自律侵入 OpenAIブロックマン氏「防御側の猶予は今」、10項目を提言のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_brockman_defenders_window_ai_cybersecurity",
-          "first_seen": "2026-08-21T04:59:43+00:00"
         }
       ]
     }
