@@ -1,23 +1,93 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T07:35:15+00:00",
+  "generated_at": "2026-09-05T07:15:50+00:00",
   "site_count": 2,
-  "new_count": 3,
-  "error_count": 1,
+  "new_count": 18,
+  "error_count": 0,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "error",
-      "error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
-      "last_checked": "2026-09-04T07:35:15+00:00",
-      "last_update": "2026-09-03T07:35:10+00:00",
-      "new_count": 0,
-      "link_count": 0,
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-09-05T07:15:50+00:00",
+      "last_update": "2026-09-05T07:15:50+00:00",
+      "new_count": 14,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260905united-fc-homegame/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 南会津町古町で「廣瀬神社例大祭御神輿渡御祭」を開催！ 古町のまつり 2026年9月12日（土）・13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905furumachi-matsuri/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 歴史ある「檜枝岐の舞台」でお笑いやものまね、ジャズライブを開催 山響フェス in檜枝岐の舞台 2026年9月12日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260905yamabiki-fes/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260905iwakifc-homegame/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 写真家・髙村 達の写真展を「福島市写真美術館（花の写真館）」で開催 髙村 達 写真展「ReFlowers」 2026年9月12日（土）〜23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260905fukushima-photomuseum/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 福島市「パルセいいざか」に福島県内外の雑貨、クラフト、ハンドメイドな… One step space in パルセいいざか 2026年9月12日（土）・13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905one-step-space/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 創業470年を越える友禅の老舗・千總の貴重なコレクション展を「新潟県立近… きもののヒミツ 友禅のうまれるところー京都 千總コレクションを中心にー 【前期】2026年9月12日（土）〜10月12日（祝） 【後期】2026年10月14日（水）〜11月15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905niigata-kinbi/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 鮮やかな色彩とともに歩んだ65年。画家・松本陽子の大規模個展を「いわき… 松本陽子 宵の明星を見た日 2026年9月12日（土）～11月1日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905iwaki-art-museum/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 福島市中パレードや大迫力の訓練展示などを間近で鑑賞できる！感動と興奮… 陸上自衛隊福島駐屯地 創立73周年記念行事 【2026年9月12日（土）】まちなか広場、福島駅前通り 【2026年9月13日（日）】福島駐屯地",
+          "url": "https://www.cjnavi.co.jp/event/20260905jieitai/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 会津地方を拠点に活動するものづくり・飲食の作り手10名が福島市に集結 源流 GENRYU 2026年9月12日（土）・13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905genryu/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント 遊覧船の乗船やサンマの炭火焼きを体験！いわきの海を満喫しよう 江名の町マリンフェスティバル2026 2026年9月12日（土）・13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260905marine-festival/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "イベント AD 子どもたちのアイデアが大集合！『福島プログラミング講座 キャンパスフェ… 福島プログラミング講座 キャンパスフェスタ 2026年9月12日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260904campusfesta-tohoku-epco/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "おでかけ 【2026福島県のキャンプ・グランピング】会津エリアのおすすめ施設3選 キャンプサイトはもちろん、バンガローやコテージなどの宿泊施設があり初心者でも利用しやす...",
+          "url": "https://www.cjnavi.co.jp/trip/20260904aizu-camp-spot/",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
         {
           "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "url": "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/",
@@ -197,76 +267,6 @@
           "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
           "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
           "first_seen": "2026-08-20T04:58:21+00:00"
-        },
-        {
-          "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260819art-gallery-ateliercafe/",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "おでかけ 松川浦と太平洋を望む、ホテル＆カフェ『Ola bayfront inn』が相馬市に誕生 Ola bayfront inn（オラ・ベイフロント・イン）",
-          "url": "https://www.cjnavi.co.jp/trip/20260818newopen-ola-bayfront-inn/",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "イベント 食べて、遊んで、楽しむ！白河市「きつねうち温泉」の夏祭り きつねうち温泉 夏まつり2026 2026年8月21日（金）～23日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260814kitsuneuchi-onsen/",
-          "first_seen": "2026-08-19T04:55:40+00:00"
-        },
-        {
-          "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
-          "url": "https://www.cjnavi.co.jp/trip/20260817fukushima-museum/",
-          "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "イベント 270年以上続く山形県新庄市の伝統行事。華麗な山車が描く歴史絵巻が現代に… 新庄まつり 2026年8月24日（月）～26日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260817shinjou-matsuri/",
-          "first_seen": "2026-08-17T05:11:28+00:00"
-        },
-        {
-          "title": "イベント 田村市船引町で日本最大級の大型灯ろう流し。今年は青森小型ねぶたも登場 灯籠流しと花火大会 2026年8月23日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260816tamura-tourounagashi/",
-          "first_seen": "2026-08-16T04:51:56+00:00"
-        },
-        {
-          "title": "イベント ステージショーと車輌展示を福島市「まちなか広場」で楽しもう！ 第10回 ヴォイスふくしま納涼祭 2026年8月23日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260816voice-fukushima/",
-          "first_seen": "2026-08-16T04:51:56+00:00"
-        },
-        {
-          "title": "イベント 屋台や花火、多彩な体験を楽しめる富岡町の夏祭り 富岡夏祭り 2026年8月22日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260815tomioka-natsumatsuri/",
-          "first_seen": "2026-08-15T04:15:33+00:00"
-        },
-        {
-          "title": "おでかけ 【福島県】レコードの魅力に触れよう！音楽好きにおすすめの喜多方市・福… レコードならではの温かみのある音や、ジャケットを手に取る楽しさ。近年は若い世代からも注...",
-          "url": "https://www.cjnavi.co.jp/trip/20260814record-cafe/",
-          "first_seen": "2026-08-14T08:00:04+00:00"
-        },
-        {
-          "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-          "url": "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/",
-          "first_seen": "2026-08-13T08:04:21+00:00"
-        },
-        {
-          "title": "おでかけ 【福島県】檜枝岐村に来たら行くべきはココ！おすすめスポット3選 尾瀬国立公園の玄関口として知られる檜枝岐村。国重要有形民俗文化財の舞台で上演される「檜...",
-          "url": "https://www.cjnavi.co.jp/trip/20260812hinoemata-spot/",
-          "first_seen": "2026-08-12T08:02:50+00:00"
-        },
-        {
-          "title": "グルメ 国産米粉のベーカリー『R Baker（アールベイカー）』が福島県内初出店！『… R Baker（アールベイカー） 郡山店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260812newopen-r-baker/",
-          "first_seen": "2026-08-12T08:02:50+00:00"
-        },
-        {
-          "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
-          "url": "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/",
-          "first_seen": "2026-08-11T06:01:51+00:00"
-        },
-        {
-          "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
-          "first_seen": "2026-08-10T08:18:00+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-04T07:35:15+00:00",
-      "last_update": "2026-09-04T07:35:15+00:00",
-      "new_count": 3,
-      "link_count": 41,
+      "last_checked": "2026-09-05T07:15:50+00:00",
+      "last_update": "2026-09-05T07:15:50+00:00",
+      "new_count": 4,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、新モデル「GPT-6 Astra」発表、一部組織から提供開始 未知課題への適応テストで99.9％、サイバー能力は初の「Critical」のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_astra",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "米国防総省、OpenAIのカスタム版「ChatGPT Mil」導入 300万人超向けに提供 Anthropicへのサプライチェーンリスク指定は地裁で違法判断のサムネイル画像",
+          "url": "https://ledge.ai/articles/us_defense_department_chatgpt_mil",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "fal.ai、5秒動画を3秒未満で生成する「H3 Max」を無料体験可能に 視聴者の投票で次の映像が決まるライブ配信サイト「fal.live」も公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/fal_h3_max_fal_live",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        {
+          "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_consciousness_debate",
+          "first_seen": "2026-09-05T07:15:50+00:00"
+        },
         {
           "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards",
@@ -512,31 +532,137 @@
           "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開のサムネイル画像",
           "url": "https://ledge.ai/articles/hanover_ai_chatbot_influence",
           "first_seen": "2026-08-24T05:24:01+00:00"
-        },
-        {
-          "title": "Googleと英政府、AIで温暖化につながる飛行機雲を避けるプロジェクト「Operation Blue Skies」始動 北大西洋の空域全体で実証へのサムネイル画像",
-          "url": "https://ledge.ai/articles/google_operation_blue_skies_contrail_avoidance",
-          "first_seen": "2026-08-23T04:55:21+00:00"
-        },
-        {
-          "title": "Gartner調査、AI時代の職場変革で「デジタル／AIリテラシー教育」が首位 「テクノロジの積極活用」は2位→9位にのサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_ai_literacy_training_survey",
-          "first_seen": "2026-08-23T04:55:21+00:00"
-        },
-        {
-          "title": "生成AIで架空の女性「中村りほ」を演出し政治投稿 立憲民主党栃木県連の男性党員がX運用のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_fake_political_persona_x",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
-          "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
-          "first_seen": "2026-08-22T04:18:28+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260905united-fc-homegame/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 南会津町古町で「廣瀬神社例大祭御神輿渡御祭」を開催！ 古町のまつり 2026年9月12日（土）・13日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905furumachi-matsuri/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 歴史ある「檜枝岐の舞台」でお笑いやものまね、ジャズライブを開催 山響フェス in檜枝岐の舞台 2026年9月12日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260905yamabiki-fes/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260905iwakifc-homegame/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 写真家・髙村 達の写真展を「福島市写真美術館（花の写真館）」で開催 髙村 達 写真展「ReFlowers」 2026年9月12日（土）〜23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260905fukushima-photomuseum/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市「パルセいいざか」に福島県内外の雑貨、クラフト、ハンドメイドな… One step space in パルセいいざか 2026年9月12日（土）・13日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905one-step-space/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 創業470年を越える友禅の老舗・千總の貴重なコレクション展を「新潟県立近… きもののヒミツ 友禅のうまれるところー京都 千總コレクションを中心にー 【前期】2026年9月12日（土）〜10月12日（祝） 【後期】2026年10月14日（水）〜11月15日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905niigata-kinbi/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 鮮やかな色彩とともに歩んだ65年。画家・松本陽子の大規模個展を「いわき… 松本陽子 宵の明星を見た日 2026年9月12日（土）～11月1日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905iwaki-art-museum/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市中パレードや大迫力の訓練展示などを間近で鑑賞できる！感動と興奮… 陸上自衛隊福島駐屯地 創立73周年記念行事 【2026年9月12日（土）】まちなか広場、福島駅前通り 【2026年9月13日（日）】福島駐屯地",
+      "url": "https://www.cjnavi.co.jp/event/20260905jieitai/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 会津地方を拠点に活動するものづくり・飲食の作り手10名が福島市に集結 源流 GENRYU 2026年9月12日（土）・13日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905genryu/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 遊覧船の乗船やサンマの炭火焼きを体験！いわきの海を満喫しよう 江名の町マリンフェスティバル2026 2026年9月12日（土）・13日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260905marine-festival/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 子どもたちのアイデアが大集合！『福島プログラミング講座 キャンパスフェ… 福島プログラミング講座 キャンパスフェスタ 2026年9月12日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260904campusfesta-tohoku-epco/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【2026福島県のキャンプ・グランピング】会津エリアのおすすめ施設3選 キャンプサイトはもちろん、バンガローやコテージなどの宿泊施設があり初心者でも利用しやす...",
+      "url": "https://www.cjnavi.co.jp/trip/20260904aizu-camp-spot/",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、新モデル「GPT-6 Astra」発表、一部組織から提供開始 未知課題への適応テストで99.9％、サイバー能力は初の「Critical」のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_gpt_6_astra",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "米国防総省、OpenAIのカスタム版「ChatGPT Mil」導入 300万人超向けに提供 Anthropicへのサプライチェーンリスク指定は地裁で違法判断のサムネイル画像",
+      "url": "https://ledge.ai/articles/us_defense_department_chatgpt_mil",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "fal.ai、5秒動画を3秒未満で生成する「H3 Max」を無料体験可能に 視聴者の投票で次の映像が決まるライブ配信サイト「fal.live」も公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/fal_h3_max_fal_live",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_consciousness_debate",
+      "first_seen": "2026-09-05T07:15:50+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1063,20 +1189,6 @@
       "first_seen": "2026-08-23T04:55:21+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Googleと英政府、AIで温暖化につながる飛行機雲を避けるプロジェクト「Operation Blue Skies」始動 北大西洋の空域全体で実証へのサムネイル画像",
-      "url": "https://ledge.ai/articles/google_operation_blue_skies_contrail_avoidance",
-      "first_seen": "2026-08-23T04:55:21+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Gartner調査、AI時代の職場変革で「デジタル／AIリテラシー教育」が首位 「テクノロジの積極活用」は2位→9位にのサムネイル画像",
-      "url": "https://ledge.ai/articles/gartner_ai_literacy_training_survey",
-      "first_seen": "2026-08-23T04:55:21+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
@@ -1112,20 +1224,6 @@
       "first_seen": "2026-08-22T04:18:28+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "生成AIで架空の女性「中村りほ」を演出し政治投稿 立憲民主党栃木県連の男性党員がX運用のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_fake_political_persona_x",
-      "first_seen": "2026-08-22T04:18:28+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、破綻したスピリット航空の社内データを1000万ドルで落札 メール1億件・Teams 5億件、AIモデル改善へのサムネイル画像",
-      "url": "https://ledge.ai/articles/google_spirit_airlines_ai_training_data",
-      "first_seen": "2026-08-22T04:18:28+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
@@ -1138,104 +1236,6 @@
       "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
       "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
       "first_seen": "2026-08-20T04:58:21+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 【福島県】アートも味わう！福島市・須賀川市・いわき市のギャラリー＆ア… アートに囲まれながら、ゆったりとした時間を過ごそう。福島市・須賀川市・いわき市でぜひ訪...",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260819art-gallery-ateliercafe/",
-      "first_seen": "2026-08-19T04:55:40+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 松川浦と太平洋を望む、ホテル＆カフェ『Ola bayfront inn』が相馬市に誕生 Ola bayfront inn（オラ・ベイフロント・イン）",
-      "url": "https://www.cjnavi.co.jp/trip/20260818newopen-ola-bayfront-inn/",
-      "first_seen": "2026-08-19T04:55:40+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 食べて、遊んで、楽しむ！白河市「きつねうち温泉」の夏祭り きつねうち温泉 夏まつり2026 2026年8月21日（金）～23日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260814kitsuneuchi-onsen/",
-      "first_seen": "2026-08-19T04:55:40+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【福島県】暑い夏は涼しい場所で感性をみがこう！福島県内の“ここにしかな… 一度とは言わず、何度も訪れたくなる、金山町・福島市・郡山市・須賀川市・南相馬市・いわき...",
-      "url": "https://www.cjnavi.co.jp/trip/20260817fukushima-museum/",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 270年以上続く山形県新庄市の伝統行事。華麗な山車が描く歴史絵巻が現代に… 新庄まつり 2026年8月24日（月）～26日（水）",
-      "url": "https://www.cjnavi.co.jp/event/20260817shinjou-matsuri/",
-      "first_seen": "2026-08-17T05:11:28+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 田村市船引町で日本最大級の大型灯ろう流し。今年は青森小型ねぶたも登場 灯籠流しと花火大会 2026年8月23日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260816tamura-tourounagashi/",
-      "first_seen": "2026-08-16T04:51:56+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント ステージショーと車輌展示を福島市「まちなか広場」で楽しもう！ 第10回 ヴォイスふくしま納涼祭 2026年8月23日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260816voice-fukushima/",
-      "first_seen": "2026-08-16T04:51:56+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 屋台や花火、多彩な体験を楽しめる富岡町の夏祭り 富岡夏祭り 2026年8月22日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260815tomioka-natsumatsuri/",
-      "first_seen": "2026-08-15T04:15:33+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【福島県】レコードの魅力に触れよう！音楽好きにおすすめの喜多方市・福… レコードならではの温かみのある音や、ジャケットを手に取る楽しさ。近年は若い世代からも注...",
-      "url": "https://www.cjnavi.co.jp/trip/20260814record-cafe/",
-      "first_seen": "2026-08-14T08:00:04+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 川霧に包まれた金山町「第五只見川橋梁」を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-      "url": "https://www.cjnavi.co.jp/trip/20260813hoshi-kenkou-okuaizu-kaneyama/",
-      "first_seen": "2026-08-13T08:04:21+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【福島県】檜枝岐村に来たら行くべきはココ！おすすめスポット3選 尾瀬国立公園の玄関口として知られる檜枝岐村。国重要有形民俗文化財の舞台で上演される「檜...",
-      "url": "https://www.cjnavi.co.jp/trip/20260812hinoemata-spot/",
-      "first_seen": "2026-08-12T08:02:50+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 国産米粉のベーカリー『R Baker（アールベイカー）』が福島県内初出店！『… R Baker（アールベイカー） 郡山店",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260812newopen-r-baker/",
-      "first_seen": "2026-08-12T08:02:50+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 280年以上続く檜枝岐村の伝統歌舞伎 鎮守神祭礼奉納 2026年8月18日（火）",
-      "url": "https://www.cjnavi.co.jp/event/20260811hinoemata-kabuki/",
-      "first_seen": "2026-08-11T06:01:51+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島市「福島県庁」裏の阿武隈川を約6,000個の灯ろうが照らす 第43回 福島とうろう流し花火大会 2026年8月17日（月）",
-      "url": "https://www.cjnavi.co.jp/event/20260810fukushima-tourounagashi/",
-      "first_seen": "2026-08-10T08:18:00+00:00"
     }
   ]
 }
