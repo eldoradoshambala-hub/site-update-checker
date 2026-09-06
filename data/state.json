@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-05T07:15:52+00:00",
+  "updated_at": "2026-09-06T07:28:31+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-05T07:15:50+00:00",
-      "last_update": "2026-09-05T07:15:50+00:00",
+      "last_checked": "2026-09-06T07:28:29+00:00",
+      "last_update": "2026-09-06T07:28:29+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -426,9 +426,36 @@
         "https://www.cjnavi.co.jp/trip/20260904aizu-camp-spot/": {
           "title": "おでかけ 【2026福島県のキャンプ・グランピング】会津エリアのおすすめ施設3選 キャンプサイトはもちろん、バンガローやコテージなどの宿泊施設があり初心者でも利用しやす...",
           "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/": {
+          "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260906misakano-yozora/": {
+          "title": "イベント 星空ヨガや観望会、マルシェも！三島町「美坂高原」で夜空を満喫しよう ミサカノヨゾラ2026～星と呼吸する、美坂高原の夜～ 2026年9月13日（日）",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260906nakanosawa-kokeshi/": {
+          "title": "イベント 猪苗代町の中ノ沢こけしと中ノ沢温泉の歴史と魅力を堪能しよう 第5回 中ノ沢こけし祭り 2026年9月13日（日）",
+          "first_seen": "2026-09-06T07:28:29+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        {
+          "title": "イベント 星空ヨガや観望会、マルシェも！三島町「美坂高原」で夜空を満喫しよう ミサカノヨゾラ2026～星と呼吸する、美坂高原の夜～ 2026年9月13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260906misakano-yozora/",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        {
+          "title": "イベント 猪苗代町の中ノ沢こけしと中ノ沢温泉の歴史と魅力を堪能しよう 第5回 中ノ沢こけし祭り 2026年9月13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260906nakanosawa-kokeshi/",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
         {
           "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
@@ -663,29 +690,14 @@
           "title": "イベント AD 福島市「ウィル福島 アクティおろしまち」で、サーキュラーエコノミー（循… ふくしまサーキュラーエコノミーシンポジウム 2026年8月28日（金）",
           "url": "https://www.cjnavi.co.jp/event/20260821circular-economy-symposium/",
           "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "ライフ AD 【ふくしま花回廊フォトラリー】ベストフォト賞 受賞作品決定！ ふくしま花回廊フォトラリー ベストフォト賞",
-          "url": "https://www.cjnavi.co.jp/life/20260821fukushima-hanakairo-result/",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "おでかけ 【福島県】人と本に出会う。福島市・郡山市・田村市・南相馬市の小さな本… 棚や本のセレクト、配置など店主の思いとこだわりがつまった小さな本屋さん。今回は、福島市...",
-          "url": "https://www.cjnavi.co.jp/trip/20260821fukushima-bookstore/",
-          "first_seen": "2026-08-21T04:59:43+00:00"
-        },
-        {
-          "title": "おでかけ 【学生編集部の福島のここに行きたい！】福島市の土湯温泉と二本松市で納… 第29回「納涼旅」",
-          "url": "https://www.cjnavi.co.jp/trip/20260820gakuseihenshuubu/",
-          "first_seen": "2026-08-20T04:58:21+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-05T07:15:50+00:00",
-      "last_update": "2026-09-05T07:15:50+00:00",
+      "last_checked": "2026-09-06T07:28:29+00:00",
+      "last_update": "2026-09-06T07:28:29+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1341,9 +1353,36 @@
         "https://ledge.ai/articles/ai_consciousness_debate": {
           "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
           "first_seen": "2026-09-05T07:15:50+00:00"
+        },
+        "https://ledge.ai/articles/nyc_public_schools_generative_ai_moratorium": {
+          "title": "ニューヨーク市、公立校の8年生まで生成AI利用を1年間停止 約60万人対象、高校は限定利用のサムネイル画像",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://ledge.ai/articles/runway_solaris_interface_world_model": {
+          "title": "Runway、コードを介さず画面をリアルタイム生成するAI「Solaris」発表 「インターフェースワールドモデル」第1弾のサムネイル画像",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://ledge.ai/articles/stanford_ai_young_worker_employment_gap": {
+          "title": "生成AIの影響を受けやすい若手、雇用ギャップ19％に拡大 スタンフォード大が物議を醸した研究の1年後を追跡調査のサムネイル画像",
+          "first_seen": "2026-09-06T07:28:29+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ニューヨーク市、公立校の8年生まで生成AI利用を1年間停止 約60万人対象、高校は限定利用のサムネイル画像",
+          "url": "https://ledge.ai/articles/nyc_public_schools_generative_ai_moratorium",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        {
+          "title": "Runway、コードを介さず画面をリアルタイム生成するAI「Solaris」発表 「インターフェースワールドモデル」第1弾のサムネイル画像",
+          "url": "https://ledge.ai/articles/runway_solaris_interface_world_model",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        {
+          "title": "生成AIの影響を受けやすい若手、雇用ギャップ19％に拡大 スタンフォード大が物議を醸した研究の1年後を追跡調査のサムネイル画像",
+          "url": "https://ledge.ai/articles/stanford_ai_young_worker_employment_gap",
+          "first_seen": "2026-09-06T07:28:29+00:00"
+        },
         {
           "title": "OpenAI、新モデル「GPT-6 Astra」発表、一部組織から提供開始 未知課題への適応テストで99.9％、サイバー能力は初の「Critical」のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_astra",
@@ -1577,21 +1616,6 @@
         {
           "title": "法人向けAIサービス説明会を開催 AIの競争軸は「モデル」から「データ」へ―KDDIのサムネイル画像",
           "url": "https://ledge.ai/articles/kddi-market-compass-session",
-          "first_seen": "2026-08-24T05:24:01+00:00"
-        },
-        {
-          "title": "決済プラットフォーム運営の米Stripe、AIモデルゲートウェイOpenRouterを買収へ 400超のモデルを横断、トークン利用を最適化のサムネイル画像",
-          "url": "https://ledge.ai/articles/stripe_openrouter_acquisition",
-          "first_seen": "2026-08-24T05:24:01+00:00"
-        },
-        {
-          "title": "Sakana AI、「Sakana Translate」を新世代Namazuに更新 日英翻訳の自社評価でGoogle翻訳・DeepLなど上回るのサムネイル画像",
-          "url": "https://ledge.ai/articles/sakana_translate_namazu_update",
-          "first_seen": "2026-08-24T05:24:01+00:00"
-        },
-        {
-          "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/hanover_ai_chatbot_influence",
           "first_seen": "2026-08-24T05:24:01+00:00"
         }
       ]
