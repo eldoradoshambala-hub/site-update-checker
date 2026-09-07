@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-06T07:28:31+00:00",
+  "updated_at": "2026-09-07T07:44:52+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-06T07:28:29+00:00",
-      "last_update": "2026-09-06T07:28:29+00:00",
+      "last_checked": "2026-09-07T07:44:50+00:00",
+      "last_update": "2026-09-07T07:44:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -438,9 +438,36 @@
         "https://www.cjnavi.co.jp/event/20260906nakanosawa-kokeshi/": {
           "title": "イベント 猪苗代町の中ノ沢こけしと中ノ沢温泉の歴史と魅力を堪能しよう 第5回 中ノ沢こけし祭り 2026年9月13日（日）",
           "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260907yamaphoto-club/": {
+          "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260907newopen-fifty-rose-cafe/": {
+          "title": "グルメ 福島市森合のカフェがアサイーボウル専門店『50Rose Cafe』にリニューアル 50Rose Cafe（フィフティーローズカフェ）",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260907next-link-fukushima/": {
+          "title": "イベント AD 20代・30代のためのキャリア＆ライフを考える異業種交流会「NEXT Link ふ… NEXT Link ふくしま−異業種交流会− 【2026年9月25日（金）】いわき産業創造館 【2026年10月16日（金）】ウィル福島 アクティおろしまち 【2026年11月25日（水）】アピオスペース",
+          "first_seen": "2026-09-07T07:44:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260907yamaphoto-club/",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        {
+          "title": "グルメ 福島市森合のカフェがアサイーボウル専門店『50Rose Cafe』にリニューアル 50Rose Cafe（フィフティーローズカフェ）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260907newopen-fifty-rose-cafe/",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        {
+          "title": "イベント AD 20代・30代のためのキャリア＆ライフを考える異業種交流会「NEXT Link ふ… NEXT Link ふくしま−異業種交流会− 【2026年9月25日（金）】いわき産業創造館 【2026年10月16日（金）】ウィル福島 アクティおろしまち 【2026年11月25日（水）】アピオスペース",
+          "url": "https://www.cjnavi.co.jp/event/20260907next-link-fukushima/",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
         {
           "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
           "url": "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/",
@@ -675,29 +702,14 @@
           "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
           "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
           "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "イベント 「東北カフェ部」主催のスイーツとコーヒーの祭典を郡山市「ビッグパレッ… TOHOKU CAFE FES 夏祭り 2026年8月29日（土）・30日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260822tohoku-cafefes/",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "イベント いわき市の鮫川を照らす大輪の花火を見に行こう 第28回 鮫川花火大会 2026年8月29日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260822samegawa-hanabi-iwaki/",
-          "first_seen": "2026-08-22T04:18:28+00:00"
-        },
-        {
-          "title": "イベント AD 福島市「ウィル福島 アクティおろしまち」で、サーキュラーエコノミー（循… ふくしまサーキュラーエコノミーシンポジウム 2026年8月28日（金）",
-          "url": "https://www.cjnavi.co.jp/event/20260821circular-economy-symposium/",
-          "first_seen": "2026-08-22T04:18:28+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-06T07:28:29+00:00",
-      "last_update": "2026-09-06T07:28:29+00:00",
+      "last_checked": "2026-09-07T07:44:50+00:00",
+      "last_update": "2026-09-07T07:44:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1365,9 +1377,45 @@
         "https://ledge.ai/articles/stanford_ai_young_worker_employment_gap": {
           "title": "生成AIの影響を受けやすい若手、雇用ギャップ19％に拡大 スタンフォード大が物議を醸した研究の1年後を追跡調査のサムネイル画像",
           "first_seen": "2026-09-06T07:28:29+00:00"
+        },
+        "https://ledge.ai/articles/trump_administration_ai_training_fair_use": {
+          "title": "トランプ政権、AI学習は「フェアユース」と主張 米司法省がOpenAI著作権訴訟で意見書のサムネイル画像",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        "https://ledge.ai/articles/elyza_works_ai_app_patent_criticism": {
+          "title": "ELYZA、「業務AIアプリをAIで作成」特許発表を即日修正・謝罪 「AIアプリ開発一般ではない」と説明のサムネイル画像",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_hugging_face_acquisition": {
+          "title": "NVIDIA、Hugging Faceを129億3030万ドルで買収へ オープンプラットフォーム維持、2027年前半完了予定のサムネイル画像",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_3_8_flash_meta_muse_spark_1_3_google_pics": {
+          "title": "Google「Gemini 3.8 Flash」、Meta「Muse Spark 1.3」AI新モデル相次ぎリリース GoogleはAI画像生成・編集ツール「Google Pics」も提供開始のサムネイル画像",
+          "first_seen": "2026-09-07T07:44:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "トランプ政権、AI学習は「フェアユース」と主張 米司法省がOpenAI著作権訴訟で意見書のサムネイル画像",
+          "url": "https://ledge.ai/articles/trump_administration_ai_training_fair_use",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        {
+          "title": "ELYZA、「業務AIアプリをAIで作成」特許発表を即日修正・謝罪 「AIアプリ開発一般ではない」と説明のサムネイル画像",
+          "url": "https://ledge.ai/articles/elyza_works_ai_app_patent_criticism",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        {
+          "title": "NVIDIA、Hugging Faceを129億3030万ドルで買収へ オープンプラットフォーム維持、2027年前半完了予定のサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_hugging_face_acquisition",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
+        {
+          "title": "Google「Gemini 3.8 Flash」、Meta「Muse Spark 1.3」AI新モデル相次ぎリリース GoogleはAI画像生成・編集ツール「Google Pics」も提供開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_3_8_flash_meta_muse_spark_1_3_google_pics",
+          "first_seen": "2026-09-07T07:44:50+00:00"
+        },
         {
           "title": "ニューヨーク市、公立校の8年生まで生成AI利用を1年間停止 約60万人対象、高校は限定利用のサムネイル画像",
           "url": "https://ledge.ai/articles/nyc_public_schools_generative_ai_moratorium",
@@ -1597,26 +1645,6 @@
           "title": "「困ったら、まずAI」が当たり前に。LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビューのサムネイル画像",
           "url": "https://ledge.ai/articles/lineyahoo-communications-interview",
           "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "中国Moonshot AIの「Kimi」、日本向け展開を本格化 「今日から、日本での歩みを始める」のサムネイル画像",
-          "url": "https://ledge.ai/articles/moonshot_ai_kimi_japan_expansion",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "Anthropic、「Claude Mythos 5」をClaude Securityに導入 モデルは直接開放せず脆弱性スキャンに限定のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_mythos_5_security_vulnerability_scan",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "KDDI、日本発AIスタートアップ5社の米国顧客開拓を支援 「Beyond Borders Accelerator」開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/kddi_beyond_borders_accelerator",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "法人向けAIサービス説明会を開催 AIの競争軸は「モデル」から「データ」へ―KDDIのサムネイル画像",
-          "url": "https://ledge.ai/articles/kddi-market-compass-session",
-          "first_seen": "2026-08-24T05:24:01+00:00"
         }
       ]
     }
