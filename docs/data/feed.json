@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T07:44:50+00:00",
+  "generated_at": "2026-09-08T07:38:43+00:00",
   "site_count": 2,
-  "new_count": 7,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-07T07:44:50+00:00",
-      "last_update": "2026-09-07T07:44:50+00:00",
-      "new_count": 3,
+      "last_checked": "2026-09-08T07:38:43+00:00",
+      "last_update": "2026-09-08T07:38:43+00:00",
+      "new_count": 2,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 【福島県】朝からガッツリ白米を食べたい！福島市・いわき市の食堂の朝ご… 朝からしっかり食べて、1日を元気にスタート！今回は、早起きしてでも食べたい、福島市・いわ...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260908fukushima-asagohan/",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
+        {
+          "title": "イベント AD 会津の伝統工芸や地元の食に触れながら、エシカル消費を体験できる『エシ… エシカルマルシェin会津 2026年9月26日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260908ethical-marche-aizu/",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
         {
           "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260907yamaphoto-club/",
@@ -257,16 +267,6 @@
           "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
           "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
           "first_seen": "2026-08-23T04:55:21+00:00"
-        },
-        {
-          "title": "スペシャル 『CJ Monmo』2026年9月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年9月号を読んで以下のアンケートに答えると、抽選で豪...",
-          "url": "https://www.cjnavi.co.jp/special/20260825readers-gifts/",
-          "first_seen": "2026-08-23T04:55:21+00:00"
-        },
-        {
-          "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
-          "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
-          "first_seen": "2026-08-22T04:18:28+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-07T07:44:50+00:00",
-      "last_update": "2026-09-07T07:44:50+00:00",
+      "last_checked": "2026-09-08T07:38:43+00:00",
+      "last_update": "2026-09-08T07:38:43+00:00",
       "new_count": 4,
-      "link_count": 41,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "RIZAP、社員が個人利用の生成AIに氏名・疾患情報を誤アップロード IHI健保分は210人、OpenAI社と公表のサムネイル画像",
+          "url": "https://ledge.ai/articles/rizap_generative_ai_personal_data_upload",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
+        {
+          "title": "AIエージェントで攻撃者は「眠らなくなる」――ExaSecurity代表が語る、AI時代のセキュリティのサムネイル画像",
+          "url": "https://ledge.ai/articles/exasecurity-interview",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
+        {
+          "title": "Tesla、ハンドルもペダルもない「Cybercab」でロボタクシー運行開始 米オースティンで のサムネイル画像",
+          "url": "https://ledge.ai/articles/tesla_cybercab_robotaxi",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
+        {
+          "title": "Anthropic、Claude向けコマースAIの開発ひな型を公開 買い物・店舗運営の2エージェントをGitHubで提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_commerce_agents",
+          "first_seen": "2026-09-08T07:38:43+00:00"
+        },
         {
           "title": "トランプ政権、AI学習は「フェアユース」と主張 米司法省がOpenAI著作権訴訟で意見書のサムネイル画像",
           "url": "https://ledge.ai/articles/trump_administration_ai_training_fair_use",
@@ -512,31 +532,53 @@
           "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
           "url": "https://ledge.ai/articles/intel_robotics_readiness_gap",
           "first_seen": "2026-08-26T05:02:55+00:00"
-        },
-        {
-          "title": "Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べるのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_academy",
-          "first_seen": "2026-08-26T05:02:55+00:00"
-        },
-        {
-          "title": "はてな、AI「Mouton」が全スレッドに常駐する「はてなパークス」正式公開 AIが不適切投稿を自動非表示、要約やタイトル提案ものサムネイル画像",
-          "url": "https://ledge.ai/articles/hatena_parks_mouton_ai_moderation",
-          "first_seen": "2026-08-26T05:02:55+00:00"
-        },
-        {
-          "title": "「Ledge.ai EXPO 2026 AUTUMN」を本日より公開 9月4日には参加無料のLIVEウェビナーものサムネイル画像",
-          "url": "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "「困ったら、まずAI」が当たり前に。LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビューのサムネイル画像",
-          "url": "https://ledge.ai/articles/lineyahoo-communications-interview",
-          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】朝からガッツリ白米を食べたい！福島市・いわき市の食堂の朝ご… 朝からしっかり食べて、1日を元気にスタート！今回は、早起きしてでも食べたい、福島市・いわ...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260908fukushima-asagohan/",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 会津の伝統工芸や地元の食に触れながら、エシカル消費を体験できる『エシ… エシカルマルシェin会津 2026年9月26日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260908ethical-marche-aizu/",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "RIZAP、社員が個人利用の生成AIに氏名・疾患情報を誤アップロード IHI健保分は210人、OpenAI社と公表のサムネイル画像",
+      "url": "https://ledge.ai/articles/rizap_generative_ai_personal_data_upload",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIエージェントで攻撃者は「眠らなくなる」――ExaSecurity代表が語る、AI時代のセキュリティのサムネイル画像",
+      "url": "https://ledge.ai/articles/exasecurity-interview",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Tesla、ハンドルもペダルもない「Cybercab」でロボタクシー運行開始 米オースティンで のサムネイル画像",
+      "url": "https://ledge.ai/articles/tesla_cybercab_robotaxi",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claude向けコマースAIの開発ひな型を公開 買い物・店舗運営の2エージェントをGitHubで提供のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_commerce_agents",
+      "first_seen": "2026-09-08T07:38:43+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1070,20 +1112,6 @@
       "first_seen": "2026-08-26T05:02:55+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べるのサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_claude_academy",
-      "first_seen": "2026-08-26T05:02:55+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "はてな、AI「Mouton」が全スレッドに常駐する「はてなパークス」正式公開 AIが不適切投稿を自動非表示、要約やタイトル提案ものサムネイル画像",
-      "url": "https://ledge.ai/articles/hatena_parks_mouton_ai_moderation",
-      "first_seen": "2026-08-26T05:02:55+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
@@ -1189,20 +1217,6 @@
       "first_seen": "2026-08-25T04:59:31+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「Ledge.ai EXPO 2026 AUTUMN」を本日より公開 9月4日には参加無料のLIVEウェビナーものサムネイル画像",
-      "url": "https://ledge.ai/articles/ledgeai-expo-2026-autumn-open",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「困ったら、まずAI」が当たり前に。LINEヤフーコミュニケーションズが見据える、生成AI時代のCS——独占インタビューのサムネイル画像",
-      "url": "https://ledge.ai/articles/lineyahoo-communications-interview",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
@@ -1222,20 +1236,6 @@
       "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
       "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
       "first_seen": "2026-08-23T04:55:21+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "スペシャル 『CJ Monmo』2026年9月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年9月号を読んで以下のアンケートに答えると、抽選で豪...",
-      "url": "https://www.cjnavi.co.jp/special/20260825readers-gifts/",
-      "first_seen": "2026-08-23T04:55:21+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 名作オペラ「愛の妙薬」をいわき市で上演 オペラ「愛の妙薬」～いわきedition 2026年11月21日（土） ［チケット一般販売］2026年8月29日（土）～",
-      "url": "https://www.cjnavi.co.jp/event/20260822opera-iwakialios/",
-      "first_seen": "2026-08-22T04:18:28+00:00"
     }
   ]
 }
