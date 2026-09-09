@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T07:38:43+00:00",
+  "generated_at": "2026-09-09T07:43:32+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-08T07:38:43+00:00",
-      "last_update": "2026-09-08T07:38:43+00:00",
-      "new_count": 2,
+      "last_checked": "2026-09-09T07:43:32+00:00",
+      "last_update": "2026-09-09T07:43:32+00:00",
+      "new_count": 1,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
+          "url": "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/",
+          "first_seen": "2026-09-09T07:43:32+00:00"
+        },
         {
           "title": "グルメ 【福島県】朝からガッツリ白米を食べたい！福島市・いわき市の食堂の朝ご… 朝からしっかり食べて、1日を元気にスタート！今回は、早起きしてでも食べたい、福島市・いわ...",
           "url": "https://www.cjnavi.co.jp/gourmet/20260908fukushima-asagohan/",
@@ -262,11 +267,6 @@
           "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
           "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
           "first_seen": "2026-08-23T04:55:21+00:00"
-        },
-        {
-          "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
-          "first_seen": "2026-08-23T04:55:21+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-08T07:38:43+00:00",
-      "last_update": "2026-09-08T07:38:43+00:00",
-      "new_count": 4,
-      "link_count": 42,
+      "last_checked": "2026-09-09T07:43:32+00:00",
+      "last_update": "2026-09-09T07:43:32+00:00",
+      "new_count": 3,
+      "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google、AIで脆弱性の発見・再現・修正まで進める「Mantis」解説 複数エージェントで誤検知を抑制のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_mantis_ai_vulnerability_security",
+          "first_seen": "2026-09-09T07:43:32+00:00"
+        },
+        {
+          "title": "電通など3社、広告コピーをAIが自動評価 コピーライター64人・11万件超の評価データを構築のサムネイル画像",
+          "url": "https://ledge.ai/articles/dentsu_ai_ad_copy_evaluation",
+          "first_seen": "2026-09-09T07:43:32+00:00"
+        },
+        {
+          "title": "Microsoft Office責任者、職場の『AIスロップ』に苦言 AI生成文書をAIで要約する流れを『doom loop』と指摘のサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_office_ai_slop_doom_loop",
+          "first_seen": "2026-09-09T07:43:32+00:00"
+        },
         {
           "title": "RIZAP、社員が個人利用の生成AIに氏名・疾患情報を誤アップロード IHI健保分は210人、OpenAI社と公表のサムネイル画像",
           "url": "https://ledge.ai/articles/rizap_generative_ai_personal_data_upload",
@@ -517,26 +532,39 @@
           "title": "政府、生成AI事業者向け「プリンシプル・コード」公表 学習データの透明性や知財保護を求めるのサムネイル画像",
           "url": "https://ledge.ai/articles/japan_ai_principle_code_ip_transparency",
           "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "Alibaba、AI動画生成「Wan3.0」を一般提供 最大30秒、PDF・PowerPoint・Webページも動画化のサムネイル画像",
-          "url": "https://ledge.ai/articles/alibaba_wan3_general_availability",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "北京「世界人型ロボット運動会」、天工Ultraが100mを9秒32 人類男子世界記録9秒58を上回るのサムネイル画像",
-          "url": "https://ledge.ai/articles/world_humanoid_robot_games_tiangong_100m",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
-          "url": "https://ledge.ai/articles/intel_robotics_readiness_gap",
-          "first_seen": "2026-08-26T05:02:55+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
+      "url": "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/",
+      "first_seen": "2026-09-09T07:43:32+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、AIで脆弱性の発見・再現・修正まで進める「Mantis」解説 複数エージェントで誤検知を抑制のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_mantis_ai_vulnerability_security",
+      "first_seen": "2026-09-09T07:43:32+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "電通など3社、広告コピーをAIが自動評価 コピーライター64人・11万件超の評価データを構築のサムネイル画像",
+      "url": "https://ledge.ai/articles/dentsu_ai_ad_copy_evaluation",
+      "first_seen": "2026-09-09T07:43:32+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Microsoft Office責任者、職場の『AIスロップ』に苦言 AI生成文書をAIで要約する流れを『doom loop』と指摘のサムネイル画像",
+      "url": "https://ledge.ai/articles/microsoft_office_ai_slop_doom_loop",
+      "first_seen": "2026-09-09T07:43:32+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1084,31 +1112,10 @@
       "first_seen": "2026-08-28T21:13:02+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Alibaba、AI動画生成「Wan3.0」を一般提供 最大30秒、PDF・PowerPoint・Webページも動画化のサムネイル画像",
-      "url": "https://ledge.ai/articles/alibaba_wan3_general_availability",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "北京「世界人型ロボット運動会」、天工Ultraが100mを9秒32 人類男子世界記録9秒58を上回るのサムネイル画像",
-      "url": "https://ledge.ai/articles/world_humanoid_robot_games_tiangong_100m",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
       "url": "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/",
-      "first_seen": "2026-08-26T05:02:55+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "インテル調査、ロボット導入意欲と運用準備にギャップ 6割が5年以内に「多数のロボット運用」、正式な協働戦略は4割 のサムネイル画像",
-      "url": "https://ledge.ai/articles/intel_robotics_readiness_gap",
       "first_seen": "2026-08-26T05:02:55+00:00"
     },
     {
@@ -1228,13 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
       "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
-      "first_seen": "2026-08-23T04:55:21+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【保存版】Webで読めます！『ふくしまの子育て2026秋』特集 ふくしまの子育て2026秋",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-autumn/",
       "first_seen": "2026-08-23T04:55:21+00:00"
     }
   ]
