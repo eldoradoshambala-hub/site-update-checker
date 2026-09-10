@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-09T07:43:33+00:00",
+  "updated_at": "2026-09-10T07:43:24+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-09T07:43:32+00:00",
-      "last_update": "2026-09-09T07:43:32+00:00",
+      "last_checked": "2026-09-10T07:43:22+00:00",
+      "last_update": "2026-09-10T07:43:22+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -462,9 +462,45 @@
         "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/": {
           "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
           "first_seen": "2026-09-09T07:43:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260910mandara/": {
+          "title": "イベント 猪苗代町「天鏡閣」で点描曼荼羅画の作品展を開催 宙を奏でる点描曼荼羅画 作品展 2026年9月17日（木）～29日（火）",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260910hinoemata-spot/": {
+          "title": "おでかけ 【福島県】田村市に来たら行くべきはココ！おすすめスポット3選 田村市は、神秘的な鍾乳石に出合える「あぶくま洞」や珍しい昆虫に出合える「ムシムシランド...",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260910renovation-fukushima/": {
+          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260905miyagi-museum/": {
+          "title": "イベント 抽象絵画の先駆者・カンディンスキー。画業と日本への影響を「宮城県美術… カンディンスキー 世界は鳴りひびく―日本のコレクションでたどる画業と反響― 2026年9月12日（土）～10月28日（水）",
+          "first_seen": "2026-09-10T07:43:22+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 猪苗代町「天鏡閣」で点描曼荼羅画の作品展を開催 宙を奏でる点描曼荼羅画 作品展 2026年9月17日（木）～29日（火）",
+          "url": "https://www.cjnavi.co.jp/event/20260910mandara/",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "おでかけ 【福島県】田村市に来たら行くべきはココ！おすすめスポット3選 田村市は、神秘的な鍾乳石に出合える「あぶくま洞」や珍しい昆虫に出合える「ムシムシランド...",
+          "url": "https://www.cjnavi.co.jp/trip/20260910hinoemata-spot/",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20260910renovation-fukushima/",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "イベント 抽象絵画の先駆者・カンディンスキー。画業と日本への影響を「宮城県美術… カンディンスキー 世界は鳴りひびく―日本のコレクションでたどる画業と反響― 2026年9月12日（土）～10月28日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20260905miyagi-museum/",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
         {
           "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
           "url": "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/",
@@ -694,34 +730,14 @@
           "title": "ライフ AD 【子育てお役立ち情報】親子カットや赤ちゃん筆も！子育て応援サロン HAIR MAKE APPEASE（アピーズ）",
           "url": "https://www.cjnavi.co.jp/life/20260825kosodate-appease/",
           "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "グルメ AD 【子育てお役立ち情報】個室ありの古民家会席で大切な節目をお祝い 四季茶房 八夢（やむ）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260825kosodate-yamu/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "月刊CJ Monmo 2026年9月号",
-          "url": "https://www.cjnavi.co.jp/magazine/20260825cjmonmo-62/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ 『モンモ良品』でふくしまの旬の果物や天然酵母パンをお取り寄せ！おすす… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、農園直送で...",
-          "url": "https://www.cjnavi.co.jp/life/20260824monmoryouhin/",
-          "first_seen": "2026-08-24T05:24:01+00:00"
-        },
-        {
-          "title": "グルメ 白河ラーメンの王道を愚直に磨き続ける白河市の実力店。手打ち麺とワンタ… 第9回「手打ち中華そば もり」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260823fukushima-ramen09/",
-          "first_seen": "2026-08-23T04:55:21+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-09T07:43:32+00:00",
-      "last_update": "2026-09-09T07:43:32+00:00",
+      "last_checked": "2026-09-10T07:43:22+00:00",
+      "last_update": "2026-09-10T07:43:22+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1433,9 +1449,54 @@
         "https://ledge.ai/articles/microsoft_office_ai_slop_doom_loop": {
           "title": "Microsoft Office責任者、職場の『AIスロップ』に苦言 AI生成文書をAIで要約する流れを『doom loop』と指摘のサムネイル画像",
           "first_seen": "2026-09-09T07:43:32+00:00"
+        },
+        "https://ledge.ai/articles/openai_navier_stokes_ai_proof": {
+          "title": "OpenAI、GPT-6 Astra超えの未公開AIが現代数学の七大難問「ナビエ・ストークス方程式」の解決証明を生成 先行研究の扱いに数学者が異議ものサムネイル画像",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://ledge.ai/articles/gmo_humanoid_ambulance": {
+          "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけのサムネイル画像",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://ledge.ai/articles/lexisnexis-media-roundtable-202609": {
+          "title": "AI利用率88.6％、それでも法務は楽にならない？ LexisNexis調査に見る日本企業の「AI導入後」の課題のサムネイル画像",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://ledge.ai/articles/meta_muse_personal_ai_agent": {
+          "title": "Meta、パーソナルAIエージェント『Muse』発表 メール送信や買い物も代行、米国で提供開始のサムネイル画像",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_images_2_5_sketch_work_writing_style": {
+          "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能のサムネイル画像",
+          "first_seen": "2026-09-10T07:43:22+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、GPT-6 Astra超えの未公開AIが現代数学の七大難問「ナビエ・ストークス方程式」の解決証明を生成 先行研究の扱いに数学者が異議ものサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_navier_stokes_ai_proof",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけのサムネイル画像",
+          "url": "https://ledge.ai/articles/gmo_humanoid_ambulance",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "AI利用率88.6％、それでも法務は楽にならない？ LexisNexis調査に見る日本企業の「AI導入後」の課題のサムネイル画像",
+          "url": "https://ledge.ai/articles/lexisnexis-media-roundtable-202609",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "Meta、パーソナルAIエージェント『Muse』発表 メール送信や買い物も代行、米国で提供開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_personal_ai_agent",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        {
+          "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_images_2_5_sketch_work_writing_style",
+          "first_seen": "2026-09-10T07:43:22+00:00"
+        },
         {
           "title": "Google、AIで脆弱性の発見・再現・修正まで進める「Mantis」解説 複数エージェントで誤検知を抑制のサムネイル画像",
           "url": "https://ledge.ai/articles/google_mantis_ai_vulnerability_security",
@@ -1659,31 +1720,6 @@
         {
           "title": "ビジネス 2026 / 8 / 27 [THU] Meta、100万GPU時代を見据えた新プロトコル「MetaRoCE」発表 AI向けEthernet通信を再設計",
           "url": "https://ledge.ai/articles/meta_metaroce_ai_ethernet",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "防衛省の情報分析をSakana AIがAI支援 公開情報で収集・分析・管理、AIエージェント技術を実証のサムネイル画像",
-          "url": "https://ledge.ai/articles/sakana_ai_defense_information_analysis",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "ワイングラスを縁まで満たせるか、指を3本描けるか OpenRouterが39の画像生成AIを比較する「Image Benchmarks」公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/openrouter_image_benchmarks",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "AIコーディングエージェント、開発者の90％が週1回以上利用 Claude Codeが39％でGitHub Copilotを逆転し首位に 1月18％から急伸のサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_code_github_copilot_jetbrains_survey_2026",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "「日本AI大賞2026」エントリー受付中 効率化にとどまらないAI活用の挑戦を表彰のサムネイル画像",
-          "url": "https://ledge.ai/articles/japan-ai-awards-announce",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "政府、生成AI事業者向け「プリンシプル・コード」公表 学習データの透明性や知財保護を求めるのサムネイル画像",
-          "url": "https://ledge.ai/articles/japan_ai_principle_code_ip_transparency",
           "first_seen": "2026-08-28T21:13:02+00:00"
         }
       ]
