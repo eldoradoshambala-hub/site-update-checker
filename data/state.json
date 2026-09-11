@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T07:43:24+00:00",
+  "updated_at": "2026-09-11T07:38:43+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-10T07:43:22+00:00",
-      "last_update": "2026-09-10T07:43:22+00:00",
+      "last_checked": "2026-09-11T07:38:41+00:00",
+      "last_update": "2026-09-11T07:38:41+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -478,9 +478,27 @@
         "https://www.cjnavi.co.jp/event/20260905miyagi-museum/": {
           "title": "イベント 抽象絵画の先駆者・カンディンスキー。画業と日本への影響を「宮城県美術… カンディンスキー 世界は鳴りひびく―日本のコレクションでたどる画業と反響― 2026年9月12日（土）～10月28日（水）",
           "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260911newopen-tregion/": {
+          "title": "グルメ 福島駅直結！福島県産食材が満載のレストラン『トレジオン 福島店』がオ… トレジオン 福島店",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260912renovation-fukushima/": {
+          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
+          "first_seen": "2026-09-11T07:38:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 福島駅直結！福島県産食材が満載のレストラン『トレジオン 福島店』がオ… トレジオン 福島店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260911newopen-tregion/",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        {
+          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20260912renovation-fukushima/",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
         {
           "title": "イベント 猪苗代町「天鏡閣」で点描曼荼羅画の作品展を開催 宙を奏でる点描曼荼羅画 作品展 2026年9月17日（木）～29日（火）",
           "url": "https://www.cjnavi.co.jp/event/20260910mandara/",
@@ -720,24 +738,14 @@
           "title": "ライフ AD 【子育てお役立ち情報】国家検定資格のプロがつくる、安心の適正メガネ 眼鏡専門店 小原眼鏡（おばらめがね）",
           "url": "https://www.cjnavi.co.jp/life/20260825kosodate-obaramegane/",
           "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子育てお役立ち情報】「いつもの個室美容室」で、家族の笑顔も成長中！ 美容室 Jelly Beans（ジェリービーンズ）",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-jellybeans/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子育てお役立ち情報】親子カットや赤ちゃん筆も！子育て応援サロン HAIR MAKE APPEASE（アピーズ）",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-appease/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-10T07:43:22+00:00",
-      "last_update": "2026-09-10T07:43:22+00:00",
+      "last_checked": "2026-09-11T07:38:41+00:00",
+      "last_update": "2026-09-11T07:38:41+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1469,9 +1477,45 @@
         "https://ledge.ai/articles/openai_chatgpt_images_2_5_sketch_work_writing_style": {
           "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能のサムネイル画像",
           "first_seen": "2026-09-10T07:43:22+00:00"
+        },
+        "https://ledge.ai/articles/unitree_unifolm_x2_autonomous_combat": {
+          "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測のサムネイル画像",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        "https://ledge.ai/articles/megli-interview": {
+          "title": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作のサムネイル画像",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        "https://ledge.ai/articles/palmimo_devkit_ai_robot_mcp": {
+          "title": "卓上型汎用AIロボ「Palmimo DevKit」、PoCや研究向けに先行販売開始 LLMの指示で歩く・話す、MCPにも対応のサムネイル画像",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        "https://ledge.ai/articles/google_weathernext_3": {
+          "title": "Google、AI天気予報「WeatherNext 3」発表 急変する雨を捉える毎時予報、降水予測を高精度化のサムネイル画像",
+          "first_seen": "2026-09-11T07:38:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測のサムネイル画像",
+          "url": "https://ledge.ai/articles/unitree_unifolm_x2_autonomous_combat",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        {
+          "title": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作のサムネイル画像",
+          "url": "https://ledge.ai/articles/megli-interview",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        {
+          "title": "卓上型汎用AIロボ「Palmimo DevKit」、PoCや研究向けに先行販売開始 LLMの指示で歩く・話す、MCPにも対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/palmimo_devkit_ai_robot_mcp",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
+        {
+          "title": "Google、AI天気予報「WeatherNext 3」発表 急変する雨を捉える毎時予報、降水予測を高精度化のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_weathernext_3",
+          "first_seen": "2026-09-11T07:38:41+00:00"
+        },
         {
           "title": "OpenAI、GPT-6 Astra超えの未公開AIが現代数学の七大難問「ナビエ・ストークス方程式」の解決証明を生成 先行研究の扱いに数学者が異議ものサムネイル画像",
           "url": "https://ledge.ai/articles/openai_navier_stokes_ai_proof",
@@ -1701,26 +1745,6 @@
           "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習のサムネイル画像",
           "url": "https://ledge.ai/articles/google_deepmind_eve_online_ai_research",
           "first_seen": "2026-08-29T09:36:59+00:00"
-        },
-        {
-          "title": "米Accelerated Understanding、物理状態を4D予測するAIモデル公開 ポストTransformerの「ニューラルオペレーター」活用で推論時5兆超コンテキストのサムネイル画像",
-          "url": "https://ledge.ai/articles/accelerated_understanding_physical_ai_4d",
-          "first_seen": "2026-08-29T09:36:59+00:00"
-        },
-        {
-          "title": "Alibaba「Qwen3.8-Flash-Next」公開、Qwen4の次世代アーキテクチャを先行投入 学習コストは約9分の1のサムネイル画像",
-          "url": "https://ledge.ai/articles/qwen3_8_flash_next_qwen4_architecture",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 27 [THU] OpenAI独自推論チップ「ハラペーニョ」実測公開、NVIDIA GB200/GB300比でワット当たり最大1.9倍",
-          "url": "https://ledge.ai/articles/openai_jalapeno_benchmark_results",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 27 [THU] Meta、100万GPU時代を見据えた新プロトコル「MetaRoCE」発表 AI向けEthernet通信を再設計",
-          "url": "https://ledge.ai/articles/meta_metaroce_ai_ethernet",
-          "first_seen": "2026-08-28T21:13:02+00:00"
         }
       ]
     }
