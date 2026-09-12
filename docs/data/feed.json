@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T07:38:41+00:00",
+  "generated_at": "2026-09-12T07:31:41+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 10,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,42 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-11T07:38:41+00:00",
-      "last_update": "2026-09-11T07:38:41+00:00",
-      "new_count": 2,
-      "link_count": 21,
+      "last_checked": "2026-09-12T07:31:41+00:00",
+      "last_update": "2026-09-12T07:31:41+00:00",
+      "new_count": 6,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 郡山市伝統の手漉き和紙の灯籠が里山をほのかに照らす 海老根長月宵あかり 第24回 秋蛍 2026年9月19日（土）・20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260912ebine-ganatsuki-yoiakari/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど約40店舗以上… スマイルアップマルシェ in二本松 2026年9月19日（土）・20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260912smileup-marche/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "イベント 音楽で繋がり､心で触れ合うバリアフリーな音楽祭を福島駅前で開催 第14回 とっておきの音楽祭 IN ふくしま2026 2026年9月19日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260912totteoki-fukushima/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "イベント 気鋭のクリエイターが作り上げる「大どろぼう」の部屋の秘密を「新潟県立… 大どろぼうの家 2026年9月19日（土）～12月20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260912odrobonoie/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "イベント 提灯の神秘的な灯りが、城下町の白河市の夜を美しく照らす 白河提灯まつり 2026年9月19日（土）～21日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260912shirakawa-kashimajinja/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "イベント 約600名の大行列は圧巻。会津の秋を彩る伝統の祭り 会津まつり 2026年9月19日（土）～21日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260912aizumatsuri/",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
         {
           "title": "グルメ 福島駅直結！福島県産食材が満載のレストラン『トレジオン 福島店』がオ… トレジオン 福島店",
           "url": "https://www.cjnavi.co.jp/gourmet/20260911newopen-tregion/",
@@ -237,36 +267,6 @@
           "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
           "url": "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/",
           "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【発達支援施設】園や学校と連携し、子どもの「困り感」を支援 発達支援センター ますと",
-          "url": "https://www.cjnavi.co.jp/life/20260825hattatsushien-mast/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子どもの習い事】はじめてパソコンに触れる子どもでも安心の教室 市民パソコン塾 福島荒井校",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-shiminpc/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子どもの習い事】体は強くなる！ジュニアスポーツ教室を通年開催 福島市スポーツ振興公社",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-sports-shinkoukousya/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子どもの習い事】思考力を育てる幼児教室！秋キャンペーン実施 幼児教室 こどもクラブ 福島教室",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-kodomoclub/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子育てお役立ち情報】販売・買取・レッスン、ピアノのことはお任せ！ ピアノハウス福島",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-pianohouse-fukushima/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【子育てお役立ち情報】国家検定資格のプロがつくる、安心の適正メガネ 眼鏡専門店 小原眼鏡（おばらめがね）",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-obaramegane/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-11T07:38:41+00:00",
-      "last_update": "2026-09-11T07:38:41+00:00",
+      "last_checked": "2026-09-12T07:31:41+00:00",
+      "last_update": "2026-09-12T07:31:41+00:00",
       "new_count": 4,
-      "link_count": 38,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
+          "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "Google「Gemini」に大きく依存して登山計画、米シャスタ山で3人遭難 食料・水不足、当局がAIへの過度な依存を警告のサムネイル画像",
+          "url": "https://ledge.ai/articles/mount_shasta_gemini_rescue",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "AnthropicのAI事前学習研究者が退職、「自己改善する超知能」競争を批判 同調する現職のAIアライメント研究者も「10年以内の人類滅亡10％超」のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_researcher_resigns_superintelligence_risk",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        {
+          "title": "OpenAI、ChatGPT Workに「Data agent」 企業データを自然言語で分析、ダッシュボード作成からアクション実行までのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_work_data_agent",
+          "first_seen": "2026-09-12T07:31:41+00:00"
+        },
         {
           "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測のサムネイル画像",
           "url": "https://ledge.ai/articles/unitree_unifolm_x2_autonomous_combat",
@@ -512,31 +532,81 @@
           "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
           "first_seen": "2026-08-30T08:47:40+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 8 / 29 [SAT] 話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論",
-          "url": "https://ledge.ai/articles/z_ai_glm_5_3_flash_china_ai_chips",
-          "first_seen": "2026-08-30T08:47:40+00:00"
-        },
-        {
-          "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコアのサムネイル画像",
-          "url": "https://ledge.ai/articles/bytedance_diffusionopsd",
-          "first_seen": "2026-08-30T08:47:40+00:00"
-        },
-        {
-          "title": "Meta、52の州などの司法当局と未成年ユーザーの保護に最大約180億ドル（約２兆9000億円）で和解 Instagram・Facebookに未成年2時間制限、13歳未満を判定するAIモデル開発へのサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_teen_safety_settlement_ai_age_model",
-          "first_seen": "2026-08-29T09:36:59+00:00"
-        },
-        {
-          "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_deepmind_eve_online_ai_research",
-          "first_seen": "2026-08-29T09:36:59+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 郡山市伝統の手漉き和紙の灯籠が里山をほのかに照らす 海老根長月宵あかり 第24回 秋蛍 2026年9月19日（土）・20日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260912ebine-ganatsuki-yoiakari/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど約40店舗以上… スマイルアップマルシェ in二本松 2026年9月19日（土）・20日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260912smileup-marche/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 音楽で繋がり､心で触れ合うバリアフリーな音楽祭を福島駅前で開催 第14回 とっておきの音楽祭 IN ふくしま2026 2026年9月19日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260912totteoki-fukushima/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 気鋭のクリエイターが作り上げる「大どろぼう」の部屋の秘密を「新潟県立… 大どろぼうの家 2026年9月19日（土）～12月20日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260912odrobonoie/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 提灯の神秘的な灯りが、城下町の白河市の夜を美しく照らす 白河提灯まつり 2026年9月19日（土）～21日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260912shirakawa-kashimajinja/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 約600名の大行列は圧巻。会津の秋を彩る伝統の祭り 会津まつり 2026年9月19日（土）～21日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260912aizumatsuri/",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
+      "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google「Gemini」に大きく依存して登山計画、米シャスタ山で3人遭難 食料・水不足、当局がAIへの過度な依存を警告のサムネイル画像",
+      "url": "https://ledge.ai/articles/mount_shasta_gemini_rescue",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AnthropicのAI事前学習研究者が退職、「自己改善する超知能」競争を批判 同調する現職のAIアライメント研究者も「10年以内の人類滅亡10％超」のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_researcher_resigns_superintelligence_risk",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、ChatGPT Workに「Data agent」 企業データを自然言語で分析、ダッシュボード作成からアクション実行までのサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_chatgpt_work_data_agent",
+      "first_seen": "2026-09-12T07:31:41+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1077,38 +1147,10 @@
       "first_seen": "2026-08-30T08:47:40+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ビジネス 2026 / 8 / 29 [SAT] 話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論",
-      "url": "https://ledge.ai/articles/z_ai_glm_5_3_flash_china_ai_chips",
-      "first_seen": "2026-08-30T08:47:40+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコアのサムネイル画像",
-      "url": "https://ledge.ai/articles/bytedance_diffusionopsd",
-      "first_seen": "2026-08-30T08:47:40+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
       "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
-      "first_seen": "2026-08-29T09:36:59+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Meta、52の州などの司法当局と未成年ユーザーの保護に最大約180億ドル（約２兆9000億円）で和解 Instagram・Facebookに未成年2時間制限、13歳未満を判定するAIモデル開発へのサムネイル画像",
-      "url": "https://ledge.ai/articles/meta_teen_safety_settlement_ai_age_model",
-      "first_seen": "2026-08-29T09:36:59+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_deepmind_eve_online_ai_research",
       "first_seen": "2026-08-29T09:36:59+00:00"
     },
     {
@@ -1193,48 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
       "url": "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【発達支援施設】園や学校と連携し、子どもの「困り感」を支援 発達支援センター ますと",
-      "url": "https://www.cjnavi.co.jp/life/20260825hattatsushien-mast/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【子どもの習い事】はじめてパソコンに触れる子どもでも安心の教室 市民パソコン塾 福島荒井校",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-shiminpc/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【子どもの習い事】体は強くなる！ジュニアスポーツ教室を通年開催 福島市スポーツ振興公社",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-sports-shinkoukousya/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【子どもの習い事】思考力を育てる幼児教室！秋キャンペーン実施 幼児教室 こどもクラブ 福島教室",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-kodomoclub/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【子育てお役立ち情報】販売・買取・レッスン、ピアノのことはお任せ！ ピアノハウス福島",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-pianohouse-fukushima/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【子育てお役立ち情報】国家検定資格のプロがつくる、安心の適正メガネ 眼鏡専門店 小原眼鏡（おばらめがね）",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-obaramegane/",
       "first_seen": "2026-08-25T04:59:31+00:00"
     }
   ]
