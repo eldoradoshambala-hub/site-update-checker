@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T07:31:41+00:00",
+  "generated_at": "2026-09-13T07:52:24+00:00",
   "site_count": 2,
-  "new_count": 10,
-  "error_count": 0,
+  "new_count": 3,
+  "error_count": 1,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "ok",
-      "error": null,
-      "consecutive_errors": 0,
-      "last_checked": "2026-09-12T07:31:41+00:00",
+      "status": "error",
+      "error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
+      "last_checked": "2026-09-13T07:52:24+00:00",
       "last_update": "2026-09-12T07:31:41+00:00",
-      "new_count": 6,
-      "link_count": 20,
+      "new_count": 0,
+      "link_count": 0,
       "seeded_now": false,
       "items": [
         {
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-12T07:31:41+00:00",
-      "last_update": "2026-09-12T07:31:41+00:00",
-      "new_count": 4,
-      "link_count": 42,
+      "last_checked": "2026-09-13T07:52:24+00:00",
+      "last_update": "2026-09-13T07:52:24+00:00",
+      "new_count": 3,
+      "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        {
+          "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_job_interview_kowro",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        {
+          "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
         {
           "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
           "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
@@ -517,26 +532,32 @@
           "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
           "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal",
-          "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
-          "url": "https://ledge.ai/articles/qualcomm_japan_robotics_investment",
-          "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
-          "first_seen": "2026-08-30T08:47:40+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
+      "first_seen": "2026-09-13T07:52:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_job_interview_kowro",
+      "first_seen": "2026-09-13T07:52:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
+      "first_seen": "2026-09-13T07:52:24+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1124,27 +1145,6 @@
       "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
       "first_seen": "2026-08-31T09:09:34+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal",
-      "first_seen": "2026-08-31T09:09:34+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
-      "url": "https://ledge.ai/articles/qualcomm_japan_robotics_investment",
-      "first_seen": "2026-08-31T09:09:34+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
-      "first_seen": "2026-08-30T08:47:40+00:00"
     },
     {
       "site_id": "cjnavi",

@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-09-12T07:31:43+00:00",
+  "updated_at": "2026-09-13T07:53:29+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-12T07:31:41+00:00",
+      "last_checked": "2026-09-13T07:52:24+00:00",
       "last_update": "2026-09-12T07:31:41+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
+      "last_status": "error",
+      "last_error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -768,8 +768,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-12T07:31:41+00:00",
-      "last_update": "2026-09-12T07:31:41+00:00",
+      "last_checked": "2026-09-13T07:52:24+00:00",
+      "last_update": "2026-09-13T07:52:24+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1533,9 +1533,36 @@
         "https://ledge.ai/articles/openai_chatgpt_work_data_agent": {
           "title": "OpenAI、ChatGPT Workに「Data agent」 企業データを自然言語で分析、ダッシュボード作成からアクション実行までのサムネイル画像",
           "first_seen": "2026-09-12T07:31:41+00:00"
+        },
+        "https://ledge.ai/articles/google_finland_ai_infrastructure": {
+          "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        "https://ledge.ai/articles/ai_job_interview_kowro": {
+          "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030": {
+          "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
+          "first_seen": "2026-09-13T07:52:24+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        {
+          "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_job_interview_kowro",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
+        {
+          "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
+          "first_seen": "2026-09-13T07:52:24+00:00"
+        },
         {
           "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
           "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
@@ -1770,21 +1797,6 @@
           "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
           "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_cloud_gemini_enterprise_financial_legal",
-          "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "Qualcomm、日本のロボット産業に長期投資へ 「Qualcomm Japan Robotics Center」設立を計画のサムネイル画像",
-          "url": "https://ledge.ai/articles/qualcomm_japan_robotics_investment",
-          "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
-          "first_seen": "2026-08-30T08:47:40+00:00"
         }
       ]
     }
