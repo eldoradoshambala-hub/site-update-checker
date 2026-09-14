@@ -1,23 +1,38 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T07:52:24+00:00",
+  "generated_at": "2026-09-14T08:24:33+00:00",
   "site_count": 2,
-  "new_count": 3,
-  "error_count": 1,
+  "new_count": 7,
+  "error_count": 0,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "error",
-      "error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
-      "last_checked": "2026-09-13T07:52:24+00:00",
-      "last_update": "2026-09-12T07:31:41+00:00",
-      "new_count": 0,
-      "link_count": 0,
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-09-14T08:24:33+00:00",
+      "last_update": "2026-09-14T08:24:33+00:00",
+      "new_count": 3,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 福島市「アオウゼ」に、ハンドメイド雑貨やリラクゼーションなど約30店舗… Hapia Marche 2026年9月21日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260914hapia-marche/",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
+        {
+          "title": "イベント 猪苗代町内に美術、映画など 様々な“アート”が集結 ARTS in September JAM 【ARTS】2026年9月21日（祝）～11月3日（祝） 【風とロック芋煮会】2026年9月21日（祝）・22日（休） 【オハラ☆ブレイク】2026年9月23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260914arts-in-september-jam/",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
+        {
+          "title": "おでかけ 【2026福島県のキャンプ・グランピング】福島市・伊達市・桑折町・大玉村… キャンプサイトはもちろん、コテージやトレーラーハウスの宿泊施設があり初心者でも利用しや...",
+          "url": "https://www.cjnavi.co.jp/trip/20260913fukushimakenpoku-camp-spot/",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
         {
           "title": "イベント 郡山市伝統の手漉き和紙の灯籠が里山をほのかに照らす 海老根長月宵あかり 第24回 秋蛍 2026年9月19日（土）・20日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260912ebine-ganatsuki-yoiakari/",
@@ -252,21 +267,6 @@
           "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
           "url": "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/",
           "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 【スポーツライフ快適ナビ2026】「鍛える・整える・癒やす」がここで完結！ GreenPilaFit （グリーンピラフィット）",
-          "url": "https://www.cjnavi.co.jp/life/20260825greenpilafit/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 子どもの習い事を始めるなら？福島市でおすすめのスクール3選 子どもの「楽しい」や「頑張ろう」という気持ちを引き出す習い事がきっと見つかる！福島市の...",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-naraigoto/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
-          "url": "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-13T07:52:24+00:00",
-      "last_update": "2026-09-13T07:52:24+00:00",
-      "new_count": 3,
-      "link_count": 43,
+      "last_checked": "2026-09-14T08:24:33+00:00",
+      "last_update": "2026-09-14T08:24:33+00:00",
+      "new_count": 4,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "「他者の許可が必要なふりはやめろ」トランプ政権でAI政策を担うサックス氏、Anthropic・OpenAIのAI開発“減速論”に異議のサムネイル画像",
+          "url": "https://ledge.ai/articles/david_sacks_anthropic_openai_ai_pacing_regulation",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
+        {
+          "title": "Qualcomm、AmazonとAIデータセンター向けカスタムシリコンで複数世代協業 1.6T光接続も共同開発のサムネイル画像",
+          "url": "https://ledge.ai/articles/qualcomm_amazon_ai_data_center_custom_silicon",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
+        {
+          "title": "Anthropic、Claude悪用の実態を公開 攻撃自動化から監視・兵器開発・不正蒸留までのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_threat_intelligence_september_2026",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
+        {
+          "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
+          "first_seen": "2026-09-14T08:24:33+00:00"
+        },
         {
           "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
           "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
@@ -512,31 +532,60 @@
           "title": "【寄稿】ホタルが教えてくれた“現地の日常”。ミシガンで暮らして見えたAI先進国アメリカのリアルのサムネイル画像",
           "url": "https://ledge.ai/articles/brycen-us-report",
           "first_seen": "2026-09-01T08:10:10+00:00"
-        },
-        {
-          "title": "MCPの新ロードマップ公開 AIエージェントの「ID」「非同期処理」「大量ツール探索」など5領域を優先のサムネイル画像",
-          "url": "https://ledge.ai/articles/mcp_new_roadmap_2026",
-          "first_seen": "2026-09-01T08:10:10+00:00"
-        },
-        {
-          "title": "「史上最大級の知財窃盗」Sony・Warner系音楽出版社がAnthropic提訴 海賊版取得や歌詞スクレイピングを主張のサムネイル画像",
-          "url": "https://ledge.ai/articles/sony_warner_anthropic_copyright_lawsuit",
-          "first_seen": "2026-09-01T08:10:10+00:00"
-        },
-        {
-          "title": "Google、Play Booksの対象電子書籍をGemini Notebookのソースに 「Expert Intelligence」10万冊超で開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_play_books_gemini_notebook_expert_intelligence",
-          "first_seen": "2026-08-31T09:09:34+00:00"
-        },
-        {
-          "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
-          "first_seen": "2026-08-31T09:09:34+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市「アオウゼ」に、ハンドメイド雑貨やリラクゼーションなど約30店舗… Hapia Marche 2026年9月21日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260914hapia-marche/",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 猪苗代町内に美術、映画など 様々な“アート”が集結 ARTS in September JAM 【ARTS】2026年9月21日（祝）～11月3日（祝） 【風とロック芋煮会】2026年9月21日（祝）・22日（休） 【オハラ☆ブレイク】2026年9月23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260914arts-in-september-jam/",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【2026福島県のキャンプ・グランピング】福島市・伊達市・桑折町・大玉村… キャンプサイトはもちろん、コテージやトレーラーハウスの宿泊施設があり初心者でも利用しや...",
+      "url": "https://www.cjnavi.co.jp/trip/20260913fukushimakenpoku-camp-spot/",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「他者の許可が必要なふりはやめろ」トランプ政権でAI政策を担うサックス氏、Anthropic・OpenAIのAI開発“減速論”に異議のサムネイル画像",
+      "url": "https://ledge.ai/articles/david_sacks_anthropic_openai_ai_pacing_regulation",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Qualcomm、AmazonとAIデータセンター向けカスタムシリコンで複数世代協業 1.6T光接続も共同開発のサムネイル画像",
+      "url": "https://ledge.ai/articles/qualcomm_amazon_ai_data_center_custom_silicon",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claude悪用の実態を公開 攻撃自動化から監視・兵器開発・不正蒸留までのサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_threat_intelligence_september_2026",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
+      "first_seen": "2026-09-14T08:24:33+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1119,34 +1168,6 @@
       "first_seen": "2026-09-01T08:10:10+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "MCPの新ロードマップ公開 AIエージェントの「ID」「非同期処理」「大量ツール探索」など5領域を優先のサムネイル画像",
-      "url": "https://ledge.ai/articles/mcp_new_roadmap_2026",
-      "first_seen": "2026-09-01T08:10:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「史上最大級の知財窃盗」Sony・Warner系音楽出版社がAnthropic提訴 海賊版取得や歌詞スクレイピングを主張のサムネイル画像",
-      "url": "https://ledge.ai/articles/sony_warner_anthropic_copyright_lawsuit",
-      "first_seen": "2026-09-01T08:10:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、Play Booksの対象電子書籍をGemini Notebookのソースに 「Expert Intelligence」10万冊超で開始のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_play_books_gemini_notebook_expert_intelligence",
-      "first_seen": "2026-08-31T09:09:34+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、AIサイバー攻撃の高度化を警告 政府・企業に「集団的対応」、100超の組織が公開書簡のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_collective_cyber_defense",
-      "first_seen": "2026-08-31T09:09:34+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
@@ -1214,27 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
       "url": "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【スポーツライフ快適ナビ2026】「鍛える・整える・癒やす」がここで完結！ GreenPilaFit （グリーンピラフィット）",
-      "url": "https://www.cjnavi.co.jp/life/20260825greenpilafit/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 子どもの習い事を始めるなら？福島市でおすすめのスクール3選 子どもの「楽しい」や「頑張ろう」という気持ちを引き出す習い事がきっと見つかる！福島市の...",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-naraigoto/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 子育てファミリー必見！福島市・郡山市・本宮市の子育てお役立ち情報11選 今回は、福島市・郡山市のお食い初めなど子連れ歓迎の飲食店、キッズ対応のヘアサロン、七五...",
-      "url": "https://www.cjnavi.co.jp/life/20260825kosodate-oyakudachi/",
       "first_seen": "2026-08-25T04:59:31+00:00"
     }
   ]
