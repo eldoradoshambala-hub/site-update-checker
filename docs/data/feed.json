@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T08:24:33+00:00",
+  "generated_at": "2026-09-15T08:15:52+00:00",
   "site_count": 2,
-  "new_count": 7,
+  "new_count": 9,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-14T08:24:33+00:00",
-      "last_update": "2026-09-14T08:24:33+00:00",
-      "new_count": 3,
-      "link_count": 22,
+      "last_checked": "2026-09-15T08:15:52+00:00",
+      "last_update": "2026-09-15T08:15:52+00:00",
+      "new_count": 5,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 寺島しのぶ主演。障害を持つ母と健常者の娘の家族愛をテーマにした映画を… 映画「わたしのかあさん−天使の詩−」上映会 2026年9月22日（休）・23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260915tenshinouta/",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "グルメ 【福島県】福島市・会津若松市・いわき市のカフェ＆食事処で味わえるモー… 朝は一日の元気をチャージする大切な時間。今回はワンプレート料理や温かいスープ、一汁三菜...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260915fukushima-morning-part1/",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026秋号』を発行しまし… つなぐ奥会津2026秋号",
+          "url": "https://www.cjnavi.co.jp/trip/20260915tsunaguokuaizu-autumn/",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "イベント 「常磐もの」をテーマに描かれた大旗漁の優秀作品が決定！圧巻の作品をい… 大漁旗アート展 2026年9月19日（土）～11月15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260912aquamarine-tairyobata/",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "イベント 「仙台市博物館」で国宝・重要文化財を含む仏画を展示。仏教絵画の持つ“力… 特別展「仏画の力―東北 珠玉の仏教絵画―」 2026年9月18日（金）～11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260911butsugano-chikara/",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
         {
           "title": "イベント 福島市「アオウゼ」に、ハンドメイド雑貨やリラクゼーションなど約30店舗… Hapia Marche 2026年9月21日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20260914hapia-marche/",
@@ -242,31 +267,6 @@
           "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/",
           "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "イベント 須賀川市長沼地区で、今と昔が出合う『ニューナガヌマフェスティバル』を… ニューナガヌマフェスティバル 2026年9月5日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260829new-naganuma-fes/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "イベント アール・ヌーヴォーを代表するアルフォンス・ミュシャの世界を「本宮市ふ… アルフォンス・ミュシャ アール・ヌーヴォーの華 2026年9月5日（土）～11月1日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260829mucha-motomiya-artmuseum/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/",
-          "first_seen": "2026-08-26T05:02:55+00:00"
-        },
-        {
-          "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260825fukushima-pridebin/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
-        },
-        {
-          "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
-          "url": "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/",
-          "first_seen": "2026-08-25T04:59:31+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-14T08:24:33+00:00",
-      "last_update": "2026-09-14T08:24:33+00:00",
+      "last_checked": "2026-09-15T08:15:52+00:00",
+      "last_update": "2026-09-15T08:15:52+00:00",
       "new_count": 4,
       "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
+          "url": "https://ledge.ai/articles/amazon_ads_openai_chatgpt_ads",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "「AI企業の難問競争は数学を損なう」フィールズ賞受賞者25人が声明 森重文氏らのサムネイル画像",
+          "url": "https://ledge.ai/articles/fields_medalists_ai_math_statement",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "AIはクラウドで使い続けるべきか。本番化で浮上するコスト、データ、サービス依存 ―― Red Hatに聞く「AIインフラ」の判断軸のサムネイル画像",
+          "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
+        {
+          "title": "Sakana AI、「Fugu Max」「Fugu Ultra v2」発表 複数AIを使い分け、コスト効率と性能を両方向に強化 のサムネイル画像",
+          "url": "https://ledge.ai/articles/sakana_fugu_max_ultra_v2",
+          "first_seen": "2026-09-15T08:15:52+00:00"
+        },
         {
           "title": "「他者の許可が必要なふりはやめろ」トランプ政権でAI政策を担うサックス氏、Anthropic・OpenAIのAI開発“減速論”に異議のサムネイル画像",
           "url": "https://ledge.ai/articles/david_sacks_anthropic_openai_ai_pacing_regulation",
@@ -512,31 +532,74 @@
           "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
           "first_seen": "2026-09-02T07:29:25+00:00"
-        },
-        {
-          "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
-          "url": "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work",
-          "first_seen": "2026-09-02T07:29:25+00:00"
-        },
-        {
-          "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_cursor_model_access_end",
-          "first_seen": "2026-09-02T07:29:25+00:00"
-        },
-        {
-          "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
-          "url": "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving",
-          "first_seen": "2026-09-01T08:10:10+00:00"
-        },
-        {
-          "title": "【寄稿】ホタルが教えてくれた“現地の日常”。ミシガンで暮らして見えたAI先進国アメリカのリアルのサムネイル画像",
-          "url": "https://ledge.ai/articles/brycen-us-report",
-          "first_seen": "2026-09-01T08:10:10+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 寺島しのぶ主演。障害を持つ母と健常者の娘の家族愛をテーマにした映画を… 映画「わたしのかあさん−天使の詩−」上映会 2026年9月22日（休）・23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260915tenshinouta/",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】福島市・会津若松市・いわき市のカフェ＆食事処で味わえるモー… 朝は一日の元気をチャージする大切な時間。今回はワンプレート料理や温かいスープ、一汁三菜...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260915fukushima-morning-part1/",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026秋号』を発行しまし… つなぐ奥会津2026秋号",
+      "url": "https://www.cjnavi.co.jp/trip/20260915tsunaguokuaizu-autumn/",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 「常磐もの」をテーマに描かれた大旗漁の優秀作品が決定！圧巻の作品をい… 大漁旗アート展 2026年9月19日（土）～11月15日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260912aquamarine-tairyobata/",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 「仙台市博物館」で国宝・重要文化財を含む仏画を展示。仏教絵画の持つ“力… 特別展「仏画の力―東北 珠玉の仏教絵画―」 2026年9月18日（金）～11月8日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260911butsugano-chikara/",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
+      "url": "https://ledge.ai/articles/amazon_ads_openai_chatgpt_ads",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「AI企業の難問競争は数学を損なう」フィールズ賞受賞者25人が声明 森重文氏らのサムネイル画像",
+      "url": "https://ledge.ai/articles/fields_medalists_ai_math_statement",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIはクラウドで使い続けるべきか。本番化で浮上するコスト、データ、サービス依存 ―― Red Hatに聞く「AIインフラ」の判断軸のサムネイル画像",
+      "url": "https://ledge.ai/articles/redhat-infrastructure-interview",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Sakana AI、「Fugu Max」「Fugu Ultra v2」発表 複数AIを使い分け、コスト効率と性能を両方向に強化 のサムネイル画像",
+      "url": "https://ledge.ai/articles/sakana_fugu_max_ultra_v2",
+      "first_seen": "2026-09-15T08:15:52+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1133,38 +1196,10 @@
       "first_seen": "2026-09-02T07:29:25+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へのサムネイル画像",
-      "url": "https://ledge.ai/articles/zeals_timee_physical_ai_data_collection_spot_work",
-      "first_seen": "2026-09-02T07:29:25+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、SpaceX傘下のCursorへのモデル提供終了へ 11月12日を提案、新モデルは提供せずのサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_cursor_model_access_end",
-      "first_seen": "2026-09-02T07:29:25+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
       "url": "https://www.cjnavi.co.jp/life/20260901monmoryouhin/",
-      "first_seen": "2026-09-01T08:10:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "トヨタ、2028年にAI運転支援を実用化へ 一般道でも車線変更や駐車を支援する「レベル2++」導入のサムネイル画像",
-      "url": "https://ledge.ai/articles/toyota_ai_level2_plus_autonomous_driving",
-      "first_seen": "2026-09-01T08:10:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "【寄稿】ホタルが教えてくれた“現地の日常”。ミシガンで暮らして見えたAI先進国アメリカのリアルのサムネイル画像",
-      "url": "https://ledge.ai/articles/brycen-us-report",
       "first_seen": "2026-09-01T08:10:10+00:00"
     },
     {
@@ -1201,41 +1236,6 @@
       "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/",
       "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 須賀川市長沼地区で、今と昔が出合う『ニューナガヌマフェスティバル』を… ニューナガヌマフェスティバル 2026年9月5日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260829new-naganuma-fes/",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント アール・ヌーヴォーを代表するアルフォンス・ミュシャの世界を「本宮市ふ… アルフォンス・ミュシャ アール・ヌーヴォーの華 2026年9月5日（土）～11月1日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260829mucha-motomiya-artmuseum/",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 正統派家系ラーメン店『龍』が伊達市に登場！ 横浜家系 龍 伊達店",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260826newopen-ryu-date/",
-      "first_seen": "2026-08-26T05:02:55+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』サイトがオー… ふくしまプライド便",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260825fukushima-pridebin/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "スペシャル 「CJ Monmo」9月号は、カフェや喫茶店、食堂の「モーニング」を特集 月刊CJ Monmo 2026年9月号",
-      "url": "https://www.cjnavi.co.jp/special/20260825cjmonmo-62/",
-      "first_seen": "2026-08-25T04:59:31+00:00"
     }
   ]
 }
