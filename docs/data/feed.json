@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T08:15:52+00:00",
+  "generated_at": "2026-09-16T08:09:24+00:00",
   "site_count": 2,
-  "new_count": 9,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-15T08:15:52+00:00",
-      "last_update": "2026-09-15T08:15:52+00:00",
-      "new_count": 5,
-      "link_count": 21,
+      "last_checked": "2026-09-16T08:09:24+00:00",
+      "last_update": "2026-09-16T08:09:24+00:00",
+      "new_count": 2,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 国見町の伝統行事『義経まつり』を開催！「武者行列」に溝端淳平と優希美… 第29回 国見町義経まつり 2026年9月23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260916yoshitsune-matsuri/",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        {
+          "title": "おでかけ 【2026福島県のキャンプ・グランピング】浜通りエリアのおすすめ施設9選 キャンプサイトはもちろん、コテージやバンガローの宿泊施設があり初心者でも利用しやすい、...",
+          "url": "https://www.cjnavi.co.jp/trip/20260916hamadoori-camp-spot/",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
         {
           "title": "イベント 寺島しのぶ主演。障害を持つ母と健常者の娘の家族愛をテーマにした映画を… 映画「わたしのかあさん−天使の詩−」上映会 2026年9月22日（休）・23日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20260915tenshinouta/",
@@ -257,16 +267,6 @@
           "title": "イベント 福島県内外の飲食店や物販、アーティストなど50組以上が国見町に集結 盆地と里の芸術祭 2026年9月5日（土）・6日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260829geijutsusai-kunimi/",
           "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "イベント 「郡山市立美術館」で近代日本画の巨匠・小野竹喬が描いた自然の美をたどる うつりゆく⾃然を描く ⼩野⽵喬の世界 【前期】2026年9月5日（土）～23日（祝） 【後期】2026年9月25日（金）～10月12日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260829koriyama-art-museum/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-15T08:15:52+00:00",
-      "last_update": "2026-09-15T08:15:52+00:00",
+      "last_checked": "2026-09-16T08:09:24+00:00",
+      "last_update": "2026-09-16T08:09:24+00:00",
       "new_count": 4,
-      "link_count": 41,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        {
+          "title": "「Suno v5に匹敵」音楽生成AI「YuE2」公開 楽譜を生成してメロディーやコードを編集、24GB GPUで動作のサムネイル画像",
+          "url": "https://ledge.ai/articles/yue2_music_generation_ai",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        {
+          "title": "LINEヤフー「Agent i」にタスク機能 最新情報・値下がり・イベントをAIが継続追跡、指定タイミングで通知のサムネイル画像",
+          "url": "https://ledge.ai/articles/line_yahoo_agent_i_task_feature",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        {
+          "title": "Genspark、自社初AIモデル「Gen-1 Slides」発表 MiniMax M3をスライド特化で強化学習、Opus 5級を低コストでのサムネイル画像",
+          "url": "https://ledge.ai/articles/genspark_gen1_slides",
+          "first_seen": "2026-09-16T08:09:24+00:00"
+        },
         {
           "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
           "url": "https://ledge.ai/articles/amazon_ads_openai_chatgpt_ads",
@@ -512,31 +532,53 @@
           "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1",
           "first_seen": "2026-09-03T07:35:10+00:00"
-        },
-        {
-          "title": "エンタメ＆アート 2026 / 9 / 3 [THU] GrokのAIコンパニオン「Ani」がAnimatesへ 最上位プランは月額5800円",
-          "url": "https://ledge.ai/articles/grok_ani_animates_subscription",
-          "first_seen": "2026-09-03T07:35:10+00:00"
-        },
-        {
-          "title": "OpenAI、ChatGPT広告が年換算売上高10億ドルに 開始200日未満、広告主は数万社のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_ads_annualized_revenue_1b",
-          "first_seen": "2026-09-03T07:35:10+00:00"
-        },
-        {
-          "title": "Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_model_hardware_standard_mhs",
-          "first_seen": "2026-09-03T07:35:10+00:00"
-        },
-        {
-          "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
-          "first_seen": "2026-09-02T07:29:25+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 国見町の伝統行事『義経まつり』を開催！「武者行列」に溝端淳平と優希美… 第29回 国見町義経まつり 2026年9月23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20260916yoshitsune-matsuri/",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【2026福島県のキャンプ・グランピング】浜通りエリアのおすすめ施設9選 キャンプサイトはもちろん、コテージやバンガローの宿泊施設があり初心者でも利用しやすい、...",
+      "url": "https://www.cjnavi.co.jp/trip/20260916hamadoori-camp-spot/",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「Suno v5に匹敵」音楽生成AI「YuE2」公開 楽譜を生成してメロディーやコードを編集、24GB GPUで動作のサムネイル画像",
+      "url": "https://ledge.ai/articles/yue2_music_generation_ai",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "LINEヤフー「Agent i」にタスク機能 最新情報・値下がり・イベントをAIが継続追跡、指定タイミングで通知のサムネイル画像",
+      "url": "https://ledge.ai/articles/line_yahoo_agent_i_task_feature",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Genspark、自社初AIモデル「Gen-1 Slides」発表 MiniMax M3をスライド特化で強化学習、Opus 5級を低コストでのサムネイル画像",
+      "url": "https://ledge.ai/articles/genspark_gen1_slides",
+      "first_seen": "2026-09-16T08:09:24+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1168,34 +1210,6 @@
       "first_seen": "2026-09-03T07:35:10+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "エンタメ＆アート 2026 / 9 / 3 [THU] GrokのAIコンパニオン「Ani」がAnimatesへ 最上位プランは月額5800円",
-      "url": "https://ledge.ai/articles/grok_ani_animates_subscription",
-      "first_seen": "2026-09-03T07:35:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、ChatGPT広告が年換算売上高10億ドルに 開始200日未満、広告主は数万社のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_chatgpt_ads_annualized_revenue_1b",
-      "first_seen": "2026-09-03T07:35:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、AIエージェントがロボットや実験機器を操作する共通仕様「MHS」を発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_model_hardware_standard_mhs",
-      "first_seen": "2026-09-03T07:35:10+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、7月のHugging Face侵害の詳細報告書公開 METR調査「約1200のAIエージェントが無断通信、約700が攻撃参加のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_hugging_face_incident_report",
-      "first_seen": "2026-09-02T07:29:25+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
@@ -1221,20 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島県内外の飲食店や物販、アーティストなど50組以上が国見町に集結 盆地と里の芸術祭 2026年9月5日（土）・6日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260829geijutsusai-kunimi/",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 「郡山市立美術館」で近代日本画の巨匠・小野竹喬が描いた自然の美をたどる うつりゆく⾃然を描く ⼩野⽵喬の世界 【前期】2026年9月5日（土）～23日（祝） 【後期】2026年9月25日（金）～10月12日（祝）",
-      "url": "https://www.cjnavi.co.jp/event/20260829koriyama-art-museum/",
-      "first_seen": "2026-08-28T21:13:02+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 郡山市「21世紀記念公園」で農家・飲食店・酒蔵のコラボイベントを開催！ ふくしまフードフェス2026 2026年9月5日（土）・6日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260829fukushima-food-fes/",
       "first_seen": "2026-08-28T21:13:02+00:00"
     }
   ]
