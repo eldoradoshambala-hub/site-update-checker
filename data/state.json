@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T08:09:26+00:00",
+  "updated_at": "2026-09-17T08:16:18+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-16T08:09:24+00:00",
-      "last_update": "2026-09-16T08:09:24+00:00",
+      "last_checked": "2026-09-17T08:16:16+00:00",
+      "last_update": "2026-09-17T08:16:16+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -550,9 +550,45 @@
         "https://www.cjnavi.co.jp/trip/20260916hamadoori-camp-spot/": {
           "title": "おでかけ 【2026福島県のキャンプ・グランピング】浜通りエリアのおすすめ施設9選 キャンプサイトはもちろん、コテージやバンガローの宿泊施設があり初心者でも利用しやすい、...",
           "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260917fukushimanoima116/": {
+          "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第116… ふくしまの今が分かる新聞 vol.116",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260917misato-de-koikatsu/": {
+          "title": "イベント AD 会津美里町で「mis@to de 恋活」を開催！ mis@to de 恋活 2026年10月18日（日）",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260917gakuseihenshuubu/": {
+          "title": "おでかけ 【学生編集部の福島のここに行きたい！】猪苗代町・北塩原村へ絶景探しの旅 第30回「絶景を探しに」",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260917newopen-kotonoha/": {
+          "title": "グルメ 郡山市富田に『菓子工房コトノハ』がオープン。国産小麦で作る、優しい風… 菓子工房コトノハ",
+          "first_seen": "2026-09-17T08:16:16+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第116… ふくしまの今が分かる新聞 vol.116",
+          "url": "https://www.cjnavi.co.jp/life/20260917fukushimanoima116/",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "イベント AD 会津美里町で「mis@to de 恋活」を開催！ mis@to de 恋活 2026年10月18日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260917misato-de-koikatsu/",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "おでかけ 【学生編集部の福島のここに行きたい！】猪苗代町・北塩原村へ絶景探しの旅 第30回「絶景を探しに」",
+          "url": "https://www.cjnavi.co.jp/trip/20260917gakuseihenshuubu/",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "グルメ 郡山市富田に『菓子工房コトノハ』がオープン。国産小麦で作る、優しい風… 菓子工房コトノハ",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260917newopen-kotonoha/",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
         {
           "title": "イベント 国見町の伝統行事『義経まつり』を開催！「武者行列」に溝端淳平と優希美… 第29回 国見町義経まつり 2026年9月23日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20260916yoshitsune-matsuri/",
@@ -782,34 +818,14 @@
           "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "url": "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/",
           "first_seen": "2026-09-03T07:35:10+00:00"
-        },
-        {
-          "title": "ライフ 『モンモ良品』で贈ろう！おすすめ敬老の日ギフト8選 2026年9月21日（祝）は敬老の日！日頃の感謝と健康・長寿を願ってプレゼントを贈りたいですね...",
-          "url": "https://www.cjnavi.co.jp/life/20260901monmoryouhin/",
-          "first_seen": "2026-09-01T08:10:10+00:00"
-        },
-        {
-          "title": "イベント 郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラ… オーケストラで聴くアニメ音楽の世界～ディズニー・ジブリ・日本アニメの傑作選～ 2026年12月13日（日） ［チケット一般販売］2026年9月5日（土）～",
-          "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
-          "first_seen": "2026-08-29T09:36:59+00:00"
-        },
-        {
-          "title": "イベント 大熊町で夏祭りを開催。仮装盆踊りや花火大会を楽しもう！ なつ祭りinおおくま 2026年9月5日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260829ookuma-summerfes/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
-        },
-        {
-          "title": "イベント 福島県内外の飲食店や物販、アーティストなど50組以上が国見町に集結 盆地と里の芸術祭 2026年9月5日（土）・6日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260829geijutsusai-kunimi/",
-          "first_seen": "2026-08-28T21:13:02+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-16T08:09:24+00:00",
-      "last_update": "2026-09-16T08:09:24+00:00",
+      "last_checked": "2026-09-17T08:16:16+00:00",
+      "last_update": "2026-09-17T08:16:16+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1633,9 +1649,45 @@
         "https://ledge.ai/articles/genspark_gen1_slides": {
           "title": "Genspark、自社初AIモデル「Gen-1 Slides」発表 MiniMax M3をスライド特化で強化学習、Opus 5級を低コストでのサムネイル画像",
           "first_seen": "2026-09-16T08:09:24+00:00"
+        },
+        "https://ledge.ai/articles/pacman_ai_fusion_control": {
+          "title": "AIが核融合プラズマをリアルタイム制御 異常を0.2秒前に予測・回避、米PPPLが統合AI制御基盤「PACMAN」を実機検証 のサムネイル画像",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_windows_desktop_app": {
+          "title": "Google、Windows版「Gemini」アプリを世界で提供開始 Alt＋Spaceで作業中に即呼び出し、Gmail・Driveとも連携のサムネイル画像",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://ledge.ai/articles/physical_ai_summit_2026_report": {
+          "title": "国産汎用ロボット開発の成果と課題 ugo Nova発表、実装と量産へ向けた議論のサムネイル画像",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        "https://ledge.ai/articles/openai_daniel_selsam_ai_risk_statement": {
+          "title": "OpenAI研究者ダニエル・セルサム氏、AIリスクで個人声明 開発ペース減速だけでは不充分、「監視下の評価」では測れない問題を指摘のサムネイル画像",
+          "first_seen": "2026-09-17T08:16:16+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AIが核融合プラズマをリアルタイム制御 異常を0.2秒前に予測・回避、米PPPLが統合AI制御基盤「PACMAN」を実機検証 のサムネイル画像",
+          "url": "https://ledge.ai/articles/pacman_ai_fusion_control",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "Google、Windows版「Gemini」アプリを世界で提供開始 Alt＋Spaceで作業中に即呼び出し、Gmail・Driveとも連携のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_windows_desktop_app",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "国産汎用ロボット開発の成果と課題 ugo Nova発表、実装と量産へ向けた議論のサムネイル画像",
+          "url": "https://ledge.ai/articles/physical_ai_summit_2026_report",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
+        {
+          "title": "OpenAI研究者ダニエル・セルサム氏、AIリスクで個人声明 開発ペース減速だけでは不充分、「監視下の評価」では測れない問題を指摘のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_daniel_selsam_ai_risk_statement",
+          "first_seen": "2026-09-17T08:16:16+00:00"
+        },
         {
           "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
@@ -1865,26 +1917,6 @@
           "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_consciousness_debate",
           "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "Anthropic、Claudeの実システム不正アクセス受け安全対策強化 危険な操作を実行前に遮断のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_security_eval_safeguards",
-          "first_seen": "2026-09-04T07:35:15+00:00"
-        },
-        {
-          "title": "EU、ChatGPTを「超大規模オンライン検索エンジン」に正式指定 DSAでリスク評価など追加義務、Reddit・Robloxも同時指定のサムネイル画像",
-          "url": "https://ledge.ai/articles/chatgpt_dsa_vlose",
-          "first_seen": "2026-09-04T07:35:15+00:00"
-        },
-        {
-          "title": "Google Research、時系列基盤モデル「TimesFM-3」公開 売上を天気、販促など多変量データから予測のサムネイル画像",
-          "url": "https://ledge.ai/articles/timesfm_3_multivariate_time_series_foundation_model",
-          "first_seen": "2026-09-04T07:35:15+00:00"
-        },
-        {
-          "title": "Anthropic、最上位AI「Claude Fable 5.1」「Mythos 5.1」発表 同一基盤モデルを安全対策の違いで提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_fable_5_1_mythos_5_1",
-          "first_seen": "2026-09-03T07:35:10+00:00"
         }
       ]
     }
