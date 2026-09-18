@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T08:16:16+00:00",
+  "generated_at": "2026-09-18T07:49:47+00:00",
   "site_count": 2,
-  "new_count": 8,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-17T08:16:16+00:00",
-      "last_update": "2026-09-17T08:16:16+00:00",
-      "new_count": 4,
-      "link_count": 21,
+      "last_checked": "2026-09-18T07:49:47+00:00",
+      "last_update": "2026-09-18T07:49:47+00:00",
+      "new_count": 3,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "ライフ AD 東京電力福島第一原子力発電所の廃炉に向けたプロセスがわかる広報紙「廃… 「廃炉を知る」Vol.37",
+          "url": "https://www.cjnavi.co.jp/life/20260918hairo37-fukushima/",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
+        {
+          "title": "おでかけ 石川町に『道の駅石川』がグランドオープン！食堂やベーカリー、クレープ… 道の駅石川",
+          "url": "https://www.cjnavi.co.jp/trip/20260918newopen-michinoeki-ishikawa/",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
+        {
+          "title": "イベント ワインと食の魅力を発信！福島市「まちなか広場」で、多種多様なワインと… Wine Vin Vino Fukushima 2026 2026年9月20日（日）～22日（休）",
+          "url": "https://www.cjnavi.co.jp/event/20260913wine-vin-vino-fukushima/",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
         {
           "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第116… ふくしまの今が分かる新聞 vol.116",
           "url": "https://www.cjnavi.co.jp/life/20260917fukushimanoima116/",
@@ -252,21 +267,6 @@
           "title": "イベント 遊覧船の乗船やサンマの炭火焼きを体験！いわきの海を満喫しよう 江名の町マリンフェスティバル2026 2026年9月12日（土）・13日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260905marine-festival/",
           "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "イベント AD 子どもたちのアイデアが大集合！『福島プログラミング講座 キャンパスフェ… 福島プログラミング講座 キャンパスフェスタ 2026年9月12日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260904campusfesta-tohoku-epco/",
-          "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "おでかけ 【2026福島県のキャンプ・グランピング】会津エリアのおすすめ施設3選 キャンプサイトはもちろん、バンガローやコテージなどの宿泊施設があり初心者でも利用しやす...",
-          "url": "https://www.cjnavi.co.jp/trip/20260904aizu-camp-spot/",
-          "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-          "url": "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/",
-          "first_seen": "2026-09-03T07:35:10+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-17T08:16:16+00:00",
-      "last_update": "2026-09-17T08:16:16+00:00",
-      "new_count": 4,
-      "link_count": 40,
+      "last_checked": "2026-09-18T07:49:47+00:00",
+      "last_update": "2026-09-18T07:49:47+00:00",
+      "new_count": 3,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Spotify、Claude Codeの大量ファイル読み込みでトークン消費を平均90％削減 単純作業を別AIへ振り分ける「shunt」公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/spotify_claude_code_shunt_token_savings",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
+        {
+          "title": "Meta、SNSとAIを束ねる新サブスク「Meta One」発表 Meta AI利用枠を拡大、月949円からのサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_one_subscription",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
+        {
+          "title": "中国UBTECHの「ロボットがロボットを作る」人型ロボ工場が稼働開始 10分に1台、年産1万台超のサムネイル画像",
+          "url": "https://ledge.ai/articles/ubtech_humanoid_robot_factory",
+          "first_seen": "2026-09-18T07:49:47+00:00"
+        },
         {
           "title": "AIが核融合プラズマをリアルタイム制御 異常を0.2秒前に予測・回避、米PPPLが統合AI制御基盤「PACMAN」を実機検証 のサムネイル画像",
           "url": "https://ledge.ai/articles/pacman_ai_fusion_control",
@@ -517,26 +532,53 @@
           "title": "OpenAI、新モデル「GPT-6 Astra」発表、一部組織から提供開始 未知課題への適応テストで99.9％、サイバー能力は初の「Critical」のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_astra",
           "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "米国防総省、OpenAIのカスタム版「ChatGPT Mil」導入 300万人超向けに提供 Anthropicへのサプライチェーンリスク指定は地裁で違法判断のサムネイル画像",
-          "url": "https://ledge.ai/articles/us_defense_department_chatgpt_mil",
-          "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "fal.ai、5秒動画を3秒未満で生成する「H3 Max」を無料体験可能に 視聴者の投票で次の映像が決まるライブ配信サイト「fal.live」も公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/fal_h3_max_fal_live",
-          "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_consciousness_debate",
-          "first_seen": "2026-09-05T07:15:50+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ AD 東京電力福島第一原子力発電所の廃炉に向けたプロセスがわかる広報紙「廃… 「廃炉を知る」Vol.37",
+      "url": "https://www.cjnavi.co.jp/life/20260918hairo37-fukushima/",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 石川町に『道の駅石川』がグランドオープン！食堂やベーカリー、クレープ… 道の駅石川",
+      "url": "https://www.cjnavi.co.jp/trip/20260918newopen-michinoeki-ishikawa/",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント ワインと食の魅力を発信！福島市「まちなか広場」で、多種多様なワインと… Wine Vin Vino Fukushima 2026 2026年9月20日（日）～22日（休）",
+      "url": "https://www.cjnavi.co.jp/event/20260913wine-vin-vino-fukushima/",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Spotify、Claude Codeの大量ファイル読み込みでトークン消費を平均90％削減 単純作業を別AIへ振り分ける「shunt」公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/spotify_claude_code_shunt_token_savings",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、SNSとAIを束ねる新サブスク「Meta One」発表 Meta AI利用枠を拡大、月949円からのサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_one_subscription",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "中国UBTECHの「ロボットがロボットを作る」人型ロボ工場が稼働開始 10分に1台、年産1万台超のサムネイル画像",
+      "url": "https://ledge.ai/articles/ubtech_humanoid_robot_factory",
+      "first_seen": "2026-09-18T07:49:47+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1189,53 +1231,11 @@
       "first_seen": "2026-09-05T07:15:50+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 子どもたちのアイデアが大集合！『福島プログラミング講座 キャンパスフェ… 福島プログラミング講座 キャンパスフェスタ 2026年9月12日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260904campusfesta-tohoku-epco/",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【2026福島県のキャンプ・グランピング】会津エリアのおすすめ施設3選 キャンプサイトはもちろん、バンガローやコテージなどの宿泊施設があり初心者でも利用しやす...",
-      "url": "https://www.cjnavi.co.jp/trip/20260904aizu-camp-spot/",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAI、新モデル「GPT-6 Astra」発表、一部組織から提供開始 未知課題への適応テストで99.9％、サイバー能力は初の「Critical」のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_gpt_6_astra",
       "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "米国防総省、OpenAIのカスタム版「ChatGPT Mil」導入 300万人超向けに提供 Anthropicへのサプライチェーンリスク指定は地裁で違法判断のサムネイル画像",
-      "url": "https://ledge.ai/articles/us_defense_department_chatgpt_mil",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "fal.ai、5秒動画を3秒未満で生成する「H3 Max」を無料体験可能に 視聴者の投票で次の映像が決まるライブ配信サイト「fal.live」も公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/fal_h3_max_fal_live",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIに「意識」はあるのか Google研究者は他者との関係性を重視、哲学者は知能との混同に警鐘のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_consciousness_debate",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 朝霧の三島町「第三只見川橋梁」を渡る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-      "url": "https://www.cjnavi.co.jp/trip/20260903hoshi-kenkou-okuaizu-mishima/",
-      "first_seen": "2026-09-03T07:35:10+00:00"
     }
   ]
 }
