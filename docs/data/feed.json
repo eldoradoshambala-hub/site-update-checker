@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T08:09:47+00:00",
+  "generated_at": "2026-09-21T08:26:13+00:00",
   "site_count": 2,
-  "new_count": 9,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,17 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-20T08:09:47+00:00",
-      "last_update": "2026-09-20T08:09:47+00:00",
-      "new_count": 6,
-      "link_count": 21,
+      "last_checked": "2026-09-21T08:26:13+00:00",
+      "last_update": "2026-09-21T08:26:13+00:00",
+      "new_count": 1,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/",
+          "first_seen": "2026-09-21T08:26:13+00:00"
+        },
         {
           "title": "ライフ AD 『ふくしま手帳2027』でヒツジ年をもっと楽しメェ〜♪ ふくしま手帳2027",
           "url": "https://www.cjnavi.co.jp/life/20260920fukushimatecho/",
@@ -262,11 +267,6 @@
           "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260905united-fc-homegame/",
           "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "イベント 南会津町古町で「廣瀬神社例大祭御神輿渡御祭」を開催！ 古町のまつり 2026年9月12日（土）・13日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260905furumachi-matsuri/",
-          "first_seen": "2026-09-05T07:15:50+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-20T08:09:47+00:00",
-      "last_update": "2026-09-20T08:09:47+00:00",
+      "last_checked": "2026-09-21T08:26:13+00:00",
+      "last_update": "2026-09-21T08:26:13+00:00",
       "new_count": 3,
-      "link_count": 41,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
+          "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
+          "first_seen": "2026-09-21T08:26:13+00:00"
+        },
+        {
+          "title": "チャールズ国王、AI企業幹部をスコットランドに招集 「存亡にかかわる危険」に言及、国際協力を訴えのサムネイル画像",
+          "url": "https://ledge.ai/articles/king_charles_ai_summit",
+          "first_seen": "2026-09-21T08:26:13+00:00"
+        },
+        {
+          "title": "富士通、国産次世代CPU「MONAKA」とサーバーを11月販売 シャープもAIサーバー事業参入、NVIDIA技術採用・鴻海と連携のサムネイル画像",
+          "url": "https://ledge.ai/articles/fujitsu_monaka_sharp_ai_server",
+          "first_seen": "2026-09-21T08:26:13+00:00"
+        },
         {
           "title": "OpenAI、モデルの「ミスアライメント」報告フレームワークを公開 データ捏造など6件の事例も公表のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_model_misalignment_reporting",
@@ -517,26 +532,39 @@
           "title": "AIエージェントで攻撃者は「眠らなくなる」――ExaSecurity代表が語る、AI時代のセキュリティのサムネイル画像",
           "url": "https://ledge.ai/articles/exasecurity-interview",
           "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "Tesla、ハンドルもペダルもない「Cybercab」でロボタクシー運行開始 米オースティンで のサムネイル画像",
-          "url": "https://ledge.ai/articles/tesla_cybercab_robotaxi",
-          "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "Anthropic、Claude向けコマースAIの開発ひな型を公開 買い物・店舗運営の2エージェントをGitHubで提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_commerce_agents",
-          "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "トランプ政権、AI学習は「フェアユース」と主張 米司法省がOpenAI著作権訴訟で意見書のサムネイル画像",
-          "url": "https://ledge.ai/articles/trump_administration_ai_training_fair_use",
-          "first_seen": "2026-09-07T07:44:50+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/",
+      "first_seen": "2026-09-21T08:26:13+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
+      "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
+      "first_seen": "2026-09-21T08:26:13+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "チャールズ国王、AI企業幹部をスコットランドに招集 「存亡にかかわる危険」に言及、国際協力を訴えのサムネイル画像",
+      "url": "https://ledge.ai/articles/king_charles_ai_summit",
+      "first_seen": "2026-09-21T08:26:13+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "富士通、国産次世代CPU「MONAKA」とサーバーを11月販売 シャープもAIサーバー事業参入、NVIDIA技術採用・鴻海と連携のサムネイル画像",
+      "url": "https://ledge.ai/articles/fujitsu_monaka_sharp_ai_server",
+      "first_seen": "2026-09-21T08:26:13+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1154,20 +1182,6 @@
       "first_seen": "2026-09-08T07:38:43+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Tesla、ハンドルもペダルもない「Cybercab」でロボタクシー運行開始 米オースティンで のサムネイル画像",
-      "url": "https://ledge.ai/articles/tesla_cybercab_robotaxi",
-      "first_seen": "2026-09-08T07:38:43+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、Claude向けコマースAIの開発ひな型を公開 買い物・店舗運営の2エージェントをGitHubで提供のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_commerce_agents",
-      "first_seen": "2026-09-08T07:38:43+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
@@ -1186,13 +1200,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 20代・30代のためのキャリア＆ライフを考える異業種交流会「NEXT Link ふ… NEXT Link ふくしま−異業種交流会− 【2026年9月25日（金）】いわき産業創造館 【2026年10月16日（金）】ウィル福島 アクティおろしまち 【2026年11月25日（水）】アピオスペース",
       "url": "https://www.cjnavi.co.jp/event/20260907next-link-fukushima/",
-      "first_seen": "2026-09-07T07:44:50+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "トランプ政権、AI学習は「フェアユース」と主張 米司法省がOpenAI著作権訴訟で意見書のサムネイル画像",
-      "url": "https://ledge.ai/articles/trump_administration_ai_training_fair_use",
       "first_seen": "2026-09-07T07:44:50+00:00"
     },
     {
@@ -1228,13 +1235,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
       "url": "https://www.cjnavi.co.jp/event/20260905united-fc-homegame/",
-      "first_seen": "2026-09-05T07:15:50+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 南会津町古町で「廣瀬神社例大祭御神輿渡御祭」を開催！ 古町のまつり 2026年9月12日（土）・13日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260905furumachi-matsuri/",
       "first_seen": "2026-09-05T07:15:50+00:00"
     }
   ]
