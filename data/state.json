@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T08:26:15+00:00",
+  "updated_at": "2026-09-22T08:07:08+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-21T08:26:13+00:00",
-      "last_update": "2026-09-21T08:26:13+00:00",
+      "last_checked": "2026-09-22T08:07:06+00:00",
+      "last_update": "2026-09-22T08:07:06+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -618,9 +618,18 @@
         "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/": {
           "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
           "first_seen": "2026-09-21T08:26:13+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260922fukushima-morning-part2/": {
+          "title": "グルメ 【福島県】郡山市・須賀川市・白河市のカフェ＆食事処で味わえるモーニン… 朝は一日の元気をチャージする大切な時間。今回はガレットやサンドイッチ、フレンチトースト...",
+          "first_seen": "2026-09-22T08:07:06+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 【福島県】郡山市・須賀川市・白河市のカフェ＆食事処で味わえるモーニン… 朝は一日の元気をチャージする大切な時間。今回はガレットやサンドイッチ、フレンチトースト...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260922fukushima-morning-part2/",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
         {
           "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
           "url": "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/",
@@ -865,19 +874,14 @@
           "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
           "first_seen": "2026-09-05T07:15:50+00:00"
-        },
-        {
-          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年9月 2026年9月12日（土）・26日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260905united-fc-homegame/",
-          "first_seen": "2026-09-05T07:15:50+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-21T08:26:13+00:00",
-      "last_update": "2026-09-21T08:26:13+00:00",
+      "last_checked": "2026-09-22T08:07:06+00:00",
+      "last_update": "2026-09-22T08:07:06+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1769,9 +1773,36 @@
         "https://ledge.ai/articles/fujitsu_monaka_sharp_ai_server": {
           "title": "富士通、国産次世代CPU「MONAKA」とサーバーを11月販売 シャープもAIサーバー事業参入、NVIDIA技術採用・鴻海と連携のサムネイル画像",
           "first_seen": "2026-09-21T08:26:13+00:00"
+        },
+        "https://ledge.ai/articles/california_ai_oversight_kill_switch": {
+          "title": "公共 2026 / 9 / 22 [TUE] カリフォルニア州、AI企業の第三者監督を加速 ニューサム知事が行政命令、「AIキルスイッチ」も検討",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_cybersecurity_incident": {
+          "title": "ビジネス 2026 / 9 / 21 [MON] Google「Gemini」も実在企業への侵入が判明 5月にサイバー試験中に実ネットへ接続、3社にアクセス",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
+        "https://ledge.ai/articles/lawson_generative_ai_products": {
+          "title": "ローソン、生成AI発案の“なんだこりゃ？”商品3品を発売 レモンタルト×ピクルスなど、9月29日からのサムネイル画像",
+          "first_seen": "2026-09-22T08:07:06+00:00"
         }
       },
       "recent": [
+        {
+          "title": "公共 2026 / 9 / 22 [TUE] カリフォルニア州、AI企業の第三者監督を加速 ニューサム知事が行政命令、「AIキルスイッチ」も検討",
+          "url": "https://ledge.ai/articles/california_ai_oversight_kill_switch",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 9 / 21 [MON] Google「Gemini」も実在企業への侵入が判明 5月にサイバー試験中に実ネットへ接続、3社にアクセス",
+          "url": "https://ledge.ai/articles/google_gemini_cybersecurity_incident",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
+        {
+          "title": "ローソン、生成AI発案の“なんだこりゃ？”商品3品を発売 レモンタルト×ピクルスなど、9月29日からのサムネイル画像",
+          "url": "https://ledge.ai/articles/lawson_generative_ai_products",
+          "first_seen": "2026-09-22T08:07:06+00:00"
+        },
         {
           "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
           "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
@@ -2006,21 +2037,6 @@
           "title": "電通など3社、広告コピーをAIが自動評価 コピーライター64人・11万件超の評価データを構築のサムネイル画像",
           "url": "https://ledge.ai/articles/dentsu_ai_ad_copy_evaluation",
           "first_seen": "2026-09-09T07:43:32+00:00"
-        },
-        {
-          "title": "Microsoft Office責任者、職場の『AIスロップ』に苦言 AI生成文書をAIで要約する流れを『doom loop』と指摘のサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_office_ai_slop_doom_loop",
-          "first_seen": "2026-09-09T07:43:32+00:00"
-        },
-        {
-          "title": "RIZAP、社員が個人利用の生成AIに氏名・疾患情報を誤アップロード IHI健保分は210人、OpenAI社と公表のサムネイル画像",
-          "url": "https://ledge.ai/articles/rizap_generative_ai_personal_data_upload",
-          "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "AIエージェントで攻撃者は「眠らなくなる」――ExaSecurity代表が語る、AI時代のセキュリティのサムネイル画像",
-          "url": "https://ledge.ai/articles/exasecurity-interview",
-          "first_seen": "2026-09-08T07:38:43+00:00"
         }
       ]
     }
