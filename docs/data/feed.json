@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T08:07:06+00:00",
+  "generated_at": "2026-09-23T08:09:24+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 7,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-22T08:07:06+00:00",
-      "last_update": "2026-09-22T08:07:06+00:00",
-      "new_count": 1,
-      "link_count": 20,
+      "last_checked": "2026-09-23T08:09:24+00:00",
+      "last_update": "2026-09-23T08:09:24+00:00",
+      "new_count": 3,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        {
+          "title": "イベント AD 【2ヵ月保存版】ふくしまの秋を満喫できるグルメ・イベント情報をお届け！… 食べる、飲む、買う。福島の秋 満喫ガイド2026年版 2026年9月25日（金）〜11月24日（火）",
+          "url": "https://www.cjnavi.co.jp/event/20260925fukushima-mankitsuguide/",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        {
+          "title": "スペシャル 『CJ Monmo』2026年10月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年10月号を読んで以下のアンケートに答えると、抽選で...",
+          "url": "https://www.cjnavi.co.jp/special/20260925readers-gifts/",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
         {
           "title": "グルメ 【福島県】郡山市・須賀川市・白河市のカフェ＆食事処で味わえるモーニン… 朝は一日の元気をチャージする大切な時間。今回はガレットやサンドイッチ、フレンチトースト...",
           "url": "https://www.cjnavi.co.jp/gourmet/20260922fukushima-morning-part2/",
@@ -252,21 +267,6 @@
           "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
           "url": "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/",
           "first_seen": "2026-09-06T07:28:29+00:00"
-        },
-        {
-          "title": "イベント 星空ヨガや観望会、マルシェも！三島町「美坂高原」で夜空を満喫しよう ミサカノヨゾラ2026～星と呼吸する、美坂高原の夜～ 2026年9月13日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260906misakano-yozora/",
-          "first_seen": "2026-09-06T07:28:29+00:00"
-        },
-        {
-          "title": "イベント 猪苗代町の中ノ沢こけしと中ノ沢温泉の歴史と魅力を堪能しよう 第5回 中ノ沢こけし祭り 2026年9月13日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260906nakanosawa-kokeshi/",
-          "first_seen": "2026-09-06T07:28:29+00:00"
-        },
-        {
-          "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
-          "first_seen": "2026-09-05T07:15:50+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-22T08:07:06+00:00",
-      "last_update": "2026-09-22T08:07:06+00:00",
-      "new_count": 3,
-      "link_count": 41,
+      "last_checked": "2026-09-23T08:09:24+00:00",
+      "last_update": "2026-09-23T08:09:24+00:00",
+      "new_count": 4,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役にのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        {
+          "title": "トランプ米大統領、AI新組織「AI Force」創設を表明 「AI Czar」も近く発表へのサムネイル画像",
+          "url": "https://ledge.ai/articles/trump_ai_force_ai_czar",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        {
+          "title": "Google、Gemini搭載AIノートPC「Googlebook」の予約受付開始 899ドルから、5社が展開のサムネイル画像",
+          "url": "https://ledge.ai/articles/googlebook_preorder_launch",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        {
+          "title": "NVIDIA・Googleら、AIデータセンターの電力を動的調整するアライアンス「AEMA」始動 系統逼迫時に計算処理をシフトのサムネイル画像",
+          "url": "https://ledge.ai/articles/aema_flexible_ai_datacenters",
+          "first_seen": "2026-09-23T08:09:24+00:00"
+        },
         {
           "title": "公共 2026 / 9 / 22 [TUE] カリフォルニア州、AI企業の第三者監督を加速 ニューサム知事が行政命令、「AIキルスイッチ」も検討",
           "url": "https://ledge.ai/articles/california_ai_oversight_kill_switch",
@@ -512,31 +532,60 @@
           "title": "AI利用率88.6％、それでも法務は楽にならない？ LexisNexis調査に見る日本企業の「AI導入後」の課題のサムネイル画像",
           "url": "https://ledge.ai/articles/lexisnexis-media-roundtable-202609",
           "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "Meta、パーソナルAIエージェント『Muse』発表 メール送信や買い物も代行、米国で提供開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_personal_ai_agent",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_images_2_5_sketch_work_writing_style",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "Google、AIで脆弱性の発見・再現・修正まで進める「Mantis」解説 複数エージェントで誤検知を抑制のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_mantis_ai_vulnerability_security",
-          "first_seen": "2026-09-09T07:43:32+00:00"
-        },
-        {
-          "title": "電通など3社、広告コピーをAIが自動評価 コピーライター64人・11万件超の評価データを構築のサムネイル画像",
-          "url": "https://ledge.ai/articles/dentsu_ai_ad_copy_evaluation",
-          "first_seen": "2026-09-09T07:43:32+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
+      "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 【2ヵ月保存版】ふくしまの秋を満喫できるグルメ・イベント情報をお届け！… 食べる、飲む、買う。福島の秋 満喫ガイド2026年版 2026年9月25日（金）〜11月24日（火）",
+      "url": "https://www.cjnavi.co.jp/event/20260925fukushima-mankitsuguide/",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "スペシャル 『CJ Monmo』2026年10月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年10月号を読んで以下のアンケートに答えると、抽選で...",
+      "url": "https://www.cjnavi.co.jp/special/20260925readers-gifts/",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役にのサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "トランプ米大統領、AI新組織「AI Force」創設を表明 「AI Czar」も近く発表へのサムネイル画像",
+      "url": "https://ledge.ai/articles/trump_ai_force_ai_czar",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、Gemini搭載AIノートPC「Googlebook」の予約受付開始 899ドルから、5社が展開のサムネイル画像",
+      "url": "https://ledge.ai/articles/googlebook_preorder_launch",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "NVIDIA・Googleら、AIデータセンターの電力を動的調整するアライアンス「AEMA」始動 系統逼迫時に計算処理をシフトのサムネイル画像",
+      "url": "https://ledge.ai/articles/aema_flexible_ai_datacenters",
+      "first_seen": "2026-09-23T08:09:24+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1140,38 +1189,10 @@
       "first_seen": "2026-09-10T07:43:22+00:00"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Meta、パーソナルAIエージェント『Muse』発表 メール送信や買い物も代行、米国で提供開始のサムネイル画像",
-      "url": "https://ledge.ai/articles/meta_muse_personal_ai_agent",
-      "first_seen": "2026-09-10T07:43:22+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_chatgpt_images_2_5_sketch_work_writing_style",
-      "first_seen": "2026-09-10T07:43:22+00:00"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
       "url": "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/",
-      "first_seen": "2026-09-09T07:43:32+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、AIで脆弱性の発見・再現・修正まで進める「Mantis」解説 複数エージェントで誤検知を抑制のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_mantis_ai_vulnerability_security",
-      "first_seen": "2026-09-09T07:43:32+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "電通など3社、広告コピーをAIが自動評価 コピーライター64人・11万件超の評価データを構築のサムネイル画像",
-      "url": "https://ledge.ai/articles/dentsu_ai_ad_copy_evaluation",
       "first_seen": "2026-09-09T07:43:32+00:00"
     },
     {
@@ -1215,27 +1236,6 @@
       "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
       "url": "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/",
       "first_seen": "2026-09-06T07:28:29+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 星空ヨガや観望会、マルシェも！三島町「美坂高原」で夜空を満喫しよう ミサカノヨゾラ2026～星と呼吸する、美坂高原の夜～ 2026年9月13日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260906misakano-yozora/",
-      "first_seen": "2026-09-06T07:28:29+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 猪苗代町の中ノ沢こけしと中ノ沢温泉の歴史と魅力を堪能しよう 第5回 中ノ沢こけし祭り 2026年9月13日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260906nakanosawa-kokeshi/",
-      "first_seen": "2026-09-06T07:28:29+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 豪華ゲストのステージにグルメ＆食品販売も！郡山市で『探究EXPO』開催 探究EXPO 2026年9月12日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260905tankyu-expo/",
-      "first_seen": "2026-09-05T07:15:50+00:00"
     }
   ]
 }
