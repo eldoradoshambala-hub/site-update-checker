@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T08:09:25+00:00",
+  "updated_at": "2026-09-24T08:00:26+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-23T08:09:24+00:00",
-      "last_update": "2026-09-23T08:09:24+00:00",
+      "last_checked": "2026-09-24T08:00:24+00:00",
+      "last_update": "2026-09-24T08:00:24+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -634,9 +634,36 @@
         "https://www.cjnavi.co.jp/special/20260925readers-gifts/": {
           "title": "スペシャル 『CJ Monmo』2026年10月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年10月号を読んで以下のアンケートに答えると、抽選で...",
           "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260924monmoryouhin/": {
+          "title": "ライフ 『モンモ良品』でふくしまの秋の味覚や名産品をお取り寄せ！おすすめ新商… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、会津で採れ...",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260924uminoshigoto-talkshow/": {
+          "title": "イベント AD さかなのおにいさん かわちゃんと海の仕事の魅力を楽しく学べる『海のおし… 海のおしごとトークショー 2026年10月18日（日）",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260924newopen-seserabi-camp/": {
+          "title": "おでかけ せせらぎ、焚き火、景観を楽しむキャンプ場『-Seserabi- camp forest』が… -Seserabi- camp forest（セセラビ キャンプ フォレスト）",
+          "first_seen": "2026-09-24T08:00:24+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ライフ 『モンモ良品』でふくしまの秋の味覚や名産品をお取り寄せ！おすすめ新商… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、会津で採れ...",
+          "url": "https://www.cjnavi.co.jp/life/20260924monmoryouhin/",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        {
+          "title": "イベント AD さかなのおにいさん かわちゃんと海の仕事の魅力を楽しく学べる『海のおし… 海のおしごとトークショー 2026年10月18日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260924uminoshigoto-talkshow/",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        {
+          "title": "おでかけ せせらぎ、焚き火、景観を楽しむキャンプ場『-Seserabi- camp forest』が… -Seserabi- camp forest（セセラビ キャンプ フォレスト）",
+          "url": "https://www.cjnavi.co.jp/trip/20260924newopen-seserabi-camp/",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
         {
           "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
           "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
@@ -871,29 +898,14 @@
           "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260907yamaphoto-club/",
           "first_seen": "2026-09-07T07:44:50+00:00"
-        },
-        {
-          "title": "グルメ 福島市森合のカフェがアサイーボウル専門店『50Rose Cafe』にリニューアル 50Rose Cafe（フィフティーローズカフェ）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260907newopen-fifty-rose-cafe/",
-          "first_seen": "2026-09-07T07:44:50+00:00"
-        },
-        {
-          "title": "イベント AD 20代・30代のためのキャリア＆ライフを考える異業種交流会「NEXT Link ふ… NEXT Link ふくしま−異業種交流会− 【2026年9月25日（金）】いわき産業創造館 【2026年10月16日（金）】ウィル福島 アクティおろしまち 【2026年11月25日（水）】アピオスペース",
-          "url": "https://www.cjnavi.co.jp/event/20260907next-link-fukushima/",
-          "first_seen": "2026-09-07T07:44:50+00:00"
-        },
-        {
-          "title": "グルメ 白河市「提灯まつり」の季節に200年の歴史を刻むそばを定食で愉しむ 第108回「そば処 𠮷田屋」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260906fukushima-teisyokubu108/",
-          "first_seen": "2026-09-06T07:28:29+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-23T08:09:24+00:00",
-      "last_update": "2026-09-23T08:09:24+00:00",
+      "last_checked": "2026-09-24T08:00:24+00:00",
+      "last_update": "2026-09-24T08:00:24+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1813,9 +1825,45 @@
         "https://ledge.ai/articles/aema_flexible_ai_datacenters": {
           "title": "NVIDIA・Googleら、AIデータセンターの電力を動的調整するアライアンス「AEMA」始動 系統逼迫時に計算処理をシフトのサムネイル画像",
           "first_seen": "2026-09-23T08:09:24+00:00"
+        },
+        "https://ledge.ai/articles/claude_projects_redesign": {
+          "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session": {
+          "title": "NEC、「AI社員」36体が働く自律型組織を公開 1on1やストレスチェックまで、人とAIで企業OSを再構築のサムネイル画像",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_opus_5_5": {
+          "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://ledge.ai/articles/openai_gpt_6_sol_luna": {
+          "title": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を公開 Astraの技術を低価格モデルに展開、API料金を引き下げのサムネイル画像",
+          "first_seen": "2026-09-24T08:00:24+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_projects_redesign",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        {
+          "title": "NEC、「AI社員」36体が働く自律型組織を公開 1on1やストレスチェックまで、人とAIで企業OSを再構築のサムネイル画像",
+          "url": "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        {
+          "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        {
+          "title": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を公開 Astraの技術を低価格モデルに展開、API料金を引き下げのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_sol_luna",
+          "first_seen": "2026-09-24T08:00:24+00:00"
+        },
         {
           "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役にのサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
@@ -2045,26 +2093,6 @@
           "title": "卓上型汎用AIロボ「Palmimo DevKit」、PoCや研究向けに先行販売開始 LLMの指示で歩く・話す、MCPにも対応のサムネイル画像",
           "url": "https://ledge.ai/articles/palmimo_devkit_ai_robot_mcp",
           "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "Google、AI天気予報「WeatherNext 3」発表 急変する雨を捉える毎時予報、降水予測を高精度化のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_weathernext_3",
-          "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "OpenAI、GPT-6 Astra超えの未公開AIが現代数学の七大難問「ナビエ・ストークス方程式」の解決証明を生成 先行研究の扱いに数学者が異議ものサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_navier_stokes_ai_proof",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけのサムネイル画像",
-          "url": "https://ledge.ai/articles/gmo_humanoid_ambulance",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "AI利用率88.6％、それでも法務は楽にならない？ LexisNexis調査に見る日本企業の「AI導入後」の課題のサムネイル画像",
-          "url": "https://ledge.ai/articles/lexisnexis-media-roundtable-202609",
-          "first_seen": "2026-09-10T07:43:22+00:00"
         }
       ]
     }
