@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T08:00:26+00:00",
+  "updated_at": "2026-09-25T08:24:50+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-24T08:00:24+00:00",
-      "last_update": "2026-09-24T08:00:24+00:00",
+      "last_checked": "2026-09-25T08:24:48+00:00",
+      "last_update": "2026-09-25T08:24:48+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -646,9 +646,153 @@
         "https://www.cjnavi.co.jp/trip/20260924newopen-seserabi-camp/": {
           "title": "おでかけ せせらぎ、焚き火、景観を楽しむキャンプ場『-Seserabi- camp forest』が… -Seserabi- camp forest（セセラビ キャンプ フォレスト）",
           "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260925anoano2026-2027/": {
+          "title": "スペシャル 知らなかった福島県のコトが知れるおでかけ本『あの街、あの風景へ』が発… 福島おとな旅特別版「あの街、あの風景へ」",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260925fukushima-spa-diary/": {
+          "title": "スペシャル 【クーポン枚数過去最多】シリーズ27作目の『ふくしま日帰り温泉』最新版… ふくしま日帰り温泉 2026-2027",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260925cjmonmo-63/": {
+          "title": "スペシャル 「CJ Monmo」10月号は、手作り体験スポットを紹介する「ふくしまクラフト… 月刊CJ Monmo 2026年10月号",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20260925scc-recruit/": {
+          "title": "スペシャル 【正社員採用情報】（株）エス・シー・シー「CJ Monmo編集部」編集職・営… （株）エス・シー・シー",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260925fruitspeaks/": {
+          "title": "グルメ AD 秋の味覚を満喫！『フルーツピークス』に旬のスイーツが勢ぞろい フルーツピークス 福島南バイパス店・福島西店",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260925nihonmatsu-kikuningyo/": {
+          "title": "イベント AD 【秋のイベント2026】国内最大級の菊の祭典『二本松の菊人形』開幕！ 第70回 二本松の菊人形 2026年10月10日（土）～11月23日（祝）",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20260925kawamata-cosquin/": {
+          "title": "イベント AD 【秋のイベント2026】国内最大規模の中南米音楽祭『コスキン・エン・ハポ… コスキン・エン・ハポン2026 2026年10月10日（土）～12日（祝）",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260925kokoroya/": {
+          "title": "グルメ AD 【秋のおでかけ2026】野菜や卵を『直売・カフェ こころや』のランチでゆっ… 直売・カフェ こころや",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260925shinchi-town/": {
+          "title": "おでかけ AD 【あの街、あの風景へ2026×新地町】四季をめぐる、新地町の旅へ。海・里・… 白幡のイチョウ／鹿狼山／新地町チューリップ祭り／新地町海釣り公園",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260925unagino-ebiya/": {
+          "title": "グルメ AD 【あの街、あの風景へ2026×六代目 鰻のえびや】明治35年創業、会津の老舗… 六代目 鰻のえびや",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260925joushitsu-collection/": {
+          "title": "ライフ AD 【あの街、あの風景へ2026】福島市・相馬市で出合う、上質セレクション8選 福島には、特別な日を彩る名店や温泉宿、心豊かな時間を演出する逸品が数多くある。大切な人...",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20260925kanon/": {
+          "title": "おでかけ AD 【あの街、あの風景へ2026】海と空の絶景を、『碧ノ音』で誰にも邪魔され… 空と海の隠れ家 碧ノ音（かのん）",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20260925danran-kato/": {
+          "title": "グルメ AD 【あの街、あの風景へ2026】『団欒かとう』が提供する「一食入魂」の創作… 団欒（だんらん）かとう",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20260925refine-space-ms/": {
+          "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/": {
+          "title": "月刊CJ Monmo 2026年10月号",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20260925anomachi-anofuukeie2026-2027/": {
+          "title": "福島おとな旅特別版「あの街、あの風景へ」",
+          "first_seen": "2026-09-25T08:24:48+00:00"
         }
       },
       "recent": [
+        {
+          "title": "スペシャル 知らなかった福島県のコトが知れるおでかけ本『あの街、あの風景へ』が発… 福島おとな旅特別版「あの街、あの風景へ」",
+          "url": "https://www.cjnavi.co.jp/special/20260925anoano2026-2027/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "スペシャル 【クーポン枚数過去最多】シリーズ27作目の『ふくしま日帰り温泉』最新版… ふくしま日帰り温泉 2026-2027",
+          "url": "https://www.cjnavi.co.jp/special/20260925fukushima-spa-diary/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "スペシャル 「CJ Monmo」10月号は、手作り体験スポットを紹介する「ふくしまクラフト… 月刊CJ Monmo 2026年10月号",
+          "url": "https://www.cjnavi.co.jp/special/20260925cjmonmo-63/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "スペシャル 【正社員採用情報】（株）エス・シー・シー「CJ Monmo編集部」編集職・営… （株）エス・シー・シー",
+          "url": "https://www.cjnavi.co.jp/special/20260925scc-recruit/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "グルメ AD 秋の味覚を満喫！『フルーツピークス』に旬のスイーツが勢ぞろい フルーツピークス 福島南バイパス店・福島西店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260925fruitspeaks/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "イベント AD 【秋のイベント2026】国内最大級の菊の祭典『二本松の菊人形』開幕！ 第70回 二本松の菊人形 2026年10月10日（土）～11月23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260925nihonmatsu-kikuningyo/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "イベント AD 【秋のイベント2026】国内最大規模の中南米音楽祭『コスキン・エン・ハポ… コスキン・エン・ハポン2026 2026年10月10日（土）～12日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20260925kawamata-cosquin/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "グルメ AD 【秋のおでかけ2026】野菜や卵を『直売・カフェ こころや』のランチでゆっ… 直売・カフェ こころや",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260925kokoroya/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "おでかけ AD 【あの街、あの風景へ2026×新地町】四季をめぐる、新地町の旅へ。海・里・… 白幡のイチョウ／鹿狼山／新地町チューリップ祭り／新地町海釣り公園",
+          "url": "https://www.cjnavi.co.jp/trip/20260925shinchi-town/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "グルメ AD 【あの街、あの風景へ2026×六代目 鰻のえびや】明治35年創業、会津の老舗… 六代目 鰻のえびや",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260925unagino-ebiya/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "ライフ AD 【あの街、あの風景へ2026】福島市・相馬市で出合う、上質セレクション8選 福島には、特別な日を彩る名店や温泉宿、心豊かな時間を演出する逸品が数多くある。大切な人...",
+          "url": "https://www.cjnavi.co.jp/life/20260925joushitsu-collection/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "おでかけ AD 【あの街、あの風景へ2026】海と空の絶景を、『碧ノ音』で誰にも邪魔され… 空と海の隠れ家 碧ノ音（かのん）",
+          "url": "https://www.cjnavi.co.jp/trip/20260925kanon/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "グルメ AD 【あの街、あの風景へ2026】『団欒かとう』が提供する「一食入魂」の創作… 団欒（だんらん）かとう",
+          "url": "https://www.cjnavi.co.jp/gourmet/20260925danran-kato/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
+          "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "月刊CJ Monmo 2026年10月号",
+          "url": "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "福島おとな旅特別版「あの街、あの風景へ」",
+          "url": "https://www.cjnavi.co.jp/magazine/20260925anomachi-anofuukeie2026-2027/",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
         {
           "title": "ライフ 『モンモ良品』でふくしまの秋の味覚や名産品をお取り寄せ！おすすめ新商… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、会津で採れ...",
           "url": "https://www.cjnavi.co.jp/life/20260924monmoryouhin/",
@@ -818,94 +962,14 @@
           "title": "おでかけ 【2026福島県のキャンプ・グランピング】福島市・伊達市・桑折町・大玉村… キャンプサイトはもちろん、コテージやトレーラーハウスの宿泊施設があり初心者でも利用しや...",
           "url": "https://www.cjnavi.co.jp/trip/20260913fukushimakenpoku-camp-spot/",
           "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "イベント 郡山市伝統の手漉き和紙の灯籠が里山をほのかに照らす 海老根長月宵あかり 第24回 秋蛍 2026年9月19日（土）・20日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260912ebine-ganatsuki-yoiakari/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど約40店舗以上… スマイルアップマルシェ in二本松 2026年9月19日（土）・20日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260912smileup-marche/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "イベント 音楽で繋がり､心で触れ合うバリアフリーな音楽祭を福島駅前で開催 第14回 とっておきの音楽祭 IN ふくしま2026 2026年9月19日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260912totteoki-fukushima/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "イベント 気鋭のクリエイターが作り上げる「大どろぼう」の部屋の秘密を「新潟県立… 大どろぼうの家 2026年9月19日（土）～12月20日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260912odrobonoie/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "イベント 提灯の神秘的な灯りが、城下町の白河市の夜を美しく照らす 白河提灯まつり 2026年9月19日（土）～21日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260912shirakawa-kashimajinja/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "イベント 約600名の大行列は圧巻。会津の秋を彩る伝統の祭り 会津まつり 2026年9月19日（土）～21日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260912aizumatsuri/",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "グルメ 福島駅直結！福島県産食材が満載のレストラン『トレジオン 福島店』がオ… トレジオン 福島店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260911newopen-tregion/",
-          "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260912renovation-fukushima/",
-          "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "イベント 猪苗代町「天鏡閣」で点描曼荼羅画の作品展を開催 宙を奏でる点描曼荼羅画 作品展 2026年9月17日（木）～29日（火）",
-          "url": "https://www.cjnavi.co.jp/event/20260910mandara/",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "おでかけ 【福島県】田村市に来たら行くべきはココ！おすすめスポット3選 田村市は、神秘的な鍾乳石に出合える「あぶくま洞」や珍しい昆虫に出合える「ムシムシランド...",
-          "url": "https://www.cjnavi.co.jp/trip/20260910hinoemata-spot/",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "イベント AD 福島県内の創業を目指す・まちなかを盛り上げたい方必見！『まちなかリノ… 【受講生募集】第8回 まちなかリノベ塾 【開催日】2026年10月〜2027年2月の土・月曜日祝日 【応募締切】〜2026年9月30日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260910renovation-fukushima/",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "イベント 抽象絵画の先駆者・カンディンスキー。画業と日本への影響を「宮城県美術… カンディンスキー 世界は鳴りひびく―日本のコレクションでたどる画業と反響― 2026年9月12日（土）～10月28日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20260905miyagi-museum/",
-          "first_seen": "2026-09-10T07:43:22+00:00"
-        },
-        {
-          "title": "おでかけ 【2026福島県のキャンプ・グランピング】田村市・天栄村・小野町のおすす… キャンプサイトはもちろん、コテージやバンガローなどの宿泊施設があり初心者でも利用しやす...",
-          "url": "https://www.cjnavi.co.jp/trip/20260909fukushimakenchu-camp-spot/",
-          "first_seen": "2026-09-09T07:43:32+00:00"
-        },
-        {
-          "title": "グルメ 【福島県】朝からガッツリ白米を食べたい！福島市・いわき市の食堂の朝ご… 朝からしっかり食べて、1日を元気にスタート！今回は、早起きしてでも食べたい、福島市・いわ...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260908fukushima-asagohan/",
-          "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "イベント AD 会津の伝統工芸や地元の食に触れながら、エシカル消費を体験できる『エシ… エシカルマルシェin会津 2026年9月26日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260908ethical-marche-aizu/",
-          "first_seen": "2026-09-08T07:38:43+00:00"
-        },
-        {
-          "title": "イベント 福島県内を中心に活動する「山歩登クラブ」の写真展を福島市「コラッセふ… 山歩登クラブ 第7回写真展「春夏秋冬の山旅」 2026年9月14日（月）～20日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260907yamaphoto-club/",
-          "first_seen": "2026-09-07T07:44:50+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-09-24T08:00:24+00:00",
-      "last_update": "2026-09-24T08:00:24+00:00",
+      "last_checked": "2026-09-25T08:24:48+00:00",
+      "last_update": "2026-09-25T08:24:48+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1841,9 +1905,45 @@
         "https://ledge.ai/articles/openai_gpt_6_sol_luna": {
           "title": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を公開 Astraの技術を低価格モデルに展開、API料金を引き下げのサムネイル画像",
           "first_seen": "2026-09-24T08:00:24+00:00"
+        },
+        "https://ledge.ai/articles/typesafe_jev_system_one_model": {
+          "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://ledge.ai/articles/gartner_ai_spending_2026": {
+          "title": "Gartner、2026年の世界AI支出を2.7兆ドルと予測 前年比49.5％増、インフラ投資が牽引のサムネイル画像",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://ledge.ai/articles/google_us_teens_ai_usage_survey": {
+          "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        "https://ledge.ai/articles/cesa_game_industry_report_2026_ai": {
+          "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多のサムネイル画像",
+          "first_seen": "2026-09-25T08:24:48+00:00"
         }
       },
       "recent": [
+        {
+          "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
+          "url": "https://ledge.ai/articles/typesafe_jev_system_one_model",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "Gartner、2026年の世界AI支出を2.7兆ドルと予測 前年比49.5％増、インフラ投資が牽引のサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_ai_spending_2026",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
+        {
+          "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多のサムネイル画像",
+          "url": "https://ledge.ai/articles/cesa_game_industry_report_2026_ai",
+          "first_seen": "2026-09-25T08:24:48+00:00"
+        },
         {
           "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
           "url": "https://ledge.ai/articles/claude_projects_redesign",
@@ -2073,26 +2173,6 @@
           "title": "AnthropicのAI事前学習研究者が退職、「自己改善する超知能」競争を批判 同調する現職のAIアライメント研究者も「10年以内の人類滅亡10％超」のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_researcher_resigns_superintelligence_risk",
           "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "OpenAI、ChatGPT Workに「Data agent」 企業データを自然言語で分析、ダッシュボード作成からアクション実行までのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_work_data_agent",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測のサムネイル画像",
-          "url": "https://ledge.ai/articles/unitree_unifolm_x2_autonomous_combat",
-          "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "「1人で月100本」の時代、クリエイターは不要になるのか “AIネイティブ”で変わるエンタメ制作のサムネイル画像",
-          "url": "https://ledge.ai/articles/megli-interview",
-          "first_seen": "2026-09-11T07:38:41+00:00"
-        },
-        {
-          "title": "卓上型汎用AIロボ「Palmimo DevKit」、PoCや研究向けに先行販売開始 LLMの指示で歩く・話す、MCPにも対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/palmimo_devkit_ai_robot_mcp",
-          "first_seen": "2026-09-11T07:38:41+00:00"
         }
       ]
     }
