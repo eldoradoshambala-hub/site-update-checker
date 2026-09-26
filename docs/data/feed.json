@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T08:24:48+00:00",
+  "generated_at": "2026-09-26T08:11:59+00:00",
   "site_count": 2,
-  "new_count": 20,
+  "new_count": 8,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-25T08:24:48+00:00",
-      "last_update": "2026-09-25T08:24:48+00:00",
-      "new_count": 16,
-      "link_count": 21,
+      "last_checked": "2026-09-26T08:11:59+00:00",
+      "last_update": "2026-09-26T08:11:59+00:00",
+      "new_count": 5,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20260926nihonmatsu-chouchin/",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "イベント 双葉町に“うまいもん”が集結！町内最大級のフードイベント！ ふたばフードフェス2026 2026年10月3日（土）・4日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260926futaba-foodfes/",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "イベント AD 福島市「道の駅ふくしま」で、家族と愛犬が楽しめる『サイクル＆わん！フ… サイクル＆わん！フェスタ in 道の駅ふくしま 2026年10月18日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260925cycle-wan-satellitefukushima/",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "イベント 海外のトップ選手も来場！福島県内最大規模の震災復興支援サーフィンイベ… KITAIZUMI SURF FESTIVAL 2026 2026年10月2日（金）～4日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260925kitaizumi-surf-festival/",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "イベント 湯の町沸騰の3日間！6町の太鼓屋台が集結 八幡神社例大祭「飯坂けんか祭り」 2026年10月2日（金）～4日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260925iizaka-kenka/",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
         {
           "title": "スペシャル 知らなかった福島県のコトが知れるおでかけ本『あの街、あの風景へ』が発… 福島おとな旅特別版「あの街、あの風景へ」",
           "url": "https://www.cjnavi.co.jp/special/20260925anoano2026-2027/",
@@ -242,31 +267,6 @@
           "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026秋号』を発行しまし… つなぐ奥会津2026秋号",
           "url": "https://www.cjnavi.co.jp/trip/20260915tsunaguokuaizu-autumn/",
           "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "イベント 「常磐もの」をテーマに描かれた大旗漁の優秀作品が決定！圧巻の作品をい… 大漁旗アート展 2026年9月19日（土）～11月15日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260912aquamarine-tairyobata/",
-          "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "イベント 「仙台市博物館」で国宝・重要文化財を含む仏画を展示。仏教絵画の持つ“力… 特別展「仏画の力―東北 珠玉の仏教絵画―」 2026年9月18日（金）～11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260911butsugano-chikara/",
-          "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "イベント 福島市「アオウゼ」に、ハンドメイド雑貨やリラクゼーションなど約30店舗… Hapia Marche 2026年9月21日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260914hapia-marche/",
-          "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "イベント 猪苗代町内に美術、映画など 様々な“アート”が集結 ARTS in September JAM 【ARTS】2026年9月21日（祝）～11月3日（祝） 【風とロック芋煮会】2026年9月21日（祝）・22日（休） 【オハラ☆ブレイク】2026年9月23日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260914arts-in-september-jam/",
-          "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "おでかけ 【2026福島県のキャンプ・グランピング】福島市・伊達市・桑折町・大玉村… キャンプサイトはもちろん、コテージやトレーラーハウスの宿泊施設があり初心者でも利用しや...",
-          "url": "https://www.cjnavi.co.jp/trip/20260913fukushimakenpoku-camp-spot/",
-          "first_seen": "2026-09-14T08:24:33+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-25T08:24:48+00:00",
-      "last_update": "2026-09-25T08:24:48+00:00",
-      "new_count": 4,
+      "last_checked": "2026-09-26T08:11:59+00:00",
+      "last_update": "2026-09-26T08:11:59+00:00",
+      "new_count": 3,
       "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "フィンランド・ノルウェー、最先端AIの事前テスト義務化を呼びかけ フランスも支持、米中は署名者一覧に含まれずのサムネイル画像",
+          "url": "https://ledge.ai/articles/finland_norway_frontier_ai_control",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "OpenAI、数学者の独立組織「AGMAI」と連携でAI研究成果の公開に助言 暗号研究でもAstraで1941年のエニグマ解読の事例ものサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_agmai_enigma",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
+        {
+          "title": "トランプ米大統領、AIを「スーパー・インテリジェンス」と呼ぶと表明 国務省の一部で「SI」使用指示ものサムネイル画像",
+          "url": "https://ledge.ai/articles/trump_ai_super_intelligence",
+          "first_seen": "2026-09-26T08:11:59+00:00"
+        },
         {
           "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
           "url": "https://ledge.ai/articles/typesafe_jev_system_one_model",
@@ -517,26 +532,67 @@
           "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
           "first_seen": "2026-09-13T07:52:24+00:00"
-        },
-        {
-          "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
-          "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "Google「Gemini」に大きく依存して登山計画、米シャスタ山で3人遭難 食料・水不足、当局がAIへの過度な依存を警告のサムネイル画像",
-          "url": "https://ledge.ai/articles/mount_shasta_gemini_rescue",
-          "first_seen": "2026-09-12T07:31:41+00:00"
-        },
-        {
-          "title": "AnthropicのAI事前学習研究者が退職、「自己改善する超知能」競争を批判 同調する現職のAIアライメント研究者も「10年以内の人類滅亡10％超」のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_researcher_resigns_superintelligence_risk",
-          "first_seen": "2026-09-12T07:31:41+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
+      "url": "https://www.cjnavi.co.jp/event/20260926nihonmatsu-chouchin/",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 双葉町に“うまいもん”が集結！町内最大級のフードイベント！ ふたばフードフェス2026 2026年10月3日（土）・4日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260926futaba-foodfes/",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 福島市「道の駅ふくしま」で、家族と愛犬が楽しめる『サイクル＆わん！フ… サイクル＆わん！フェスタ in 道の駅ふくしま 2026年10月18日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260925cycle-wan-satellitefukushima/",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 海外のトップ選手も来場！福島県内最大規模の震災復興支援サーフィンイベ… KITAIZUMI SURF FESTIVAL 2026 2026年10月2日（金）～4日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260925kitaizumi-surf-festival/",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 湯の町沸騰の3日間！6町の太鼓屋台が集結 八幡神社例大祭「飯坂けんか祭り」 2026年10月2日（金）～4日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260925iizaka-kenka/",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "フィンランド・ノルウェー、最先端AIの事前テスト義務化を呼びかけ フランスも支持、米中は署名者一覧に含まれずのサムネイル画像",
+      "url": "https://ledge.ai/articles/finland_norway_frontier_ai_control",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、数学者の独立組織「AGMAI」と連携でAI研究成果の公開に助言 暗号研究でもAstraで1941年のエニグマ解読の事例ものサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_agmai_enigma",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "トランプ米大統領、AIを「スーパー・インテリジェンス」と呼ぶと表明 国務省の一部で「SI」使用指示ものサムネイル画像",
+      "url": "https://ledge.ai/articles/trump_ai_super_intelligence",
+      "first_seen": "2026-09-26T08:11:59+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1105,20 +1161,6 @@
       "first_seen": "2026-09-15T08:15:52+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 「常磐もの」をテーマに描かれた大旗漁の優秀作品が決定！圧巻の作品をい… 大漁旗アート展 2026年9月19日（土）～11月15日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260912aquamarine-tairyobata/",
-      "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 「仙台市博物館」で国宝・重要文化財を含む仏画を展示。仏教絵画の持つ“力… 特別展「仏画の力―東北 珠玉の仏教絵画―」 2026年9月18日（金）～11月8日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260911butsugano-chikara/",
-      "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
@@ -1145,27 +1187,6 @@
       "title": "Sakana AI、「Fugu Max」「Fugu Ultra v2」発表 複数AIを使い分け、コスト効率と性能を両方向に強化 のサムネイル画像",
       "url": "https://ledge.ai/articles/sakana_fugu_max_ultra_v2",
       "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島市「アオウゼ」に、ハンドメイド雑貨やリラクゼーションなど約30店舗… Hapia Marche 2026年9月21日（祝）",
-      "url": "https://www.cjnavi.co.jp/event/20260914hapia-marche/",
-      "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 猪苗代町内に美術、映画など 様々な“アート”が集結 ARTS in September JAM 【ARTS】2026年9月21日（祝）～11月3日（祝） 【風とロック芋煮会】2026年9月21日（祝）・22日（休） 【オハラ☆ブレイク】2026年9月23日（祝）",
-      "url": "https://www.cjnavi.co.jp/event/20260914arts-in-september-jam/",
-      "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【2026福島県のキャンプ・グランピング】福島市・伊達市・桑折町・大玉村… キャンプサイトはもちろん、コテージやトレーラーハウスの宿泊施設があり初心者でも利用しや...",
-      "url": "https://www.cjnavi.co.jp/trip/20260913fukushimakenpoku-camp-spot/",
-      "first_seen": "2026-09-14T08:24:33+00:00"
     },
     {
       "site_id": "ledge-ai",
@@ -1215,27 +1236,6 @@
       "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
       "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
       "first_seen": "2026-09-13T07:52:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "GPT-6 Astra、AGI時代の予兆か ゲーム攻略、3D世界制作、ロボット操作まで広がる汎用性のサムネイル画像",
-      "url": "https://ledge.ai/articles/gpt_6_astra_general_purpose_capabilities",
-      "first_seen": "2026-09-12T07:31:41+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google「Gemini」に大きく依存して登山計画、米シャスタ山で3人遭難 食料・水不足、当局がAIへの過度な依存を警告のサムネイル画像",
-      "url": "https://ledge.ai/articles/mount_shasta_gemini_rescue",
-      "first_seen": "2026-09-12T07:31:41+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AnthropicのAI事前学習研究者が退職、「自己改善する超知能」競争を批判 同調する現職のAIアライメント研究者も「10年以内の人類滅亡10％超」のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_researcher_resigns_superintelligence_risk",
-      "first_seen": "2026-09-12T07:31:41+00:00"
     }
   ]
 }
