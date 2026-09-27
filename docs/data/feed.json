@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T08:11:59+00:00",
+  "generated_at": "2026-09-27T08:48:46+00:00",
   "site_count": 2,
-  "new_count": 8,
-  "error_count": 0,
+  "new_count": 3,
+  "error_count": 1,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "ok",
-      "error": null,
-      "consecutive_errors": 0,
-      "last_checked": "2026-09-26T08:11:59+00:00",
+      "status": "error",
+      "error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
+      "last_checked": "2026-09-27T08:48:46+00:00",
       "last_update": "2026-09-26T08:11:59+00:00",
-      "new_count": 5,
-      "link_count": 20,
+      "new_count": 0,
+      "link_count": 0,
       "seeded_now": false,
       "items": [
         {
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-26T08:11:59+00:00",
-      "last_update": "2026-09-26T08:11:59+00:00",
+      "last_checked": "2026-09-27T08:48:46+00:00",
+      "last_update": "2026-09-27T08:48:46+00:00",
       "new_count": 3,
       "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAIのAIエージェント、6月に豪政府サイトに不正アクセスと公表 拒否後に制限を迂回、非公開ファイルにもアクセスのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_ai_agent_australia_breach",
+          "first_seen": "2026-09-27T08:48:46+00:00"
+        },
+        {
+          "title": "Meta、たまごっち風のAI端末「Muse Charm」発表 ポケットサイズで専用AIエージェントと会話のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_charm",
+          "first_seen": "2026-09-27T08:48:46+00:00"
+        },
+        {
+          "title": "AnthropicのClaude、バクテリオファージから未知の酵素システムを発見 ゲノム編集に利用のCRISPRに似た反復配列 、アモデイ氏は医学研究の加速に期待のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_art_discovery",
+          "first_seen": "2026-09-27T08:48:46+00:00"
+        },
         {
           "title": "フィンランド・ノルウェー、最先端AIの事前テスト義務化を呼びかけ フランスも支持、米中は署名者一覧に含まれずのサムネイル画像",
           "url": "https://ledge.ai/articles/finland_norway_frontier_ai_control",
@@ -517,26 +532,32 @@
           "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
           "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
-          "first_seen": "2026-09-13T07:52:24+00:00"
-        },
-        {
-          "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_job_interview_kowro",
-          "first_seen": "2026-09-13T07:52:24+00:00"
-        },
-        {
-          "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
-          "first_seen": "2026-09-13T07:52:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAIのAIエージェント、6月に豪政府サイトに不正アクセスと公表 拒否後に制限を迂回、非公開ファイルにもアクセスのサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_ai_agent_australia_breach",
+      "first_seen": "2026-09-27T08:48:46+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、たまごっち風のAI端末「Muse Charm」発表 ポケットサイズで専用AIエージェントと会話のサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_muse_charm",
+      "first_seen": "2026-09-27T08:48:46+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AnthropicのClaude、バクテリオファージから未知の酵素システムを発見 ゲノム編集に利用のCRISPRに似た反復配列 、アモデイ氏は医学研究の加速に期待のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_art_discovery",
+      "first_seen": "2026-09-27T08:48:46+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1215,27 +1236,6 @@
       "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
       "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、フィンランドに130億ユーロ投資 Gemini支える新データセンターを3都市に新設、原発・風力・蓄電池で電力需要に対応のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_finland_ai_infrastructure",
-      "first_seen": "2026-09-13T07:52:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「AIが面接に来た」KOWROのオンライン面接に“AI応募者”か 口元と発話にズレ、CEOが動画公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_job_interview_kowro",
-      "first_seen": "2026-09-13T07:52:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIは2030年に知識労働の半分を担える、それでも「大半はAIなし」 Anthropicが米経済を試算のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_ai_economic_scenarios_2030",
-      "first_seen": "2026-09-13T07:52:24+00:00"
     }
   ]
 }
