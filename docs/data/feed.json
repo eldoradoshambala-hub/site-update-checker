@@ -1,23 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T08:48:46+00:00",
+  "generated_at": "2026-09-28T09:12:24+00:00",
   "site_count": 2,
-  "new_count": 3,
-  "error_count": 1,
+  "new_count": 8,
+  "error_count": 0,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "error",
-      "error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
-      "last_checked": "2026-09-27T08:48:46+00:00",
-      "last_update": "2026-09-26T08:11:59+00:00",
-      "new_count": 0,
-      "link_count": 0,
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-09-28T09:12:24+00:00",
+      "last_update": "2026-09-28T09:12:24+00:00",
+      "new_count": 4,
+      "link_count": 19,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 福島市「こむこむ館」でプラネタリウムと落語を楽しもう 幸齢者のためのプラネタリウムと落語鑑賞 2026年10月5日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20260928silver-jinzai-center/",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "ライフ 乾燥後もキレイな仕上がりを保つ洗車が自慢。『DETAIL GARAGE』が福島市笹… DETAIL GARAGE（ディテール ガレージ）",
+          "url": "https://www.cjnavi.co.jp/life/20260928newopen-detail-garage/",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "イベント 多肉植物や花、雑貨などの人気店10店舗以上が、福島市「四季の里」に大集… シッポdeマルシェin四季の里 2026年10月4日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260927shippo-de-marche/",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "イベント 【福島ファイヤーボンズ】2026-27シーズン開幕！『福島ファイヤーボンズ』… 【福島ファイヤーボンズホーム戦】2026年10月 2026年10月3日（土）・4日（日）・10日（土）・11日（日）・31日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20260926sports-firebonds/",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
         {
           "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
           "url": "https://www.cjnavi.co.jp/event/20260926nihonmatsu-chouchin/",
@@ -247,26 +267,6 @@
           "title": "イベント 国見町の伝統行事『義経まつり』を開催！「武者行列」に溝端淳平と優希美… 第29回 国見町義経まつり 2026年9月23日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20260916yoshitsune-matsuri/",
           "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "おでかけ 【2026福島県のキャンプ・グランピング】浜通りエリアのおすすめ施設9選 キャンプサイトはもちろん、コテージやバンガローの宿泊施設があり初心者でも利用しやすい、...",
-          "url": "https://www.cjnavi.co.jp/trip/20260916hamadoori-camp-spot/",
-          "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "イベント 寺島しのぶ主演。障害を持つ母と健常者の娘の家族愛をテーマにした映画を… 映画「わたしのかあさん−天使の詩−」上映会 2026年9月22日（休）・23日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20260915tenshinouta/",
-          "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "グルメ 【福島県】福島市・会津若松市・いわき市のカフェ＆食事処で味わえるモー… 朝は一日の元気をチャージする大切な時間。今回はワンプレート料理や温かいスープ、一汁三菜...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260915fukushima-morning-part1/",
-          "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026秋号』を発行しまし… つなぐ奥会津2026秋号",
-          "url": "https://www.cjnavi.co.jp/trip/20260915tsunaguokuaizu-autumn/",
-          "first_seen": "2026-09-15T08:15:52+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-27T08:48:46+00:00",
-      "last_update": "2026-09-27T08:48:46+00:00",
-      "new_count": 3,
-      "link_count": 39,
+      "last_checked": "2026-09-28T09:12:24+00:00",
+      "last_update": "2026-09-28T09:12:24+00:00",
+      "new_count": 4,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、内部研究用「最も能力の高いモデル群」のツール使用を伴う学習・評価・推論を一時停止 内部AIがDNS経由で外部チャットボットに接続のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_tool_use_pause",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "ビジネス 2026 / 9 / 28 [MON] Amazon、MetaのAIエージェント「Muse」の購入代行をブロック 透明性とサービス側の意思尊重を要求",
+          "url": "https://ledge.ai/articles/amazon_blocks_meta_muse_shopping",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "Xiaomi、マルチモーダルAI「MiMo-V2.6-Pro／Flash」と強化学習の環境・コードを公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/xiaomi_mimo_v2_6_pro_flash_release",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
+        {
+          "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
+          "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
+          "first_seen": "2026-09-28T09:12:24+00:00"
+        },
         {
           "title": "OpenAIのAIエージェント、6月に豪政府サイトに不正アクセスと公表 拒否後に制限を迂回、非公開ファイルにもアクセスのサムネイル画像",
           "url": "https://ledge.ai/articles/openai_ai_agent_australia_breach",
@@ -512,31 +532,67 @@
           "title": "Sakana AI、「Fugu Max」「Fugu Ultra v2」発表 複数AIを使い分け、コスト効率と性能を両方向に強化 のサムネイル画像",
           "url": "https://ledge.ai/articles/sakana_fugu_max_ultra_v2",
           "first_seen": "2026-09-15T08:15:52+00:00"
-        },
-        {
-          "title": "「他者の許可が必要なふりはやめろ」トランプ政権でAI政策を担うサックス氏、Anthropic・OpenAIのAI開発“減速論”に異議のサムネイル画像",
-          "url": "https://ledge.ai/articles/david_sacks_anthropic_openai_ai_pacing_regulation",
-          "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "Qualcomm、AmazonとAIデータセンター向けカスタムシリコンで複数世代協業 1.6T光接続も共同開発のサムネイル画像",
-          "url": "https://ledge.ai/articles/qualcomm_amazon_ai_data_center_custom_silicon",
-          "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "Anthropic、Claude悪用の実態を公開 攻撃自動化から監視・兵器開発・不正蒸留までのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_threat_intelligence_september_2026",
-          "first_seen": "2026-09-14T08:24:33+00:00"
-        },
-        {
-          "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
-          "first_seen": "2026-09-14T08:24:33+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市「こむこむ館」でプラネタリウムと落語を楽しもう 幸齢者のためのプラネタリウムと落語鑑賞 2026年10月5日（月）",
+      "url": "https://www.cjnavi.co.jp/event/20260928silver-jinzai-center/",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ 乾燥後もキレイな仕上がりを保つ洗車が自慢。『DETAIL GARAGE』が福島市笹… DETAIL GARAGE（ディテール ガレージ）",
+      "url": "https://www.cjnavi.co.jp/life/20260928newopen-detail-garage/",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 多肉植物や花、雑貨などの人気店10店舗以上が、福島市「四季の里」に大集… シッポdeマルシェin四季の里 2026年10月4日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260927shippo-de-marche/",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 【福島ファイヤーボンズ】2026-27シーズン開幕！『福島ファイヤーボンズ』… 【福島ファイヤーボンズホーム戦】2026年10月 2026年10月3日（土）・4日（日）・10日（土）・11日（日）・31日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20260926sports-firebonds/",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、内部研究用「最も能力の高いモデル群」のツール使用を伴う学習・評価・推論を一時停止 内部AIがDNS経由で外部チャットボットに接続のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_tool_use_pause",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 9 / 28 [MON] Amazon、MetaのAIエージェント「Muse」の購入代行をブロック 透明性とサービス側の意思尊重を要求",
+      "url": "https://ledge.ai/articles/amazon_blocks_meta_muse_shopping",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Xiaomi、マルチモーダルAI「MiMo-V2.6-Pro／Flash」と強化学習の環境・コードを公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/xiaomi_mimo_v2_6_pro_flash_release",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
+      "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
+      "first_seen": "2026-09-28T09:12:24+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1126,13 +1182,6 @@
       "first_seen": "2026-09-16T08:09:24+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【2026福島県のキャンプ・グランピング】浜通りエリアのおすすめ施設9選 キャンプサイトはもちろん、コテージやバンガローの宿泊施設があり初心者でも利用しやすい、...",
-      "url": "https://www.cjnavi.co.jp/trip/20260916hamadoori-camp-spot/",
-      "first_seen": "2026-09-16T08:09:24+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
@@ -1161,27 +1210,6 @@
       "first_seen": "2026-09-16T08:09:24+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 寺島しのぶ主演。障害を持つ母と健常者の娘の家族愛をテーマにした映画を… 映画「わたしのかあさん−天使の詩−」上映会 2026年9月22日（休）・23日（祝）",
-      "url": "https://www.cjnavi.co.jp/event/20260915tenshinouta/",
-      "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 【福島県】福島市・会津若松市・いわき市のカフェ＆食事処で味わえるモー… 朝は一日の元気をチャージする大切な時間。今回はワンプレート料理や温かいスープ、一汁三菜...",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260915fukushima-morning-part1/",
-      "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ AD 奥会津のスゴイ！が見つかる情報誌『つなぐ奥会津2026秋号』を発行しまし… つなぐ奥会津2026秋号",
-      "url": "https://www.cjnavi.co.jp/trip/20260915tsunaguokuaizu-autumn/",
-      "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
@@ -1208,34 +1236,6 @@
       "title": "Sakana AI、「Fugu Max」「Fugu Ultra v2」発表 複数AIを使い分け、コスト効率と性能を両方向に強化 のサムネイル画像",
       "url": "https://ledge.ai/articles/sakana_fugu_max_ultra_v2",
       "first_seen": "2026-09-15T08:15:52+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「他者の許可が必要なふりはやめろ」トランプ政権でAI政策を担うサックス氏、Anthropic・OpenAIのAI開発“減速論”に異議のサムネイル画像",
-      "url": "https://ledge.ai/articles/david_sacks_anthropic_openai_ai_pacing_regulation",
-      "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Qualcomm、AmazonとAIデータセンター向けカスタムシリコンで複数世代協業 1.6T光接続も共同開発のサムネイル画像",
-      "url": "https://ledge.ai/articles/qualcomm_amazon_ai_data_center_custom_silicon",
-      "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、Claude悪用の実態を公開 攻撃自動化から監視・兵器開発・不正蒸留までのサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_claude_threat_intelligence_september_2026",
-      "first_seen": "2026-09-14T08:24:33+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」発表 金融データとGPT-6 Astraで分析・資料作成のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_chatgpt_financial_services",
-      "first_seen": "2026-09-14T08:24:33+00:00"
     }
   ]
 }
