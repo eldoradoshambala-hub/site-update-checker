@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T09:20:49+00:00",
+  "generated_at": "2026-09-30T09:11:29+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-29T09:20:49+00:00",
+      "last_checked": "2026-09-30T09:11:29+00:00",
       "last_update": "2026-09-29T09:20:49+00:00",
-      "new_count": 2,
-      "link_count": 20,
+      "new_count": 0,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
         {
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-29T09:20:49+00:00",
-      "last_update": "2026-09-29T09:20:49+00:00",
-      "new_count": 3,
-      "link_count": 39,
+      "last_checked": "2026-09-30T09:11:29+00:00",
+      "last_update": "2026-09-30T09:11:29+00:00",
+      "new_count": 4,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
+          "first_seen": "2026-09-30T09:11:29+00:00"
+        },
+        {
+          "title": "DeepL、Copilot・ChatGPT・Claudeから翻訳可能に MCP連携で文書翻訳や企業の用語集に対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/deepl_mcp_ai_assistants",
+          "first_seen": "2026-09-30T09:11:29+00:00"
+        },
+        {
+          "title": "フィジカルAIを社会で動かすために何が必要か GMO大会議でつながった現場の失敗、データ、AIの理論のサムネイル画像",
+          "url": "https://ledge.ai/articles/gmo_physical_ai_conference_2026",
+          "first_seen": "2026-09-30T09:11:29+00:00"
+        },
+        {
+          "title": "ComfyUI開発元、生成AIのモデルと実行先を選べる「Comfy Router」公開 APIを一本化のサムネイル画像",
+          "url": "https://ledge.ai/articles/comfy_router_generative_media_api",
+          "first_seen": "2026-09-30T09:11:29+00:00"
+        },
         {
           "title": "Microsoft、「Copilot」を大幅刷新 Home・Code・Autopilotを追加、Word・Excel・PowerPointも統合のサムネイル画像",
           "url": "https://ledge.ai/articles/microsoft_copilot_home_code_autopilot",
@@ -512,31 +532,39 @@
           "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
           "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "「Suno v5に匹敵」音楽生成AI「YuE2」公開 楽譜を生成してメロディーやコードを編集、24GB GPUで動作のサムネイル画像",
-          "url": "https://ledge.ai/articles/yue2_music_generation_ai",
-          "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "LINEヤフー「Agent i」にタスク機能 最新情報・値下がり・イベントをAIが継続追跡、指定タイミングで通知のサムネイル画像",
-          "url": "https://ledge.ai/articles/line_yahoo_agent_i_task_feature",
-          "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "Genspark、自社初AIモデル「Gen-1 Slides」発表 MiniMax M3をスライド特化で強化学習、Opus 5級を低コストでのサムネイル画像",
-          "url": "https://ledge.ai/articles/genspark_gen1_slides",
-          "first_seen": "2026-09-16T08:09:24+00:00"
-        },
-        {
-          "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
-          "url": "https://ledge.ai/articles/amazon_ads_openai_chatgpt_ads",
-          "first_seen": "2026-09-15T08:15:52+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
+      "first_seen": "2026-09-30T09:11:29+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "DeepL、Copilot・ChatGPT・Claudeから翻訳可能に MCP連携で文書翻訳や企業の用語集に対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/deepl_mcp_ai_assistants",
+      "first_seen": "2026-09-30T09:11:29+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "フィジカルAIを社会で動かすために何が必要か GMO大会議でつながった現場の失敗、データ、AIの理論のサムネイル画像",
+      "url": "https://ledge.ai/articles/gmo_physical_ai_conference_2026",
+      "first_seen": "2026-09-30T09:11:29+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ComfyUI開発元、生成AIのモデルと実行先を選べる「Comfy Router」公開 APIを一本化のサムネイル画像",
+      "url": "https://ledge.ai/articles/comfy_router_generative_media_api",
+      "first_seen": "2026-09-30T09:11:29+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1208,34 +1236,6 @@
       "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
       "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
       "first_seen": "2026-09-16T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「Suno v5に匹敵」音楽生成AI「YuE2」公開 楽譜を生成してメロディーやコードを編集、24GB GPUで動作のサムネイル画像",
-      "url": "https://ledge.ai/articles/yue2_music_generation_ai",
-      "first_seen": "2026-09-16T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "LINEヤフー「Agent i」にタスク機能 最新情報・値下がり・イベントをAIが継続追跡、指定タイミングで通知のサムネイル画像",
-      "url": "https://ledge.ai/articles/line_yahoo_agent_i_task_feature",
-      "first_seen": "2026-09-16T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Genspark、自社初AIモデル「Gen-1 Slides」発表 MiniMax M3をスライド特化で強化学習、Opus 5級を低コストでのサムネイル画像",
-      "url": "https://ledge.ai/articles/genspark_gen1_slides",
-      "first_seen": "2026-09-16T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Amazon Adsから「ChatGPT」に広告出稿可能に OpenAIと提携、米国の一部広告主がパイロット運用のサムネイル画像",
-      "url": "https://ledge.ai/articles/amazon_ads_openai_chatgpt_ads",
-      "first_seen": "2026-09-15T08:15:52+00:00"
     }
   ]
 }
