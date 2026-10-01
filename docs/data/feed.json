@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T09:11:29+00:00",
+  "generated_at": "2026-10-01T09:39:01+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 9,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-30T09:11:29+00:00",
-      "last_update": "2026-09-29T09:20:49+00:00",
-      "new_count": 0,
+      "last_checked": "2026-10-01T09:39:01+00:00",
+      "last_update": "2026-10-01T09:39:01+00:00",
+      "new_count": 4,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "ライフ 『モンモ良品』おすすめ！食欲の秋に、おうちで楽しむパン＆おやつ5選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、食欲の秋に...",
+          "url": "https://www.cjnavi.co.jp/life/20261001monmoryouhin/",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "ライフ AD 【福島県】放課後児童クラブで働こう！受講無料の放課後児童支援員認定資… 令和8年度 福島県放課後児童支援員認定資格研修 【受付期間】〜2026年10月27日（火）",
+          "url": "https://www.cjnavi.co.jp/life/20261001kensyu-hokenfukushi/",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "イベント AD 喜多方の秋は新そば巡り！絶対に行きたい新そばまつり5選!! 喜多方新そばまつり 【山都町・山都新そばまつり】2026年10月17日（土）〜11月23日（月・祝）／みちくさ通り、山都町内参加8店舗 【高郷町・会津たかさと 雷神新そばまつり】2026年10月24日（土）〜11月23日（月・祝）／ふれあいランド高郷 【雄国地区・おぐにの郷新そばまつり】2026年11月22日（日）／おぐに交流の郷 【塩川町・塩川新そば祭り】2026年11月23日（月・祝）／塩川蔵史館 【熱塩加納町・新そば舌調べ】2026年11月29日（日）／熱塩加納公民館",
+          "url": "https://www.cjnavi.co.jp/event/20261001shinsoba-kitakata/",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
         {
           "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin福島 2026年10月10日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260929ethical-marche-fukushima/",
@@ -247,26 +267,6 @@
           "title": "おでかけ 石川町に『道の駅石川』がグランドオープン！食堂やベーカリー、クレープ… 道の駅石川",
           "url": "https://www.cjnavi.co.jp/trip/20260918newopen-michinoeki-ishikawa/",
           "first_seen": "2026-09-18T07:49:47+00:00"
-        },
-        {
-          "title": "イベント ワインと食の魅力を発信！福島市「まちなか広場」で、多種多様なワインと… Wine Vin Vino Fukushima 2026 2026年9月20日（日）～22日（休）",
-          "url": "https://www.cjnavi.co.jp/event/20260913wine-vin-vino-fukushima/",
-          "first_seen": "2026-09-18T07:49:47+00:00"
-        },
-        {
-          "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第116… ふくしまの今が分かる新聞 vol.116",
-          "url": "https://www.cjnavi.co.jp/life/20260917fukushimanoima116/",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "イベント AD 会津美里町で「mis@to de 恋活」を開催！ mis@to de 恋活 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260917misato-de-koikatsu/",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "おでかけ 【学生編集部の福島のここに行きたい！】猪苗代町・北塩原村へ絶景探しの旅 第30回「絶景を探しに」",
-          "url": "https://www.cjnavi.co.jp/trip/20260917gakuseihenshuubu/",
-          "first_seen": "2026-09-17T08:16:16+00:00"
         }
       ]
     },
@@ -277,12 +277,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-09-30T09:11:29+00:00",
-      "last_update": "2026-09-30T09:11:29+00:00",
-      "new_count": 4,
-      "link_count": 41,
+      "last_checked": "2026-10-01T09:39:01+00:00",
+      "last_update": "2026-10-01T09:39:01+00:00",
+      "new_count": 5,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "AIの「不正」と長期開発の実力を評価 CAISのCheatBenchとGoogleのAndroid Bench 2.0公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/cheatbench_android_bench_2",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/un_system_data_commons_ai",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "【寄稿】ニューヨークで目を引いた「黄色いトヨタ」。街の変化から考える製造業とフィジカルAIのサムネイル画像",
+          "url": "https://ledge.ai/articles/brycen_us_report_2",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        {
+          "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026",
+          "first_seen": "2026-10-01T09:39:01+00:00"
+        },
         {
           "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
           "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
@@ -507,36 +532,74 @@
           "title": "中国UBTECHの「ロボットがロボットを作る」人型ロボ工場が稼働開始 10分に1台、年産1万台超のサムネイル画像",
           "url": "https://ledge.ai/articles/ubtech_humanoid_robot_factory",
           "first_seen": "2026-09-18T07:49:47+00:00"
-        },
-        {
-          "title": "AIが核融合プラズマをリアルタイム制御 異常を0.2秒前に予測・回避、米PPPLが統合AI制御基盤「PACMAN」を実機検証 のサムネイル画像",
-          "url": "https://ledge.ai/articles/pacman_ai_fusion_control",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "Google、Windows版「Gemini」アプリを世界で提供開始 Alt＋Spaceで作業中に即呼び出し、Gmail・Driveとも連携のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_gemini_windows_desktop_app",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "国産汎用ロボット開発の成果と課題 ugo Nova発表、実装と量産へ向けた議論のサムネイル画像",
-          "url": "https://ledge.ai/articles/physical_ai_summit_2026_report",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "OpenAI研究者ダニエル・セルサム氏、AIリスクで個人声明 開発ペース減速だけでは不充分、「監視下の評価」では測れない問題を指摘のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_daniel_selsam_ai_risk_statement",
-          "first_seen": "2026-09-17T08:16:16+00:00"
-        },
-        {
-          "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
-          "first_seen": "2026-09-16T08:09:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ 『モンモ良品』おすすめ！食欲の秋に、おうちで楽しむパン＆おやつ5選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、食欲の秋に...",
+      "url": "https://www.cjnavi.co.jp/life/20261001monmoryouhin/",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "ライフ AD 【福島県】放課後児童クラブで働こう！受講無料の放課後児童支援員認定資… 令和8年度 福島県放課後児童支援員認定資格研修 【受付期間】〜2026年10月27日（火）",
+      "url": "https://www.cjnavi.co.jp/life/20261001kensyu-hokenfukushi/",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 喜多方の秋は新そば巡り！絶対に行きたい新そばまつり5選!! 喜多方新そばまつり 【山都町・山都新そばまつり】2026年10月17日（土）〜11月23日（月・祝）／みちくさ通り、山都町内参加8店舗 【高郷町・会津たかさと 雷神新そばまつり】2026年10月24日（土）〜11月23日（月・祝）／ふれあいランド高郷 【雄国地区・おぐにの郷新そばまつり】2026年11月22日（日）／おぐに交流の郷 【塩川町・塩川新そば祭り】2026年11月23日（月・祝）／塩川蔵史館 【熱塩加納町・新そば舌調べ】2026年11月29日（日）／熱塩加納公民館",
+      "url": "https://www.cjnavi.co.jp/event/20261001shinsoba-kitakata/",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIの「不正」と長期開発の実力を評価 CAISのCheatBenchとGoogleのAndroid Bench 2.0公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/cheatbench_android_bench_2",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/un_system_data_commons_ai",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "【寄稿】ニューヨークで目を引いた「黄色いトヨタ」。街の変化から考える製造業とフィジカルAIのサムネイル画像",
+      "url": "https://ledge.ai/articles/brycen_us_report_2",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026",
+      "first_seen": "2026-10-01T09:39:01+00:00"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1154,13 +1217,6 @@
       "first_seen": "2026-09-18T07:49:47+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント ワインと食の魅力を発信！福島市「まちなか広場」で、多種多様なワインと… Wine Vin Vino Fukushima 2026 2026年9月20日（日）～22日（休）",
-      "url": "https://www.cjnavi.co.jp/event/20260913wine-vin-vino-fukushima/",
-      "first_seen": "2026-09-18T07:49:47+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Spotify、Claude Codeの大量ファイル読み込みでトークン消費を平均90％削減 単純作業を別AIへ振り分ける「shunt」公開のサムネイル画像",
@@ -1180,62 +1236,6 @@
       "title": "中国UBTECHの「ロボットがロボットを作る」人型ロボ工場が稼働開始 10分に1台、年産1万台超のサムネイル画像",
       "url": "https://ledge.ai/articles/ubtech_humanoid_robot_factory",
       "first_seen": "2026-09-18T07:49:47+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【福島県避難者生活支援課】地域情報紙『ふくしまの今が分かる新聞』第116… ふくしまの今が分かる新聞 vol.116",
-      "url": "https://www.cjnavi.co.jp/life/20260917fukushimanoima116/",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 会津美里町で「mis@to de 恋活」を開催！ mis@to de 恋活 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260917misato-de-koikatsu/",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ 【学生編集部の福島のここに行きたい！】猪苗代町・北塩原村へ絶景探しの旅 第30回「絶景を探しに」",
-      "url": "https://www.cjnavi.co.jp/trip/20260917gakuseihenshuubu/",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIが核融合プラズマをリアルタイム制御 異常を0.2秒前に予測・回避、米PPPLが統合AI制御基盤「PACMAN」を実機検証 のサムネイル画像",
-      "url": "https://ledge.ai/articles/pacman_ai_fusion_control",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、Windows版「Gemini」アプリを世界で提供開始 Alt＋Spaceで作業中に即呼び出し、Gmail・Driveとも連携のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_gemini_windows_desktop_app",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "国産汎用ロボット開発の成果と課題 ugo Nova発表、実装と量産へ向けた議論のサムネイル画像",
-      "url": "https://ledge.ai/articles/physical_ai_summit_2026_report",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI研究者ダニエル・セルサム氏、AIリスクで個人声明 開発ペース減速だけでは不充分、「監視下の評価」では測れない問題を指摘のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_daniel_selsam_ai_risk_statement",
-      "first_seen": "2026-09-17T08:16:16+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "アモデイ氏のAI開発“減速論”に「必要なのは“高IQの大統領”」トランプ氏 中国は対立をけん制、マスク氏「AGIはGrok 5」のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_pacing_trump_china_musk_grok5",
-      "first_seen": "2026-09-16T08:09:24+00:00"
     }
   ]
 }
