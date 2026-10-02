@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T09:39:03+00:00",
+  "updated_at": "2026-10-02T09:13:00+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-01T09:39:01+00:00",
+      "last_checked": "2026-10-02T09:12:58+00:00",
       "last_update": "2026-10-01T09:39:01+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -1028,8 +1028,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-01T09:39:01+00:00",
-      "last_update": "2026-10-01T09:39:01+00:00",
+      "last_checked": "2026-10-02T09:12:58+00:00",
+      "last_update": "2026-10-02T09:12:58+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2069,9 +2069,54 @@
         "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026": {
           "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
           "first_seen": "2026-10-01T09:39:01+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_4_argon": {
+          "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_open_agent_safety_platform": {
+          "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        "https://ledge.ai/articles/ollo-interview-202610": {
+          "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        "https://ledge.ai/articles/kddi_japan_post_drone_port": {
+          "title": "日本郵便とKDDI、郵便局をAIドローンの拠点に 珠洲市で見守り・防災の実証開始のサムネイル画像",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        "https://ledge.ai/articles/amd_world_labs_acquisition": {
+          "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収へ 空間知能・ワールドモデル研究を取り込むのサムネイル画像",
+          "first_seen": "2026-10-02T09:12:58+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_4_argon",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        {
+          "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_open_agent_safety_platform",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        {
+          "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
+          "url": "https://ledge.ai/articles/ollo-interview-202610",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        {
+          "title": "日本郵便とKDDI、郵便局をAIドローンの拠点に 珠洲市で見守り・防災の実証開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/kddi_japan_post_drone_port",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
+        {
+          "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収へ 空間知能・ワールドモデル研究を取り込むのサムネイル画像",
+          "url": "https://ledge.ai/articles/amd_world_labs_acquisition",
+          "first_seen": "2026-10-02T09:12:58+00:00"
+        },
         {
           "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
@@ -2296,31 +2341,6 @@
           "title": "Microsoft AI、MAIモデル向け「AI行動規範」初稿を公開 「人間はAIより重要」、停止・修正への抵抗を禁止のサムネイル画像",
           "url": "https://ledge.ai/articles/microsoft_ai_code_of_conduct",
           "first_seen": "2026-09-19T07:41:51+00:00"
-        },
-        {
-          "title": "NASAとIBM、月探査向けAI「NASA-IBM Lunar Foundation Model」を公開 氷・クレーター・火山地形を解析のサムネイル画像",
-          "url": "https://ledge.ai/articles/nasa_ibm_lunar_foundation_model",
-          "first_seen": "2026-09-19T07:41:51+00:00"
-        },
-        {
-          "title": "OpenAI、広告クリック後に企業側のAI窓口と会話できる「Sponsored Agents」 米国で限定テストのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_sponsored_agents",
-          "first_seen": "2026-09-19T07:41:51+00:00"
-        },
-        {
-          "title": "Spotify、Claude Codeの大量ファイル読み込みでトークン消費を平均90％削減 単純作業を別AIへ振り分ける「shunt」公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/spotify_claude_code_shunt_token_savings",
-          "first_seen": "2026-09-18T07:49:47+00:00"
-        },
-        {
-          "title": "Meta、SNSとAIを束ねる新サブスク「Meta One」発表 Meta AI利用枠を拡大、月949円からのサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_one_subscription",
-          "first_seen": "2026-09-18T07:49:47+00:00"
-        },
-        {
-          "title": "中国UBTECHの「ロボットがロボットを作る」人型ロボ工場が稼働開始 10分に1台、年産1万台超のサムネイル画像",
-          "url": "https://ledge.ai/articles/ubtech_humanoid_robot_factory",
-          "first_seen": "2026-09-18T07:49:47+00:00"
         }
       ]
     }
