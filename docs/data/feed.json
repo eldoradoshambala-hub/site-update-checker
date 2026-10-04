@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T08:45:47+00:00",
+  "generated_at": "2026-10-04T09:11:17+00:00",
   "site_count": 2,
-  "new_count": 11,
+  "new_count": 8,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,37 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-03T08:45:47+00:00",
-      "last_update": "2026-10-03T08:45:47+00:00",
-      "new_count": 7,
-      "link_count": 21,
+      "last_checked": "2026-10-04T09:11:17+00:00",
+      "last_update": "2026-10-04T09:11:17+00:00",
+      "new_count": 5,
+      "link_count": 20,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "イベント 本場ドイツ＆全国の人気ビールが集結！いわきの秋を楽しむ2日間 IWAKIオクトーバーフェスト2026 2026年10月11日（日）・12日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261004iwaki-october-fest/",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年10月 2026年10月11日（日）・18日（日）・25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261004iwakifc-homegame/",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "イベント 福島県内外で活躍するハンドメイド作家が福島市「まちなか広場」に集合！ HEARTFUL MARCHE 2026年10月11日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
         {
           "title": "イベント 7台の山車が轟音を立ててぶつかり合う「あばれ山車」は圧巻！ 諏訪神社例大祭 針道のあばれ山車 2026年10月10日（土）・11日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261003suwa-abare-dashi/",
@@ -242,31 +267,6 @@
           "title": "グルメ 【福島県】郡山市・須賀川市・白河市のカフェ＆食事処で味わえるモーニン… 朝は一日の元気をチャージする大切な時間。今回はガレットやサンドイッチ、フレンチトースト...",
           "url": "https://www.cjnavi.co.jp/gourmet/20260922fukushima-morning-part2/",
           "first_seen": "2026-09-22T08:07:06+00:00"
-        },
-        {
-          "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/",
-          "first_seen": "2026-09-21T08:26:13+00:00"
-        },
-        {
-          "title": "ライフ AD 『ふくしま手帳2027』でヒツジ年をもっと楽しメェ〜♪ ふくしま手帳2027",
-          "url": "https://www.cjnavi.co.jp/life/20260920fukushimatecho/",
-          "first_seen": "2026-09-20T08:09:47+00:00"
-        },
-        {
-          "title": "グルメ 「白河ラーメン」の王道を磨き抜いた実力店。手打ち麺が躍動する至福の1杯 第10回「本格手打麺 あら家」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260920fukushima-ramen10/",
-          "first_seen": "2026-09-20T08:09:47+00:00"
-        },
-        {
-          "title": "イベント 「福島市民オーケストラ」が、「伊達市ふるさと会館」でファミリーコンサ… 福島市民オーケストラ 第34回 ファミリーコンサート 2026年9月27日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260920family-concert/",
-          "first_seen": "2026-09-20T08:09:47+00:00"
-        },
-        {
-          "title": "イベント 福島の酒と料理を味わう『サケメシ』。立ち呑みでカジュアルに楽しもう！ 立ち呑み福島 サケメシ 2026年9月27日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260920sakemeshi/",
-          "first_seen": "2026-09-20T08:09:47+00:00"
         }
       ]
     },
@@ -277,12 +277,27 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-03T08:45:47+00:00",
-      "last_update": "2026-10-03T08:45:47+00:00",
-      "new_count": 4,
-      "link_count": 41,
+      "last_checked": "2026-10-04T09:11:17+00:00",
+      "last_update": "2026-10-04T09:11:17+00:00",
+      "new_count": 3,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
+          "url": "https://ledge.ai/articles/figure_02_decommission",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        {
+          "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_joe_agent_security",
+          "first_seen": "2026-10-04T09:11:17+00:00"
+        },
         {
           "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説のサムネイル画像",
           "url": "https://ledge.ai/articles/multimodal_model_intro_book",
@@ -517,26 +532,67 @@
           "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
           "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
           "first_seen": "2026-09-21T08:26:13+00:00"
-        },
-        {
-          "title": "チャールズ国王、AI企業幹部をスコットランドに招集 「存亡にかかわる危険」に言及、国際協力を訴えのサムネイル画像",
-          "url": "https://ledge.ai/articles/king_charles_ai_summit",
-          "first_seen": "2026-09-21T08:26:13+00:00"
-        },
-        {
-          "title": "富士通、国産次世代CPU「MONAKA」とサーバーを11月販売 シャープもAIサーバー事業参入、NVIDIA技術採用・鴻海と連携のサムネイル画像",
-          "url": "https://ledge.ai/articles/fujitsu_monaka_sharp_ai_server",
-          "first_seen": "2026-09-21T08:26:13+00:00"
-        },
-        {
-          "title": "OpenAI、モデルの「ミスアライメント」報告フレームワークを公開 データ捏造など6件の事例も公表のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_model_misalignment_reporting",
-          "first_seen": "2026-09-20T08:09:47+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 本場ドイツ＆全国の人気ビールが集結！いわきの秋を楽しむ2日間 IWAKIオクトーバーフェスト2026 2026年10月11日（日）・12日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261004iwaki-october-fest/",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年10月 2026年10月11日（日）・18日（日）・25日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261004iwakifc-homegame/",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島県内外で活躍するハンドメイド作家が福島市「まちなか広場」に集合！ HEARTFUL MARCHE 2026年10月11日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
+      "url": "https://ledge.ai/articles/figure_02_decommission",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_joe_agent_security",
+      "first_seen": "2026-10-04T09:11:17+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1175,67 +1231,11 @@
       "first_seen": "2026-09-22T08:07:06+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ おなかいっぱい！財布にうれしい食事処『ごはんのやすひろ』が福島市鎌田… お食事処 ごはんのやすひろ",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260921newopen-yasuhiro/",
-      "first_seen": "2026-09-21T08:26:13+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
       "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
       "first_seen": "2026-09-21T08:26:13+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "チャールズ国王、AI企業幹部をスコットランドに招集 「存亡にかかわる危険」に言及、国際協力を訴えのサムネイル画像",
-      "url": "https://ledge.ai/articles/king_charles_ai_summit",
-      "first_seen": "2026-09-21T08:26:13+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "富士通、国産次世代CPU「MONAKA」とサーバーを11月販売 シャープもAIサーバー事業参入、NVIDIA技術採用・鴻海と連携のサムネイル画像",
-      "url": "https://ledge.ai/articles/fujitsu_monaka_sharp_ai_server",
-      "first_seen": "2026-09-21T08:26:13+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 『ふくしま手帳2027』でヒツジ年をもっと楽しメェ〜♪ ふくしま手帳2027",
-      "url": "https://www.cjnavi.co.jp/life/20260920fukushimatecho/",
-      "first_seen": "2026-09-20T08:09:47+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 「白河ラーメン」の王道を磨き抜いた実力店。手打ち麺が躍動する至福の1杯 第10回「本格手打麺 あら家」",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260920fukushima-ramen10/",
-      "first_seen": "2026-09-20T08:09:47+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 「福島市民オーケストラ」が、「伊達市ふるさと会館」でファミリーコンサ… 福島市民オーケストラ 第34回 ファミリーコンサート 2026年9月27日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260920family-concert/",
-      "first_seen": "2026-09-20T08:09:47+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島の酒と料理を味わう『サケメシ』。立ち呑みでカジュアルに楽しもう！ 立ち呑み福島 サケメシ 2026年9月27日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20260920sakemeshi/",
-      "first_seen": "2026-09-20T08:09:47+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、モデルの「ミスアライメント」報告フレームワークを公開 データ捏造など6件の事例も公表のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_model_misalignment_reporting",
-      "first_seen": "2026-09-20T08:09:47+00:00"
     }
   ]
 }
