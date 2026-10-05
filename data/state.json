@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T09:11:19+00:00",
+  "updated_at": "2026-10-05T09:52:05+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-04T09:11:17+00:00",
-      "last_update": "2026-10-04T09:11:17+00:00",
+      "last_checked": "2026-10-05T09:52:03+00:00",
+      "last_update": "2026-10-05T09:52:03+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -818,9 +818,36 @@
         "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/": {
           "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
           "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/": {
+          "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261005kitchencar-park-abukuma/": {
+          "title": "イベント 人気キッチンカーと田村市自慢の農産物を味わえるイベントを開催！ KITCHENCAR PARK ABUKUMAうんめぇFES 2026年10月12日（祝）",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/": {
+          "title": "おでかけ 三島町「道の駅 尾瀬街道みしま宿」の展望台から撮影した、第一只見川橋梁」 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "first_seen": "2026-10-05T09:52:03+00:00"
         }
       },
       "recent": [
+        {
+          "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
+          "url": "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "イベント 人気キッチンカーと田村市自慢の農産物を味わえるイベントを開催！ KITCHENCAR PARK ABUKUMAうんめぇFES 2026年10月12日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261005kitchencar-park-abukuma/",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "おでかけ 三島町「道の駅 尾瀬街道みしま宿」の展望台から撮影した、第一只見川橋梁」 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "url": "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
         {
           "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
           "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
@@ -1055,29 +1082,14 @@
           "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
           "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
           "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "イベント AD 【2ヵ月保存版】ふくしまの秋を満喫できるグルメ・イベント情報をお届け！… 食べる、飲む、買う。福島の秋 満喫ガイド2026年版 2026年9月25日（金）〜11月24日（火）",
-          "url": "https://www.cjnavi.co.jp/event/20260925fukushima-mankitsuguide/",
-          "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "スペシャル 『CJ Monmo』2026年10月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年10月号を読んで以下のアンケートに答えると、抽選で...",
-          "url": "https://www.cjnavi.co.jp/special/20260925readers-gifts/",
-          "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "グルメ 【福島県】郡山市・須賀川市・白河市のカフェ＆食事処で味わえるモーニン… 朝は一日の元気をチャージする大切な時間。今回はガレットやサンドイッチ、フレンチトースト...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260922fukushima-morning-part2/",
-          "first_seen": "2026-09-22T08:07:06+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-04T09:11:17+00:00",
-      "last_update": "2026-10-04T09:11:17+00:00",
+      "last_checked": "2026-10-05T09:52:03+00:00",
+      "last_update": "2026-10-05T09:52:03+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2165,9 +2177,54 @@
         "https://ledge.ai/articles/openai_joe_agent_security": {
           "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
           "first_seen": "2026-10-04T09:11:17+00:00"
+        },
+        "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research": {
+          "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://ledge.ai/articles/google_local_government_ai_cases": {
+          "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools": {
+          "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://ledge.ai/articles/exawizards_financial_ax_strategy": {
+          "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        "https://ledge.ai/articles/meta_enterprise_platform": {
+          "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
+          "first_seen": "2026-10-05T09:52:03+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
+          "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_local_government_ai_cases",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
+          "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
+          "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
+        {
+          "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_enterprise_platform",
+          "first_seen": "2026-10-05T09:52:03+00:00"
+        },
         {
           "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
@@ -2392,31 +2449,6 @@
           "title": "Google、Gemini搭載AIノートPC「Googlebook」の予約受付開始 899ドルから、5社が展開のサムネイル画像",
           "url": "https://ledge.ai/articles/googlebook_preorder_launch",
           "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "NVIDIA・Googleら、AIデータセンターの電力を動的調整するアライアンス「AEMA」始動 系統逼迫時に計算処理をシフトのサムネイル画像",
-          "url": "https://ledge.ai/articles/aema_flexible_ai_datacenters",
-          "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "公共 2026 / 9 / 22 [TUE] カリフォルニア州、AI企業の第三者監督を加速 ニューサム知事が行政命令、「AIキルスイッチ」も検討",
-          "url": "https://ledge.ai/articles/california_ai_oversight_kill_switch",
-          "first_seen": "2026-09-22T08:07:06+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 9 / 21 [MON] Google「Gemini」も実在企業への侵入が判明 5月にサイバー試験中に実ネットへ接続、3社にアクセス",
-          "url": "https://ledge.ai/articles/google_gemini_cybersecurity_incident",
-          "first_seen": "2026-09-22T08:07:06+00:00"
-        },
-        {
-          "title": "ローソン、生成AI発案の“なんだこりゃ？”商品3品を発売 レモンタルト×ピクルスなど、9月29日からのサムネイル画像",
-          "url": "https://ledge.ai/articles/lawson_generative_ai_products",
-          "first_seen": "2026-09-22T08:07:06+00:00"
-        },
-        {
-          "title": "「もう復旧できない」AWS、中東データセンター攻撃から半年 バーレーンの一部データにアクセス不能のサムネイル画像",
-          "url": "https://ledge.ai/articles/aws_bahrain_uae_data_access_unrecoverable",
-          "first_seen": "2026-09-21T08:26:13+00:00"
         }
       ]
     }
