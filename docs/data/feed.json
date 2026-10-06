@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T09:52:03+00:00",
+  "generated_at": "2026-10-06T09:39:38+00:00",
   "site_count": 2,
-  "new_count": 8,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,22 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-05T09:52:03+00:00",
-      "last_update": "2026-10-05T09:52:03+00:00",
-      "new_count": 3,
+      "last_checked": "2026-10-06T09:39:38+00:00",
+      "last_update": "2026-10-06T09:39:38+00:00",
+      "new_count": 2,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD オリジナル炊き込みご飯を作ってみよう！桑折町で「パックごはん」工場見… 『マルちゃん パックごはん』親子工場見学会 2026年11月3日（祝） ［申込締切］〜2026年10月14日（水）",
+          "url": "https://www.cjnavi.co.jp/event/20261006fukushima-foods/",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        {
+          "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
         {
           "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
           "url": "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/",
@@ -257,16 +267,6 @@
           "title": "イベント AD さかなのおにいさん かわちゃんと海の仕事の魅力を楽しく学べる『海のおし… 海のおしごとトークショー 2026年10月18日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260924uminoshigoto-talkshow/",
           "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "おでかけ せせらぎ、焚き火、景観を楽しむキャンプ場『-Seserabi- camp forest』が… -Seserabi- camp forest（セセラビ キャンプ フォレスト）",
-          "url": "https://www.cjnavi.co.jp/trip/20260924newopen-seserabi-camp/",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
-          "first_seen": "2026-09-23T08:09:24+00:00"
         }
       ]
     },
@@ -277,12 +277,32 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-05T09:52:03+00:00",
-      "last_update": "2026-10-05T09:52:03+00:00",
-      "new_count": 5,
-      "link_count": 43,
+      "last_checked": "2026-10-06T09:39:38+00:00",
+      "last_update": "2026-10-06T09:39:38+00:00",
+      "new_count": 4,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
+          "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        {
+          "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
+          "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        {
+          "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
+          "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        {
+          "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
+          "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
+          "first_seen": "2026-10-06T09:39:38+00:00"
+        },
         {
           "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
           "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
@@ -512,31 +532,53 @@
           "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
           "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を公開 Astraの技術を低価格モデルに展開、API料金を引き下げのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_gpt_6_sol_luna",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役にのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
-          "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "トランプ米大統領、AI新組織「AI Force」創設を表明 「AI Czar」も近く発表へのサムネイル画像",
-          "url": "https://ledge.ai/articles/trump_ai_force_ai_czar",
-          "first_seen": "2026-09-23T08:09:24+00:00"
-        },
-        {
-          "title": "Google、Gemini搭載AIノートPC「Googlebook」の予約受付開始 899ドルから、5社が展開のサムネイル画像",
-          "url": "https://ledge.ai/articles/googlebook_preorder_launch",
-          "first_seen": "2026-09-23T08:09:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD オリジナル炊き込みご飯を作ってみよう！桑折町で「パックごはん」工場見… 『マルちゃん パックごはん』親子工場見学会 2026年11月3日（祝） ［申込締切］〜2026年10月14日（水）",
+      "url": "https://www.cjnavi.co.jp/event/20261006fukushima-foods/",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
+      "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
+      "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
+      "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
+      "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
+      "first_seen": "2026-10-06T09:39:38+00:00"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1175,13 +1217,6 @@
       "first_seen": "2026-09-24T08:00:24+00:00"
     },
     {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ せせらぎ、焚き火、景観を楽しむキャンプ場『-Seserabi- camp forest』が… -Seserabi- camp forest（セセラビ キャンプ フォレスト）",
-      "url": "https://www.cjnavi.co.jp/trip/20260924newopen-seserabi-camp/",
-      "first_seen": "2026-09-24T08:00:24+00:00"
-    },
-    {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
@@ -1201,41 +1236,6 @@
       "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
       "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
       "first_seen": "2026-09-24T08:00:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を公開 Astraの技術を低価格モデルに展開、API料金を引き下げのサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_gpt_6_sol_luna",
-      "first_seen": "2026-09-24T08:00:24+00:00"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ 五感をくすぐる発想と工夫が満載の居酒屋『五十六-ISOROKU-』が福島駅東口… モダン和食居酒屋 五十六-ISOROKU-（いそろく）",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260923newopen-isoroku/",
-      "first_seen": "2026-09-23T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役にのサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
-      "first_seen": "2026-09-23T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "トランプ米大統領、AI新組織「AI Force」創設を表明 「AI Czar」も近く発表へのサムネイル画像",
-      "url": "https://ledge.ai/articles/trump_ai_force_ai_czar",
-      "first_seen": "2026-09-23T08:09:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、Gemini搭載AIノートPC「Googlebook」の予約受付開始 899ドルから、5社が展開のサムネイル画像",
-      "url": "https://ledge.ai/articles/googlebook_preorder_launch",
-      "first_seen": "2026-09-23T08:09:24+00:00"
     }
   ]
 }
