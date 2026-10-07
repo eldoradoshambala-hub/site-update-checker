@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T02:37:10+00:00",
+  "generated_at": "2026-10-07T09:36:38+00:00",
   "site_count": 2,
-  "new_count": 3,
+  "new_count": 2,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-07T02:37:10+00:00",
+      "last_checked": "2026-10-07T09:36:38+00:00",
       "last_update": "2026-10-07T02:37:10+00:00",
-      "new_count": 3,
-      "link_count": 20,
+      "new_count": 0,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
         {
@@ -226,7 +226,8 @@
         {
           "title": "スペシャル 【正社員採用情報】（株）エス・シー・シー「CJ Monmo編集部」編集職・営… （株）エス・シー・シー",
           "url": "https://www.cjnavi.co.jp/special/20260925scc-recruit/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
+          "first_seen": "2026-09-25T08:24:48+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/fcb765bb9d49726104e97fdd0472f972-350x162.jpg"
         },
         {
           "title": "グルメ AD 秋の味覚を満喫！『フルーツピークス』に旬のスイーツが勢ぞろい フルーツピークス 福島南バイパス店・福島西店",
@@ -293,12 +294,24 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-07T02:37:10+00:00",
-      "last_update": "2026-10-07T01:24:19+00:00",
-      "new_count": 0,
-      "link_count": 38,
+      "last_checked": "2026-10-07T09:36:38+00:00",
+      "last_update": "2026-10-07T09:36:38+00:00",
+      "new_count": 2,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "マスク氏、SpaceXAIを「SpaceXSI」に改称する意向 トランプ政権の「AI→SI」呼称変更後にのサムネイル画像",
+          "url": "https://ledge.ai/articles/spacexai_spacexsi_name_change",
+          "first_seen": "2026-10-07T09:36:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29.jpg"
+        },
+        {
+          "title": "オープンソースの最小構成AIコーディングツール「Pi」が正式版に MCP連携とタスクに応じたモデルの使い分けに対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/pi_1_0_coding_agent",
+          "first_seen": "2026-10-07T09:36:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_2026_10_6_15_58_24_625959c929/Chat_GPT_2026_10_6_15_58_24_625959c929.jpg"
+        },
         {
           "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_buying_agent",
@@ -558,21 +571,27 @@
           "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
           "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
           "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多のサムネイル画像",
-          "url": "https://ledge.ai/articles/cesa_game_industry_report_2026_ai",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_projects_redesign",
-          "first_seen": "2026-09-24T08:00:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "マスク氏、SpaceXAIを「SpaceXSI」に改称する意向 トランプ政権の「AI→SI」呼称変更後にのサムネイル画像",
+      "url": "https://ledge.ai/articles/spacexai_spacexsi_name_change",
+      "first_seen": "2026-10-07T09:36:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "オープンソースの最小構成AIコーディングツール「Pi」が正式版に MCP連携とタスクに応じたモデルの使い分けに対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/pi_1_0_coding_agent",
+      "first_seen": "2026-10-07T09:36:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_2026_10_6_15_58_24_625959c929/Chat_GPT_2026_10_6_15_58_24_625959c929.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1243,7 +1262,7 @@
       "title": "スペシャル 【正社員採用情報】（株）エス・シー・シー「CJ Monmo編集部」編集職・営… （株）エス・シー・シー",
       "url": "https://www.cjnavi.co.jp/special/20260925scc-recruit/",
       "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/fcb765bb9d49726104e97fdd0472f972-350x162.jpg"
     },
     {
       "site_id": "cjnavi",
@@ -1355,22 +1374,6 @@
       "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
       "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
       "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多のサムネイル画像",
-      "url": "https://ledge.ai/articles/cesa_game_industry_report_2026_ai",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
-      "url": "https://ledge.ai/articles/claude_projects_redesign",
-      "first_seen": "2026-09-24T08:00:24+00:00",
       "image": ""
     }
   ]
