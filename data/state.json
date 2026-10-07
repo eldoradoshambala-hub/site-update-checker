@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T09:39:41+00:00",
+  "updated_at": "2026-10-07T01:25:25+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-06T09:39:38+00:00",
+      "last_checked": "2026-10-07T01:24:19+00:00",
       "last_update": "2026-10-06T09:39:38+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
+      "last_status": "error",
+      "last_error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -1096,8 +1096,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-06T09:39:38+00:00",
-      "last_update": "2026-10-06T09:39:38+00:00",
+      "last_checked": "2026-10-07T01:24:19+00:00",
+      "last_update": "2026-10-07T01:24:19+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2221,98 +2221,136 @@
         "https://ledge.ai/articles/altman_ai_religion_human_judgment": {
           "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
           "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_buying_agent": {
+          "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
+          "first_seen": "2026-10-07T01:24:19+00:00"
+        },
+        "https://ledge.ai/articles/aws_data_center_built_together": {
+          "title": "AWSトップ、データセンター建設への批判に反論 地域支援に5年間で10億ドル超を追加投資のサムネイル画像",
+          "first_seen": "2026-10-07T01:24:19+00:00"
         }
       },
       "recent": [
         {
+          "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_buying_agent",
+          "first_seen": "2026-10-07T01:24:19+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba.jpg"
+        },
+        {
+          "title": "AWSトップ、データセンター建設への批判に反論 地域支援に5年間で10億ドル超を追加投資のサムネイル画像",
+          "url": "https://ledge.ai/articles/aws_data_center_built_together",
+          "first_seen": "2026-10-07T01:24:19+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e.jpg"
+        },
+        {
           "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
           "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_7ce88bb86d/1_7ce88bb86d.jpg"
         },
         {
           "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
           "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JERA_Dell_RHAELM_AI_4_72ee39cbd0/JERA_Dell_RHAELM_AI_4_72ee39cbd0.jpg"
         },
         {
           "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
           "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac.webp"
         },
         {
           "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
           "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_d8b7b4f33c/AI_d8b7b4f33c.jpg"
         },
         {
           "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
           "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
         },
         {
           "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
           "url": "https://ledge.ai/articles/google_local_government_ai_cases",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/section1_2c_bc1505c338/section1_2c_bc1505c338.jpg"
         },
         {
           "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
           "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_b4f580022f/AI_b4f580022f.jpg"
         },
         {
           "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
           "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
         },
         {
           "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
           "url": "https://ledge.ai/articles/meta_enterprise_platform",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/le_K20_YJ_8_8540a32897/le_K20_YJ_8_8540a32897.jpg"
         },
         {
           "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d.jpg"
         },
         {
           "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
           "url": "https://ledge.ai/articles/figure_02_decommission",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/figure02_decomission_810047a948/figure02_decomission_810047a948.jpg"
         },
         {
           "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_joe_agent_security",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8.jpg"
         },
         {
           "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説のサムネイル画像",
           "url": "https://ledge.ai/articles/multimodal_model_intro_book",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introduction_to_multimodal_models_f3c859ddbd/introduction_to_multimodal_models_f3c859ddbd.jpg"
         },
         {
           "title": "東京地裁、「声もパブリシティ権の保護対象になり得る」と判断 声優・津田健次郎氏のAI音声動画削除訴訟でのサムネイル画像",
           "url": "https://ledge.ai/articles/tsuda_ai_voice_publicity_rights",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_9dae9648bc/_9dae9648bc.jpg"
         },
         {
           "title": "Meta、カメラ非搭載の「Ray-Ban Meta Audio」発表 音声AIに対応、最大12時間駆動で日本は2027年展開予定のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_ray_ban_audio_ai_glasses",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ray_Ban_Meta_Audio_0970778b4a/Ray_Ban_Meta_Audio_0970778b4a.jpg"
         },
         {
           "title": "トランプ大統領、主要AI企業と自主的な安全対策で合意 内部統制・外部監査を柱にのサムネイル画像",
           "url": "https://ledge.ai/articles/trump_ai_safety_accord",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/trump_ai_safety_eyecatch_16x9_44562936e3/trump_ai_safety_eyecatch_16x9_44562936e3.jpg"
         },
         {
           "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_4_argon",
-          "first_seen": "2026-10-02T09:12:58+00:00"
+          "first_seen": "2026-10-02T09:12:58+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini4_argon_3931d81692/gemini4_argon_3931d81692.jpg"
         },
         {
           "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
           "url": "https://ledge.ai/articles/nvidia_open_agent_safety_platform",
-          "first_seen": "2026-10-02T09:12:58+00:00"
+          "first_seen": "2026-10-02T09:12:58+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_open_agent_safety_platform_9cd4f5706b/nvidia_open_agent_safety_platform_9cd4f5706b.png"
         },
         {
           "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
@@ -2462,16 +2500,6 @@
         {
           "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
           "url": "https://ledge.ai/articles/claude_projects_redesign",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "NEC、「AI社員」36体が働く自律型組織を公開 1on1やストレスチェックまで、人とAIで企業OSを再構築のサムネイル画像",
-          "url": "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
           "first_seen": "2026-09-24T08:00:24+00:00"
         }
       ]

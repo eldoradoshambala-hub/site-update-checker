@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T09:39:38+00:00",
+  "generated_at": "2026-10-07T01:24:19+00:00",
   "site_count": 2,
-  "new_count": 6,
-  "error_count": 0,
+  "new_count": 2,
+  "error_count": 1,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "ok",
-      "error": null,
-      "consecutive_errors": 0,
-      "last_checked": "2026-10-06T09:39:38+00:00",
+      "status": "error",
+      "error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
+      "last_checked": "2026-10-07T01:24:19+00:00",
       "last_update": "2026-10-06T09:39:38+00:00",
-      "new_count": 2,
-      "link_count": 21,
+      "new_count": 0,
+      "link_count": 0,
       "seeded_now": false,
       "items": [
         {
@@ -277,101 +277,131 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-06T09:39:38+00:00",
-      "last_update": "2026-10-06T09:39:38+00:00",
-      "new_count": 4,
-      "link_count": 39,
+      "last_checked": "2026-10-07T01:24:19+00:00",
+      "last_update": "2026-10-07T01:24:19+00:00",
+      "new_count": 2,
+      "link_count": 38,
       "seeded_now": false,
       "items": [
         {
+          "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_buying_agent",
+          "first_seen": "2026-10-07T01:24:19+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba.jpg"
+        },
+        {
+          "title": "AWSトップ、データセンター建設への批判に反論 地域支援に5年間で10億ドル超を追加投資のサムネイル画像",
+          "url": "https://ledge.ai/articles/aws_data_center_built_together",
+          "first_seen": "2026-10-07T01:24:19+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e.jpg"
+        },
+        {
           "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
           "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_7ce88bb86d/1_7ce88bb86d.jpg"
         },
         {
           "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
           "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JERA_Dell_RHAELM_AI_4_72ee39cbd0/JERA_Dell_RHAELM_AI_4_72ee39cbd0.jpg"
         },
         {
           "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
           "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac.webp"
         },
         {
           "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
           "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_d8b7b4f33c/AI_d8b7b4f33c.jpg"
         },
         {
           "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
           "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
         },
         {
           "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
           "url": "https://ledge.ai/articles/google_local_government_ai_cases",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/section1_2c_bc1505c338/section1_2c_bc1505c338.jpg"
         },
         {
           "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
           "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_b4f580022f/AI_b4f580022f.jpg"
         },
         {
           "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
           "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
         },
         {
           "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
           "url": "https://ledge.ai/articles/meta_enterprise_platform",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/le_K20_YJ_8_8540a32897/le_K20_YJ_8_8540a32897.jpg"
         },
         {
           "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d.jpg"
         },
         {
           "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
           "url": "https://ledge.ai/articles/figure_02_decommission",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/figure02_decomission_810047a948/figure02_decomission_810047a948.jpg"
         },
         {
           "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_joe_agent_security",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8.jpg"
         },
         {
           "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説のサムネイル画像",
           "url": "https://ledge.ai/articles/multimodal_model_intro_book",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introduction_to_multimodal_models_f3c859ddbd/introduction_to_multimodal_models_f3c859ddbd.jpg"
         },
         {
           "title": "東京地裁、「声もパブリシティ権の保護対象になり得る」と判断 声優・津田健次郎氏のAI音声動画削除訴訟でのサムネイル画像",
           "url": "https://ledge.ai/articles/tsuda_ai_voice_publicity_rights",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_9dae9648bc/_9dae9648bc.jpg"
         },
         {
           "title": "Meta、カメラ非搭載の「Ray-Ban Meta Audio」発表 音声AIに対応、最大12時間駆動で日本は2027年展開予定のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_ray_ban_audio_ai_glasses",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ray_Ban_Meta_Audio_0970778b4a/Ray_Ban_Meta_Audio_0970778b4a.jpg"
         },
         {
           "title": "トランプ大統領、主要AI企業と自主的な安全対策で合意 内部統制・外部監査を柱にのサムネイル画像",
           "url": "https://ledge.ai/articles/trump_ai_safety_accord",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/trump_ai_safety_eyecatch_16x9_44562936e3/trump_ai_safety_eyecatch_16x9_44562936e3.jpg"
         },
         {
           "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_4_argon",
-          "first_seen": "2026-10-02T09:12:58+00:00"
+          "first_seen": "2026-10-02T09:12:58+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini4_argon_3931d81692/gemini4_argon_3931d81692.jpg"
         },
         {
           "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
           "url": "https://ledge.ai/articles/nvidia_open_agent_safety_platform",
-          "first_seen": "2026-10-02T09:12:58+00:00"
+          "first_seen": "2026-10-02T09:12:58+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_open_agent_safety_platform_9cd4f5706b/nvidia_open_agent_safety_platform_9cd4f5706b.png"
         },
         {
           "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
@@ -522,720 +552,810 @@
           "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
           "url": "https://ledge.ai/articles/claude_projects_redesign",
           "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "NEC、「AI社員」36体が働く自律型組織を公開 1on1やストレスチェックまで、人とAIで企業OSを再構築のサムネイル画像",
-          "url": "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
-          "first_seen": "2026-09-24T08:00:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
     {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_buying_agent",
+      "first_seen": "2026-10-07T01:24:19+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AWSトップ、データセンター建設への批判に反論 地域支援に5年間で10億ドル超を追加投資のサムネイル画像",
+      "url": "https://ledge.ai/articles/aws_data_center_built_together",
+      "first_seen": "2026-10-07T01:24:19+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e.jpg"
+    },
+    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD オリジナル炊き込みご飯を作ってみよう！桑折町で「パックごはん」工場見… 『マルちゃん パックごはん』親子工場見学会 2026年11月3日（祝） ［申込締切］〜2026年10月14日（水）",
       "url": "https://www.cjnavi.co.jp/event/20261006fukushima-foods/",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
       "url": "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
       "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_7ce88bb86d/1_7ce88bb86d.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
       "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JERA_Dell_RHAELM_AI_4_72ee39cbd0/JERA_Dell_RHAELM_AI_4_72ee39cbd0.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
       "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac.webp"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
       "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
-      "first_seen": "2026-10-06T09:39:38+00:00"
+      "first_seen": "2026-10-06T09:39:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_d8b7b4f33c/AI_d8b7b4f33c.jpg"
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
       "url": "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 人気キッチンカーと田村市自慢の農産物を味わえるイベントを開催！ KITCHENCAR PARK ABUKUMAうんめぇFES 2026年10月12日（祝）",
       "url": "https://www.cjnavi.co.jp/event/20261005kitchencar-park-abukuma/",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 三島町「道の駅 尾瀬街道みしま宿」の展望台から撮影した、第一只見川橋梁」 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
       "url": "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
       "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
       "url": "https://ledge.ai/articles/google_local_government_ai_cases",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/section1_2c_bc1505c338/section1_2c_bc1505c338.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
       "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_b4f580022f/AI_b4f580022f.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
       "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
       "url": "https://ledge.ai/articles/meta_enterprise_platform",
-      "first_seen": "2026-10-05T09:52:03+00:00"
+      "first_seen": "2026-10-05T09:52:03+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/le_K20_YJ_8_8540a32897/le_K20_YJ_8_8540a32897.jpg"
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
       "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 本場ドイツ＆全国の人気ビールが集結！いわきの秋を楽しむ2日間 IWAKIオクトーバーフェスト2026 2026年10月11日（日）・12日（祝）",
       "url": "https://www.cjnavi.co.jp/event/20261004iwaki-october-fest/",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年10月 2026年10月11日（日）・18日（日）・25日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261004iwakifc-homegame/",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島県内外で活躍するハンドメイド作家が福島市「まちなか広場」に集合！ HEARTFUL MARCHE 2026年10月11日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
       "url": "https://ledge.ai/articles/figure_02_decommission",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/figure02_decomission_810047a948/figure02_decomission_810047a948.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_joe_agent_security",
-      "first_seen": "2026-10-04T09:11:17+00:00"
+      "first_seen": "2026-10-04T09:11:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8.jpg"
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 7台の山車が轟音を立ててぶつかり合う「あばれ山車」は圧巻！ 諏訪神社例大祭 針道のあばれ山車 2026年10月10日（土）・11日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261003suwa-abare-dashi/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島の三大鶏が三島町に大集合！ 第4回 ふくしま三大鶏フェスin三島町 2026年10月10日（土）",
       "url": "https://www.cjnavi.co.jp/event/20261003sandorifes-fukushima/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島市「福島県立美術館」で江戸から明治に描かれた、多彩な猫の姿を鑑賞… Ukiyo-e 猫百科 ごろごろまるまるネコづくし 2026年10月10日（土）～12月6日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261003ukiyo-e-neko/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 会津若松市「福島県立博物館」で、安積開拓の歩みと水路にかける挑戦を紐… 安積疏水の挑戦―郡山の未来を拓いた水路― 2026年10月10日（土）～12月6日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261003asaka-sosui/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 勇壮な神輿渡御や連山車。福島市の秋を彩る伝統祭事 福島稲荷神社例大祭 2026年10月10日（土）～12日（祝）",
       "url": "https://www.cjnavi.co.jp/event/20261003fukushima-inarijinja/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年10月 2026年10月10日（土）・21日（水）・31日（土）",
       "url": "https://www.cjnavi.co.jp/event/20261003fukushima-united-fc/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 浜通りのおいしいグルメと魅力を堪能する2日間 ふくしま浜通り観光交流フェスティバル 浜フェス2026 2026年10月10日（土）・11日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261003hamafes/",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説のサムネイル画像",
       "url": "https://ledge.ai/articles/multimodal_model_intro_book",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introduction_to_multimodal_models_f3c859ddbd/introduction_to_multimodal_models_f3c859ddbd.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "東京地裁、「声もパブリシティ権の保護対象になり得る」と判断 声優・津田健次郎氏のAI音声動画削除訴訟でのサムネイル画像",
       "url": "https://ledge.ai/articles/tsuda_ai_voice_publicity_rights",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_9dae9648bc/_9dae9648bc.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Meta、カメラ非搭載の「Ray-Ban Meta Audio」発表 音声AIに対応、最大12時間駆動で日本は2027年展開予定のサムネイル画像",
       "url": "https://ledge.ai/articles/meta_ray_ban_audio_ai_glasses",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ray_Ban_Meta_Audio_0970778b4a/Ray_Ban_Meta_Audio_0970778b4a.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "トランプ大統領、主要AI企業と自主的な安全対策で合意 内部統制・外部監査を柱にのサムネイル画像",
       "url": "https://ledge.ai/articles/trump_ai_safety_accord",
-      "first_seen": "2026-10-03T08:45:47+00:00"
+      "first_seen": "2026-10-03T08:45:47+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/trump_ai_safety_eyecatch_16x9_44562936e3/trump_ai_safety_eyecatch_16x9_44562936e3.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
       "url": "https://ledge.ai/articles/google_gemini_4_argon",
-      "first_seen": "2026-10-02T09:12:58+00:00"
+      "first_seen": "2026-10-02T09:12:58+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini4_argon_3931d81692/gemini4_argon_3931d81692.jpg"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
       "url": "https://ledge.ai/articles/nvidia_open_agent_safety_platform",
-      "first_seen": "2026-10-02T09:12:58+00:00"
+      "first_seen": "2026-10-02T09:12:58+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_open_agent_safety_platform_9cd4f5706b/nvidia_open_agent_safety_platform_9cd4f5706b.png"
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
       "url": "https://ledge.ai/articles/ollo-interview-202610",
-      "first_seen": "2026-10-02T09:12:58+00:00"
+      "first_seen": "2026-10-02T09:12:58+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "日本郵便とKDDI、郵便局をAIドローンの拠点に 珠洲市で見守り・防災の実証開始のサムネイル画像",
       "url": "https://ledge.ai/articles/kddi_japan_post_drone_port",
-      "first_seen": "2026-10-02T09:12:58+00:00"
+      "first_seen": "2026-10-02T09:12:58+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収へ 空間知能・ワールドモデル研究を取り込むのサムネイル画像",
       "url": "https://ledge.ai/articles/amd_world_labs_acquisition",
-      "first_seen": "2026-10-02T09:12:58+00:00"
+      "first_seen": "2026-10-02T09:12:58+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』おすすめ！食欲の秋に、おうちで楽しむパン＆おやつ5選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、食欲の秋に...",
       "url": "https://www.cjnavi.co.jp/life/20261001monmoryouhin/",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ AD 【福島県】放課後児童クラブで働こう！受講無料の放課後児童支援員認定資… 令和8年度 福島県放課後児童支援員認定資格研修 【受付期間】〜2026年10月27日（火）",
       "url": "https://www.cjnavi.co.jp/life/20261001kensyu-hokenfukushi/",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 喜多方の秋は新そば巡り！絶対に行きたい新そばまつり5選!! 喜多方新そばまつり 【山都町・山都新そばまつり】2026年10月17日（土）〜11月23日（月・祝）／みちくさ通り、山都町内参加8店舗 【高郷町・会津たかさと 雷神新そばまつり】2026年10月24日（土）〜11月23日（月・祝）／ふれあいランド高郷 【雄国地区・おぐにの郷新そばまつり】2026年11月22日（日）／おぐに交流の郷 【塩川町・塩川新そば祭り】2026年11月23日（月・祝）／塩川蔵史館 【熱塩加納町・新そば舌調べ】2026年11月29日（日）／熱塩加納公民館",
       "url": "https://www.cjnavi.co.jp/event/20261001shinsoba-kitakata/",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "AIの「不正」と長期開発の実力を評価 CAISのCheatBenchとGoogleのAndroid Bench 2.0公開のサムネイル画像",
       "url": "https://ledge.ai/articles/cheatbench_android_bench_2",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
       "url": "https://ledge.ai/articles/un_system_data_commons_ai",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "【寄稿】ニューヨークで目を引いた「黄色いトヨタ」。街の変化から考える製造業とフィジカルAIのサムネイル画像",
       "url": "https://ledge.ai/articles/brycen_us_report_2",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
       "url": "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026",
-      "first_seen": "2026-10-01T09:39:01+00:00"
+      "first_seen": "2026-10-01T09:39:01+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
       "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
-      "first_seen": "2026-09-30T09:11:29+00:00"
+      "first_seen": "2026-09-30T09:11:29+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "DeepL、Copilot・ChatGPT・Claudeから翻訳可能に MCP連携で文書翻訳や企業の用語集に対応のサムネイル画像",
       "url": "https://ledge.ai/articles/deepl_mcp_ai_assistants",
-      "first_seen": "2026-09-30T09:11:29+00:00"
+      "first_seen": "2026-09-30T09:11:29+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "フィジカルAIを社会で動かすために何が必要か GMO大会議でつながった現場の失敗、データ、AIの理論のサムネイル画像",
       "url": "https://ledge.ai/articles/gmo_physical_ai_conference_2026",
-      "first_seen": "2026-09-30T09:11:29+00:00"
+      "first_seen": "2026-09-30T09:11:29+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ComfyUI開発元、生成AIのモデルと実行先を選べる「Comfy Router」公開 APIを一本化のサムネイル画像",
       "url": "https://ledge.ai/articles/comfy_router_generative_media_api",
-      "first_seen": "2026-09-30T09:11:29+00:00"
+      "first_seen": "2026-09-30T09:11:29+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin福島 2026年10月10日（土）",
       "url": "https://www.cjnavi.co.jp/event/20260929ethical-marche-fukushima/",
-      "first_seen": "2026-09-29T09:20:49+00:00"
+      "first_seen": "2026-09-29T09:20:49+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 痛みに寄り添うカイロプラクティック『カラダLabo egao』が福島市蓬莱町に… カラダLabo egao（カラダラボエガオ）",
       "url": "https://www.cjnavi.co.jp/life/20260929newopen-karada-labo-egao/",
-      "first_seen": "2026-09-29T09:20:49+00:00"
+      "first_seen": "2026-09-29T09:20:49+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Microsoft、「Copilot」を大幅刷新 Home・Code・Autopilotを追加、Word・Excel・PowerPointも統合のサムネイル画像",
       "url": "https://ledge.ai/articles/microsoft_copilot_home_code_autopilot",
-      "first_seen": "2026-09-29T09:20:49+00:00"
+      "first_seen": "2026-09-29T09:20:49+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "アリババ、AIスマホ向け「Qwen Intelligence」発表 複数アプリをまたぐタスク実行をメーカーに提供のサムネイル画像",
       "url": "https://ledge.ai/articles/alibaba_qwen_intelligence_ai_smartphones",
-      "first_seen": "2026-09-29T09:20:49+00:00"
+      "first_seen": "2026-09-29T09:20:49+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "米中首脳、AIを「超知能（SI）」と呼ぶことで合意と米政府発表 中国側は「米側の用語選択を尊重」のサムネイル画像",
       "url": "https://ledge.ai/articles/us_china_super_intelligence_dialogue",
-      "first_seen": "2026-09-29T09:20:49+00:00"
+      "first_seen": "2026-09-29T09:20:49+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 福島市「こむこむ館」でプラネタリウムと落語を楽しもう 幸齢者のためのプラネタリウムと落語鑑賞 2026年10月5日（月）",
       "url": "https://www.cjnavi.co.jp/event/20260928silver-jinzai-center/",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 乾燥後もキレイな仕上がりを保つ洗車が自慢。『DETAIL GARAGE』が福島市笹… DETAIL GARAGE（ディテール ガレージ）",
       "url": "https://www.cjnavi.co.jp/life/20260928newopen-detail-garage/",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 多肉植物や花、雑貨などの人気店10店舗以上が、福島市「四季の里」に大集… シッポdeマルシェin四季の里 2026年10月4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260927shippo-de-marche/",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 【福島ファイヤーボンズ】2026-27シーズン開幕！『福島ファイヤーボンズ』… 【福島ファイヤーボンズホーム戦】2026年10月 2026年10月3日（土）・4日（日）・10日（土）・11日（日）・31日（土）",
       "url": "https://www.cjnavi.co.jp/event/20260926sports-firebonds/",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAI、内部研究用「最も能力の高いモデル群」のツール使用を伴う学習・評価・推論を一時停止 内部AIがDNS経由で外部チャットボットに接続のサムネイル画像",
       "url": "https://ledge.ai/articles/openai_tool_use_pause",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ビジネス 2026 / 9 / 28 [MON] Amazon、MetaのAIエージェント「Muse」の購入代行をブロック 透明性とサービス側の意思尊重を要求",
       "url": "https://ledge.ai/articles/amazon_blocks_meta_muse_shopping",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Xiaomi、マルチモーダルAI「MiMo-V2.6-Pro／Flash」と強化学習の環境・コードを公開のサムネイル画像",
       "url": "https://ledge.ai/articles/xiaomi_mimo_v2_6_pro_flash_release",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
       "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
-      "first_seen": "2026-09-28T09:12:24+00:00"
+      "first_seen": "2026-09-28T09:12:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAIのAIエージェント、6月に豪政府サイトに不正アクセスと公表 拒否後に制限を迂回、非公開ファイルにもアクセスのサムネイル画像",
       "url": "https://ledge.ai/articles/openai_ai_agent_australia_breach",
-      "first_seen": "2026-09-27T08:48:46+00:00"
+      "first_seen": "2026-09-27T08:48:46+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Meta、たまごっち風のAI端末「Muse Charm」発表 ポケットサイズで専用AIエージェントと会話のサムネイル画像",
       "url": "https://ledge.ai/articles/meta_muse_charm",
-      "first_seen": "2026-09-27T08:48:46+00:00"
+      "first_seen": "2026-09-27T08:48:46+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "AnthropicのClaude、バクテリオファージから未知の酵素システムを発見 ゲノム編集に利用のCRISPRに似た反復配列 、アモデイ氏は医学研究の加速に期待のサムネイル画像",
       "url": "https://ledge.ai/articles/anthropic_claude_art_discovery",
-      "first_seen": "2026-09-27T08:48:46+00:00"
+      "first_seen": "2026-09-27T08:48:46+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
       "url": "https://www.cjnavi.co.jp/event/20260926nihonmatsu-chouchin/",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 双葉町に“うまいもん”が集結！町内最大級のフードイベント！ ふたばフードフェス2026 2026年10月3日（土）・4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260926futaba-foodfes/",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 福島市「道の駅ふくしま」で、家族と愛犬が楽しめる『サイクル＆わん！フ… サイクル＆わん！フェスタ in 道の駅ふくしま 2026年10月18日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260925cycle-wan-satellitefukushima/",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 海外のトップ選手も来場！福島県内最大規模の震災復興支援サーフィンイベ… KITAIZUMI SURF FESTIVAL 2026 2026年10月2日（金）～4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260925kitaizumi-surf-festival/",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 湯の町沸騰の3日間！6町の太鼓屋台が集結 八幡神社例大祭「飯坂けんか祭り」 2026年10月2日（金）～4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260925iizaka-kenka/",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "フィンランド・ノルウェー、最先端AIの事前テスト義務化を呼びかけ フランスも支持、米中は署名者一覧に含まれずのサムネイル画像",
       "url": "https://ledge.ai/articles/finland_norway_frontier_ai_control",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "OpenAI、数学者の独立組織「AGMAI」と連携でAI研究成果の公開に助言 暗号研究でもAstraで1941年のエニグマ解読の事例ものサムネイル画像",
       "url": "https://ledge.ai/articles/openai_agmai_enigma",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "トランプ米大統領、AIを「スーパー・インテリジェンス」と呼ぶと表明 国務省の一部で「SI」使用指示ものサムネイル画像",
       "url": "https://ledge.ai/articles/trump_ai_super_intelligence",
-      "first_seen": "2026-09-26T08:11:59+00:00"
+      "first_seen": "2026-09-26T08:11:59+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 知らなかった福島県のコトが知れるおでかけ本『あの街、あの風景へ』が発… 福島おとな旅特別版「あの街、あの風景へ」",
       "url": "https://www.cjnavi.co.jp/special/20260925anoano2026-2027/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 【クーポン枚数過去最多】シリーズ27作目の『ふくしま日帰り温泉』最新版… ふくしま日帰り温泉 2026-2027",
       "url": "https://www.cjnavi.co.jp/special/20260925fukushima-spa-diary/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 「CJ Monmo」10月号は、手作り体験スポットを紹介する「ふくしまクラフト… 月刊CJ Monmo 2026年10月号",
       "url": "https://www.cjnavi.co.jp/special/20260925cjmonmo-63/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 【正社員採用情報】（株）エス・シー・シー「CJ Monmo編集部」編集職・営… （株）エス・シー・シー",
       "url": "https://www.cjnavi.co.jp/special/20260925scc-recruit/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD 秋の味覚を満喫！『フルーツピークス』に旬のスイーツが勢ぞろい フルーツピークス 福島南バイパス店・福島西店",
       "url": "https://www.cjnavi.co.jp/gourmet/20260925fruitspeaks/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 【秋のイベント2026】国内最大級の菊の祭典『二本松の菊人形』開幕！ 第70回 二本松の菊人形 2026年10月10日（土）～11月23日（祝）",
       "url": "https://www.cjnavi.co.jp/event/20260925nihonmatsu-kikuningyo/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 【秋のイベント2026】国内最大規模の中南米音楽祭『コスキン・エン・ハポ… コスキン・エン・ハポン2026 2026年10月10日（土）～12日（祝）",
       "url": "https://www.cjnavi.co.jp/event/20260925kawamata-cosquin/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD 【秋のおでかけ2026】野菜や卵を『直売・カフェ こころや』のランチでゆっ… 直売・カフェ こころや",
       "url": "https://www.cjnavi.co.jp/gourmet/20260925kokoroya/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ AD 【あの街、あの風景へ2026×新地町】四季をめぐる、新地町の旅へ。海・里・… 白幡のイチョウ／鹿狼山／新地町チューリップ祭り／新地町海釣り公園",
       "url": "https://www.cjnavi.co.jp/trip/20260925shinchi-town/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD 【あの街、あの風景へ2026×六代目 鰻のえびや】明治35年創業、会津の老舗… 六代目 鰻のえびや",
       "url": "https://www.cjnavi.co.jp/gourmet/20260925unagino-ebiya/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ AD 【あの街、あの風景へ2026】福島市・相馬市で出合う、上質セレクション8選 福島には、特別な日を彩る名店や温泉宿、心豊かな時間を演出する逸品が数多くある。大切な人...",
       "url": "https://www.cjnavi.co.jp/life/20260925joushitsu-collection/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ AD 【あの街、あの風景へ2026】海と空の絶景を、『碧ノ音』で誰にも邪魔され… 空と海の隠れ家 碧ノ音（かのん）",
       "url": "https://www.cjnavi.co.jp/trip/20260925kanon/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD 【あの街、あの風景へ2026】『団欒かとう』が提供する「一食入魂」の創作… 団欒（だんらん）かとう",
       "url": "https://www.cjnavi.co.jp/gourmet/20260925danran-kato/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
       "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "月刊CJ Monmo 2026年10月号",
       "url": "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "福島おとな旅特別版「あの街、あの風景へ」",
       "url": "https://www.cjnavi.co.jp/magazine/20260925anomachi-anofuukeie2026-2027/",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
       "url": "https://ledge.ai/articles/typesafe_jev_system_one_model",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Gartner、2026年の世界AI支出を2.7兆ドルと予測 前年比49.5％増、インフラ投資が牽引のサムネイル画像",
       "url": "https://ledge.ai/articles/gartner_ai_spending_2026",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
       "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多のサムネイル画像",
       "url": "https://ledge.ai/articles/cesa_game_industry_report_2026_ai",
-      "first_seen": "2026-09-25T08:24:48+00:00"
+      "first_seen": "2026-09-25T08:24:48+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』でふくしまの秋の味覚や名産品をお取り寄せ！おすすめ新商… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、会津で採れ...",
       "url": "https://www.cjnavi.co.jp/life/20260924monmoryouhin/",
-      "first_seen": "2026-09-24T08:00:24+00:00"
+      "first_seen": "2026-09-24T08:00:24+00:00",
+      "image": ""
     },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD さかなのおにいさん かわちゃんと海の仕事の魅力を楽しく学べる『海のおし… 海のおしごとトークショー 2026年10月18日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260924uminoshigoto-talkshow/",
-      "first_seen": "2026-09-24T08:00:24+00:00"
+      "first_seen": "2026-09-24T08:00:24+00:00",
+      "image": ""
     },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
       "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へのサムネイル画像",
       "url": "https://ledge.ai/articles/claude_projects_redesign",
-      "first_seen": "2026-09-24T08:00:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "NEC、「AI社員」36体が働く自律型組織を公開 1on1やストレスチェックまで、人とAIで企業OSを再構築のサムネイル画像",
-      "url": "https://ledge.ai/articles/nec_corporate_ai_workforce_information_session",
-      "first_seen": "2026-09-24T08:00:24+00:00"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
-      "first_seen": "2026-09-24T08:00:24+00:00"
+      "first_seen": "2026-09-24T08:00:24+00:00",
+      "image": ""
     }
   ]
 }
