@@ -48,7 +48,12 @@ _LAZY_SRC_ATTRS = ("data-src", "data-lazy-src", "data-original", "data-lazy", "d
 _SRCSET_ATTRS = ("data-srcset", "data-lazy-srcset", "srcset")
 #: 背景画像を遅延読み込みするときの属性。
 _LAZY_BACKGROUND_ATTRS = ("data-bg", "data-background", "data-background-image", "data-bg-src")
-_CSS_URL = re.compile(r"url\(\s*(['\"]?)(.+?)\1\s*\)", re.I)
+#: CSS の url(...)。括弧の中で改行していることがある。値の末尾で閉じ括弧が抜けていても
+#: ブラウザは画像を表示する（CSS の仕様でそう解釈される）ので、同じように読む。
+#: 実例: シティ情報ふくしまのカードは style="background-image: url(写真.jpg" で終わっている。
+_CSS_URL = re.compile(r"url\(\s*(['\"]?)(.*?)\1\s*(?:\)|\Z)", re.I | re.S)
+#: ブラウザはURL中のタブと改行を無視する（URL Standard）。同じように取り除く。
+_URL_IGNORED_CHARS = re.compile(r"[\t\n\r]")
 
 #: 記事の画像ではない（読み込み中の仮画像や「No Image」）とみなすファイル名。
 _PLACEHOLDER_IMAGE = re.compile(
@@ -137,7 +142,7 @@ def _resolve_href(href: str, base_url: str) -> str | None:
 
 def _image_url(raw: str | None, base_url: str) -> str:
     """画像として使えるURLなら絶対URLにして返す。仮画像やアイコンらしいものは空文字。"""
-    raw = (raw or "").strip()
+    raw = _URL_IGNORED_CHARS.sub("", raw or "").strip()
     if not raw or raw.startswith("data:"):
         return ""
     absolute = urljoin(base_url, raw)
@@ -185,15 +190,15 @@ def _background_source(node, base_url: str) -> str:
         value = node.get(attr)
         if not value:
             continue
-        match = _CSS_URL.search(value)
-        if match:
-            url = _image_url(match.group(2), base_url)
-        elif attr != "style":
-            url = _image_url(value, base_url)
-        else:
-            url = ""
-        if url:
-            return url
+        # 背景は重ねて指定できる（url(アイコン), url(写真) など）ので、使えるものが出るまで順に見る。
+        candidates = [match.group(2) for match in _CSS_URL.finditer(value)]
+        if not candidates and attr != "style":
+            candidates = [value]
+        for candidate in candidates:
+            # 閉じていない引用符は、閉じ括弧と同じくブラウザが補って読む。
+            url = _image_url(candidate.strip().strip("'\""), base_url)
+            if url:
+                return url
     return ""
 
 

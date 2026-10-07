@@ -272,3 +272,32 @@ def test_icons_and_placeholder_images_are_ignored():
     assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
         "", "", "", "", "https://news.example.jp/img/5.jpg",
     ]
+
+
+def test_background_url_broken_across_lines_is_still_read():
+    # テンプレートの都合で url( ) の中に改行が入っていても、ブラウザと同じく読める。
+    html = '<a href="/a/1"><div style="background-image: url(\'\n  /img/1.jpg\n\')"></div>記事1</a>'
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg"
+    }
+
+
+def test_layered_background_skips_the_icon_and_uses_the_photo():
+    html = '<a href="/a/1"><div style="background-image: url(/img/ad-label.svg), url(/img/1.jpg)"></div>記事1</a>'
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg"
+    }
+
+
+def test_unclosed_background_url_is_read_like_browsers_do():
+    # シティ情報ふくしまの実際のカード。url( の閉じ括弧が alt の方へずれているが、ブラウザは表示する。
+    html = (
+        '<a href="/a/1"><div class="card-img" '
+        'style="background-image: url(https://news.example.jp/img/1.jpg" alt="見出しを開催);">'
+        '<span>イベント</span></div><p>記事1</p></a>'
+        '<a href="/a/2"><div style="background-image: url(\'/img/2.jpg"></div>記事2</a>'
+    )
+    assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
+        "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/img/2.jpg",
+    ]
