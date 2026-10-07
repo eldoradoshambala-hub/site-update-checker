@@ -178,3 +178,126 @@ def test_path_prefix_stats_groups_by_directory():
 def test_path_prefix_stats_puts_top_level_pages_under_root():
     links = [Link(url="https://a.jp/company.html", title="A"), Link(url="https://a.jp/x/y/1", title="B")]
     assert dict(path_prefix_stats(links)) == {"/": 1, "/x/y": 1}
+
+
+def images(links):
+    return {link.url: link.image for link in links}
+
+
+def test_image_inside_the_link_is_attached():
+    html = '<a href="/a/1"><img src="/img/1.jpg" alt="">記事1</a><a href="/a/2">画像の無い記事</a>'
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/a/2": "",
+    }
+
+
+def test_lazy_loaded_image_prefers_the_real_url_over_the_placeholder():
+    html = (
+        '<a href="/a/1"><img src="data:image/gif;base64,R0lGOD" data-src="../img/1.jpg">記事1</a>'
+        '<a href="/a/2"><img src="/wp-content/lazy_placeholder.gif" data-lazy-src="/img/2.jpg">記事2</a>'
+    )
+    assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
+        "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/img/2.jpg",
+    ]
+
+
+def test_srcset_only_image_uses_its_first_candidate():
+    # Cloudinary などはURLの中にカンマを含むので、カンマで割らずに先頭の候補を取る。
+    html = (
+        '<a href="/a/1"><img srcset="https://cdn.example.jp/w_300,h_200/1.jpg 300w, '
+        'https://cdn.example.jp/w_600,h_400/1.jpg 600w">記事1</a>'
+    )
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://cdn.example.jp/w_300,h_200/1.jpg"
+    }
+
+
+def test_background_image_is_used_when_there_is_no_img():
+    html = (
+        '<a href="/a/1"><div class="thumb" style="background-image: url(\'/img/1.jpg\')"></div>記事1</a>'
+        '<a href="/a/2"><div class="thumb" data-bg="/img/2.jpg"></div>記事2</a>'
+    )
+    assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
+        "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/img/2.jpg",
+    ]
+
+
+def test_image_link_and_text_link_to_the_same_article_are_merged():
+    html = '<a href="/a/1"><img src="/img/1.jpg"></a><h2><a href="/a/1">本当のタイトル</a></h2>'
+    links = extract_links(html, PAGE_URL, site())
+    assert links == [
+        Link(url="https://news.example.jp/a/1", title="本当のタイトル", image="https://news.example.jp/img/1.jpg")
+    ]
+
+
+def test_image_beside_the_link_in_the_same_card_is_found():
+    html = """
+    <ul>
+      <li><div class="thumb"><img src="/img/1.jpg"></div><div><h3><a href="/a/1">記事1</a></h3></div></li>
+      <li><div class="thumb"><img src="/img/2.jpg"></div><div><h3><a href="/a/2">記事2</a></h3></div></li>
+    </ul>
+    """
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/a/2": "https://news.example.jp/img/2.jpg",
+    }
+
+
+def test_image_of_another_article_is_never_borrowed():
+    # 囲みの中に別の記事へのリンクがあれば、それは一覧そのもの。その中の画像は使わない。
+    html = """
+    <div class="list">
+      <img src="/img/banner.jpg">
+      <a href="/a/1">画像の無い記事1</a>
+      <a href="/a/2"><img src="/img/2.jpg">記事2</a>
+    </div>
+    """
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "",
+        "https://news.example.jp/a/2": "https://news.example.jp/img/2.jpg",
+    }
+
+
+def test_icons_and_placeholder_images_are_ignored():
+    html = (
+        '<a href="/a/1"><img src="/img/new.gif" width="30" height="12">記事1</a>'
+        '<a href="/a/2"><img src="/img/arrow.svg">記事2</a>'
+        '<a href="/a/3"><img src="/common/noimage.png">記事3</a>'
+        '<a href="/a/4"><img src="data:image/gif;base64,R0lGOD">記事4</a>'
+        '<a href="/a/5"><img src="/img/icon.png" width="16"><img src="/img/5.jpg" width="320">記事5</a>'
+    )
+    assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
+        "", "", "", "", "https://news.example.jp/img/5.jpg",
+    ]
+
+
+def test_background_url_broken_across_lines_is_still_read():
+    # テンプレートの都合で url( ) の中に改行が入っていても、ブラウザと同じく読める。
+    html = '<a href="/a/1"><div style="background-image: url(\'\n  /img/1.jpg\n\')"></div>記事1</a>'
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg"
+    }
+
+
+def test_layered_background_skips_the_icon_and_uses_the_photo():
+    html = '<a href="/a/1"><div style="background-image: url(/img/ad-label.svg), url(/img/1.jpg)"></div>記事1</a>'
+    assert images(extract_links(html, PAGE_URL, site())) == {
+        "https://news.example.jp/a/1": "https://news.example.jp/img/1.jpg"
+    }
+
+
+def test_unclosed_background_url_is_read_like_browsers_do():
+    # シティ情報ふくしまの実際のカード。url( の閉じ括弧が alt の方へずれているが、ブラウザは表示する。
+    html = (
+        '<a href="/a/1"><div class="card-img" '
+        'style="background-image: url(https://news.example.jp/img/1.jpg" alt="見出しを開催);">'
+        '<span>イベント</span></div><p>記事1</p></a>'
+        '<a href="/a/2"><div style="background-image: url(\'/img/2.jpg"></div>記事2</a>'
+    )
+    assert list(images(extract_links(html, PAGE_URL, site())).values()) == [
+        "https://news.example.jp/img/1.jpg",
+        "https://news.example.jp/img/2.jpg",
+    ]

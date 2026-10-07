@@ -4,36 +4,67 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f6f4fb" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14121d" media="(prefers-color-scheme: dark)">
 <title>サイト更新チェッカー</title>
+<!-- 見出し用の丸ゴシック。text= で見出しの文字だけに絞っているので数KBで済む。
+     見出しの文言を変えたら、text= の中身も合わせて変えること（足りない文字は別の書体で出てしまう）。 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@800&display=swap&text=%E3%82%B5%E3%82%A4%E3%83%88%E6%9B%B4%E6%96%B0%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC">
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23ff8a5b'/><stop offset='.5' stop-color='%23ff4f8b'/><stop offset='1' stop-color='%237c5cff'/></linearGradient></defs><rect width='64' height='64' rx='18' fill='url(%23g)'/><path d='M20 22h24M20 32h24M20 42h14' stroke='white' stroke-width='6' stroke-linecap='round'/></svg>">
 </head>
 <body>
 
 <header class="header">
-  <div class="header-main">
-    <h1 class="title">サイト更新チェッカー</h1>
-    <p class="meta" id="meta">読み込み中…</p>
+  <div class="brand">
+    <span class="logo" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 6a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v12a2 2 0 0 0 2 2H6a2 2 0 0 1-2-2z"/>
+        <path d="M17 9h2a1 1 0 0 1 1 1v8a2 2 0 0 1-2 2"/>
+        <path d="M8 8h5M8 12h5M8 16h3"/>
+      </svg>
+    </span>
+    <div class="header-main">
+      <h1 class="title">サイト更新チェッカー</h1>
+      <p class="meta" id="meta">読み込み中…</p>
+    </div>
   </div>
   <div class="header-actions">
     <a class="btn" id="manual-update" target="_blank" rel="noopener noreferrer"
-       title="GitHubのActionsページを開きます。「Run workflow」を押すと巡回が始まります">手動更新</a>
-    <button type="button" class="btn btn-quiet" id="reload" title="最新の巡回結果を読み込みます">再読込</button>
+       title="GitHubのActionsページを開きます。「Run workflow」を押すと巡回が始まります">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg>
+      手動更新
+    </a>
+    <button type="button" class="btn btn-quiet" id="reload" title="最新の巡回結果を読み込みます">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66L20 8.5"/><path d="M20 3v5.5h-5.5"/></svg>
+      再読込
+    </button>
   </div>
 </header>
 
 <nav class="tabs" role="tablist">
-  <button type="button" class="tab is-active" id="tab-timeline" role="tab" aria-selected="true">新着</button>
+  <button type="button" class="tab is-active" id="tab-timeline" role="tab" aria-selected="true">
+    新着<span class="tab-count" id="tab-timeline-count"></span>
+  </button>
   <button type="button" class="tab" id="tab-sites" role="tab" aria-selected="false">サイト一覧</button>
 </nav>
 
 <div class="toolbar">
-  <input type="search" id="search" class="search" placeholder="タイトル・サイト名で絞り込む" autocomplete="off">
+  <label class="search-box">
+    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input type="search" id="search" class="search" placeholder="タイトル・サイト名で絞り込む" autocomplete="off">
+  </label>
   <label class="toggle">
     <input type="checkbox" id="unread-only">
-    <span>未読のみ</span>
+    <span class="switch" aria-hidden="true"></span>
+    <span class="toggle-label">未読のみ</span>
   </label>
-  <button type="button" class="btn btn-quiet" id="mark-all">すべて既読</button>
+  <button type="button" class="btn btn-quiet" id="mark-all">
+    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m2 12.5 5 5L18 6.5"/><path d="m13 16.5 1 1L22 6.5"/></svg>
+    すべて既読
+  </button>
 </div>
 
 <main id="view" class="view" aria-live="polite">

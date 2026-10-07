@@ -37,7 +37,7 @@ class SiteState:
     consecutive_errors: int = 0
     #: URL -> {"title": str, "first_seen": str}
     known: dict[str, dict[str, str]] = field(default_factory=dict)
-    #: 画面に出す新着履歴（新しい順）。
+    #: 画面に出す新着履歴（新しい順）。画像が取れた記事は "image" も持つ。
     recent: list[dict[str, str]] = field(default_factory=list)
 
     @classmethod
@@ -151,7 +151,10 @@ def apply_links(
             continue
         known[link.url] = {"title": link.title, "first_seen": timestamp}
         if not is_first_run:
-            new_items.append({"title": link.title, "url": link.url, "first_seen": timestamp})
+            item = {"title": link.title, "url": link.url, "first_seen": timestamp}
+            if link.image:
+                item["image"] = link.image
+            new_items.append(item)
 
     # 上限を超えたぶんは古い順に捨てる。ただし今ページに載っているURLは必ず残す。
     if len(known) > known_limit:
@@ -163,7 +166,15 @@ def apply_links(
         for url in prunable[: len(known) - known_limit]:
             del known[url]
 
-    recent = new_items + list(previous.recent)
+    # 画像の無い履歴（画像の取得を始める前に記録したものなど）は、その記事がまだ
+    # ページに載っていれば今回の画像で埋める。
+    images = {link.url: link.image for link in links if link.image}
+    recent = [
+        {**item, "image": images[item["url"]]}
+        if not item.get("image") and item.get("url") in images
+        else item
+        for item in new_items + list(previous.recent)
+    ]
     state = SiteState(
         seeded=True,
         first_checked=previous.first_checked or timestamp,

@@ -245,7 +245,8 @@ def command_inspect(args: argparse.Namespace) -> int:
         return 1
 
     links = extract_links(result.content, result.url, site, result.encoding_hint)
-    print(f"{result.url}\n抽出リンク: {len(links)}件\n")
+    with_image = sum(1 for link in links if link.image)
+    print(f"{result.url}\n抽出リンク: {len(links)}件（うち画像あり {with_image}件）\n")
 
     print("パス別の件数（selector や include を決める手がかり）:")
     for prefix, count in path_prefix_stats(links):
@@ -254,6 +255,8 @@ def command_inspect(args: argparse.Namespace) -> int:
     print(f"\n先頭 {min(args.limit, len(links))} 件:")
     for link in links[: args.limit]:
         print(f"  - {link.title[:70] or '(タイトルなし)'}\n    {link.url}")
+        if link.image:
+            print(f"    画像: {link.image}")
     return 0
 
 

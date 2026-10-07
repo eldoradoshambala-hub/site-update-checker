@@ -62,6 +62,7 @@ def build_feed(results: list[SiteResult], generated_at: str | None = None) -> di
                     "title": item.get("title", ""),
                     "url": item.get("url", ""),
                     "first_seen": item.get("first_seen", ""),
+                    "image": item.get("image", ""),
                 }
             )
 

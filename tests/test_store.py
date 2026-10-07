@@ -124,3 +124,44 @@ def test_prune_drops_sites_removed_from_config():
     state = State(sites={"a": SiteState(), "b": SiteState()})
     state.prune({"a"})
     assert set(state.sites) == {"a"}
+
+
+def test_new_items_carry_the_image_when_one_was_found():
+    first, _ = apply_links(SiteState(), [], max_items=50, known_limit=1000)
+    _, new_items = apply_links(
+        first,
+        [Link(url="https://a/1", title="画像付き", image="https://a/1.jpg"), Link(url="https://a/2", title="画像なし")],
+        max_items=50,
+        known_limit=1000,
+        timestamp="2026-08-03T03:00:00+00:00",
+    )
+    assert new_items == [
+        {"title": "画像付き", "url": "https://a/1", "first_seen": "2026-08-03T03:00:00+00:00", "image": "https://a/1.jpg"},
+        {"title": "画像なし", "url": "https://a/2", "first_seen": "2026-08-03T03:00:00+00:00"},
+    ]
+
+
+def test_history_without_an_image_is_backfilled_while_the_article_is_on_the_page():
+    state, _ = apply_links(SiteState(seeded=True), links(("https://a/1", "古い記録"), ("https://a/2", "消えた記事")),
+                           max_items=50, known_limit=1000)
+    assert all("image" not in item for item in state.recent)
+
+    state, new_items = apply_links(
+        state,
+        [Link(url="https://a/1", title="古い記録", image="https://a/1.jpg")],
+        max_items=50,
+        known_limit=1000,
+    )
+    assert new_items == []
+    by_url = {item["url"]: item for item in state.recent}
+    assert by_url["https://a/1"]["image"] == "https://a/1.jpg"
+    # ページから消えた記事は画像を取りようがないので、そのまま。
+    assert "image" not in by_url["https://a/2"]
+
+
+def test_an_existing_image_is_not_replaced():
+    state, _ = apply_links(SiteState(seeded=True), [Link(url="https://a/1", title="記事", image="https://a/old.jpg")],
+                           max_items=50, known_limit=1000)
+    state, _ = apply_links(state, [Link(url="https://a/1", title="記事", image="https://a/new.jpg")],
+                           max_items=50, known_limit=1000)
+    assert state.recent[0]["image"] == "https://a/old.jpg"
