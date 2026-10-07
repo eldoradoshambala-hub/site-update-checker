@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07T01:25:25+00:00",
+  "updated_at": "2026-10-07T02:37:11+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-07T01:24:19+00:00",
-      "last_update": "2026-10-06T09:39:38+00:00",
-      "last_status": "error",
-      "last_error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
+      "last_checked": "2026-10-07T02:37:10+00:00",
+      "last_update": "2026-10-07T02:37:10+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -838,68 +838,110 @@
         "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/": {
           "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
           "first_seen": "2026-10-06T09:39:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261007kouyou-spot/": {
+          "title": "おでかけ 【福島県】この秋行きたい！絶景の紅葉スポット7選 10月上旬から11月中旬にかけて見頃を迎える、福島市・伊達市・鮫川村・猪苗代町・喜多方市・...",
+          "first_seen": "2026-10-07T02:37:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261007ramen-touji-digitalrally/": {
+          "title": "イベント AD ラーメン食べて、温泉入って、豪華賞品をGET！ ラーメン湯治デジタルラリー2026-2027 2026年10月1日（木）〜2027年2月28日（日）",
+          "first_seen": "2026-10-07T02:37:10+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261007ichibamatsuri/": {
+          "title": "イベント AD 生鮮品の即売、マグロの解体実演など、市場と食の魅力を満喫しよう！ 第42回 わくわく市場まつり 2026年10月25日（日）",
+          "first_seen": "2026-10-07T02:37:10+00:00"
         }
       },
       "recent": [
         {
+          "title": "おでかけ 【福島県】この秋行きたい！絶景の紅葉スポット7選 10月上旬から11月中旬にかけて見頃を迎える、福島市・伊達市・鮫川村・猪苗代町・喜多方市・...",
+          "url": "https://www.cjnavi.co.jp/trip/20261007kouyou-spot/",
+          "first_seen": "2026-10-07T02:37:10+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/dc6b919c9f642eb64f3389392f3ea3cd-350x263.jpg"
+        },
+        {
+          "title": "イベント AD ラーメン食べて、温泉入って、豪華賞品をGET！ ラーメン湯治デジタルラリー2026-2027 2026年10月1日（木）〜2027年2月28日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261007ramen-touji-digitalrally/",
+          "first_seen": "2026-10-07T02:37:10+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9cc4ddc40e3e88bf196598960e490f28-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 生鮮品の即売、マグロの解体実演など、市場と食の魅力を満喫しよう！ 第42回 わくわく市場まつり 2026年10月25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261007ichibamatsuri/",
+          "first_seen": "2026-10-07T02:37:10+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7b169c258442a7102dc38d49b08c8840-350x263.jpg"
+        },
+        {
           "title": "イベント AD オリジナル炊き込みご飯を作ってみよう！桑折町で「パックごはん」工場見… 『マルちゃん パックごはん』親子工場見学会 2026年11月3日（祝） ［申込締切］〜2026年10月14日（水）",
           "url": "https://www.cjnavi.co.jp/event/20261006fukushima-foods/",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ec5b64281d65cf8f5ac0334cc73121ad-350x263.jpg"
         },
         {
           "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
           "url": "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/",
-          "first_seen": "2026-10-06T09:39:38+00:00"
+          "first_seen": "2026-10-06T09:39:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7ff1dea543a7fb3c79239a6297fb37f4-350x263.jpg"
         },
         {
           "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
           "url": "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c296e172e9cc1b78004c695b4f2aca79-168x1024.jpg"
         },
         {
           "title": "イベント 人気キッチンカーと田村市自慢の農産物を味わえるイベントを開催！ KITCHENCAR PARK ABUKUMAうんめぇFES 2026年10月12日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20261005kitchencar-park-abukuma/",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d48f4734e4fa02fad6e0a3bf1e70529e-350x263.jpg"
         },
         {
           "title": "おでかけ 三島町「道の駅 尾瀬街道みしま宿」の展望台から撮影した、第一只見川橋梁」 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "url": "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/",
-          "first_seen": "2026-10-05T09:52:03+00:00"
+          "first_seen": "2026-10-05T09:52:03+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/6372c0cf5d6033000c7aeb172a9e83ce-350x263.jpg"
         },
         {
           "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
           "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c4b239e2f404b94168c32f1fd213bb66-350x263.jpg"
         },
         {
           "title": "イベント 本場ドイツ＆全国の人気ビールが集結！いわきの秋を楽しむ2日間 IWAKIオクトーバーフェスト2026 2026年10月11日（日）・12日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20261004iwaki-october-fest/",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1c239feeae2a523bbbc9a78fa5f8f91e-350x263.jpg"
         },
         {
           "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年10月 2026年10月11日（日）・18日（日）・25日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261004iwakifc-homegame/",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/20e1a76f5f55c0b82dc8ea4098cb333c-350x263.jpg"
         },
         {
           "title": "イベント 福島県内外で活躍するハンドメイド作家が福島市「まちなか広場」に集合！ HEARTFUL MARCHE 2026年10月11日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/423a8f87c18ad23609f3d7b1969a34c0-350x263.jpg"
         },
         {
           "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
-          "first_seen": "2026-10-04T09:11:17+00:00"
+          "first_seen": "2026-10-04T09:11:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/04/30e4a6b7225b1d34ab77aa477d35eb5b-350x263.jpg"
         },
         {
           "title": "イベント 7台の山車が轟音を立ててぶつかり合う「あばれ山車」は圧巻！ 諏訪神社例大祭 針道のあばれ山車 2026年10月10日（土）・11日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261003suwa-abare-dashi/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/13ace45de45e10391a82b2c8b6e9c2b9-350x263.jpg"
         },
         {
           "title": "イベント 福島の三大鶏が三島町に大集合！ 第4回 ふくしま三大鶏フェスin三島町 2026年10月10日（土）",
           "url": "https://www.cjnavi.co.jp/event/20261003sandorifes-fukushima/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
+          "first_seen": "2026-10-03T08:45:47+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/26598cf54adfe3a08a4936b4e4f5c117-350x263.jpg"
         },
         {
           "title": "イベント 福島市「福島県立美術館」で江戸から明治に描かれた、多彩な猫の姿を鑑賞… Ukiyo-e 猫百科 ごろごろまるまるネコづくし 2026年10月10日（土）～12月6日（日）",
@@ -1074,29 +1116,15 @@
         {
           "title": "月刊CJ Monmo 2026年10月号",
           "url": "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "福島おとな旅特別版「あの街、あの風景へ」",
-          "url": "https://www.cjnavi.co.jp/magazine/20260925anomachi-anofuukeie2026-2027/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "ライフ 『モンモ良品』でふくしまの秋の味覚や名産品をお取り寄せ！おすすめ新商… 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、会津で採れ...",
-          "url": "https://www.cjnavi.co.jp/life/20260924monmoryouhin/",
-          "first_seen": "2026-09-24T08:00:24+00:00"
-        },
-        {
-          "title": "イベント AD さかなのおにいさん かわちゃんと海の仕事の魅力を楽しく学べる『海のおし… 海のおしごとトークショー 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260924uminoshigoto-talkshow/",
-          "first_seen": "2026-09-24T08:00:24+00:00"
+          "first_seen": "2026-09-25T08:24:48+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/a5e6a9c7d81900502a0be250f45abc9f-350x162.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-07T01:24:19+00:00",
+      "last_checked": "2026-10-07T02:37:10+00:00",
       "last_update": "2026-10-07T01:24:19+00:00",
       "last_status": "ok",
       "last_error": null,
