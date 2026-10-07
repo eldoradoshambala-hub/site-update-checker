@@ -27,13 +27,17 @@ LIST_PAGE = """<!DOCTYPE html>
 """
 
 
-def write_list_page(root, articles):
+def write_list_page(root, articles, *, with_images=False):
     """記事一覧ページを書き出す。``articles`` は (URLのスラグ, 見出し) の並び。
 
     実サイトと同じく、記事ごとにURLは固定で、新しい記事が先頭に積まれる想定。
+    ``with_images`` を指定すると、記事ごとにサムネイル画像を添える。
     """
+    def thumbnail(slug):
+        return f'<img src="/img/{slug}.jpg" alt="" loading="lazy">' if with_images else ""
+
     items = "\n".join(
-        f'<li><a href="/news/{slug}.html">{title}</a></li>' for slug, title in articles
+        f'<li><a href="/news/{slug}.html">{thumbnail(slug)}{title}</a></li>' for slug, title in articles
     )
     (root / "news").mkdir(exist_ok=True)
     (root / "news" / "index.html").write_text(LIST_PAGE.format(items=items), encoding="utf-8")
@@ -159,3 +163,19 @@ def test_state_survives_a_save_and_reload_cycle(tmp_path, server):
     result = run(config, reloaded, timestamp="2026-08-03T03:00:00+00:00")[0]
     assert result.new_items == []
     assert result.seeded_now is False
+
+
+def test_thumbnails_reach_the_feed(tmp_path, server):
+    write_list_page(tmp_path, [("a", "お知らせA")], with_images=True)
+    config = make_config(server)
+    state = State()
+    for result in run(config, state, timestamp="2026-08-03T00:00:00+00:00"):  # 初回登録
+        state.set_site(result.site.id, result.state)
+
+    write_list_page(tmp_path, [("b", "お知らせB"), ("a", "お知らせA")], with_images=True)
+    results = run(config, state, timestamp="2026-08-03T03:00:00+00:00")
+    feed = build_feed(results, generated_at="2026-08-03T03:00:00+00:00")
+
+    assert feed["timeline"][0]["title"] == "お知らせB"
+    assert feed["timeline"][0]["image"] == f"{server}/img/b.jpg"
+    assert feed["sites"][0]["items"][0]["image"] == f"{server}/img/b.jpg"

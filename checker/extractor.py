@@ -43,6 +43,24 @@ _TRACKING_PARAMS = {"fbclid", "gclid", "mc_cid", "mc_eid", "yclid", "igshid", "_
 
 _WHITESPACE = re.compile(r"\s+")
 
+#: 遅延読み込みで本来の画像URLが入る属性。src には仮の画像が入っていることがあるので先に見る。
+_LAZY_SRC_ATTRS = ("data-src", "data-lazy-src", "data-original", "data-lazy", "data-echo")
+_SRCSET_ATTRS = ("data-srcset", "data-lazy-srcset", "srcset")
+#: 背景画像を遅延読み込みするときの属性。
+_LAZY_BACKGROUND_ATTRS = ("data-bg", "data-background", "data-background-image", "data-bg-src")
+_CSS_URL = re.compile(r"url\(\s*(['\"]?)(.+?)\1\s*\)", re.I)
+
+#: 記事の画像ではない（読み込み中の仮画像や「No Image」）とみなすファイル名。
+_PLACEHOLDER_IMAGE = re.compile(
+    r"no[-_]?(image|img|photo)|now[-_]?printing|spacer|blank|placeholder|loading|lazy", re.I
+)
+
+#: width/height 属性がこれ未満の画像はアイコンや計測用とみなす（px）。
+MIN_IMAGE_SIZE = 40
+
+#: リンクの中に画像が無いとき、何階層上まで「そのリンク専用の囲み（カード）」を探すか。
+CARD_DEPTH = 3
+
 
 @dataclass(frozen=True)
 class Link:
@@ -50,6 +68,8 @@ class Link:
 
     url: str
     title: str
+    #: 一覧ページで記事に添えられていた画像のURL。見つからなければ空文字。
+    image: str = ""
 
 
 def normalize_url(url: str) -> str:
@@ -102,6 +122,117 @@ def _link_title(anchor) -> str:
         if alt:
             return alt
     return _clean_text(anchor.get("title") or "")
+
+
+def _resolve_href(href: str, base_url: str) -> str | None:
+    """href を比較用の絶対URLにする。ページ内リンクや javascript: などは None。"""
+    href = href.strip()
+    if not href or href.startswith(("#", "javascript:", "mailto:", "tel:", "data:")):
+        return None
+    absolute = urljoin(base_url, href)
+    if urlsplit(absolute).scheme not in ("http", "https"):
+        return None
+    return normalize_url(absolute)
+
+
+def _image_url(raw: str | None, base_url: str) -> str:
+    """画像として使えるURLなら絶対URLにして返す。仮画像やアイコンらしいものは空文字。"""
+    raw = (raw or "").strip()
+    if not raw or raw.startswith("data:"):
+        return ""
+    absolute = urljoin(base_url, raw)
+    parts = urlsplit(absolute)
+    if parts.scheme not in ("http", "https") or len(absolute) > 2048:
+        return ""
+    filename = parts.path.rsplit("/", 1)[-1]
+    # SVG はほぼアイコン。記事の写真に使われることはまずない。
+    if filename.lower().endswith(".svg") or _PLACEHOLDER_IMAGE.search(filename):
+        return ""
+    return absolute
+
+
+def _is_tiny(image) -> bool:
+    """width/height 属性からアイコンや計測用の画像と分かるか。"""
+    for attr in ("width", "height"):
+        match = re.match(r"\s*(\d+)", image.get(attr) or "")
+        if match and int(match.group(1)) < MIN_IMAGE_SIZE:
+            return True
+    return False
+
+
+def _img_source(image, base_url: str) -> str:
+    """<img> の画像URL。遅延読み込みの属性、src、srcset の順に見る。"""
+    if _is_tiny(image):
+        return ""
+    for attr in _LAZY_SRC_ATTRS + ("src",):
+        url = _image_url(image.get(attr), base_url)
+        if url:
+            return url
+    for attr in _SRCSET_ATTRS:
+        # srcset="a.jpg 300w, b.jpg 768w"。URL自体がカンマを含むことがあるので、
+        # カンマでは割らずに先頭の候補（最初の空白まで）だけを使う。
+        first = (image.get(attr) or "").split()
+        if first:
+            url = _image_url(first[0].rstrip(","), base_url)
+            if url:
+                return url
+    return ""
+
+
+def _background_source(node, base_url: str) -> str:
+    """style="background-image: url(...)" や data-bg に書かれた画像URL。"""
+    for attr in _LAZY_BACKGROUND_ATTRS + ("style",):
+        value = node.get(attr)
+        if not value:
+            continue
+        match = _CSS_URL.search(value)
+        if match:
+            url = _image_url(match.group(2), base_url)
+        elif attr != "style":
+            url = _image_url(value, base_url)
+        else:
+            url = ""
+        if url:
+            return url
+    return ""
+
+
+def _first_image(node, base_url: str) -> str:
+    """要素とその中から、最初に見つかった記事画像のURL。"""
+    for element in [node, *node.find_all(True)]:
+        url = _img_source(element, base_url) if element.name == "img" else ""
+        url = url or _background_source(element, base_url)
+        if url:
+            return url
+    return ""
+
+
+def _link_image(anchor, url: str, base_url: str) -> str:
+    """リンクに添える画像のURL。見つからなければ空文字。
+
+    まずリンクの中を探す。無ければ親をたどり、「このリンクと同じURLへのリンクしか
+    含まない要素」（記事1件分のカード）の中を探す。別の記事へのリンクが混ざる要素まで
+    来たら一覧そのものなので、他の記事の画像を取り違えないようにそこで諦める。
+    """
+    image = _first_image(anchor, base_url)
+    if image:
+        return image
+
+    def links_elsewhere(tag) -> bool:
+        return tag.name == "a" and _resolve_href(tag.get("href") or "", base_url) not in (None, url)
+
+    node = anchor
+    for _ in range(CARD_DEPTH):
+        node = node.parent
+        if node is None or node.name in ("body", "html", "[document]"):
+            break
+        # find() は最初の1件で打ち切るので、長い一覧でも全リンクを調べずに済む。
+        if node.find(links_elsewhere) is not None:
+            return ""
+        image = _first_image(node, base_url)
+        if image:
+            return image
+    return ""
 
 
 #: 記事一覧が置かれることのない領域。ここに入るリンクはナビゲーションとみなす。
@@ -162,20 +293,12 @@ def extract_links(
 
     links: dict[str, Link] = {}
     for anchor in _anchors(soup, site.selector, site.skip_navigation):
-        href = (anchor.get("href") or "").strip()
-        if not href or href.startswith(("#", "javascript:", "mailto:", "tel:", "data:")):
+        url = _resolve_href(anchor.get("href") or "", base_url)
+        if url is None or url == page_key:
             continue
 
-        absolute = urljoin(base_url, href)
-        parts = urlsplit(absolute)
-        if parts.scheme not in ("http", "https"):
-            continue
-
-        url = normalize_url(absolute)
-        if url == page_key:
-            continue
-
-        path = urlsplit(url).path
+        parts = urlsplit(url)
+        path = parts.path
         if path in ("", "/"):
             # サイトのトップページは更新の目印にならない。
             continue
@@ -195,11 +318,14 @@ def extract_links(
             continue
 
         existing = links.get(url)
+        if existing is not None and existing.title and existing.image:
+            continue
+        image = _link_image(anchor, url, base_url)
         if existing is None:
-            links[url] = Link(url=url, title=title)
-        elif not existing.title and title:
-            # 同じURLが画像リンクとテキストリンクで2回出るケース。文字列がある方を採る。
-            links[url] = Link(url=url, title=title)
+            links[url] = Link(url=url, title=title, image=image)
+        else:
+            # 同じURLが画像リンクとテキストリンクで2回出るケース。欠けている方を補い合う。
+            links[url] = Link(url=url, title=existing.title or title, image=existing.image or image)
 
     return list(links.values())
 
