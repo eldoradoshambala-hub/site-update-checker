@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T09:36:38+00:00",
+  "generated_at": "2026-10-08T09:47:02+00:00",
   "site_count": 2,
-  "new_count": 2,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-07T09:36:38+00:00",
-      "last_update": "2026-10-07T02:37:10+00:00",
-      "new_count": 0,
+      "last_checked": "2026-10-08T09:47:02+00:00",
+      "last_update": "2026-10-08T09:47:02+00:00",
+      "new_count": 1,
       "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 郡山市堤にレストラン『しもみ家』がオープン。ジャンルを超えて味わうこ… Pas Mal しもみ家（や）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261008newopen-shimomiya/",
+          "first_seen": "2026-10-08T09:47:02+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/80d1fd1d45bf0ab13f2dc1958bbfc5d1-350x263.jpg"
+        },
         {
           "title": "おでかけ 【福島県】この秋行きたい！絶景の紅葉スポット7選 10月上旬から11月中旬にかけて見頃を迎える、福島市・伊達市・鮫川村・猪苗代町・喜多方市・...",
           "url": "https://www.cjnavi.co.jp/trip/20261007kouyou-spot/",
@@ -278,12 +284,6 @@
           "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
           "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
           "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "月刊CJ Monmo 2026年10月号",
-          "url": "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/",
-          "first_seen": "2026-09-25T08:24:48+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/a5e6a9c7d81900502a0be250f45abc9f-350x162.jpg"
         }
       ]
     },
@@ -294,12 +294,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-07T09:36:38+00:00",
-      "last_update": "2026-10-07T09:36:38+00:00",
-      "new_count": 2,
+      "last_checked": "2026-10-08T09:47:02+00:00",
+      "last_update": "2026-10-08T09:47:02+00:00",
+      "new_count": 3,
       "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、Google ドキュメント・スプレッドシート・スライドにClaude統合 直接編集とチャットからの作成に対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_google_workspace_beta",
+          "first_seen": "2026-10-08T09:47:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Introducing_Claude_for_Google_Workspace_0f71986ea3/Introducing_Claude_for_Google_Workspace_0f71986ea3.jpg"
+        },
+        {
+          "title": "Anthropic、ロボットは身体作業の74％を実行可能と推計 人間より安く担えるのは全労働時間の0.3％のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_robot_work_exposure",
+          "first_seen": "2026-10-08T09:47:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b.jpg"
+        },
+        {
+          "title": "生成AIを巡る問題が各所で噴出 国内の不正アクセス被害公表は最多ペース、日販子会社がAnthropicに書籍を無断販売のサムネイル画像",
+          "url": "https://ledge.ai/articles/generative_ai_information_use_nippan_cybersecurity",
+          "first_seen": "2026-10-08T09:47:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329.jpg"
+        },
         {
           "title": "マスク氏、SpaceXAIを「SpaceXSI」に改称する意向 トランプ政権の「AI→SI」呼称変更後にのサムネイル画像",
           "url": "https://ledge.ai/articles/spacexai_spacexsi_name_change",
@@ -556,26 +574,43 @@
           "title": "トランプ米大統領、AIを「スーパー・インテリジェンス」と呼ぶと表明 国務省の一部で「SI」使用指示ものサムネイル画像",
           "url": "https://ledge.ai/articles/trump_ai_super_intelligence",
           "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
-          "url": "https://ledge.ai/articles/typesafe_jev_system_one_model",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "Gartner、2026年の世界AI支出を2.7兆ドルと予測 前年比49.5％増、インフラ投資が牽引のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_ai_spending_2026",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
-          "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
-          "first_seen": "2026-09-25T08:24:48+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 郡山市堤にレストラン『しもみ家』がオープン。ジャンルを超えて味わうこ… Pas Mal しもみ家（や）",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261008newopen-shimomiya/",
+      "first_seen": "2026-10-08T09:47:02+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/80d1fd1d45bf0ab13f2dc1958bbfc5d1-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Google ドキュメント・スプレッドシート・スライドにClaude統合 直接編集とチャットからの作成に対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/claude_google_workspace_beta",
+      "first_seen": "2026-10-08T09:47:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Introducing_Claude_for_Google_Workspace_0f71986ea3/Introducing_Claude_for_Google_Workspace_0f71986ea3.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、ロボットは身体作業の74％を実行可能と推計 人間より安く担えるのは全労働時間の0.3％のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_robot_work_exposure",
+      "first_seen": "2026-10-08T09:47:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "生成AIを巡る問題が各所で噴出 国内の不正アクセス被害公表は最多ペース、日販子会社がAnthropicに書籍を無断販売のサムネイル画像",
+      "url": "https://ledge.ai/articles/generative_ai_information_use_nippan_cybersecurity",
+      "first_seen": "2026-10-08T09:47:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1341,38 +1376,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
       "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "月刊CJ Monmo 2026年10月号",
-      "url": "https://www.cjnavi.co.jp/magazine/20260925cjmonmo-63/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/a5e6a9c7d81900502a0be250f45abc9f-350x162.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "元OpenAI研究者が率いるTypeSafe AI、プログラムの判断に特化した「Jev」を公開 文章を生成せず、選択肢や確率を返すのサムネイル画像",
-      "url": "https://ledge.ai/articles/typesafe_jev_system_one_model",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Gartner、2026年の世界AI支出を2.7兆ドルと予測 前年比49.5％増、インフラ投資が牽引のサムネイル画像",
-      "url": "https://ledge.ai/articles/gartner_ai_spending_2026",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、米国の10代AI利用調査を公開 94%が過去1年に利用、利用経験者の74%が週1回以上“学習パートナー”にのサムネイル画像",
-      "url": "https://ledge.ai/articles/google_us_teens_ai_usage_survey",
       "first_seen": "2026-09-25T08:24:48+00:00",
       "image": ""
     }
