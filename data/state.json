@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T09:47:03+00:00",
+  "updated_at": "2026-10-09T09:52:44+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-08T09:47:02+00:00",
+      "last_checked": "2026-10-09T09:51:39+00:00",
       "last_update": "2026-10-08T09:47:02+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
+      "last_status": "error",
+      "last_error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -1129,8 +1129,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-08T09:47:02+00:00",
-      "last_update": "2026-10-08T09:47:02+00:00",
+      "last_checked": "2026-10-09T09:51:39+00:00",
+      "last_update": "2026-10-09T09:51:39+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2282,9 +2282,69 @@
         "https://ledge.ai/articles/generative_ai_information_use_nippan_cybersecurity": {
           "title": "生成AIを巡る問題が各所で噴出 国内の不正アクセス被害公表は最多ペース、日販子会社がAnthropicに書籍を無断販売のサムネイル画像",
           "first_seen": "2026-10-08T09:47:02+00:00"
+        },
+        "https://ledge.ai/articles/google_cloud_gemini_agent": {
+          "title": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続のサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
+        },
+        "https://ledge.ai/articles/mistral_large_4_public_preview": {
+          "title": "仏Mistral、1兆パラメータの「Mistral Large 4」プレビュー開始 モデルの重みは10月末に公開予定のサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
+        },
+        "https://ledge.ai/articles/LayerX_token_management_interview": {
+          "title": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメントのサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
+        },
+        "https://ledge.ai/articles/reflection_beam_open_weight_model": {
+          "title": "米Reflection、5010億パラメーターの「Beam」発表 推論効率を重視、10月中にApache 2.0で重み公開へのサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
+        },
+        "https://ledge.ai/articles/ledge_ai_study_session_202609_report": {
+          "title": "AIに任せられる仕事と、任せられない仕事。その境界はどこにある？――第6回 Ledge.ai AI勉強会 開催レポートのサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_visual_ads_image_generation": {
+          "title": "OpenAI、ChatGPTの画像生成中にビジュアル広告を表示へ 10月後半から米国でテストのサムネイル画像",
+          "first_seen": "2026-10-09T09:51:39+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_cloud_gemini_agent",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HUIP_Wf0ag_A_Ar_P_0_78419ee0ad/HUIP_Wf0ag_A_Ar_P_0_78419ee0ad.jpg"
+        },
+        {
+          "title": "仏Mistral、1兆パラメータの「Mistral Large 4」プレビュー開始 モデルの重みは10月末に公開予定のサムネイル画像",
+          "url": "https://ledge.ai/articles/mistral_large_4_public_preview",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/mistral_large4_c9351270a2/mistral_large4_c9351270a2.jpg"
+        },
+        {
+          "title": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメントのサムネイル画像",
+          "url": "https://ledge.ai/articles/LayerX_token_management_interview",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2102_05668c9479/IMG_2102_05668c9479.jpg"
+        },
+        {
+          "title": "米Reflection、5010億パラメーターの「Beam」発表 推論効率を重視、10月中にApache 2.0で重み公開へのサムネイル画像",
+          "url": "https://ledge.ai/articles/reflection_beam_open_weight_model",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6.jpg"
+        },
+        {
+          "title": "AIに任せられる仕事と、任せられない仕事。その境界はどこにある？――第6回 Ledge.ai AI勉強会 開催レポートのサムネイル画像",
+          "url": "https://ledge.ai/articles/ledge_ai_study_session_202609_report",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9_1_000e8dce9a/9_1_000e8dce9a.png"
+        },
+        {
+          "title": "OpenAI、ChatGPTの画像生成中にビジュアル広告を表示へ 10月後半から米国でテストのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_visual_ads_image_generation",
+          "first_seen": "2026-10-09T09:51:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/heirloom_grocery_visual_ads_hero_ae846d8fa5/heirloom_grocery_visual_ads_hero_ae846d8fa5.jpg"
+        },
         {
           "title": "Anthropic、Google ドキュメント・スプレッドシート・スライドにClaude統合 直接編集とチャットからの作成に対応のサムネイル画像",
           "url": "https://ledge.ai/articles/claude_google_workspace_beta",
@@ -2529,36 +2589,6 @@
           "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
           "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
           "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "OpenAIのAIエージェント、6月に豪政府サイトに不正アクセスと公表 拒否後に制限を迂回、非公開ファイルにもアクセスのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_ai_agent_australia_breach",
-          "first_seen": "2026-09-27T08:48:46+00:00"
-        },
-        {
-          "title": "Meta、たまごっち風のAI端末「Muse Charm」発表 ポケットサイズで専用AIエージェントと会話のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_charm",
-          "first_seen": "2026-09-27T08:48:46+00:00"
-        },
-        {
-          "title": "AnthropicのClaude、バクテリオファージから未知の酵素システムを発見 ゲノム編集に利用のCRISPRに似た反復配列 、アモデイ氏は医学研究の加速に期待のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_art_discovery",
-          "first_seen": "2026-09-27T08:48:46+00:00"
-        },
-        {
-          "title": "フィンランド・ノルウェー、最先端AIの事前テスト義務化を呼びかけ フランスも支持、米中は署名者一覧に含まれずのサムネイル画像",
-          "url": "https://ledge.ai/articles/finland_norway_frontier_ai_control",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "OpenAI、数学者の独立組織「AGMAI」と連携でAI研究成果の公開に助言 暗号研究でもAstraで1941年のエニグマ解読の事例ものサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_agmai_enigma",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "トランプ米大統領、AIを「スーパー・インテリジェンス」と呼ぶと表明 国務省の一部で「SI」使用指示ものサムネイル画像",
-          "url": "https://ledge.ai/articles/trump_ai_super_intelligence",
-          "first_seen": "2026-09-26T08:11:59+00:00"
         }
       ]
     }
