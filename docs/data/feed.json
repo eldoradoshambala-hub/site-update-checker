@@ -1,23 +1,59 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T09:51:39+00:00",
+  "generated_at": "2026-10-10T09:15:59+00:00",
   "site_count": 2,
-  "new_count": 6,
-  "error_count": 1,
+  "new_count": 9,
+  "error_count": 0,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "error",
-      "error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
-      "last_checked": "2026-10-09T09:51:39+00:00",
-      "last_update": "2026-10-08T09:47:02+00:00",
-      "new_count": 0,
-      "link_count": 0,
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-10-10T09:15:59+00:00",
+      "last_update": "2026-10-10T09:15:59+00:00",
+      "new_count": 6,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 落語家の三遊亭小遊三ら豪華メンバーが郡山市に登場！2027年の初笑いを楽… こおりやま寄席 新春言祝ぎ席 2027年1月17日（日） ［チケット一般販売］2026年10月17日（土）～",
+          "url": "https://www.cjnavi.co.jp/event/20261010koriyama-yose/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/91cb1ff069497c81b9569abf240f8cdb-350x263.jpg"
+        },
+        {
+          "title": "イベント 浅野和之主演のマイムで描く新感覚の「シンデレラ」をいわき市で上演 こどもの劇場2026 カンパニーデラシネラ 古典名作劇場「シンデレラ」 2026年12月13日（日） ［チケット一般販売］2026年10月17日（土）～",
+          "url": "https://www.cjnavi.co.jp/event/20261010cinderella-iwakialios/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/261fb3ca5775bca3c6adb7cfbaa19518-350x263.jpg"
+        },
+        {
+          "title": "イベント 喜多方市の大空に色とりどりのバルーンが舞う 会津塩川バルーンフェスティバル2026 2026年10月17日（土）・18日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261010aizushiokawa-balloon/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/47eaff22ed6fe6b28def53ccd7ffeb71-350x263.jpg"
+        },
+        {
+          "title": "イベント 郡山市「善導寺」で初のお寺寄席を開催！落語家・春風亭朝枝の落語会を楽… 郡山若手落語会 こいらく「春風亭朝枝落語会」 2026年10月17日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261010syunputei-cyoushi/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/daf59b1fdac8aa5334db26cb5341c1ae-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 稲刈り＆焼き芋、新米おにぎりも！本宮市で秋の収穫祭を開催！ どろんこ田んぼ遊び 2026−秋の収穫祭− 2026年11月3日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261009tanboasobi-motomiya/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/362aa06f239ccc4d9240e62014c71ce1-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 【福島県】会津エリアのものづくり体験スポット＆立ち寄りランチスポット 古くから伝わる藍染めや会津ならではの赤べこの絵付け、からむし織など、会津のものづくりを...",
+          "url": "https://www.cjnavi.co.jp/trip/20261009aizu-taiken-lunch/",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d1fc1b12399aafd1f08401ad8276e733-350x263.jpg"
+        },
         {
           "title": "グルメ 郡山市堤にレストラン『しもみ家』がオープン。ジャンルを超えて味わうこ… Pas Mal しもみ家（や）",
           "url": "https://www.cjnavi.co.jp/gourmet/20261008newopen-shimomiya/",
@@ -254,36 +290,6 @@
           "title": "グルメ AD 【秋のおでかけ2026】野菜や卵を『直売・カフェ こころや』のランチでゆっ… 直売・カフェ こころや",
           "url": "https://www.cjnavi.co.jp/gourmet/20260925kokoroya/",
           "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "おでかけ AD 【あの街、あの風景へ2026×新地町】四季をめぐる、新地町の旅へ。海・里・… 白幡のイチョウ／鹿狼山／新地町チューリップ祭り／新地町海釣り公園",
-          "url": "https://www.cjnavi.co.jp/trip/20260925shinchi-town/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "グルメ AD 【あの街、あの風景へ2026×六代目 鰻のえびや】明治35年創業、会津の老舗… 六代目 鰻のえびや",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260925unagino-ebiya/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "ライフ AD 【あの街、あの風景へ2026】福島市・相馬市で出合う、上質セレクション8選 福島には、特別な日を彩る名店や温泉宿、心豊かな時間を演出する逸品が数多くある。大切な人...",
-          "url": "https://www.cjnavi.co.jp/life/20260925joushitsu-collection/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "おでかけ AD 【あの街、あの風景へ2026】海と空の絶景を、『碧ノ音』で誰にも邪魔され… 空と海の隠れ家 碧ノ音（かのん）",
-          "url": "https://www.cjnavi.co.jp/trip/20260925kanon/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "グルメ AD 【あの街、あの風景へ2026】『団欒かとう』が提供する「一食入魂」の創作… 団欒（だんらん）かとう",
-          "url": "https://www.cjnavi.co.jp/gourmet/20260925danran-kato/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
-          "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
         }
       ]
     },
@@ -294,12 +300,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-09T09:51:39+00:00",
-      "last_update": "2026-10-09T09:51:39+00:00",
-      "new_count": 6,
-      "link_count": 41,
+      "last_checked": "2026-10-10T09:15:59+00:00",
+      "last_update": "2026-10-10T09:15:59+00:00",
+      "new_count": 3,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、AIが生成した数学原稿722本を公開 翌日に3本を撤回、証明の検証資料も共有のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_ai_mathematics_manuscripts",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/iolr_IW_Sp_1e14d0a42e/iolr_IW_Sp_1e14d0a42e.jpg"
+        },
+        {
+          "title": "Anthropic、防御側のClaude利用制限を3段階化で緩和 Mythos 5.1も対象、個人研究者から重要インフラまでのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_cyber_verification_program_expansion",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Expanding_the_Cyber_Verification_Program_0ea55c7c49/Expanding_the_Cyber_Verification_Program_0ea55c7c49.jpg"
+        },
+        {
+          "title": "AI推論の「通信待ち」でGPUが待機 スタンフォード大名誉教授、通信プロトコル「TCP」に代わる「Homa」を提案のサムネイル画像",
+          "url": "https://ledge.ai/articles/homa_ai_datacenter_transport",
+          "first_seen": "2026-10-10T09:15:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350.jpg"
+        },
         {
           "title": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続のサムネイル画像",
           "url": "https://ledge.ai/articles/google_cloud_gemini_agent",
@@ -565,26 +589,83 @@
           "title": "OpenAI、内部研究用「最も能力の高いモデル群」のツール使用を伴う学習・評価・推論を一時停止 内部AIがDNS経由で外部チャットボットに接続のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_tool_use_pause",
           "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "ビジネス 2026 / 9 / 28 [MON] Amazon、MetaのAIエージェント「Muse」の購入代行をブロック 透明性とサービス側の意思尊重を要求",
-          "url": "https://ledge.ai/articles/amazon_blocks_meta_muse_shopping",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "Xiaomi、マルチモーダルAI「MiMo-V2.6-Pro／Flash」と強化学習の環境・コードを公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/xiaomi_mimo_v2_6_pro_flash_release",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
-          "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
-          "first_seen": "2026-09-28T09:12:24+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 落語家の三遊亭小遊三ら豪華メンバーが郡山市に登場！2027年の初笑いを楽… こおりやま寄席 新春言祝ぎ席 2027年1月17日（日） ［チケット一般販売］2026年10月17日（土）～",
+      "url": "https://www.cjnavi.co.jp/event/20261010koriyama-yose/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/91cb1ff069497c81b9569abf240f8cdb-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 浅野和之主演のマイムで描く新感覚の「シンデレラ」をいわき市で上演 こどもの劇場2026 カンパニーデラシネラ 古典名作劇場「シンデレラ」 2026年12月13日（日） ［チケット一般販売］2026年10月17日（土）～",
+      "url": "https://www.cjnavi.co.jp/event/20261010cinderella-iwakialios/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/261fb3ca5775bca3c6adb7cfbaa19518-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 喜多方市の大空に色とりどりのバルーンが舞う 会津塩川バルーンフェスティバル2026 2026年10月17日（土）・18日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261010aizushiokawa-balloon/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/47eaff22ed6fe6b28def53ccd7ffeb71-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 郡山市「善導寺」で初のお寺寄席を開催！落語家・春風亭朝枝の落語会を楽… 郡山若手落語会 こいらく「春風亭朝枝落語会」 2026年10月17日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261010syunputei-cyoushi/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/daf59b1fdac8aa5334db26cb5341c1ae-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 稲刈り＆焼き芋、新米おにぎりも！本宮市で秋の収穫祭を開催！ どろんこ田んぼ遊び 2026−秋の収穫祭− 2026年11月3日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261009tanboasobi-motomiya/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/362aa06f239ccc4d9240e62014c71ce1-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【福島県】会津エリアのものづくり体験スポット＆立ち寄りランチスポット 古くから伝わる藍染めや会津ならではの赤べこの絵付け、からむし織など、会津のものづくりを...",
+      "url": "https://www.cjnavi.co.jp/trip/20261009aizu-taiken-lunch/",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d1fc1b12399aafd1f08401ad8276e733-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、AIが生成した数学原稿722本を公開 翌日に3本を撤回、証明の検証資料も共有のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_ai_mathematics_manuscripts",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/iolr_IW_Sp_1e14d0a42e/iolr_IW_Sp_1e14d0a42e.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、防御側のClaude利用制限を3段階化で緩和 Mythos 5.1も対象、個人研究者から重要インフラまでのサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_cyber_verification_program_expansion",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Expanding_the_Cyber_Verification_Program_0ea55c7c49/Expanding_the_Cyber_Verification_Program_0ea55c7c49.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AI推論の「通信待ち」でGPUが待機 スタンフォード大名誉教授、通信プロトコル「TCP」に代わる「Homa」を提案のサムネイル画像",
+      "url": "https://ledge.ai/articles/homa_ai_datacenter_transport",
+      "first_seen": "2026-10-10T09:15:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1210,30 +1291,6 @@
       "image": ""
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ビジネス 2026 / 9 / 28 [MON] Amazon、MetaのAIエージェント「Muse」の購入代行をブロック 透明性とサービス側の意思尊重を要求",
-      "url": "https://ledge.ai/articles/amazon_blocks_meta_muse_shopping",
-      "first_seen": "2026-09-28T09:12:24+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Xiaomi、マルチモーダルAI「MiMo-V2.6-Pro／Flash」と強化学習の環境・コードを公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/xiaomi_mimo_v2_6_pro_flash_release",
-      "first_seen": "2026-09-28T09:12:24+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "NTTドコモビジネス、「docomo business SIGN」を拡充 IoTデータからAI推論まで一体化、数万回線の管理にも対応へのサムネイル画像",
-      "url": "https://ledge.ai/articles/ntt_docomo_business_sign_ai_iot_expansion",
-      "first_seen": "2026-09-28T09:12:24+00:00",
-      "image": ""
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
@@ -1334,54 +1391,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ AD 【秋のおでかけ2026】野菜や卵を『直売・カフェ こころや』のランチでゆっ… 直売・カフェ こころや",
       "url": "https://www.cjnavi.co.jp/gourmet/20260925kokoroya/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ AD 【あの街、あの風景へ2026×新地町】四季をめぐる、新地町の旅へ。海・里・… 白幡のイチョウ／鹿狼山／新地町チューリップ祭り／新地町海釣り公園",
-      "url": "https://www.cjnavi.co.jp/trip/20260925shinchi-town/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【あの街、あの風景へ2026×六代目 鰻のえびや】明治35年創業、会津の老舗… 六代目 鰻のえびや",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260925unagino-ebiya/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【あの街、あの風景へ2026】福島市・相馬市で出合う、上質セレクション8選 福島には、特別な日を彩る名店や温泉宿、心豊かな時間を演出する逸品が数多くある。大切な人...",
-      "url": "https://www.cjnavi.co.jp/life/20260925joushitsu-collection/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ AD 【あの街、あの風景へ2026】海と空の絶景を、『碧ノ音』で誰にも邪魔され… 空と海の隠れ家 碧ノ音（かのん）",
-      "url": "https://www.cjnavi.co.jp/trip/20260925kanon/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【あの街、あの風景へ2026】『団欒かとう』が提供する「一食入魂」の創作… 団欒（だんらん）かとう",
-      "url": "https://www.cjnavi.co.jp/gourmet/20260925danran-kato/",
-      "first_seen": "2026-09-25T08:24:48+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "ライフ AD 【あの街、あの風景へ2026】肌にやさしく響く、プロフェッショナルサロン… リファインスペースMs（ミズ）",
-      "url": "https://www.cjnavi.co.jp/life/20260925refine-space-ms/",
       "first_seen": "2026-09-25T08:24:48+00:00",
       "image": ""
     }
