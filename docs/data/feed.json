@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T10:03:12+00:00",
+  "generated_at": "2026-10-13T09:55:39+00:00",
   "site_count": 2,
-  "new_count": 3,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-12T10:03:12+00:00",
+      "last_checked": "2026-10-13T09:55:39+00:00",
       "last_update": "2026-10-11T09:32:49+00:00",
       "new_count": 0,
-      "link_count": 22,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
         {
@@ -304,12 +304,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-12T10:03:12+00:00",
-      "last_update": "2026-10-12T10:03:12+00:00",
-      "new_count": 3,
+      "last_checked": "2026-10-13T09:55:39+00:00",
+      "last_update": "2026-10-13T09:55:39+00:00",
+      "new_count": 4,
       "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、ChatGPTが音声ファイルの添付に対応 有料ユーザー向け、文字起こし・要約からメール下書きまでのサムネイル画像",
+          "url": "https://ledge.ai/articles/chatgpt_audio_file_upload",
+          "first_seen": "2026-10-13T09:55:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46.jpg"
+        },
+        {
+          "title": "バイブコーディングで開発したWebアプリ200件を監査、91％に脆弱性 Microsoft・NUS所属研究者らが原因分析のサムネイル画像",
+          "url": "https://ledge.ai/articles/vibe_coding_app_security_study",
+          "first_seen": "2026-10-13T09:55:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c.png"
+        },
+        {
+          "title": "三井不動産など3社、神戸の旧土砂運搬トンネルをAI向けデータセンターに転用 地下水で冷却、2027年末開始へのサムネイル画像",
+          "url": "https://ledge.ai/articles/kobe_underground_ai_datacenter",
+          "first_seen": "2026-10-13T09:55:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261006_01_557594d6b5/20261006_01_557594d6b5.jpg"
+        },
+        {
+          "title": "パナソニック コネクト、生成AIがカメラ画像を最短10分ごとに確認 「Cameleo」に文章で指示できる定期巡回機能のサムネイル画像",
+          "url": "https://ledge.ai/articles/panasonic_cameleo_ai_patrol",
+          "first_seen": "2026-10-13T09:55:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/l_jn261006_1_1_d18d690759/l_jn261006_1_1_d18d690759.jpg"
+        },
         {
           "title": "ビジネス 2026 / 10 / 12 [MON] Anthropic、Claudeへの継続的な「虐待」を利用ポリシーで禁止 通常の不満や研究は対象外、11月12日発効",
           "url": "https://ledge.ai/articles/anthropic_claude_usage_policy_update_2026",
@@ -579,31 +603,43 @@
           "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
           "url": "https://ledge.ai/articles/un_system_data_commons_ai",
           "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "【寄稿】ニューヨークで目を引いた「黄色いトヨタ」。街の変化から考える製造業とフィジカルAIのサムネイル画像",
-          "url": "https://ledge.ai/articles/brycen_us_report_2",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
-          "first_seen": "2026-09-30T09:11:29+00:00"
-        },
-        {
-          "title": "DeepL、Copilot・ChatGPT・Claudeから翻訳可能に MCP連携で文書翻訳や企業の用語集に対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/deepl_mcp_ai_assistants",
-          "first_seen": "2026-09-30T09:11:29+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、ChatGPTが音声ファイルの添付に対応 有料ユーザー向け、文字起こし・要約からメール下書きまでのサムネイル画像",
+      "url": "https://ledge.ai/articles/chatgpt_audio_file_upload",
+      "first_seen": "2026-10-13T09:55:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "バイブコーディングで開発したWebアプリ200件を監査、91％に脆弱性 Microsoft・NUS所属研究者らが原因分析のサムネイル画像",
+      "url": "https://ledge.ai/articles/vibe_coding_app_security_study",
+      "first_seen": "2026-10-13T09:55:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "三井不動産など3社、神戸の旧土砂運搬トンネルをAI向けデータセンターに転用 地下水で冷却、2027年末開始へのサムネイル画像",
+      "url": "https://ledge.ai/articles/kobe_underground_ai_datacenter",
+      "first_seen": "2026-10-13T09:55:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261006_01_557594d6b5/20261006_01_557594d6b5.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "パナソニック コネクト、生成AIがカメラ画像を最短10分ごとに確認 「Cameleo」に文章で指示できる定期巡回機能のサムネイル画像",
+      "url": "https://ledge.ai/articles/panasonic_cameleo_ai_patrol",
+      "first_seen": "2026-10-13T09:55:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/l_jn261006_1_1_d18d690759/l_jn261006_1_1_d18d690759.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1258,38 +1294,6 @@
       "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
       "url": "https://ledge.ai/articles/un_system_data_commons_ai",
       "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "【寄稿】ニューヨークで目を引いた「黄色いトヨタ」。街の変化から考える製造業とフィジカルAIのサムネイル画像",
-      "url": "https://ledge.ai/articles/brycen_us_report_2",
-      "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/gartner_japan_cloud_ai_hype_cycle_2026",
-      "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIに事業運営を丸ごと任せる Andon Labs、AIエージェント基盤「Pion」を研究プレビュー公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/andon_labs_pion_ai_company_management",
-      "first_seen": "2026-09-30T09:11:29+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "DeepL、Copilot・ChatGPT・Claudeから翻訳可能に MCP連携で文書翻訳や企業の用語集に対応のサムネイル画像",
-      "url": "https://ledge.ai/articles/deepl_mcp_ai_assistants",
-      "first_seen": "2026-09-30T09:11:29+00:00",
       "image": ""
     },
     {
