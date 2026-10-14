@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T09:55:39+00:00",
+  "generated_at": "2026-10-14T08:16:13+00:00",
   "site_count": 2,
   "new_count": 4,
   "error_count": 0,
@@ -12,10 +12,10 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-13T09:55:39+00:00",
+      "last_checked": "2026-10-14T08:16:13+00:00",
       "last_update": "2026-10-11T09:32:49+00:00",
       "new_count": 0,
-      "link_count": 21,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
         {
@@ -304,12 +304,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-13T09:55:39+00:00",
-      "last_update": "2026-10-13T09:55:39+00:00",
+      "last_checked": "2026-10-14T08:16:13+00:00",
+      "last_update": "2026-10-14T08:16:13+00:00",
       "new_count": 4,
-      "link_count": 42,
+      "link_count": 38,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンものサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_cyber_mission",
+          "first_seen": "2026-10-14T08:16:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0.jpg"
+        },
+        {
+          "title": "OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_safety_researchers_dismissal_letter",
+          "first_seen": "2026-10-14T08:16:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960.png"
+        },
+        {
+          "title": "イトーキと松尾研究所、854人の働き方をAI分析 会議は「長さ」より「数」が翌日の心の状態に影響のサムネイル画像",
+          "url": "https://ledge.ai/articles/itoki_matsuo_productivity_model",
+          "first_seen": "2026-10-14T08:16:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/itoki_aireserch_01_261002_7cdd8080bf/itoki_aireserch_01_261002_7cdd8080bf.png"
+        },
+        {
+          "title": "Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_decision_1",
+          "first_seen": "2026-10-14T08:16:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919.webp"
+        },
         {
           "title": "OpenAI、ChatGPTが音声ファイルの添付に対応 有料ユーザー向け、文字起こし・要約からメール下書きまでのサムネイル画像",
           "url": "https://ledge.ai/articles/chatgpt_audio_file_upload",
@@ -583,31 +607,43 @@
           "title": "日本郵便とKDDI、郵便局をAIドローンの拠点に 珠洲市で見守り・防災の実証開始のサムネイル画像",
           "url": "https://ledge.ai/articles/kddi_japan_post_drone_port",
           "first_seen": "2026-10-02T09:12:58+00:00"
-        },
-        {
-          "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収へ 空間知能・ワールドモデル研究を取り込むのサムネイル画像",
-          "url": "https://ledge.ai/articles/amd_world_labs_acquisition",
-          "first_seen": "2026-10-02T09:12:58+00:00"
-        },
-        {
-          "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "AIの「不正」と長期開発の実力を評価 CAISのCheatBenchとGoogleのAndroid Bench 2.0公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/cheatbench_android_bench_2",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/un_system_data_commons_ai",
-          "first_seen": "2026-10-01T09:39:01+00:00"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンものサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_cyber_mission",
+      "first_seen": "2026-10-14T08:16:13+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_safety_researchers_dismissal_letter",
+      "first_seen": "2026-10-14T08:16:13+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "イトーキと松尾研究所、854人の働き方をAI分析 会議は「長さ」より「数」が翌日の心の状態に影響のサムネイル画像",
+      "url": "https://ledge.ai/articles/itoki_matsuo_productivity_model",
+      "first_seen": "2026-10-14T08:16:13+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/itoki_aireserch_01_261002_7cdd8080bf/itoki_aireserch_01_261002_7cdd8080bf.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供のサムネイル画像",
+      "url": "https://ledge.ai/articles/microsoft_decision_1",
+      "first_seen": "2026-10-14T08:16:13+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919.webp"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1233,14 +1269,6 @@
       "image": ""
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収へ 空間知能・ワールドモデル研究を取り込むのサムネイル画像",
-      "url": "https://ledge.ai/articles/amd_world_labs_acquisition",
-      "first_seen": "2026-10-02T09:12:58+00:00",
-      "image": ""
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "ライフ 『モンモ良品』おすすめ！食欲の秋に、おうちで楽しむパン＆おやつ5選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、食欲の秋に...",
@@ -1269,30 +1297,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
-      "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、「GPT-6.1 Sol」を公開、前モデルから1週間で更新 GPT-6.1 Astraの公開見送りも、DevDayで判断処理APIや常時稼働エージェントなど発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_gpt_6_1_sol_devday_2026",
-      "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIの「不正」と長期開発の実力を評価 CAISのCheatBenchとGoogleのAndroid Bench 2.0公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/cheatbench_android_bench_2",
-      "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "国連、約4,400万の統計データ点を横断検索できる共通基盤を公開 自然言語検索・AIエージェント連携に対応のサムネイル画像",
-      "url": "https://ledge.ai/articles/un_system_data_commons_ai",
       "first_seen": "2026-10-01T09:39:01+00:00",
       "image": ""
     },
