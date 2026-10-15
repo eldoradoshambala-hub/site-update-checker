@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T08:16:16+00:00",
+  "updated_at": "2026-10-15T07:54:26+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-14T08:16:13+00:00",
+      "last_checked": "2026-10-15T07:53:21+00:00",
       "last_update": "2026-10-11T09:32:49+00:00",
-      "last_status": "ok",
-      "last_error": null,
-      "consecutive_errors": 0,
+      "last_status": "error",
+      "last_error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -1183,8 +1183,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-14T08:16:13+00:00",
-      "last_update": "2026-10-14T08:16:13+00:00",
+      "last_checked": "2026-10-15T07:53:21+00:00",
+      "last_update": "2026-10-15T07:53:21+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2428,9 +2428,59 @@
         "https://ledge.ai/articles/microsoft_decision_1": {
           "title": "Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供のサムネイル画像",
           "first_seen": "2026-10-14T08:16:13+00:00"
+        },
+        "https://ledge.ai/articles/microsoft_maia_300_ai_inference": {
+          "title": "Microsoft、自社製AIチップ「Maia 300」発表 2027年から展開、Azure Maiaを主力推論基盤へのサムネイル画像",
+          "first_seen": "2026-10-15T07:53:21+00:00"
+        },
+        "https://ledge.ai/articles/meta_muse_wonder_full": {
+          "title": "ビジネス 2026 / 10 / 15 [THU] Meta、最上位AIモデル「Muse Wonder」「Muse Wonder Full」発表 会話をまたぐ記憶と長時間の作業遂行を強化",
+          "first_seen": "2026-10-15T07:53:21+00:00"
+        },
+        "https://ledge.ai/articles/sb_intuitions_sarashina_free_beta": {
+          "title": "SB Intuitions、国産AI「Sarashina」の無償β版を一般公開 チャット・翻訳と6モデルのAPIを提供のサムネイル画像",
+          "first_seen": "2026-10-15T07:53:21+00:00"
+        },
+        "https://ledge.ai/articles/ari_interview_ai_native": {
+          "title": "AIで速く作れるほど、仕事の売り方が変わる。ARIが「AIネイティブ化」で直面した想定外と勝ち筋のサムネイル画像",
+          "first_seen": "2026-10-15T07:53:21+00:00"
+        },
+        "https://ledge.ai/articles/brycen_us_report_3": {
+          "title": "【寄稿】米国18州・15,000kmで見えた日本の機械。フィジカルAI時代に問われる「現実世界を扱う力」のサムネイル画像",
+          "first_seen": "2026-10-15T07:53:21+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Microsoft、自社製AIチップ「Maia 300」発表 2027年から展開、Azure Maiaを主力推論基盤へのサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
+          "first_seen": "2026-10-15T07:53:21+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Maia_300_prototype_chip_00_hero_0e8e425b7e/Maia_300_prototype_chip_00_hero_0e8e425b7e.jpg"
+        },
+        {
+          "title": "ビジネス 2026 / 10 / 15 [THU] Meta、最上位AIモデル「Muse Wonder」「Muse Wonder Full」発表 会話をまたぐ記憶と長時間の作業遂行を強化",
+          "url": "https://ledge.ai/articles/meta_muse_wonder_full",
+          "first_seen": "2026-10-15T07:53:21+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3_dc743018df/3_dc743018df.webp"
+        },
+        {
+          "title": "SB Intuitions、国産AI「Sarashina」の無償β版を一般公開 チャット・翻訳と6モデルのAPIを提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/sb_intuitions_sarashina_free_beta",
+          "first_seen": "2026-10-15T07:53:21+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/sarashina_service_469c52cdc4/sarashina_service_469c52cdc4.png"
+        },
+        {
+          "title": "AIで速く作れるほど、仕事の売り方が変わる。ARIが「AIネイティブ化」で直面した想定外と勝ち筋のサムネイル画像",
+          "url": "https://ledge.ai/articles/ari_interview_ai_native",
+          "first_seen": "2026-10-15T07:53:21+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2266_8c3c240a02/IMG_2266_8c3c240a02.jpg"
+        },
+        {
+          "title": "【寄稿】米国18州・15,000kmで見えた日本の機械。フィジカルAI時代に問われる「現実世界を扱う力」のサムネイル画像",
+          "url": "https://ledge.ai/articles/brycen_us_report_3",
+          "first_seen": "2026-10-15T07:53:21+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_1f10d2b308/01_1f10d2b308.png"
+        },
         {
           "title": "Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンものサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_cyber_mission",
@@ -2700,34 +2750,6 @@
           "url": "https://ledge.ai/articles/meta_ray_ban_audio_ai_glasses",
           "first_seen": "2026-10-03T08:45:47+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ray_Ban_Meta_Audio_0970778b4a/Ray_Ban_Meta_Audio_0970778b4a.jpg"
-        },
-        {
-          "title": "トランプ大統領、主要AI企業と自主的な安全対策で合意 内部統制・外部監査を柱にのサムネイル画像",
-          "url": "https://ledge.ai/articles/trump_ai_safety_accord",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/trump_ai_safety_eyecatch_16x9_44562936e3/trump_ai_safety_eyecatch_16x9_44562936e3.jpg"
-        },
-        {
-          "title": "Google「Gemini 4 Argon」発表 出力上限100万トークン、企業業務の4指標でGPT-6 Astraなど上回る まずはサイバー防御向けに限定提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_gemini_4_argon",
-          "first_seen": "2026-10-02T09:12:58+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini4_argon_3931d81692/gemini4_argon_3931d81692.jpg"
-        },
-        {
-          "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ安全基盤「NVIDIA Open Agent Safety Platform」を発表 独立したハードウェアからも監視のサムネイル画像",
-          "url": "https://ledge.ai/articles/nvidia_open_agent_safety_platform",
-          "first_seen": "2026-10-02T09:12:58+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_open_agent_safety_platform_9cd4f5706b/nvidia_open_agent_safety_platform_9cd4f5706b.png"
-        },
-        {
-          "title": "ベテランの技能を「AIが学べる形」にする。Olloが挑む技能継承、その先のフィジカルAI のサムネイル画像",
-          "url": "https://ledge.ai/articles/ollo-interview-202610",
-          "first_seen": "2026-10-02T09:12:58+00:00"
-        },
-        {
-          "title": "日本郵便とKDDI、郵便局をAIドローンの拠点に 珠洲市で見守り・防災の実証開始のサムネイル画像",
-          "url": "https://ledge.ai/articles/kddi_japan_post_drone_port",
-          "first_seen": "2026-10-02T09:12:58+00:00"
         }
       ]
     }
