@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T07:54:26+00:00",
+  "updated_at": "2026-10-16T07:45:42+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-15T07:53:21+00:00",
-      "last_update": "2026-10-11T09:32:49+00:00",
-      "last_status": "error",
-      "last_error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
+      "last_checked": "2026-10-16T07:45:41+00:00",
+      "last_update": "2026-10-16T07:45:41+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "consecutive_errors": 0,
       "known": {
         "https://www.cjnavi.co.jp/event/20260803yanaizu-mitamamatsuri/": {
           "title": "イベント 会津柳津町の伝統行事。只見川河畔で約7,500発の花火が打ち上がる 第89回 会津柳津 霊まつり流灯花火大会 2026年8月10日（月）",
@@ -898,9 +898,49 @@
         "https://www.cjnavi.co.jp/event/20261011adachi-bousaifair/": {
           "title": "イベント 消防車・消防士が大玉村に大集合！見て、体験して、防災について楽しく学… 2026安達地方防災フェア 2026年10月18日（日）",
           "first_seen": "2026-10-11T09:32:49+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261016newopen-rikka/": {
+          "title": "グルメ 南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき 和カフェ・お食事 立花（りっか）",
+          "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261016sports-airybees/": {
+          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開幕！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年10月 2026年10月23日（金）・24日（土）",
+          "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261015hama-kenchunan-taiken-lunch/": {
+          "title": "おでかけ 【福島県】浪江町・郡山市・須賀川市・白河市のものづくり体験スポット＆… 歴史ある伝統工芸品「大堀相馬焼」の陶芸や、伝統を受け継ぐ「三春張子」「須賀川絵のぼり」...",
+          "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/": {
+          "title": "おでかけ AD 幻想的なイチョウの大木！喜多方市の神社で今だけの秋の景色を見てみよう 長床の大イチョウ",
+          "first_seen": "2026-10-16T07:45:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき 和カフェ・お食事 立花（りっか）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261016newopen-rikka/",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/586b275d0388a5d951afffe98644da69-350x263.jpg"
+        },
+        {
+          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開幕！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年10月 2026年10月23日（金）・24日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261016sports-airybees/",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/6385014d159020cc71dd8440d52ba669-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 【福島県】浪江町・郡山市・須賀川市・白河市のものづくり体験スポット＆… 歴史ある伝統工芸品「大堀相馬焼」の陶芸や、伝統を受け継ぐ「三春張子」「須賀川絵のぼり」...",
+          "url": "https://www.cjnavi.co.jp/trip/20261015hama-kenchunan-taiken-lunch/",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/75e4e5fc5e1f60d04c1d75ecf2c4135b-350x263.jpg"
+        },
+        {
+          "title": "おでかけ AD 幻想的なイチョウの大木！喜多方市の神社で今だけの秋の景色を見てみよう 長床の大イチョウ",
+          "url": "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/225d95b0585d878e5e6858955fcb39d9-350x263.jpg"
+        },
         {
           "title": "イベント 音楽・アート・マルシェが福島駅前に集結！ LIVE！スマイルふくしま2026 2026年10月18日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261011smile-fukushima/",
@@ -1157,34 +1197,14 @@
           "title": "イベント 海外のトップ選手も来場！福島県内最大規模の震災復興支援サーフィンイベ… KITAIZUMI SURF FESTIVAL 2026 2026年10月2日（金）～4日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260925kitaizumi-surf-festival/",
           "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "イベント 湯の町沸騰の3日間！6町の太鼓屋台が集結 八幡神社例大祭「飯坂けんか祭り」 2026年10月2日（金）～4日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260925iizaka-kenka/",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "スペシャル 知らなかった福島県のコトが知れるおでかけ本『あの街、あの風景へ』が発… 福島おとな旅特別版「あの街、あの風景へ」",
-          "url": "https://www.cjnavi.co.jp/special/20260925anoano2026-2027/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "スペシャル 【クーポン枚数過去最多】シリーズ27作目の『ふくしま日帰り温泉』最新版… ふくしま日帰り温泉 2026-2027",
-          "url": "https://www.cjnavi.co.jp/special/20260925fukushima-spa-diary/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
-        },
-        {
-          "title": "スペシャル 「CJ Monmo」10月号は、手作り体験スポットを紹介する「ふくしまクラフト… 月刊CJ Monmo 2026年10月号",
-          "url": "https://www.cjnavi.co.jp/special/20260925cjmonmo-63/",
-          "first_seen": "2026-09-25T08:24:48+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-15T07:53:21+00:00",
-      "last_update": "2026-10-15T07:53:21+00:00",
+      "last_checked": "2026-10-16T07:45:41+00:00",
+      "last_update": "2026-10-16T07:45:41+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2448,9 +2468,39 @@
         "https://ledge.ai/articles/brycen_us_report_3": {
           "title": "【寄稿】米国18州・15,000kmで見えた日本の機械。フィジカルAI時代に問われる「現実世界を扱う力」のサムネイル画像",
           "first_seen": "2026-10-15T07:53:21+00:00"
+        },
+        "https://ledge.ai/articles/yandex_datacenter_attacks_cloud_disruption": {
+          "title": "ウクライナのドローン攻撃、ロシアのAI開発基盤にも影響 主要データセンターが相次ぎ被害のサムネイル画像",
+          "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_distillation_defenses": {
+          "title": "Anthropic、Claudeの無断蒸留への防御策を公開 推論データ抽出量が約90〜99％減少のサムネイル画像",
+          "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://ledge.ai/articles/biohub_virtual_biology_expansion": {
+          "title": "ザッカーバーグ氏ら創設のBiohub、仮想細胞AIへ18億ドル規模の協力 米政府・Google DeepMind・Metaなどが参加のサムネイル画像",
+          "first_seen": "2026-10-16T07:45:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ウクライナのドローン攻撃、ロシアのAI開発基盤にも影響 主要データセンターが相次ぎ被害のサムネイル画像",
+          "url": "https://ledge.ai/articles/yandex_datacenter_attacks_cloud_disruption",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37.jpg"
+        },
+        {
+          "title": "Anthropic、Claudeの無断蒸留への防御策を公開 推論データ抽出量が約90〜99％減少のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_distillation_defenses",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9.jpg"
+        },
+        {
+          "title": "ザッカーバーグ氏ら創設のBiohub、仮想細胞AIへ18億ドル規模の協力 米政府・Google DeepMind・Metaなどが参加のサムネイル画像",
+          "url": "https://ledge.ai/articles/biohub_virtual_biology_expansion",
+          "first_seen": "2026-10-16T07:45:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423.jpg"
+        },
         {
           "title": "Microsoft、自社製AIチップ「Maia 300」発表 2027年から展開、Azure Maiaを主力推論基盤へのサムネイル画像",
           "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
@@ -2732,24 +2782,6 @@
           "url": "https://ledge.ai/articles/openai_joe_agent_security",
           "first_seen": "2026-10-04T09:11:17+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8.jpg"
-        },
-        {
-          "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説のサムネイル画像",
-          "url": "https://ledge.ai/articles/multimodal_model_intro_book",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introduction_to_multimodal_models_f3c859ddbd/introduction_to_multimodal_models_f3c859ddbd.jpg"
-        },
-        {
-          "title": "東京地裁、「声もパブリシティ権の保護対象になり得る」と判断 声優・津田健次郎氏のAI音声動画削除訴訟でのサムネイル画像",
-          "url": "https://ledge.ai/articles/tsuda_ai_voice_publicity_rights",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_9dae9648bc/_9dae9648bc.jpg"
-        },
-        {
-          "title": "Meta、カメラ非搭載の「Ray-Ban Meta Audio」発表 音声AIに対応、最大12時間駆動で日本は2027年展開予定のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_ray_ban_audio_ai_glasses",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ray_Ban_Meta_Audio_0970778b4a/Ray_Ban_Meta_Audio_0970778b4a.jpg"
         }
       ]
     }
