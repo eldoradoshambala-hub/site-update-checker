@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T07:45:42+00:00",
+  "updated_at": "2026-10-17T07:23:29+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-16T07:45:41+00:00",
-      "last_update": "2026-10-16T07:45:41+00:00",
+      "last_checked": "2026-10-17T07:23:28+00:00",
+      "last_update": "2026-10-17T07:23:28+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -914,9 +914,99 @@
         "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/": {
           "title": "おでかけ AD 幻想的なイチョウの大木！喜多方市の神社で今だけの秋の景色を見てみよう 長床の大イチョウ",
           "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017yukiguni-monodukuri/": {
+          "title": "イベント 会津の“ものづくり”に出合う！会津若松市「福島県立博物館」でマルシェを… 雪国ものづくりマルシェ2026秋 2026年10月24日（土）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017fukushima-machinaka-ongakusai/": {
+          "title": "イベント 福島市の街なかが音楽であふれる2日間！ ふくしままちなか音楽祭2026 2026年10月24日（土）・25日（日）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017nihonmatsu-momijimatsuri/": {
+          "title": "イベント 二本松市「霞ヶ城公園」で紅葉とともに楽しむ、ラジオ公開生放送や地元の… 霞ヶ城公園紅葉まつり 2026 2026年10月24日（土）、11月3日（祝）・14日（土）・21日（土）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017kazuo-endo/": {
+          "title": "イベント 猪苗代町「天鏡閣」で、福島県内各地の“光織りなす風景”を描いた水彩画の… 遠藤和雄水彩画展－光織りなす風景－ 2026年10月24日（土）～11月3日（祝）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017the-coffees/": {
+          "title": "イベント 福島県内外の多彩なコーヒー店など40店舗が福島市「四季の里」に集結 THE COFFEE'S Chapter05～愛日～ 2026年10月24日（土）・25日（日）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017azuma-teshi-got/": {
+          "title": "イベント 福島市「あづま総合運動公園」イチョウ並木の下に、全国各地からクラフト… 第15回 あづまTeshi-got市場 2026年10月24日（土）・25日（日）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017aizumisato-winefes/": {
+          "title": "イベント 秋の会津美里町で福島県内外のワインとグルメを満喫 あいづみさとワインフェス2026 2026年10月24日（土）・25日（日）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261017minori-syukaku/": {
+          "title": "イベント 福島市出身のイラストレーター・菅野愛希さんの作品展を福島市「旧堀切邸… 絵かきの庭・作品展 実りと収穫展Ⅱ 2026年10月24日（土）～11月2日（月）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261016uminoshigoto-taiken/": {
+          "title": "イベント AD 福島県の漁業を体験できるイベントを相馬市で開催！10月29日（木）まで参… ふくしま海の仕事体験〜福島県の漁業を体験しよう！〜 2026年11月7日（土） ［申込締切］〜2026年10月29日（木）",
+          "first_seen": "2026-10-17T07:23:28+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 会津の“ものづくり”に出合う！会津若松市「福島県立博物館」でマルシェを… 雪国ものづくりマルシェ2026秋 2026年10月24日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261017yukiguni-monodukuri/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b94a5be30e633be6f83b6096859cf028-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市の街なかが音楽であふれる2日間！ ふくしままちなか音楽祭2026 2026年10月24日（土）・25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261017fukushima-machinaka-ongakusai/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e06bf54b0c515b9a23cdf6c18aeae40a-350x263.jpg"
+        },
+        {
+          "title": "イベント 二本松市「霞ヶ城公園」で紅葉とともに楽しむ、ラジオ公開生放送や地元の… 霞ヶ城公園紅葉まつり 2026 2026年10月24日（土）、11月3日（祝）・14日（土）・21日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261017nihonmatsu-momijimatsuri/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e60921a024b98c7949e1ad82c1de7c5a-350x263.jpg"
+        },
+        {
+          "title": "イベント 猪苗代町「天鏡閣」で、福島県内各地の“光織りなす風景”を描いた水彩画の… 遠藤和雄水彩画展－光織りなす風景－ 2026年10月24日（土）～11月3日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261017kazuo-endo/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ed123f75f395881e151f6245dc1fcb02-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島県内外の多彩なコーヒー店など40店舗が福島市「四季の里」に集結 THE COFFEE'S Chapter05～愛日～ 2026年10月24日（土）・25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261017the-coffees/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/20261017TheCOFFEES-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市「あづま総合運動公園」イチョウ並木の下に、全国各地からクラフト… 第15回 あづまTeshi-got市場 2026年10月24日（土）・25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261017azuma-teshi-got/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/6458156472a03ef466f18f6ee39af910-350x263.jpg"
+        },
+        {
+          "title": "イベント 秋の会津美里町で福島県内外のワインとグルメを満喫 あいづみさとワインフェス2026 2026年10月24日（土）・25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261017aizumisato-winefes/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ff042ce9d49917f3c0acce0b606965a2-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市出身のイラストレーター・菅野愛希さんの作品展を福島市「旧堀切邸… 絵かきの庭・作品展 実りと収穫展Ⅱ 2026年10月24日（土）～11月2日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20261017minori-syukaku/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e8edd8f240095a08469ce531966fea11-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 福島県の漁業を体験できるイベントを相馬市で開催！10月29日（木）まで参… ふくしま海の仕事体験〜福島県の漁業を体験しよう！〜 2026年11月7日（土） ［申込締切］〜2026年10月29日（木）",
+          "url": "https://www.cjnavi.co.jp/event/20261016uminoshigoto-taiken/",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/0da4d860df44bc99baf869d43bec5c18-350x263.jpg"
+        },
         {
           "title": "グルメ 南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき 和カフェ・お食事 立花（りっか）",
           "url": "https://www.cjnavi.co.jp/gourmet/20261016newopen-rikka/",
@@ -1152,59 +1242,14 @@
           "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin福島 2026年10月10日（土）",
           "url": "https://www.cjnavi.co.jp/event/20260929ethical-marche-fukushima/",
           "first_seen": "2026-09-29T09:20:49+00:00"
-        },
-        {
-          "title": "ライフ 痛みに寄り添うカイロプラクティック『カラダLabo egao』が福島市蓬莱町に… カラダLabo egao（カラダラボエガオ）",
-          "url": "https://www.cjnavi.co.jp/life/20260929newopen-karada-labo-egao/",
-          "first_seen": "2026-09-29T09:20:49+00:00"
-        },
-        {
-          "title": "イベント 福島市「こむこむ館」でプラネタリウムと落語を楽しもう 幸齢者のためのプラネタリウムと落語鑑賞 2026年10月5日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260928silver-jinzai-center/",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "ライフ 乾燥後もキレイな仕上がりを保つ洗車が自慢。『DETAIL GARAGE』が福島市笹… DETAIL GARAGE（ディテール ガレージ）",
-          "url": "https://www.cjnavi.co.jp/life/20260928newopen-detail-garage/",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "イベント 多肉植物や花、雑貨などの人気店10店舗以上が、福島市「四季の里」に大集… シッポdeマルシェin四季の里 2026年10月4日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260927shippo-de-marche/",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "イベント 【福島ファイヤーボンズ】2026-27シーズン開幕！『福島ファイヤーボンズ』… 【福島ファイヤーボンズホーム戦】2026年10月 2026年10月3日（土）・4日（日）・10日（土）・11日（日）・31日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260926sports-firebonds/",
-          "first_seen": "2026-09-28T09:12:24+00:00"
-        },
-        {
-          "title": "イベント 力強い太鼓の音色と提灯の灯りに心躍る3日間 二本松の提灯祭り 2026年10月3日（土）～5日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20260926nihonmatsu-chouchin/",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "イベント 双葉町に“うまいもん”が集結！町内最大級のフードイベント！ ふたばフードフェス2026 2026年10月3日（土）・4日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260926futaba-foodfes/",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "イベント AD 福島市「道の駅ふくしま」で、家族と愛犬が楽しめる『サイクル＆わん！フ… サイクル＆わん！フェスタ in 道の駅ふくしま 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260925cycle-wan-satellitefukushima/",
-          "first_seen": "2026-09-26T08:11:59+00:00"
-        },
-        {
-          "title": "イベント 海外のトップ選手も来場！福島県内最大規模の震災復興支援サーフィンイベ… KITAIZUMI SURF FESTIVAL 2026 2026年10月2日（金）～4日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260925kitaizumi-surf-festival/",
-          "first_seen": "2026-09-26T08:11:59+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-16T07:45:41+00:00",
-      "last_update": "2026-10-16T07:45:41+00:00",
+      "last_checked": "2026-10-17T07:23:28+00:00",
+      "last_update": "2026-10-17T07:23:28+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2480,9 +2525,49 @@
         "https://ledge.ai/articles/biohub_virtual_biology_expansion": {
           "title": "ザッカーバーグ氏ら創設のBiohub、仮想細胞AIへ18億ドル規模の協力 米政府・Google DeepMind・Metaなどが参加のサムネイル画像",
           "first_seen": "2026-10-16T07:45:41+00:00"
+        },
+        "https://ledge.ai/articles/koubunken_ai_fake_cases_book_recall": {
+          "title": "生成AIの架空判例を授業資料から書籍に転用 『無責任の体系と沖縄戦』回収・絶版で著者の琉球大学教授が経緯説明のサムネイル画像",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_jack_clark_rsi_forecast_2027": {
+          "title": "Anthropic共同創業者、AIによる後継AIの開発が可能になる時期を2027年と予測 東大講演で「50％以上」のサムネイル画像",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://ledge.ai/articles/terence_tao_math_2_0_ai": {
+          "title": "テレンス・タオ氏、AI時代の数学「Math 2.0」提言 人間の理解を深める活用へのサムネイル画像",
+          "first_seen": "2026-10-17T07:23:28+00:00"
+        },
+        "https://ledge.ai/articles/google_play_personal_apps_ai_discovery": {
+          "title": "Google、AIで作った「自分用アプリ」を開発者登録なしで利用可能に Google Playにアプリ比較機能ものサムネイル画像",
+          "first_seen": "2026-10-17T07:23:28+00:00"
         }
       },
       "recent": [
+        {
+          "title": "生成AIの架空判例を授業資料から書籍に転用 『無責任の体系と沖縄戦』回収・絶版で著者の琉球大学教授が経緯説明のサムネイル画像",
+          "url": "https://ledge.ai/articles/koubunken_ai_fake_cases_book_recall",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/dcd04287_d7fc_462e_9197_a2ce3789eed0_1344ab1247/dcd04287_d7fc_462e_9197_a2ce3789eed0_1344ab1247.jpg"
+        },
+        {
+          "title": "Anthropic共同創業者、AIによる後継AIの開発が可能になる時期を2027年と予測 東大講演で「50％以上」のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_jack_clark_rsi_forecast_2027",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/cd24cb9b_5399_44e5_9d45_dcbfd0d179cf_89ff68683f/cd24cb9b_5399_44e5_9d45_dcbfd0d179cf_89ff68683f.jpg"
+        },
+        {
+          "title": "テレンス・タオ氏、AI時代の数学「Math 2.0」提言 人間の理解を深める活用へのサムネイル画像",
+          "url": "https://ledge.ai/articles/terence_tao_math_2_0_ai",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e710408f_83e3_4412_a45c_c9a86c9c88c6_38fd99f99f/e710408f_83e3_4412_a45c_c9a86c9c88c6_38fd99f99f.jpg"
+        },
+        {
+          "title": "Google、AIで作った「自分用アプリ」を開発者登録なしで利用可能に Google Playにアプリ比較機能ものサムネイル画像",
+          "url": "https://ledge.ai/articles/google_play_personal_apps_ai_discovery",
+          "first_seen": "2026-10-17T07:23:28+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/google_play_b04ffa1bc0/google_play_b04ffa1bc0.jpg"
+        },
         {
           "title": "ウクライナのドローン攻撃、ロシアのAI開発基盤にも影響 主要データセンターが相次ぎ被害のサムネイル画像",
           "url": "https://ledge.ai/articles/yandex_datacenter_attacks_cloud_disruption",
@@ -2758,30 +2843,6 @@
           "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
           "first_seen": "2026-10-05T09:52:03+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
-        },
-        {
-          "title": "Meta、企業向けAI事業「Meta Enterprise Platform」始動、Museや開発ツールを展開 MongoDBのCEOを引き抜きのサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_enterprise_platform",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/le_K20_YJ_8_8540a32897/le_K20_YJ_8_8540a32897.jpg"
-        },
-        {
-          "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_reasoning_distillation_campaign",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d/ef108356_e995_4c2a_8502_d81c9d3d36c1_ee553d1b7d.jpg"
-        },
-        {
-          "title": "Figure、引退した人型ロボット「Figure 02」の送り出し方を募ったら、ターミネーター役本人が「溶かすべきだ」と提案 実際に溶かす映像を公開、シュワルツェネッガー氏も出演のサムネイル画像",
-          "url": "https://ledge.ai/articles/figure_02_decommission",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/figure02_decomission_810047a948/figure02_decomission_810047a948.jpg"
-        },
-        {
-          "title": "OpenAIのセキュリティ担当Joe氏「ここ3か月は地獄のような日々だった」 AIインシデント対応の内情を投稿、隔離・監視の強化を提言のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_joe_agent_security",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8/e01fb97b_d144_418b_9a0a_e7e43d9340bc_00788d89c8.jpg"
         }
       ]
     }
