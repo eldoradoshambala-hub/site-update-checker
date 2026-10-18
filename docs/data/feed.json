@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T07:23:28+00:00",
+  "generated_at": "2026-10-18T07:37:51+00:00",
   "site_count": 2,
-  "new_count": 13,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-17T07:23:28+00:00",
-      "last_update": "2026-10-17T07:23:28+00:00",
-      "new_count": 9,
-      "link_count": 21,
+      "last_checked": "2026-10-18T07:37:51+00:00",
+      "last_update": "2026-10-18T07:37:51+00:00",
+      "new_count": 1,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
+          "first_seen": "2026-10-18T07:37:51+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/fea27d7edc503bfa2430aa975bb900b3-350x263.jpg"
+        },
         {
           "title": "イベント 会津の“ものづくり”に出合う！会津若松市「福島県立博物館」でマルシェを… 雪国ものづくりマルシェ2026秋 2026年10月24日（土）",
           "url": "https://www.cjnavi.co.jp/event/20261017yukiguni-monodukuri/",
@@ -302,11 +308,6 @@
           "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
           "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
           "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin福島 2026年10月10日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20260929ethical-marche-fukushima/",
-          "first_seen": "2026-09-29T09:20:49+00:00"
         }
       ]
     },
@@ -317,12 +318,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-17T07:23:28+00:00",
-      "last_update": "2026-10-17T07:23:28+00:00",
-      "new_count": 4,
-      "link_count": 41,
+      "last_checked": "2026-10-18T07:37:51+00:00",
+      "last_update": "2026-10-18T07:37:51+00:00",
+      "new_count": 3,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google、論文や技術文書を検証する「Deep Review」一般公開 複数のAIが論理や根拠を点検、週2回まで無料のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deep_review",
+          "first_seen": "2026-10-18T07:37:51+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872.jpg"
+        },
+        {
+          "title": "Linux生みの親、Claude Codeでカーネル改善 特定の読み取りテストで約3倍の性能のサムネイル画像",
+          "url": "https://ledge.ai/articles/linus_torvalds_claude_code_linux_kernel",
+          "first_seen": "2026-10-18T07:37:51+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480.jpg"
+        },
+        {
+          "title": "米国防総省DMDCに不正アクセス、300万人超に影響 暗号化されていない個人情報が対象のサムネイル画像",
+          "url": "https://ledge.ai/articles/dmdc_personnel_data_breach",
+          "first_seen": "2026-10-18T07:37:51+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/662ecd03_05db_4e5d_a937_083e89375926_085c4f48b2/662ecd03_05db_4e5d_a937_083e89375926_085c4f48b2.jpg"
+        },
         {
           "title": "生成AIの架空判例を授業資料から書籍に転用 『無責任の体系と沖縄戦』回収・絶版で著者の琉球大学教授が経緯説明のサムネイル画像",
           "url": "https://ledge.ai/articles/koubunken_ai_fake_cases_book_recall",
@@ -604,29 +623,43 @@
           "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
           "first_seen": "2026-10-05T09:52:03+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
-        },
-        {
-          "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_local_government_ai_cases",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/section1_2c_bc1505c338/section1_2c_bc1505c338.jpg"
-        },
-        {
-          "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
-          "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_b4f580022f/AI_b4f580022f.jpg"
-        },
-        {
-          "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
-          "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
+      "first_seen": "2026-10-18T07:37:51+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/fea27d7edc503bfa2430aa975bb900b3-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、論文や技術文書を検証する「Deep Review」一般公開 複数のAIが論理や根拠を点検、週2回まで無料のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deep_review",
+      "first_seen": "2026-10-18T07:37:51+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Linux生みの親、Claude Codeでカーネル改善 特定の読み取りテストで約3倍の性能のサムネイル画像",
+      "url": "https://ledge.ai/articles/linus_torvalds_claude_code_linux_kernel",
+      "first_seen": "2026-10-18T07:37:51+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "米国防総省DMDCに不正アクセス、300万人超に影響 暗号化されていない個人情報が対象のサムネイル画像",
+      "url": "https://ledge.ai/articles/dmdc_personnel_data_breach",
+      "first_seen": "2026-10-18T07:37:51+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/662ecd03_05db_4e5d_a937_083e89375926_085c4f48b2/662ecd03_05db_4e5d_a937_083e89375926_085c4f48b2.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1268,30 +1301,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Googleと東大松尾研、自治体の生成AI活用9事例を公開 京都の旅程提案から福井の商談練習まで、40超の自治体との対話から のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_local_government_ai_cases",
-      "first_seen": "2026-10-05T09:52:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/section1_2c_bc1505c338/section1_2c_bc1505c338.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "DeepSeek、Huaweiの支援でAscend向けAI開発基盤を公開 TileLangや演算・通信ライブラリを整備のサムネイル画像",
-      "url": "https://ledge.ai/articles/deepseek_huawei_ascend_ai_tools",
-      "first_seen": "2026-10-05T09:52:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_b4f580022f/AI_b4f580022f.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "金融機関のAI活用をどう現場に広げるか。『金融AX戦略』出版記念イベントで語られた実践のサムネイル画像",
-      "url": "https://ledge.ai/articles/exawizards_financial_ax_strategy",
-      "first_seen": "2026-10-05T09:52:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_157f2e8964/01_157f2e8964.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
@@ -1417,14 +1426,6 @@
       "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
       "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
       "first_seen": "2026-10-01T09:39:01+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin福島 2026年10月10日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20260929ethical-marche-fukushima/",
-      "first_seen": "2026-09-29T09:20:49+00:00",
       "image": ""
     }
   ]
