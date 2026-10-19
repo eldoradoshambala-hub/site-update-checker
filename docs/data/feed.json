@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T07:37:51+00:00",
+  "generated_at": "2026-10-19T08:20:17+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,9 +12,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-18T07:37:51+00:00",
+      "last_checked": "2026-10-19T08:20:17+00:00",
       "last_update": "2026-10-18T07:37:51+00:00",
-      "new_count": 1,
+      "new_count": 0,
       "link_count": 22,
       "seeded_now": false,
       "items": [
@@ -318,12 +318,42 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-18T07:37:51+00:00",
-      "last_update": "2026-10-18T07:37:51+00:00",
-      "new_count": 3,
-      "link_count": 42,
+      "last_checked": "2026-10-19T08:20:17+00:00",
+      "last_update": "2026-10-19T08:20:17+00:00",
+      "new_count": 5,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
+          "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
+          "first_seen": "2026-10-19T08:20:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/og_grok_voice_3_0_b281361b_12d21d8ac3/og_grok_voice_3_0_b281361b_12d21d8ac3.jpg"
+        },
+        {
+          "title": "ガートナー、企業の70％がFDEで構築したエージェント型AIを2028年までに放棄と予測 コスト高騰と自社改良の難しさが背景、「FDEウォッシング」にも警鐘のサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_fde_agentic_ai_abandonment",
+          "first_seen": "2026-10-19T08:20:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97.jpg"
+        },
+        {
+          "title": "AIはビットコイン相場をどう分析する？アルゴリズム取引とオンチェーン分析のサムネイル画像",
+          "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
+          "first_seen": "2026-10-19T08:20:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
+        },
+        {
+          "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
+          "first_seen": "2026-10-19T08:20:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg"
+        },
+        {
+          "title": "Getty Imagesが米破産法申請と非公開化を計画、Character.aiは申請し資産売却へのサムネイル画像",
+          "url": "https://ledge.ai/articles/getty_images_character_ai_chapter11",
+          "first_seen": "2026-10-19T08:20:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/22678c57_6410_4737_9718_b92213d49105_e82042afa7/22678c57_6410_4737_9718_b92213d49105_e82042afa7.jpg"
+        },
         {
           "title": "Google、論文や技術文書を検証する「Deep Review」一般公開 複数のAIが論理や根拠を点検、週2回まで無料のサムネイル画像",
           "url": "https://ledge.ai/articles/google_deep_review",
@@ -593,41 +623,51 @@
           "url": "https://ledge.ai/articles/aws_data_center_built_together",
           "first_seen": "2026-10-07T01:24:19+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e.jpg"
-        },
-        {
-          "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
-          "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_7ce88bb86d/1_7ce88bb86d.jpg"
-        },
-        {
-          "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
-          "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JERA_Dell_RHAELM_AI_4_72ee39cbd0/JERA_Dell_RHAELM_AI_4_72ee39cbd0.jpg"
-        },
-        {
-          "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
-          "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac.webp"
-        },
-        {
-          "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
-          "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_d8b7b4f33c/AI_d8b7b4f33c.jpg"
-        },
-        {
-          "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
-          "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
+      "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
+      "first_seen": "2026-10-19T08:20:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/og_grok_voice_3_0_b281361b_12d21d8ac3/og_grok_voice_3_0_b281361b_12d21d8ac3.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ガートナー、企業の70％がFDEで構築したエージェント型AIを2028年までに放棄と予測 コスト高騰と自社改良の難しさが背景、「FDEウォッシング」にも警鐘のサムネイル画像",
+      "url": "https://ledge.ai/articles/gartner_fde_agentic_ai_abandonment",
+      "first_seen": "2026-10-19T08:20:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIはビットコイン相場をどう分析する？アルゴリズム取引とオンチェーン分析のサムネイル画像",
+      "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
+      "first_seen": "2026-10-19T08:20:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
+      "first_seen": "2026-10-19T08:20:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Getty Imagesが米破産法申請と非公開化を計画、Character.aiは申請し資産売却へのサムネイル画像",
+      "url": "https://ledge.ai/articles/getty_images_character_ai_chapter11",
+      "first_seen": "2026-10-19T08:20:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/22678c57_6410_4737_9718_b92213d49105_e82042afa7/22678c57_6410_4737_9718_b92213d49105_e82042afa7.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1237,38 +1277,6 @@
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7ff1dea543a7fb3c79239a6297fb37f4-350x263.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Amazon、配達員向けAIスマートグラスを2027年末までに2万台超へ 周囲の画像を配送改善に活用と報道のサムネイル画像",
-      "url": "https://ledge.ai/articles/amazon_delivery_glasses_image_collection",
-      "first_seen": "2026-10-06T09:39:38+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_7ce88bb86d/1_7ce88bb86d.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "JERA・Dell・RHAELM、千葉火力発電所に最大400MWのAIデータセンター計画 約2.3兆円以上、2028年頃の運用開始へのサムネイル画像",
-      "url": "https://ledge.ai/articles/jera_dell_rhaelm_ai_datacenter",
-      "first_seen": "2026-10-06T09:39:38+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JERA_Dell_RHAELM_AI_4_72ee39cbd0/JERA_Dell_RHAELM_AI_4_72ee39cbd0.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「日本AI大賞2026」ファイナリスト16組発表、126件の応募から選出。豊田市や横須賀市、日本ハムなどのサムネイル画像",
-      "url": "https://ledge.ai/articles/japan-ai-awards-2026-finalist",
-      "first_seen": "2026-10-06T09:39:38+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac/115435_172_bf288145fc2bb19aad63dc022663fd65_1920x1080_3573203bac.webp"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論のサムネイル画像",
-      "url": "https://ledge.ai/articles/altman_ai_religion_human_judgment",
-      "first_seen": "2026-10-06T09:39:38+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/AI_d8b7b4f33c/AI_d8b7b4f33c.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
@@ -1291,14 +1299,6 @@
       "url": "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/",
       "first_seen": "2026-10-05T09:52:03+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/6372c0cf5d6033000c7aeb172a9e83ce-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ELYZA、国産「LLM-jp-4」基盤の推論モデル2種を無料公開 「AIによるAI開発」の研究組織も設立のサムネイル画像",
-      "url": "https://ledge.ai/articles/elyza_thinking_llm_jp_4_rsi_research",
-      "first_seen": "2026-10-05T09:52:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7/f36ea7a0b8e64d8ea98b1447a87e68f4_5b759cc6e7.jpg"
     },
     {
       "site_id": "cjnavi",
