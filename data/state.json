@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T08:20:19+00:00",
+  "updated_at": "2026-10-20T08:04:35+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-19T08:20:17+00:00",
-      "last_update": "2026-10-18T07:37:51+00:00",
+      "last_checked": "2026-10-20T08:04:33+00:00",
+      "last_update": "2026-10-20T08:04:33+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -954,9 +954,29 @@
         "https://www.cjnavi.co.jp/event/20261018nikkori-marche/": {
           "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
           "first_seen": "2026-10-18T07:37:51+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261020kokodake-taiken/": {
+          "title": "おでかけ 【福島県】桑折町・福島市・須賀川市・飯舘村の“ここだけ”のものづくり体… オリジナルのはにわやコインリング、ミニ畳、ボタニカルキャンドルなど、桑折町・福島市・須...",
+          "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261019akabeko-goods/": {
+          "title": "おでかけ 【福島県】福島県内で買えるユニークな赤べこグッズ6選 福島県を代表する郷土玩具「赤べこ」。カラフルなものや個性豊かな商品など、様々な形・素材...",
+          "first_seen": "2026-10-20T08:04:33+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】桑折町・福島市・須賀川市・飯舘村の“ここだけ”のものづくり体… オリジナルのはにわやコインリング、ミニ畳、ボタニカルキャンドルなど、桑折町・福島市・須...",
+          "url": "https://www.cjnavi.co.jp/trip/20261020kokodake-taiken/",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4493d35edb4409ef5e5b3d9649312ac0-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 【福島県】福島県内で買えるユニークな赤べこグッズ6選 福島県を代表する郷土玩具「赤べこ」。カラフルなものや個性豊かな商品など、様々な形・素材...",
+          "url": "https://www.cjnavi.co.jp/trip/20261019akabeko-goods/",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/8b707926b1094a1593d1f61d2e574947-350x263.jpg"
+        },
         {
           "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
@@ -1237,24 +1257,14 @@
           "title": "ライフ AD 【福島県】放課後児童クラブで働こう！受講無料の放課後児童支援員認定資… 令和8年度 福島県放課後児童支援員認定資格研修 【受付期間】〜2026年10月27日（火）",
           "url": "https://www.cjnavi.co.jp/life/20261001kensyu-hokenfukushi/",
           "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "イベント AD 喜多方の秋は新そば巡り！絶対に行きたい新そばまつり5選!! 喜多方新そばまつり 【山都町・山都新そばまつり】2026年10月17日（土）〜11月23日（月・祝）／みちくさ通り、山都町内参加8店舗 【高郷町・会津たかさと 雷神新そばまつり】2026年10月24日（土）〜11月23日（月・祝）／ふれあいランド高郷 【雄国地区・おぐにの郷新そばまつり】2026年11月22日（日）／おぐに交流の郷 【塩川町・塩川新そば祭り】2026年11月23日（月・祝）／塩川蔵史館 【熱塩加納町・新そば舌調べ】2026年11月29日（日）／熱塩加納公民館",
-          "url": "https://www.cjnavi.co.jp/event/20261001shinsoba-kitakata/",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in しらかわマルシェ 2026年10月4日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20260930sanpai-shirakawa/",
-          "first_seen": "2026-10-01T09:39:01+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-19T08:20:17+00:00",
-      "last_update": "2026-10-19T08:20:17+00:00",
+      "last_checked": "2026-10-20T08:04:33+00:00",
+      "last_update": "2026-10-20T08:04:33+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2578,9 +2588,49 @@
         "https://ledge.ai/articles/getty_images_character_ai_chapter11": {
           "title": "Getty Imagesが米破産法申請と非公開化を計画、Character.aiは申請し資産売却へのサムネイル画像",
           "first_seen": "2026-10-19T08:20:17+00:00"
+        },
+        "https://ledge.ai/articles/gartner_japan_cybersecurity_urgent_recommendations": {
+          "title": "Gartner、日本企業への不正アクセス多発で緊急提言 AIによる攻撃高速化に警鐘、7項目の対応を提示のサムネイル画像",
+          "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://ledge.ai/articles/google_universal_cart_us_launch": {
+          "title": "ビジネス 2026 / 10 / 20 [TUE] Google、AI買い物支援「Universal Cart」を米国で提供開始 検索とGeminiで商品をまとめ、値下げ・再入荷を通知",
+          "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai": {
+          "title": "人命に関わる判断をAIはどう支えるのか。防災の現場から探る生成AIの可能性――NTT東日本 独占インタビューのサムネイル画像",
+          "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot": {
+          "title": "Anthropic、小型AIがIoT機器上で自己複製する可能性を報告 安価なTVボックス15台で分散動作を実証のサムネイル画像",
+          "first_seen": "2026-10-20T08:04:33+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Gartner、日本企業への不正アクセス多発で緊急提言 AIによる攻撃高速化に警鐘、7項目の対応を提示のサムネイル画像",
+          "url": "https://ledge.ai/articles/gartner_japan_cybersecurity_urgent_recommendations",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9a685cf1_203b_49a1_835c_c27212d581fd_1fc37ba855/9a685cf1_203b_49a1_835c_c27212d581fd_1fc37ba855.jpg"
+        },
+        {
+          "title": "ビジネス 2026 / 10 / 20 [TUE] Google、AI買い物支援「Universal Cart」を米国で提供開始 検索とGeminiで商品をまとめ、値下げ・再入荷を通知",
+          "url": "https://ledge.ai/articles/google_universal_cart_us_launch",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Global_Cart_Hero_width_1200_format_webp_1_7d0607db4a/Global_Cart_Hero_width_1200_format_webp_1_7d0607db4a.webp"
+        },
+        {
+          "title": "人命に関わる判断をAIはどう支えるのか。防災の現場から探る生成AIの可能性――NTT東日本 独占インタビューのサムネイル画像",
+          "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2216_57b309273e/IMG_2216_57b309273e.jpg"
+        },
+        {
+          "title": "Anthropic、小型AIがIoT機器上で自己複製する可能性を報告 安価なTVボックス15台で分散動作を実証のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot",
+          "first_seen": "2026-10-20T08:04:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4.jpg"
+        },
         {
           "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
           "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
@@ -2856,30 +2906,6 @@
           "url": "https://ledge.ai/articles/generative_ai_information_use_nippan_cybersecurity",
           "first_seen": "2026-10-08T09:47:02+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329.jpg"
-        },
-        {
-          "title": "マスク氏、SpaceXAIを「SpaceXSI」に改称する意向 トランプ政権の「AI→SI」呼称変更後にのサムネイル画像",
-          "url": "https://ledge.ai/articles/spacexai_spacexsi_name_change",
-          "first_seen": "2026-10-07T09:36:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29/fd78c344_76b5_468c_98b5_e53d65ec5adf_a6a36fbc29.jpg"
-        },
-        {
-          "title": "オープンソースの最小構成AIコーディングツール「Pi」が正式版に MCP連携とタスクに応じたモデルの使い分けに対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/pi_1_0_coding_agent",
-          "first_seen": "2026-10-07T09:36:38+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_2026_10_6_15_58_24_625959c929/Chat_GPT_2026_10_6_15_58_24_625959c929.jpg"
-        },
-        {
-          "title": "Anthropicの自社活用事例、Claudeが購入相談を24時間対応 商談化率2倍超、営業は顧客との対話に集中のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_buying_agent",
-          "first_seen": "2026-10-07T01:24:19+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba/04ffa617_3e95_4bd0_8261_3f1f2a4cbc8e_8c6296f0ba.jpg"
-        },
-        {
-          "title": "AWSトップ、データセンター建設への批判に反論 地域支援に5年間で10億ドル超を追加投資のサムネイル画像",
-          "url": "https://ledge.ai/articles/aws_data_center_built_together",
-          "first_seen": "2026-10-07T01:24:19+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e/amazondatacenteremployee_hero_amazonnews_ck92926_1ea583129e.jpg"
         }
       ]
     }
