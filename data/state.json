@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T08:04:35+00:00",
+  "updated_at": "2026-10-21T08:09:51+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-20T08:04:33+00:00",
-      "last_update": "2026-10-20T08:04:33+00:00",
+      "last_checked": "2026-10-21T08:09:47+00:00",
+      "last_update": "2026-10-21T08:09:47+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -962,9 +962,29 @@
         "https://www.cjnavi.co.jp/trip/20261019akabeko-goods/": {
           "title": "おでかけ 【福島県】福島県内で買えるユニークな赤べこグッズ6選 福島県を代表する郷土玩具「赤べこ」。カラフルなものや個性豊かな商品など、様々な形・素材...",
           "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261021nishi-shirakawagun-spot/": {
+          "title": "おでかけ 【福島県】西白河郡に来たら行くべきはココ！おすすめスポット5選 矢吹町、泉崎村、西郷村、中島村からなる西白河郡。この地域は阿武隈川の上流に位置し、水場...",
+          "first_seen": "2026-10-21T08:09:47+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261021gakuseihenshuubu/": {
+          "title": "おでかけ 【学生編集部の福島のここに行きたい！】郡山市・福島市の古民家カフェを… 第31回「古民家カフェ」",
+          "first_seen": "2026-10-21T08:09:47+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】西白河郡に来たら行くべきはココ！おすすめスポット5選 矢吹町、泉崎村、西郷村、中島村からなる西白河郡。この地域は阿武隈川の上流に位置し、水場...",
+          "url": "https://www.cjnavi.co.jp/trip/20261021nishi-shirakawagun-spot/",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/982083452feb7f6f5ad1732fbf95c068-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 【学生編集部の福島のここに行きたい！】郡山市・福島市の古民家カフェを… 第31回「古民家カフェ」",
+          "url": "https://www.cjnavi.co.jp/trip/20261021gakuseihenshuubu/",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ade0bdac37d431db9b6124864964e7bc-350x263.jpg"
+        },
         {
           "title": "おでかけ 【福島県】桑折町・福島市・須賀川市・飯舘村の“ここだけ”のものづくり体… オリジナルのはにわやコインリング、ミニ畳、ボタニカルキャンドルなど、桑折町・福島市・須...",
           "url": "https://www.cjnavi.co.jp/trip/20261020kokodake-taiken/",
@@ -1247,24 +1267,14 @@
           "title": "イベント 浜通りのおいしいグルメと魅力を堪能する2日間 ふくしま浜通り観光交流フェスティバル 浜フェス2026 2026年10月10日（土）・11日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261003hamafes/",
           "first_seen": "2026-10-03T08:45:47+00:00"
-        },
-        {
-          "title": "ライフ 『モンモ良品』おすすめ！食欲の秋に、おうちで楽しむパン＆おやつ5選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。今回は、食欲の秋に...",
-          "url": "https://www.cjnavi.co.jp/life/20261001monmoryouhin/",
-          "first_seen": "2026-10-01T09:39:01+00:00"
-        },
-        {
-          "title": "ライフ AD 【福島県】放課後児童クラブで働こう！受講無料の放課後児童支援員認定資… 令和8年度 福島県放課後児童支援員認定資格研修 【受付期間】〜2026年10月27日（火）",
-          "url": "https://www.cjnavi.co.jp/life/20261001kensyu-hokenfukushi/",
-          "first_seen": "2026-10-01T09:39:01+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-20T08:04:33+00:00",
-      "last_update": "2026-10-20T08:04:33+00:00",
+      "last_checked": "2026-10-21T08:09:47+00:00",
+      "last_update": "2026-10-21T08:09:47+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2604,9 +2614,49 @@
         "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot": {
           "title": "Anthropic、小型AIがIoT機器上で自己複製する可能性を報告 安価なTVボックス15台で分散動作を実証のサムネイル画像",
           "first_seen": "2026-10-20T08:04:33+00:00"
+        },
+        "https://ledge.ai/articles/deepseek_minimax_flash_model_updates": {
+          "title": "DeepSeekとMiniMax、Flashモデルを相次ぎ更新 エージェント・開発性能を強化、処理時間やコストも削減のサムネイル画像",
+          "first_seen": "2026-10-21T08:09:47+00:00"
+        },
+        "https://ledge.ai/articles/zozo_next_avita_humanoid_clothing": {
+          "title": "ZOZO NEXTとAVITA、ヒューマノイド専用衣服の共同研究へ 関節の動きや発熱に適した素材・設計を探るのサムネイル画像",
+          "first_seen": "2026-10-21T08:09:47+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_metr_independent_evaluation": {
+          "title": "Anthropic、METRの6人に「社員並み」の社内アクセス AIの独立評価を拡充、公表には機密情報の制限ものサムネイル画像",
+          "first_seen": "2026-10-21T08:09:47+00:00"
+        },
+        "https://ledge.ai/articles/epic_games_disney_ai_first_development": {
+          "title": "Epic Games、Disneyとの新作ゲームを延期 Claudeなどを使う「AIファースト」の開発を指示かのサムネイル画像",
+          "first_seen": "2026-10-21T08:09:47+00:00"
         }
       },
       "recent": [
+        {
+          "title": "DeepSeekとMiniMax、Flashモデルを相次ぎ更新 エージェント・開発性能を強化、処理時間やコストも削減のサムネイル画像",
+          "url": "https://ledge.ai/articles/deepseek_minimax_flash_model_updates",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e1d758ab_ce2f_450d_9b5c_bbe9f68108d0_56ad885a29/e1d758ab_ce2f_450d_9b5c_bbe9f68108d0_56ad885a29.jpg"
+        },
+        {
+          "title": "ZOZO NEXTとAVITA、ヒューマノイド専用衣服の共同研究へ 関節の動きや発熱に適した素材・設計を探るのサムネイル画像",
+          "url": "https://ledge.ai/articles/zozo_next_avita_humanoid_clothing",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261015_AVITA_MOU_f5e901bc2d/20261015_AVITA_MOU_f5e901bc2d.jpg"
+        },
+        {
+          "title": "Anthropic、METRの6人に「社員並み」の社内アクセス AIの独立評価を拡充、公表には機密情報の制限ものサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_metr_independent_evaluation",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b.jpg"
+        },
+        {
+          "title": "Epic Games、Disneyとの新作ゲームを延期 Claudeなどを使う「AIファースト」の開発を指示かのサムネイル画像",
+          "url": "https://ledge.ai/articles/epic_games_disney_ai_first_development",
+          "first_seen": "2026-10-21T08:09:47+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Bull_Dog_1920x1080_1_1024x576_affaed89b8/Bull_Dog_1920x1080_1_1024x576_affaed89b8.jpg"
+        },
         {
           "title": "Gartner、日本企業への不正アクセス多発で緊急提言 AIによる攻撃高速化に警鐘、7項目の対応を提示のサムネイル画像",
           "url": "https://ledge.ai/articles/gartner_japan_cybersecurity_urgent_recommendations",
@@ -2882,30 +2932,6 @@
           "url": "https://ledge.ai/articles/ledge_ai_study_session_202609_report",
           "first_seen": "2026-10-09T09:51:39+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9_1_000e8dce9a/9_1_000e8dce9a.png"
-        },
-        {
-          "title": "OpenAI、ChatGPTの画像生成中にビジュアル広告を表示へ 10月後半から米国でテストのサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_visual_ads_image_generation",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/heirloom_grocery_visual_ads_hero_ae846d8fa5/heirloom_grocery_visual_ads_hero_ae846d8fa5.jpg"
-        },
-        {
-          "title": "Anthropic、Google ドキュメント・スプレッドシート・スライドにClaude統合 直接編集とチャットからの作成に対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_google_workspace_beta",
-          "first_seen": "2026-10-08T09:47:02+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Introducing_Claude_for_Google_Workspace_0f71986ea3/Introducing_Claude_for_Google_Workspace_0f71986ea3.jpg"
-        },
-        {
-          "title": "Anthropic、ロボットは身体作業の74％を実行可能と推計 人間より安く担えるのは全労働時間の0.3％のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_robot_work_exposure",
-          "first_seen": "2026-10-08T09:47:02+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b/c523800acb2cfb23b8c834b4268d5daef9eafce4_2000x1125_e37ecaf34b.jpg"
-        },
-        {
-          "title": "生成AIを巡る問題が各所で噴出 国内の不正アクセス被害公表は最多ペース、日販子会社がAnthropicに書籍を無断販売のサムネイル画像",
-          "url": "https://ledge.ai/articles/generative_ai_information_use_nippan_cybersecurity",
-          "first_seen": "2026-10-08T09:47:02+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329/1c891836_c8de_44a2_92ab_6ea0e0fd2999_d251725329.jpg"
         }
       ]
     }
