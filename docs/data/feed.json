@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T08:09:47+00:00",
+  "generated_at": "2026-10-22T08:11:01+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-21T08:09:47+00:00",
-      "last_update": "2026-10-21T08:09:47+00:00",
-      "new_count": 2,
-      "link_count": 22,
+      "last_checked": "2026-10-22T08:11:01+00:00",
+      "last_update": "2026-10-22T08:11:01+00:00",
+      "new_count": 1,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in いわき 2026年10月24日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261021sanpai-iwaki/",
+          "first_seen": "2026-10-22T08:11:01+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
+        },
         {
           "title": "おでかけ 【福島県】西白河郡に来たら行くべきはココ！おすすめスポット5選 矢吹町、泉崎村、西郷村、中島村からなる西白河郡。この地域は阿武隈川の上流に位置し、水場...",
           "url": "https://www.cjnavi.co.jp/trip/20261021nishi-shirakawagun-spot/",
@@ -307,11 +313,6 @@
           "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年10月 2026年10月10日（土）・21日（水）・31日（土）",
           "url": "https://www.cjnavi.co.jp/event/20261003fukushima-united-fc/",
           "first_seen": "2026-10-03T08:45:47+00:00"
-        },
-        {
-          "title": "イベント 浜通りのおいしいグルメと魅力を堪能する2日間 ふくしま浜通り観光交流フェスティバル 浜フェス2026 2026年10月10日（土）・11日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261003hamafes/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
         }
       ]
     },
@@ -322,12 +323,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-21T08:09:47+00:00",
-      "last_update": "2026-10-21T08:09:47+00:00",
-      "new_count": 4,
-      "link_count": 40,
+      "last_checked": "2026-10-22T08:11:01+00:00",
+      "last_update": "2026-10-22T08:11:01+00:00",
+      "new_count": 3,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性のサムネイル画像",
+          "url": "https://ledge.ai/articles/crypton_sonicwire_mythos_cyberattack",
+          "first_seen": "2026-10-22T08:11:01+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/4dd9b1fa_db65_4f29_a3c4_cb1b884ee045_07c5d8cafe/4dd9b1fa_db65_4f29_a3c4_cb1b884ee045_07c5d8cafe.png"
+        },
+        {
+          "title": "AIツール「ARTEX」「Cairn」の攻撃利用が判明 日本企業を狙う不正アクセスや大規模な侵入活動を確認のサムネイル画像",
+          "url": "https://ledge.ai/articles/artex_cairn_ai_cyberattacks",
+          "first_seen": "2026-10-22T08:11:01+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/cover_27bfd1a27d/cover_27bfd1a27d.webp"
+        },
+        {
+          "title": "日立、柱・梁に木材を使うコンテナ型データセンターを発売 地方分散と景観調和を図り、CO₂排出削減・炭素固定で計20トン規模の効果を試算のサムネイル画像",
+          "url": "https://ledge.ai/articles/hitachi_wooden_container_datacenter",
+          "first_seen": "2026-10-22T08:11:01+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/flexdesignconntainer_f31b22a1ee/flexdesignconntainer_f31b22a1ee.jpg"
+        },
         {
           "title": "DeepSeekとMiniMax、Flashモデルを相次ぎ更新 エージェント・開発性能を強化、処理時間やコストも削減のサムネイル画像",
           "url": "https://ledge.ai/articles/deepseek_minimax_flash_model_updates",
@@ -609,29 +628,43 @@
           "url": "https://ledge.ai/articles/mistral_large_4_public_preview",
           "first_seen": "2026-10-09T09:51:39+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/mistral_large4_c9351270a2/mistral_large4_c9351270a2.jpg"
-        },
-        {
-          "title": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメントのサムネイル画像",
-          "url": "https://ledge.ai/articles/LayerX_token_management_interview",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2102_05668c9479/IMG_2102_05668c9479.jpg"
-        },
-        {
-          "title": "米Reflection、5010億パラメーターの「Beam」発表 推論効率を重視、10月中にApache 2.0で重み公開へのサムネイル画像",
-          "url": "https://ledge.ai/articles/reflection_beam_open_weight_model",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6.jpg"
-        },
-        {
-          "title": "AIに任せられる仕事と、任せられない仕事。その境界はどこにある？――第6回 Ledge.ai AI勉強会 開催レポートのサムネイル画像",
-          "url": "https://ledge.ai/articles/ledge_ai_study_session_202609_report",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9_1_000e8dce9a/9_1_000e8dce9a.png"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in いわき 2026年10月24日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261021sanpai-iwaki/",
+      "first_seen": "2026-10-22T08:11:01+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性のサムネイル画像",
+      "url": "https://ledge.ai/articles/crypton_sonicwire_mythos_cyberattack",
+      "first_seen": "2026-10-22T08:11:01+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/4dd9b1fa_db65_4f29_a3c4_cb1b884ee045_07c5d8cafe/4dd9b1fa_db65_4f29_a3c4_cb1b884ee045_07c5d8cafe.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIツール「ARTEX」「Cairn」の攻撃利用が判明 日本企業を狙う不正アクセスや大規模な侵入活動を確認のサムネイル画像",
+      "url": "https://ledge.ai/articles/artex_cairn_ai_cyberattacks",
+      "first_seen": "2026-10-22T08:11:01+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/cover_27bfd1a27d/cover_27bfd1a27d.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "日立、柱・梁に木材を使うコンテナ型データセンターを発売 地方分散と景観調和を図り、CO₂排出削減・炭素固定で計20トン規模の効果を試算のサムネイル画像",
+      "url": "https://ledge.ai/articles/hitachi_wooden_container_datacenter",
+      "first_seen": "2026-10-22T08:11:01+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/flexdesignconntainer_f31b22a1ee/flexdesignconntainer_f31b22a1ee.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1241,30 +1274,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/mistral_large4_c9351270a2/mistral_large4_c9351270a2.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AI活用の次の課題は「コストと成果」の可視化――LayerXに聞くトークンマネジメントのサムネイル画像",
-      "url": "https://ledge.ai/articles/LayerX_token_management_interview",
-      "first_seen": "2026-10-09T09:51:39+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2102_05668c9479/IMG_2102_05668c9479.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "米Reflection、5010億パラメーターの「Beam」発表 推論効率を重視、10月中にApache 2.0で重み公開へのサムネイル画像",
-      "url": "https://ledge.ai/articles/reflection_beam_open_weight_model",
-      "first_seen": "2026-10-09T09:51:39+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6/HT_46m_RY_Xw_A_Ax_Tdt_6c755b76b6.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIに任せられる仕事と、任せられない仕事。その境界はどこにある？――第6回 Ledge.ai AI勉強会 開催レポートのサムネイル画像",
-      "url": "https://ledge.ai/articles/ledge_ai_study_session_202609_report",
-      "first_seen": "2026-10-09T09:51:39+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9_1_000e8dce9a/9_1_000e8dce9a.png"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ 郡山市堤にレストラン『しもみ家』がオープン。ジャンルを超えて味わうこ… Pas Mal しもみ家（や）",
@@ -1421,14 +1430,6 @@
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年10月 2026年10月10日（土）・21日（水）・31日（土）",
       "url": "https://www.cjnavi.co.jp/event/20261003fukushima-united-fc/",
-      "first_seen": "2026-10-03T08:45:47+00:00",
-      "image": ""
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 浜通りのおいしいグルメと魅力を堪能する2日間 ふくしま浜通り観光交流フェスティバル 浜フェス2026 2026年10月10日（土）・11日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261003hamafes/",
       "first_seen": "2026-10-03T08:45:47+00:00",
       "image": ""
     }
