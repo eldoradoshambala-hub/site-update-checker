@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T08:11:03+00:00",
+  "updated_at": "2026-10-23T08:08:46+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-22T08:11:01+00:00",
-      "last_update": "2026-10-22T08:11:01+00:00",
+      "last_checked": "2026-10-23T08:08:45+00:00",
+      "last_update": "2026-10-23T08:08:45+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -974,9 +974,49 @@
         "https://www.cjnavi.co.jp/event/20261021sanpai-iwaki/": {
           "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in いわき 2026年10月24日（土）",
           "first_seen": "2026-10-22T08:11:01+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261023fukushi-expo/": {
+          "title": "イベント AD 労働力不足を解消！障がい者の働く力と企業をマッチング いきいき！ふくしEXPO 2026年11月10日（火）",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261023nougyoujin-fukushima/": {
+          "title": "イベント AD 福島県内最大級の就農相談会『ふくしま農業人フェア』を県内4地域で開催！ ふくのうPresents ふくしま農業人フェア2026 【福島市会場（アクティおろしまち）】2026年11月8日（日） 【いわき市会場（いわき産業創造館）】2026年11月14日（土） 【郡山市会場（ビッグパレットふくしま）】2026年11月29日（日） 【会津若松市会場（アピオスペース）】2026年12月6日（日）",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261023fukushima-medical-seminar/": {
+          "title": "イベント AD 【福島県内の小・中学生のみなさんへ】見て・触れて医療の仕事を体験でき… 福島県 医療のおしごと体験教室 2026年11月15日（日） ［申込締切］〜2026年11月9日（月）",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20261025readers-gifts/": {
+          "title": "スペシャル 『CJ Monmo』2026年11月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年11月号を読んで以下のアンケートに答えると、抽選で...",
+          "first_seen": "2026-10-23T08:08:45+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント AD 労働力不足を解消！障がい者の働く力と企業をマッチング いきいき！ふくしEXPO 2026年11月10日（火）",
+          "url": "https://www.cjnavi.co.jp/event/20261023fukushi-expo/",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b102fe3e977cbf51b12017a2adb58157-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 福島県内最大級の就農相談会『ふくしま農業人フェア』を県内4地域で開催！ ふくのうPresents ふくしま農業人フェア2026 【福島市会場（アクティおろしまち）】2026年11月8日（日） 【いわき市会場（いわき産業創造館）】2026年11月14日（土） 【郡山市会場（ビッグパレットふくしま）】2026年11月29日（日） 【会津若松市会場（アピオスペース）】2026年12月6日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261023nougyoujin-fukushima/",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9001e17253577cf996750f761b63d54b-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 【福島県内の小・中学生のみなさんへ】見て・触れて医療の仕事を体験でき… 福島県 医療のおしごと体験教室 2026年11月15日（日） ［申込締切］〜2026年11月9日（月）",
+          "url": "https://www.cjnavi.co.jp/event/20261023fukushima-medical-seminar/",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7929611443f79a647c30bc727828dc5a-350x263.jpg"
+        },
+        {
+          "title": "スペシャル 『CJ Monmo』2026年11月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年11月号を読んで以下のアンケートに答えると、抽選で...",
+          "url": "https://www.cjnavi.co.jp/special/20261025readers-gifts/",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9bac90637fa7f46e43fb4afd2d5e63a7-350x263.jpg"
+        },
         {
           "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in いわき 2026年10月24日（土）",
           "url": "https://www.cjnavi.co.jp/event/20261021sanpai-iwaki/",
@@ -1252,34 +1292,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261003sandorifes-fukushima/",
           "first_seen": "2026-10-03T08:45:47+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/26598cf54adfe3a08a4936b4e4f5c117-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市「福島県立美術館」で江戸から明治に描かれた、多彩な猫の姿を鑑賞… Ukiyo-e 猫百科 ごろごろまるまるネコづくし 2026年10月10日（土）～12月6日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261003ukiyo-e-neko/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
-        },
-        {
-          "title": "イベント 会津若松市「福島県立博物館」で、安積開拓の歩みと水路にかける挑戦を紐… 安積疏水の挑戦―郡山の未来を拓いた水路― 2026年10月10日（土）～12月6日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261003asaka-sosui/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
-        },
-        {
-          "title": "イベント 勇壮な神輿渡御や連山車。福島市の秋を彩る伝統祭事 福島稲荷神社例大祭 2026年10月10日（土）～12日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261003fukushima-inarijinja/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
-        },
-        {
-          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年10月 2026年10月10日（土）・21日（水）・31日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261003fukushima-united-fc/",
-          "first_seen": "2026-10-03T08:45:47+00:00"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-22T08:11:01+00:00",
-      "last_update": "2026-10-22T08:11:01+00:00",
+      "last_checked": "2026-10-23T08:08:45+00:00",
+      "last_update": "2026-10-23T08:08:45+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2647,9 +2667,49 @@
         "https://ledge.ai/articles/hitachi_wooden_container_datacenter": {
           "title": "日立、柱・梁に木材を使うコンテナ型データセンターを発売 地方分散と景観調和を図り、CO₂排出削減・炭素固定で計20トン規模の効果を試算のサムネイル画像",
           "first_seen": "2026-10-22T08:11:01+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_duet_research_preview": {
+          "title": "Anthropic、離席中も働くAIエージェント「Claude Duet」公開 必要な対応を自ら通知、米国で招待制プレビューのサムネイル画像",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_employment_ai_expectations_gap": {
+          "title": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開のサムネイル画像",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://ledge.ai/articles/digital_agency_gennai_ai_agents": {
+          "title": "デジタル庁、「源内」にAIエージェント環境を順次導入 政府職員約18万人が対象、安全基準も公表のサムネイル画像",
+          "first_seen": "2026-10-23T08:08:45+00:00"
+        },
+        "https://ledge.ai/articles/microsoft_perception_guardian_agents": {
+          "title": "社内AIも無条件に信頼しない Microsoft、「Project Perception」を拡張 AIエージェントを監督し、リスクに応じて権限制限のサムネイル画像",
+          "first_seen": "2026-10-23T08:08:45+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Anthropic、離席中も働くAIエージェント「Claude Duet」公開 必要な対応を自ら通知、米国で招待制プレビューのサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_duet_research_preview",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Claude_Duet_067bbaee0d/Claude_Duet_067bbaee0d.jpg"
+        },
+        {
+          "title": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_employment_ai_expectations_gap",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb_1920x1080_2fba5a243a/e5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb_1920x1080_2fba5a243a.webp"
+        },
+        {
+          "title": "デジタル庁、「源内」にAIエージェント環境を順次導入 政府職員約18万人が対象、安全基準も公表のサムネイル画像",
+          "url": "https://ledge.ai/articles/digital_agency_gennai_ai_agents",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/genai_agent_chat_25f42d5ba5/genai_agent_chat_25f42d5ba5.jpg"
+        },
+        {
+          "title": "社内AIも無条件に信頼しない Microsoft、「Project Perception」を拡張 AIエージェントを監督し、リスクに応じて権限制限のサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_perception_guardian_agents",
+          "first_seen": "2026-10-23T08:08:45+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/OMB_Secure_AI_Image_768x432_4a8f885d76/OMB_Secure_AI_Image_768x432_4a8f885d76.jpg"
+        },
         {
           "title": "クリプトン、不正アクセス後の状況把握に「Claude Mythos」活用 SONICWIRE会員情報最大42万件漏えいの可能性のサムネイル画像",
           "url": "https://ledge.ai/articles/crypton_sonicwire_mythos_cyberattack",
@@ -2925,30 +2985,6 @@
           "url": "https://ledge.ai/articles/openai_ai_mathematics_manuscripts",
           "first_seen": "2026-10-10T09:15:59+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/iolr_IW_Sp_1e14d0a42e/iolr_IW_Sp_1e14d0a42e.jpg"
-        },
-        {
-          "title": "Anthropic、防御側のClaude利用制限を3段階化で緩和 Mythos 5.1も対象、個人研究者から重要インフラまでのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_cyber_verification_program_expansion",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Expanding_the_Cyber_Verification_Program_0ea55c7c49/Expanding_the_Cyber_Verification_Program_0ea55c7c49.jpg"
-        },
-        {
-          "title": "AI推論の「通信待ち」でGPUが待機 スタンフォード大名誉教授、通信プロトコル「TCP」に代わる「Homa」を提案のサムネイル画像",
-          "url": "https://ledge.ai/articles/homa_ai_datacenter_transport",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350/87b328a6_e9d5_4847_aad4_b5c51de31018_7e759bc350.jpg"
-        },
-        {
-          "title": "Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_cloud_gemini_agent",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HUIP_Wf0ag_A_Ar_P_0_78419ee0ad/HUIP_Wf0ag_A_Ar_P_0_78419ee0ad.jpg"
-        },
-        {
-          "title": "仏Mistral、1兆パラメータの「Mistral Large 4」プレビュー開始 モデルの重みは10月末に公開予定のサムネイル画像",
-          "url": "https://ledge.ai/articles/mistral_large_4_public_preview",
-          "first_seen": "2026-10-09T09:51:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/mistral_large4_c9351270a2/mistral_large4_c9351270a2.jpg"
         }
       ]
     }
