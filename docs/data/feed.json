@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T08:08:45+00:00",
+  "generated_at": "2026-10-24T07:47:36+00:00",
   "site_count": 2,
-  "new_count": 8,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-23T08:08:45+00:00",
-      "last_update": "2026-10-23T08:08:45+00:00",
-      "new_count": 4,
-      "link_count": 21,
+      "last_checked": "2026-10-24T07:47:36+00:00",
+      "last_update": "2026-10-24T07:47:36+00:00",
+      "new_count": 3,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 漆黒のスープに宿る滋味とコク！たまり醤油・黒胡椒・背脂が織り成すいわ… 第11回「麺処 瓢たん。」",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261024fukushima-ramen11/",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2b21c0a4fe48911495e4516785b09bad-350x263.jpg"
+        },
+        {
+          "title": "イベント YouTuber・SUSURUが厳選！全国のラーメン店が郡山市「開成山公園」に集結！ KFB福島放送開局45周年記念 SUSURUラーメンフェス福島 Supported by サントリーからだを想うオールフリー 2026年10月30日（金）～11月3日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261023susuru-ramenfes/",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/c60283d99a447e6958e03c5ead671fb7-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 【福島県】福島市・川俣町・二本松市のものづくり体験スポット＆立ち寄り… 土湯こけしの絵付けや伝統ある手漉き、機織りなど、福島市・川俣町・二本松市でものづくりを...",
+          "url": "https://www.cjnavi.co.jp/trip/20261022kenpoku-taiken-lunch/",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1bffcf6e68c94f828cb61f4c021205b1-350x263.jpg"
+        },
         {
           "title": "イベント AD 労働力不足を解消！障がい者の働く力と企業をマッチング いきいき！ふくしEXPO 2026年11月10日（火）",
           "url": "https://www.cjnavi.co.jp/event/20261023fukushi-expo/",
@@ -299,24 +317,6 @@
           "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
           "first_seen": "2026-10-04T09:11:17+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/423a8f87c18ad23609f3d7b1969a34c0-350x263.jpg"
-        },
-        {
-          "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/04/30e4a6b7225b1d34ab77aa477d35eb5b-350x263.jpg"
-        },
-        {
-          "title": "イベント 7台の山車が轟音を立ててぶつかり合う「あばれ山車」は圧巻！ 諏訪神社例大祭 針道のあばれ山車 2026年10月10日（土）・11日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261003suwa-abare-dashi/",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/13ace45de45e10391a82b2c8b6e9c2b9-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島の三大鶏が三島町に大集合！ 第4回 ふくしま三大鶏フェスin三島町 2026年10月10日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261003sandorifes-fukushima/",
-          "first_seen": "2026-10-03T08:45:47+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/26598cf54adfe3a08a4936b4e4f5c117-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-23T08:08:45+00:00",
-      "last_update": "2026-10-23T08:08:45+00:00",
-      "new_count": 4,
+      "last_checked": "2026-10-24T07:47:36+00:00",
+      "last_update": "2026-10-24T07:47:36+00:00",
+      "new_count": 3,
       "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Uber Eatsの配達ロボットを止めて抗議、「人間の仕事を奪う」 米フィラデルフィアで女性を逮捕のサムネイル画像",
+          "url": "https://ledge.ai/articles/uber_eats_robot_protest_arrest",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/marvin_6400721a91/marvin_6400721a91.jpg"
+        },
+        {
+          "title": "NVIDIA、GTC Berlin基調講演まとめ AIファクトリーから企業向けエージェント、自動運転・ロボットまでのサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_gtc_berlin_2026_ai_robotics",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971.jpg"
+        },
+        {
+          "title": "AIが発見したPHPの重大脆弱性で何が起きたのか 国内サービスの一時停止、共同修正と情報流出、修正後も続く対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/php2shell_ai_discovery_security_response",
+          "first_seen": "2026-10-24T07:47:36+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5.jpg"
+        },
         {
           "title": "Anthropic、離席中も働くAIエージェント「Claude Duet」公開 必要な対応を自ら通知、米国で招待制プレビューのサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_duet_research_preview",
@@ -614,29 +632,59 @@
           "url": "https://ledge.ai/articles/armature_agent_reviews",
           "first_seen": "2026-10-11T09:32:49+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/agentreviews_bd1c67e82c/agentreviews_bd1c67e82c.jpg"
-        },
-        {
-          "title": "Claudeを「日記」に使った米女性が逮捕 銃撃の脅迫をAnthropicが人間の審査後に通報のサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_diary_threat_police_report",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6.jpg"
-        },
-        {
-          "title": "ランサムウェア集団「Qilin」サイバー攻撃で国内53社が被害 生成AIで攻撃コードを作成か、 中心メンバーをドイツで逮捕のサムネイル画像",
-          "url": "https://ledge.ai/articles/qilin_ransomware_japan_ai",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a4d474ff_83ff_47e3_ab26_a0c4338a2567_d4454f55fb/a4d474ff_83ff_47e3_ab26_a0c4338a2567_d4454f55fb.jpg"
-        },
-        {
-          "title": "OpenAI、AIが生成した数学原稿722本を公開 翌日に3本を撤回、証明の検証資料も共有のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_ai_mathematics_manuscripts",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/iolr_IW_Sp_1e14d0a42e/iolr_IW_Sp_1e14d0a42e.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 漆黒のスープに宿る滋味とコク！たまり醤油・黒胡椒・背脂が織り成すいわ… 第11回「麺処 瓢たん。」",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261024fukushima-ramen11/",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2b21c0a4fe48911495e4516785b09bad-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント YouTuber・SUSURUが厳選！全国のラーメン店が郡山市「開成山公園」に集結！ KFB福島放送開局45周年記念 SUSURUラーメンフェス福島 Supported by サントリーからだを想うオールフリー 2026年10月30日（金）～11月3日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261023susuru-ramenfes/",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/c60283d99a447e6958e03c5ead671fb7-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ 【福島県】福島市・川俣町・二本松市のものづくり体験スポット＆立ち寄り… 土湯こけしの絵付けや伝統ある手漉き、機織りなど、福島市・川俣町・二本松市でものづくりを...",
+      "url": "https://www.cjnavi.co.jp/trip/20261022kenpoku-taiken-lunch/",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1bffcf6e68c94f828cb61f4c021205b1-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Uber Eatsの配達ロボットを止めて抗議、「人間の仕事を奪う」 米フィラデルフィアで女性を逮捕のサムネイル画像",
+      "url": "https://ledge.ai/articles/uber_eats_robot_protest_arrest",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/marvin_6400721a91/marvin_6400721a91.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "NVIDIA、GTC Berlin基調講演まとめ AIファクトリーから企業向けエージェント、自動運転・ロボットまでのサムネイル画像",
+      "url": "https://ledge.ai/articles/nvidia_gtc_berlin_2026_ai_robotics",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIが発見したPHPの重大脆弱性で何が起きたのか 国内サービスの一時停止、共同修正と情報流出、修正後も続く対応のサムネイル画像",
+      "url": "https://ledge.ai/articles/php2shell_ai_discovery_security_response",
+      "first_seen": "2026-10-24T07:47:36+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1238,22 +1286,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/agentreviews_bd1c67e82c/agentreviews_bd1c67e82c.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Claudeを「日記」に使った米女性が逮捕 銃撃の脅迫をAnthropicが人間の審査後に通報のサムネイル画像",
-      "url": "https://ledge.ai/articles/claude_diary_threat_police_report",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ランサムウェア集団「Qilin」サイバー攻撃で国内53社が被害 生成AIで攻撃コードを作成か、 中心メンバーをドイツで逮捕のサムネイル画像",
-      "url": "https://ledge.ai/articles/qilin_ransomware_japan_ai",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a4d474ff_83ff_47e3_ab26_a0c4338a2567_d4454f55fb/a4d474ff_83ff_47e3_ab26_a0c4338a2567_d4454f55fb.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 落語家の三遊亭小遊三ら豪華メンバーが郡山市に登場！2027年の初笑いを楽… こおりやま寄席 新春言祝ぎ席 2027年1月17日（日） ［チケット一般販売］2026年10月17日（土）～",
@@ -1300,14 +1332,6 @@
       "url": "https://www.cjnavi.co.jp/trip/20261009aizu-taiken-lunch/",
       "first_seen": "2026-10-10T09:15:59+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d1fc1b12399aafd1f08401ad8276e733-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、AIが生成した数学原稿722本を公開 翌日に3本を撤回、証明の検証資料も共有のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_ai_mathematics_manuscripts",
-      "first_seen": "2026-10-10T09:15:59+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/iolr_IW_Sp_1e14d0a42e/iolr_IW_Sp_1e14d0a42e.jpg"
     },
     {
       "site_id": "cjnavi",
@@ -1412,30 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
       "first_seen": "2026-10-04T09:11:17+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/423a8f87c18ad23609f3d7b1969a34c0-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 北塩原村「諸橋近代美術館」の庭園に、福島県内外のクラフト作家や人気キ… おきにいりマルシェ Vol.11 2026年10月11日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261004okiniiri-marche/",
-      "first_seen": "2026-10-04T09:11:17+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/04/30e4a6b7225b1d34ab77aa477d35eb5b-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 7台の山車が轟音を立ててぶつかり合う「あばれ山車」は圧巻！ 諏訪神社例大祭 針道のあばれ山車 2026年10月10日（土）・11日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261003suwa-abare-dashi/",
-      "first_seen": "2026-10-03T08:45:47+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/13ace45de45e10391a82b2c8b6e9c2b9-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島の三大鶏が三島町に大集合！ 第4回 ふくしま三大鶏フェスin三島町 2026年10月10日（土）",
-      "url": "https://www.cjnavi.co.jp/event/20261003sandorifes-fukushima/",
-      "first_seen": "2026-10-03T08:45:47+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/26598cf54adfe3a08a4936b4e4f5c117-350x263.jpg"
     }
   ]
 }
