@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T07:47:37+00:00",
+  "updated_at": "2026-10-25T07:58:42+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-24T07:47:36+00:00",
-      "last_update": "2026-10-24T07:47:36+00:00",
+      "last_checked": "2026-10-25T07:58:41+00:00",
+      "last_update": "2026-10-25T07:58:41+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1002,9 +1002,159 @@
         "https://www.cjnavi.co.jp/trip/20261022kenpoku-taiken-lunch/": {
           "title": "おでかけ 【福島県】福島市・川俣町・二本松市のものづくり体験スポット＆立ち寄り… 土湯こけしの絵付けや伝統ある手漉き、機織りなど、福島市・川俣町・二本松市でものづくりを...",
           "first_seen": "2026-10-24T07:47:36+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20261025cjmonmo-64/": {
+          "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/": {
+          "title": "グルメ AD 【福島県の醸造元2026】福島県内でこだわりを重ねた美酒を造る醸造元4選 福島県内の酒蔵やワイナリー、蒸留所から届いた旬なトピックスを紹介！こだわりの素材や丁寧...",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025sake-sasanokawa/": {
+          "title": "グルメ AD 【福島県の醸造元2026】ロック推奨、燗ツケ厳禁。福島一辛口『笹の川酒造… 【郡山市】笹の川酒造",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025okukuji-hanawa/": {
+          "title": "グルメ AD 【福島県の醸造元2026】塙町が誇る最高水準の『奥久慈塙蒸留所』の焼酎。… 【塙町】奥久慈塙蒸留所",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/": {
+          "title": "グルメ AD 【福島県の醸造元2026】『奥の松酒造』伝統の味をもっと身近に。缶カップ… 【二本松市】奥の松酒造",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025azuma-sanroku/": {
+          "title": "グルメ AD 【福島県の醸造元2026】吾妻山の風土を閉じ込めた、福島から世界へ届く『… 【福島市】WINERY AZUMA SANROKU 吾妻山麓醸造所",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025kitsunaisaketen/": {
+          "title": "グルメ AD 【福島県の酒販店2026】日本酒が最もおいしい季節。期間限定の美酒を『橘… 【福島市】橘内酒店",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025wine-no-mu/": {
+          "title": "グルメ AD 【福島県の酒販店2026】『wineのMu』の造り手の想いが詰まった優しい風味… 【三春町】wineのMu",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/": {
+          "title": "グルメ AD 【福島県の新米2026】福島県が誇るブランド米と新米3選 福島県内では2026年もお米をはじめ、豊かな農産物やそれを使ったこだわりの料理などが出来上...",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025fukushima-pride/": {
+          "title": "グルメ AD 【福島県の新米2026】産地・食材・生産者をめぐる福島県の魅力を知る食の… 【福島県】いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025koransho-nihonmatsu/": {
+          "title": "グルメ AD 【福島県の新米2026】『JAふくしま未来』各地区で生産される絶品“ふくしま… 【二本松市】こらんしょ市 二本松店",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025teneimai/": {
+          "title": "グルメ AD 【福島県の新米2026】豊饒な大地と清流に育まれたブランド米『天栄米』。… 【天栄村】天栄米",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261025kawamata-chisanchisyofair/": {
+          "title": "イベント AD 【福島県の食イベント2026】川俣町の飲食店をまわって特産品を味わい、農… 川俣・食の地産地消フェア2026／かわまたハーベスト／新そばまつり 【川俣・食の地産地消フェア2026】2026年10月20日（火）～11月19日（木） 【かわまたハーベスト】2026年11月1日（日） 【新そばまつり】2026年11月8日（日）",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025onomachi-kuroninniku/": {
+          "title": "グルメ AD 【福島県の特産品2026】手間を惜しまず作られ、栄養もたっぷりの小野町の… 【小野町】黒にんにく",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261025kurashi-nayami/": {
+          "title": "ライフ AD 【暮らしの悩み解決】困った時に頼りたい！福島県内のプロ集団11選 買い取りやリフォーム、介護、生前・遺品整理など家の困りごとをズバリ解決！より快適な生活...",
+          "first_seen": "2026-10-25T07:58:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
+          "url": "https://www.cjnavi.co.jp/special/20261025cjmonmo-64/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1f1f3f33f2bfb05a7271e579ce23650e-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の醸造元2026】福島県内でこだわりを重ねた美酒を造る醸造元4選 福島県内の酒蔵やワイナリー、蒸留所から届いた旬なトピックスを紹介！こだわりの素材や丁寧...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の醸造元2026】ロック推奨、燗ツケ厳禁。福島一辛口『笹の川酒造… 【郡山市】笹の川酒造",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-sasanokawa/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ee84158694f3450fb9e9fb32550a4b41-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の醸造元2026】塙町が誇る最高水準の『奥久慈塙蒸留所』の焼酎。… 【塙町】奥久慈塙蒸留所",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025okukuji-hanawa/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の醸造元2026】『奥の松酒造』伝統の味をもっと身近に。缶カップ… 【二本松市】奥の松酒造",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e096f8cbe8d069e0ac469029e446eef0-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の醸造元2026】吾妻山の風土を閉じ込めた、福島から世界へ届く『… 【福島市】WINERY AZUMA SANROKU 吾妻山麓醸造所",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025azuma-sanroku/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/130f98e4fa2633b63cc4bd710c3a28cf-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の酒販店2026】日本酒が最もおいしい季節。期間限定の美酒を『橘… 【福島市】橘内酒店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025kitsunaisaketen/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/549a6168d5b5f2b6c910f27c8d496bec-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の酒販店2026】『wineのMu』の造り手の想いが詰まった優しい風味… 【三春町】wineのMu",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025wine-no-mu/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/596235606fbf7efd8881a9c595d83f28-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の新米2026】福島県が誇るブランド米と新米3選 福島県内では2026年もお米をはじめ、豊かな農産物やそれを使ったこだわりの料理などが出来上...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の新米2026】産地・食材・生産者をめぐる福島県の魅力を知る食の… 【福島県】いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025fukushima-pride/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/047adf23d9ffb0831b75cf4d7eca6ec9-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の新米2026】『JAふくしま未来』各地区で生産される絶品“ふくしま… 【二本松市】こらんしょ市 二本松店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025koransho-nihonmatsu/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の新米2026】豊饒な大地と清流に育まれたブランド米『天栄米』。… 【天栄村】天栄米",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025teneimai/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/488970143dcaf2baac95a0a9b37e1faa-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 【福島県の食イベント2026】川俣町の飲食店をまわって特産品を味わい、農… 川俣・食の地産地消フェア2026／かわまたハーベスト／新そばまつり 【川俣・食の地産地消フェア2026】2026年10月20日（火）～11月19日（木） 【かわまたハーベスト】2026年11月1日（日） 【新そばまつり】2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261025kawamata-chisanchisyofair/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9d215ffa3c88761ea2160a65646291c5-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【福島県の特産品2026】手間を惜しまず作られ、栄養もたっぷりの小野町の… 【小野町】黒にんにく",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025onomachi-kuroninniku/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2019/09/6418eab6c6134063296d6f8c2a06ae51-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【暮らしの悩み解決】困った時に頼りたい！福島県内のプロ集団11選 買い取りやリフォーム、介護、生前・遺品整理など家の困りごとをズバリ解決！より快適な生活...",
+          "url": "https://www.cjnavi.co.jp/life/20261025kurashi-nayami/",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/02/79638a9ed22ac7a8092ba3ce01f53ccd-350x263.jpg"
+        },
         {
           "title": "グルメ 漆黒のスープに宿る滋味とコク！たまり醤油・黒胡椒・背脂が織り成すいわ… 第11回「麺処 瓢たん。」",
           "url": "https://www.cjnavi.co.jp/gourmet/20261024fukushima-ramen11/",
@@ -1214,104 +1364,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261010syunputei-cyoushi/",
           "first_seen": "2026-10-10T09:15:59+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/daf59b1fdac8aa5334db26cb5341c1ae-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 稲刈り＆焼き芋、新米おにぎりも！本宮市で秋の収穫祭を開催！ どろんこ田んぼ遊び 2026−秋の収穫祭− 2026年11月3日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261009tanboasobi-motomiya/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/362aa06f239ccc4d9240e62014c71ce1-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】会津エリアのものづくり体験スポット＆立ち寄りランチスポット 古くから伝わる藍染めや会津ならではの赤べこの絵付け、からむし織など、会津のものづくりを...",
-          "url": "https://www.cjnavi.co.jp/trip/20261009aizu-taiken-lunch/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d1fc1b12399aafd1f08401ad8276e733-350x263.jpg"
-        },
-        {
-          "title": "グルメ 郡山市堤にレストラン『しもみ家』がオープン。ジャンルを超えて味わうこ… Pas Mal しもみ家（や）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261008newopen-shimomiya/",
-          "first_seen": "2026-10-08T09:47:02+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/80d1fd1d45bf0ab13f2dc1958bbfc5d1-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】この秋行きたい！絶景の紅葉スポット7選 10月上旬から11月中旬にかけて見頃を迎える、福島市・伊達市・鮫川村・猪苗代町・喜多方市・...",
-          "url": "https://www.cjnavi.co.jp/trip/20261007kouyou-spot/",
-          "first_seen": "2026-10-07T02:37:10+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/dc6b919c9f642eb64f3389392f3ea3cd-350x263.jpg"
-        },
-        {
-          "title": "イベント AD ラーメン食べて、温泉入って、豪華賞品をGET！ ラーメン湯治デジタルラリー2026-2027 2026年10月1日（木）〜2027年2月28日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261007ramen-touji-digitalrally/",
-          "first_seen": "2026-10-07T02:37:10+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9cc4ddc40e3e88bf196598960e490f28-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 生鮮品の即売、マグロの解体実演など、市場と食の魅力を満喫しよう！ 第42回 わくわく市場まつり 2026年10月25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261007ichibamatsuri/",
-          "first_seen": "2026-10-07T02:37:10+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7b169c258442a7102dc38d49b08c8840-350x263.jpg"
-        },
-        {
-          "title": "イベント AD オリジナル炊き込みご飯を作ってみよう！桑折町で「パックごはん」工場見… 『マルちゃん パックごはん』親子工場見学会 2026年11月3日（祝） ［申込締切］〜2026年10月14日（水）",
-          "url": "https://www.cjnavi.co.jp/event/20261006fukushima-foods/",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ec5b64281d65cf8f5ac0334cc73121ad-350x263.jpg"
-        },
-        {
-          "title": "グルメ 全てのパンがこんにゃく粉入りでもっちり！福島市西中央に『こんにゃくパ… こんにゃくパンの金亀製パン所",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261006newopen-konnyaku-pan/",
-          "first_seen": "2026-10-06T09:39:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7ff1dea543a7fb3c79239a6297fb37f4-350x263.jpg"
-        },
-        {
-          "title": "『イオンモール伊達』2026年11月27日（金）グランドオープン！",
-          "url": "https://www.cjnavi.co.jp/trip/20261005aeonmalldate-grandopening/",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c296e172e9cc1b78004c695b4f2aca79-168x1024.jpg"
-        },
-        {
-          "title": "イベント 人気キッチンカーと田村市自慢の農産物を味わえるイベントを開催！ KITCHENCAR PARK ABUKUMAうんめぇFES 2026年10月12日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261005kitchencar-park-abukuma/",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/d48f4734e4fa02fad6e0a3bf1e70529e-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 三島町「道の駅 尾瀬街道みしま宿」の展望台から撮影した、第一只見川橋梁」 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-          "url": "https://www.cjnavi.co.jp/trip/20261005hoshi-kenkou-okuaizu-mishima/",
-          "first_seen": "2026-10-05T09:52:03+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/6372c0cf5d6033000c7aeb172a9e83ce-350x263.jpg"
-        },
-        {
-          "title": "グルメ 福島市のおかあさんが作る温かい定食で、パセオ通りが実家になる 第109回「おかあさん食堂」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261004fukushima-teisyokubu109/",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c4b239e2f404b94168c32f1fd213bb66-350x263.jpg"
-        },
-        {
-          "title": "イベント 本場ドイツ＆全国の人気ビールが集結！いわきの秋を楽しむ2日間 IWAKIオクトーバーフェスト2026 2026年10月11日（日）・12日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261004iwaki-october-fest/",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1c239feeae2a523bbbc9a78fa5f8f91e-350x263.jpg"
-        },
-        {
-          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年10月 2026年10月11日（日）・18日（日）・25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261004iwakifc-homegame/",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/20e1a76f5f55c0b82dc8ea4098cb333c-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島県内外で活躍するハンドメイド作家が福島市「まちなか広場」に集合！ HEARTFUL MARCHE 2026年10月11日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261004heartful-marche/",
-          "first_seen": "2026-10-04T09:11:17+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/423a8f87c18ad23609f3d7b1969a34c0-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-24T07:47:36+00:00",
-      "last_update": "2026-10-24T07:47:36+00:00",
+      "last_checked": "2026-10-25T07:58:41+00:00",
+      "last_update": "2026-10-25T07:58:41+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2707,9 +2767,39 @@
         "https://ledge.ai/articles/php2shell_ai_discovery_security_response": {
           "title": "AIが発見したPHPの重大脆弱性で何が起きたのか 国内サービスの一時停止、共同修正と情報流出、修正後も続く対応のサムネイル画像",
           "first_seen": "2026-10-24T07:47:36+00:00"
+        },
+        "https://ledge.ai/articles/ai_agent_ecology_population_threshold": {
+          "title": "AIエージェントは「数」が増えると増殖へ転じる可能性 ハーバード大・NTT Researchらが協力による臨界点を理論化のサムネイル画像",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://ledge.ai/articles/chatgpt_voice_localized_campaigns": {
+          "title": "話の途中で割り込んでも大丈夫 ChatGPT Voiceの紹介動画を各国向けにアレンジ、日本版は「オバチャーン」とAIが関西弁で掛け合いのサムネイル画像",
+          "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://ledge.ai/articles/nippairen_ai_voice_guidelines": {
+          "title": "日俳連、声の生成AI利用ガイドラインを発表 出演料とは別の対価、多言語化は言語ごとに同意、故人の実演家の声は原則利用禁止のサムネイル画像",
+          "first_seen": "2026-10-25T07:58:41+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AIエージェントは「数」が増えると増殖へ転じる可能性 ハーバード大・NTT Researchらが協力による臨界点を理論化のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_agent_ecology_population_threshold",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/67f2fcf6_ca3b_4ff1_b42f_f3ebff6942eb_b82e70babd/67f2fcf6_ca3b_4ff1_b42f_f3ebff6942eb_b82e70babd.jpg"
+        },
+        {
+          "title": "話の途中で割り込んでも大丈夫 ChatGPT Voiceの紹介動画を各国向けにアレンジ、日本版は「オバチャーン」とAIが関西弁で掛け合いのサムネイル画像",
+          "url": "https://ledge.ai/articles/chatgpt_voice_localized_campaigns",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Voice_992a982a2d/Chat_GPT_Voice_992a982a2d.jpg"
+        },
+        {
+          "title": "日俳連、声の生成AI利用ガイドラインを発表 出演料とは別の対価、多言語化は言語ごとに同意、故人の実演家の声は原則利用禁止のサムネイル画像",
+          "url": "https://ledge.ai/articles/nippairen_ai_voice_guidelines",
+          "first_seen": "2026-10-25T07:58:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2026101501_c109ce6dd3/2026101501_c109ce6dd3.jpg"
+        },
         {
           "title": "Uber Eatsの配達ロボットを止めて抗議、「人間の仕事を奪う」 米フィラデルフィアで女性を逮捕のサムネイル画像",
           "url": "https://ledge.ai/articles/uber_eats_robot_protest_arrest",
@@ -2991,24 +3081,6 @@
           "url": "https://ledge.ai/articles/anthropic_claude_usage_policy_update_2026",
           "first_seen": "2026-10-12T10:03:12+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d.png"
-        },
-        {
-          "title": "エンタメ＆アート 2026 / 10 / 11 [SUN] 人間と人型ロボットを戦わせたREKに停止命令 カリフォルニア州、無許可の格闘興行を問題視 CEOは規制に疑問",
-          "url": "https://ledge.ai/articles/rek_human_robot_fight_cease_desist",
-          "first_seen": "2026-10-12T10:03:12+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/rek_cagematch_015b97bd9a/rek_cagematch_015b97bd9a.jpg"
-        },
-        {
-          "title": "仏ゴンクール賞、AI執筆疑惑の小説を候補から除外 作家は否定、出版社も確認・否定できずのサムネイル画像",
-          "url": "https://ledge.ai/articles/goncourt_novel_ai_allegations",
-          "first_seen": "2026-10-12T10:03:12+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c5255c46_1b5d_4248_8c1f_533dca1d311b_9d48ab834a/c5255c46_1b5d_4248_8c1f_533dca1d311b_9d48ab834a.jpg"
-        },
-        {
-          "title": "AIが使ったツールをAI自身が口コミ評価 Armatureが「agent.reviews」を公開、ほかのエージェントの選択に活用のサムネイル画像",
-          "url": "https://ledge.ai/articles/armature_agent_reviews",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/agentreviews_bd1c67e82c/agentreviews_bd1c67e82c.jpg"
         }
       ]
     }
