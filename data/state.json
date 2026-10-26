@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T07:58:42+00:00",
+  "updated_at": "2026-10-26T08:20:33+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-25T07:58:41+00:00",
-      "last_update": "2026-10-25T07:58:41+00:00",
+      "last_checked": "2026-10-26T08:20:31+00:00",
+      "last_update": "2026-10-26T08:20:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1062,9 +1062,29 @@
         "https://www.cjnavi.co.jp/life/20261025kurashi-nayami/": {
           "title": "ライフ AD 【暮らしの悩み解決】困った時に頼りたい！福島県内のプロ集団11選 買い取りやリフォーム、介護、生前・遺品整理など家の困りごとをズバリ解決！より快適な生活...",
           "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261025fruitspeaks/": {
+          "title": "グルメ AD クリスマスケーキの予約開始！『フルーツピークス』に冬のスイーツが登場 フルーツピークス 福島南バイパス店・福島西店",
+          "first_seen": "2026-10-26T08:20:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20261025cjmonmo-64/": {
+          "title": "月刊CJ Monmo 2026年11月号",
+          "first_seen": "2026-10-26T08:20:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ AD クリスマスケーキの予約開始！『フルーツピークス』に冬のスイーツが登場 フルーツピークス 福島南バイパス店・福島西店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261025fruitspeaks/",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/638fd564b202e3fa10788325f5fd2129-350x263.jpg"
+        },
+        {
+          "title": "月刊CJ Monmo 2026年11月号",
+          "url": "https://www.cjnavi.co.jp/magazine/20261025cjmonmo-64/",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7a979d3c8cd80636a48546b5776e7738-350x162.jpg"
+        },
         {
           "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
           "url": "https://www.cjnavi.co.jp/special/20261025cjmonmo-64/",
@@ -1352,26 +1372,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261010cinderella-iwakialios/",
           "first_seen": "2026-10-10T09:15:59+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/261fb3ca5775bca3c6adb7cfbaa19518-350x263.jpg"
-        },
-        {
-          "title": "イベント 喜多方市の大空に色とりどりのバルーンが舞う 会津塩川バルーンフェスティバル2026 2026年10月17日（土）・18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261010aizushiokawa-balloon/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/47eaff22ed6fe6b28def53ccd7ffeb71-350x263.jpg"
-        },
-        {
-          "title": "イベント 郡山市「善導寺」で初のお寺寄席を開催！落語家・春風亭朝枝の落語会を楽… 郡山若手落語会 こいらく「春風亭朝枝落語会」 2026年10月17日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261010syunputei-cyoushi/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/daf59b1fdac8aa5334db26cb5341c1ae-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-25T07:58:41+00:00",
-      "last_update": "2026-10-25T07:58:41+00:00",
+      "last_checked": "2026-10-26T08:20:31+00:00",
+      "last_update": "2026-10-26T08:20:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2779,9 +2787,59 @@
         "https://ledge.ai/articles/nippairen_ai_voice_guidelines": {
           "title": "日俳連、声の生成AI利用ガイドラインを発表 出演料とは別の対価、多言語化は言語ごとに同意、故人の実演家の声は原則利用禁止のサムネイル画像",
           "first_seen": "2026-10-25T07:58:41+00:00"
+        },
+        "https://ledge.ai/articles/gmo_desktop_cloud_cyberattack": {
+          "title": "GMO、FX自動売買向けクラウドへの不正アクセスで損失補償 熊谷代表、AI悪用の脅威と官民連携を訴えのサムネイル画像",
+          "first_seen": "2026-10-26T08:20:31+00:00"
+        },
+        "https://ledge.ai/articles/line_ai_reservation_launch": {
+          "title": "LINEヤフー「LINE AI予約」正式提供 飲食店の電話予約を24時間自動化、OpenAI Realtime APIを採用のサムネイル画像",
+          "first_seen": "2026-10-26T08:20:31+00:00"
+        },
+        "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context": {
+          "title": "「コンテキストは経営資産」――企業独自の知識や判断基準を、AIエージェントにどう引き継ぐかのサムネイル画像",
+          "first_seen": "2026-10-26T08:20:31+00:00"
+        },
+        "https://ledge.ai/articles/pfn_tenstorrent_nedo_photonics_ai_processor": {
+          "title": "PFNとTenstorrent、光電融合技術を使う生成AI向けプロセッサーを共同開発へ NEDO事業に採択のサムネイル画像",
+          "first_seen": "2026-10-26T08:20:31+00:00"
+        },
+        "https://ledge.ai/articles/openai_chatgpt_ads_expands_89_countries": {
+          "title": "OpenAI、ChatGPT広告を89カ国へ拡大 開始8カ月余りで広告主10万社超のサムネイル画像",
+          "first_seen": "2026-10-26T08:20:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "GMO、FX自動売買向けクラウドへの不正アクセスで損失補償 熊谷代表、AI悪用の脅威と官民連携を訴えのサムネイル画像",
+          "url": "https://ledge.ai/articles/gmo_desktop_cloud_cyberattack",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gmo_alert1024_3a3fad6d8e/gmo_alert1024_3a3fad6d8e.jpg"
+        },
+        {
+          "title": "LINEヤフー「LINE AI予約」正式提供 飲食店の電話予約を24時間自動化、OpenAI Realtime APIを採用のサムネイル画像",
+          "url": "https://ledge.ai/articles/line_ai_reservation_launch",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/KV_01_1013_a0d8aae57e/KV_01_1013_a0d8aae57e.png"
+        },
+        {
+          "title": "「コンテキストは経営資産」――企業独自の知識や判断基準を、AIエージェントにどう引き継ぐかのサムネイル画像",
+          "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Laboro_AI_MV_48b92ba1ca/Laboro_AI_MV_48b92ba1ca.png"
+        },
+        {
+          "title": "PFNとTenstorrent、光電融合技術を使う生成AI向けプロセッサーを共同開発へ NEDO事業に採択のサムネイル画像",
+          "url": "https://ledge.ai/articles/pfn_tenstorrent_nedo_photonics_ai_processor",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/PNF_and_tenstorrent_logo_a3bf130d6b/PNF_and_tenstorrent_logo_a3bf130d6b.jpg"
+        },
+        {
+          "title": "OpenAI、ChatGPT広告を89カ国へ拡大 開始8カ月余りで広告主10万社超のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_ads_expands_89_countries",
+          "first_seen": "2026-10-26T08:20:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_2445c2bade/_2445c2bade.jpg"
+        },
         {
           "title": "AIエージェントは「数」が増えると増殖へ転じる可能性 ハーバード大・NTT Researchらが協力による臨界点を理論化のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_agent_ecology_population_threshold",
@@ -3051,36 +3109,6 @@
           "url": "https://ledge.ai/articles/microsoft_decision_1",
           "first_seen": "2026-10-14T08:16:13+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919.webp"
-        },
-        {
-          "title": "OpenAI、ChatGPTが音声ファイルの添付に対応 有料ユーザー向け、文字起こし・要約からメール下書きまでのサムネイル画像",
-          "url": "https://ledge.ai/articles/chatgpt_audio_file_upload",
-          "first_seen": "2026-10-13T09:55:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46/bbf6847a_e542_4f72_8e8e_abdfe9510183_5e61aabb46.jpg"
-        },
-        {
-          "title": "バイブコーディングで開発したWebアプリ200件を監査、91％に脆弱性 Microsoft・NUS所属研究者らが原因分析のサムネイル画像",
-          "url": "https://ledge.ai/articles/vibe_coding_app_security_study",
-          "first_seen": "2026-10-13T09:55:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c/3e938043_0a68_4d38_a7af_8652c9ce05e2_c49a68d57c.png"
-        },
-        {
-          "title": "三井不動産など3社、神戸の旧土砂運搬トンネルをAI向けデータセンターに転用 地下水で冷却、2027年末開始へのサムネイル画像",
-          "url": "https://ledge.ai/articles/kobe_underground_ai_datacenter",
-          "first_seen": "2026-10-13T09:55:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261006_01_557594d6b5/20261006_01_557594d6b5.jpg"
-        },
-        {
-          "title": "パナソニック コネクト、生成AIがカメラ画像を最短10分ごとに確認 「Cameleo」に文章で指示できる定期巡回機能のサムネイル画像",
-          "url": "https://ledge.ai/articles/panasonic_cameleo_ai_patrol",
-          "first_seen": "2026-10-13T09:55:39+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/l_jn261006_1_1_d18d690759/l_jn261006_1_1_d18d690759.jpg"
-        },
-        {
-          "title": "ビジネス 2026 / 10 / 12 [MON] Anthropic、Claudeへの継続的な「虐待」を利用ポリシーで禁止 通常の不満や研究は対象外、11月12日発効",
-          "url": "https://ledge.ai/articles/anthropic_claude_usage_policy_update_2026",
-          "first_seen": "2026-10-12T10:03:12+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d.png"
         }
       ]
     }
