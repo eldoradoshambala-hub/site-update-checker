@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T08:20:31+00:00",
+  "generated_at": "2026-10-27T08:32:11+00:00",
   "site_count": 2,
   "new_count": 7,
   "error_count": 0,
@@ -12,12 +12,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-26T08:20:31+00:00",
-      "last_update": "2026-10-26T08:20:31+00:00",
-      "new_count": 2,
-      "link_count": 23,
+      "last_checked": "2026-10-27T08:32:11+00:00",
+      "last_update": "2026-10-27T08:32:11+00:00",
+      "new_count": 3,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 大人も子どももワクワク！約200ブースが郡山市「ビッグパレットふくしま」… 第18回 シトロンまつり ハンドメイド＆ステキカフェ 2026年11月3日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261027citron-handmade/",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/823737df78ec00ce831ac8894a7b0293-350x263.jpg"
+        },
+        {
+          "title": "イベント 「二本松市市民交流センター」でライブとマルシェを楽しもう Basket音楽マルシェ 2026年11月3日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261027basket-marche/",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7434df89173161fb40f58559d21d5a6d-350x263.jpg"
+        },
+        {
+          "title": "グルメ 宴会前後“スキマ時間”に日本酒を楽しむ。福島市栄町に『きぃええ』がオー… スキマ酒場 きぃええ",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261026newopen-kiee_sakaba/",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/031050679141f09302da1e12336e0fa6-350x263.jpg"
+        },
         {
           "title": "グルメ AD クリスマスケーキの予約開始！『フルーツピークス』に冬のスイーツが登場 フルーツピークス 福島南バイパス店・福島西店",
           "url": "https://www.cjnavi.co.jp/gourmet/20261025fruitspeaks/",
@@ -299,24 +317,6 @@
           "url": "https://www.cjnavi.co.jp/event/20261011big-band-concert/",
           "first_seen": "2026-10-11T09:32:49+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e2decc4b5e41007299248143cb27876-350x263.jpg"
-        },
-        {
-          "title": "イベント 消防車・消防士が大玉村に大集合！見て、体験して、防災について楽しく学… 2026安達地方防災フェア 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261011adachi-bousaifair/",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4709ce0827a4374275f766b729df3c29-350x263.jpg"
-        },
-        {
-          "title": "イベント 落語家の三遊亭小遊三ら豪華メンバーが郡山市に登場！2027年の初笑いを楽… こおりやま寄席 新春言祝ぎ席 2027年1月17日（日） ［チケット一般販売］2026年10月17日（土）～",
-          "url": "https://www.cjnavi.co.jp/event/20261010koriyama-yose/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/91cb1ff069497c81b9569abf240f8cdb-350x263.jpg"
-        },
-        {
-          "title": "イベント 浅野和之主演のマイムで描く新感覚の「シンデレラ」をいわき市で上演 こどもの劇場2026 カンパニーデラシネラ 古典名作劇場「シンデレラ」 2026年12月13日（日） ［チケット一般販売］2026年10月17日（土）～",
-          "url": "https://www.cjnavi.co.jp/event/20261010cinderella-iwakialios/",
-          "first_seen": "2026-10-10T09:15:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/261fb3ca5775bca3c6adb7cfbaa19518-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-26T08:20:31+00:00",
-      "last_update": "2026-10-26T08:20:31+00:00",
-      "new_count": 5,
+      "last_checked": "2026-10-27T08:32:11+00:00",
+      "last_update": "2026-10-27T08:32:11+00:00",
+      "new_count": 4,
       "link_count": 43,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Meta、AIエージェント「Muse」を日本で提供開始 北米外で初、メルカリやマネーフォワード MEとの連携も予定のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_japan_launch",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2_Jolly_landscape_ca85c8e054/2_Jolly_landscape_ca85c8e054.webp"
+        },
+        {
+          "title": "チームみらい、「AIにはAIを」でサイバー防御強化を提言 中小企業への「補助トークン」や事故調査委の創設求めるのサムネイル画像",
+          "url": "https://ledge.ai/articles/team_mirai_ai_cybersecurity_proposal",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c.webp"
+        },
+        {
+          "title": "答えのない課題を、どう前に進めるか。AI時代のPMに求められる力とはのサムネイル画像",
+          "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JSOL_IMG_ff25e8833b/JSOL_IMG_ff25e8833b.png"
+        },
+        {
+          "title": "Moonshot AI「Kimi K3.1 Pro」発表 コード・3D制作を強化、サイバー悪用対策を施し11月4日までに重み公開へ のサムネイル画像",
+          "url": "https://ledge.ai/articles/moonshot_ai_kimi_k3_1_pro",
+          "first_seen": "2026-10-27T08:32:11+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kimik3_1pro_2b8614ad99/kimik3_1pro_2b8614ad99.jpg"
+        },
         {
           "title": "GMO、FX自動売買向けクラウドへの不正アクセスで損失補償 熊谷代表、AI悪用の脅威と官民連携を訴えのサムネイル画像",
           "url": "https://ledge.ai/articles/gmo_desktop_cloud_cyberattack",
@@ -608,35 +632,67 @@
           "url": "https://ledge.ai/articles/brycen_us_report_3",
           "first_seen": "2026-10-15T07:53:21+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_1f10d2b308/01_1f10d2b308.png"
-        },
-        {
-          "title": "Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンものサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_cyber_mission",
-          "first_seen": "2026-10-14T08:16:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0.jpg"
-        },
-        {
-          "title": "OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_safety_researchers_dismissal_letter",
-          "first_seen": "2026-10-14T08:16:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960.png"
-        },
-        {
-          "title": "イトーキと松尾研究所、854人の働き方をAI分析 会議は「長さ」より「数」が翌日の心の状態に影響のサムネイル画像",
-          "url": "https://ledge.ai/articles/itoki_matsuo_productivity_model",
-          "first_seen": "2026-10-14T08:16:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/itoki_aireserch_01_261002_7cdd8080bf/itoki_aireserch_01_261002_7cdd8080bf.png"
-        },
-        {
-          "title": "Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_decision_1",
-          "first_seen": "2026-10-14T08:16:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919.webp"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 大人も子どももワクワク！約200ブースが郡山市「ビッグパレットふくしま」… 第18回 シトロンまつり ハンドメイド＆ステキカフェ 2026年11月3日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261027citron-handmade/",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/823737df78ec00ce831ac8894a7b0293-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 「二本松市市民交流センター」でライブとマルシェを楽しもう Basket音楽マルシェ 2026年11月3日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261027basket-marche/",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7434df89173161fb40f58559d21d5a6d-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 宴会前後“スキマ時間”に日本酒を楽しむ。福島市栄町に『きぃええ』がオー… スキマ酒場 きぃええ",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261026newopen-kiee_sakaba/",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/031050679141f09302da1e12336e0fa6-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Meta、AIエージェント「Muse」を日本で提供開始 北米外で初、メルカリやマネーフォワード MEとの連携も予定のサムネイル画像",
+      "url": "https://ledge.ai/articles/meta_muse_japan_launch",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2_Jolly_landscape_ca85c8e054/2_Jolly_landscape_ca85c8e054.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "チームみらい、「AIにはAIを」でサイバー防御強化を提言 中小企業への「補助トークン」や事故調査委の創設求めるのサムネイル画像",
+      "url": "https://ledge.ai/articles/team_mirai_ai_cybersecurity_proposal",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "答えのない課題を、どう前に進めるか。AI時代のPMに求められる力とはのサムネイル画像",
+      "url": "https://ledge.ai/articles/jsol_career_interview_pm",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JSOL_IMG_ff25e8833b/JSOL_IMG_ff25e8833b.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Moonshot AI「Kimi K3.1 Pro」発表 コード・3D制作を強化、サイバー悪用対策を施し11月4日までに重み公開へ のサムネイル画像",
+      "url": "https://ledge.ai/articles/moonshot_ai_kimi_k3_1_pro",
+      "first_seen": "2026-10-27T08:32:11+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kimik3_1pro_2b8614ad99/kimik3_1pro_2b8614ad99.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1350,38 +1406,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_1f10d2b308/01_1f10d2b308.png"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンものサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_cyber_mission",
-      "first_seen": "2026-10-14T08:16:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0/6e3d4e76_d81b_41cb_9d76_d16362ca0c5f_15960181d0.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_safety_researchers_dismissal_letter",
-      "first_seen": "2026-10-14T08:16:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960/b42806fd_6ec5_43eb_b0f9_41b75e47805c_00e446a960.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "イトーキと松尾研究所、854人の働き方をAI分析 会議は「長さ」より「数」が翌日の心の状態に影響のサムネイル画像",
-      "url": "https://ledge.ai/articles/itoki_matsuo_productivity_model",
-      "first_seen": "2026-10-14T08:16:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/itoki_aireserch_01_261002_7cdd8080bf/itoki_aireserch_01_261002_7cdd8080bf.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供のサムネイル画像",
-      "url": "https://ledge.ai/articles/microsoft_decision_1",
-      "first_seen": "2026-10-14T08:16:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919/introducing_microsoft_decision_1_our_model_for_fast_decision_making_hero_3453f88919.webp"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 音楽・アート・マルシェが福島駅前に集結！ LIVE！スマイルふくしま2026 2026年10月18日（日）",
@@ -1412,30 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/event/20261011big-band-concert/",
       "first_seen": "2026-10-11T09:32:49+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e2decc4b5e41007299248143cb27876-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 消防車・消防士が大玉村に大集合！見て、体験して、防災について楽しく学… 2026安達地方防災フェア 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261011adachi-bousaifair/",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4709ce0827a4374275f766b729df3c29-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 落語家の三遊亭小遊三ら豪華メンバーが郡山市に登場！2027年の初笑いを楽… こおりやま寄席 新春言祝ぎ席 2027年1月17日（日） ［チケット一般販売］2026年10月17日（土）～",
-      "url": "https://www.cjnavi.co.jp/event/20261010koriyama-yose/",
-      "first_seen": "2026-10-10T09:15:59+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/91cb1ff069497c81b9569abf240f8cdb-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 浅野和之主演のマイムで描く新感覚の「シンデレラ」をいわき市で上演 こどもの劇場2026 カンパニーデラシネラ 古典名作劇場「シンデレラ」 2026年12月13日（日） ［チケット一般販売］2026年10月17日（土）～",
-      "url": "https://www.cjnavi.co.jp/event/20261010cinderella-iwakialios/",
-      "first_seen": "2026-10-10T09:15:59+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/261fb3ca5775bca3c6adb7cfbaa19518-350x263.jpg"
     }
   ]
 }
