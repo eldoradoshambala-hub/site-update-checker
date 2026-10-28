@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T08:32:11+00:00",
+  "generated_at": "2026-10-28T09:10:57+00:00",
   "site_count": 2,
-  "new_count": 7,
-  "error_count": 0,
+  "new_count": 4,
+  "error_count": 1,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "ok",
-      "error": null,
-      "consecutive_errors": 0,
-      "last_checked": "2026-10-27T08:32:11+00:00",
+      "status": "error",
+      "error": "タイムアウト（20秒）",
+      "consecutive_errors": 1,
+      "last_checked": "2026-10-28T09:10:57+00:00",
       "last_update": "2026-10-27T08:32:11+00:00",
-      "new_count": 3,
-      "link_count": 22,
+      "new_count": 0,
+      "link_count": 0,
       "seeded_now": false,
       "items": [
         {
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-27T08:32:11+00:00",
-      "last_update": "2026-10-27T08:32:11+00:00",
+      "last_checked": "2026-10-28T09:10:57+00:00",
+      "last_update": "2026-10-28T09:10:57+00:00",
       "new_count": 4,
-      "link_count": 43,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、「GPT-6.1 Terra」を発表 API料金をGPT-6.1 Solの半額に、視覚的推論とコンピューター操作を強化のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+          "first_seen": "2026-10-28T09:10:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_6_1_Terra_aee3ed1e4b/GPT_6_1_Terra_aee3ed1e4b.jpg"
+        },
+        {
+          "title": "学術＆研究 2026 / 10 / 28 [WED] OpenAI、最先端AIモデルの訓練環境で封じ込めを強化 ネット接続なしでもCPUキャッシュ利用でAI同士が通信する事例を報告",
+          "url": "https://ledge.ai/articles/openai_frontier_model_containment_red_teaming",
+          "first_seen": "2026-10-28T09:10:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903.png"
+        },
+        {
+          "title": "1Password、AIエージェントにパスワードを見せずにログインを支援「1Password for Agents」発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/1password_for_agents",
+          "first_seen": "2026-10-28T09:10:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Qx_V7_Ano8_ed89f84d56/Qx_V7_Ano8_ed89f84d56.jpg"
+        },
+        {
+          "title": "パナソニックHD子会社、利用禁止の外部生成AIに約33万4,000人分の個人情報をアップロード のサムネイル画像",
+          "url": "https://ledge.ai/articles/panasonic_personal_data_ai_upload",
+          "first_seen": "2026-10-28T09:10:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c.png"
+        },
         {
           "title": "Meta、AIエージェント「Muse」を日本で提供開始 北米外で初、メルカリやマネーフォワード MEとの連携も予定のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_muse_japan_launch",
@@ -608,35 +632,43 @@
           "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
           "first_seen": "2026-10-15T07:53:21+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Maia_300_prototype_chip_00_hero_0e8e425b7e/Maia_300_prototype_chip_00_hero_0e8e425b7e.jpg"
-        },
-        {
-          "title": "ビジネス 2026 / 10 / 15 [THU] Meta、最上位AIモデル「Muse Wonder」「Muse Wonder Full」発表 会話をまたぐ記憶と長時間の作業遂行を強化",
-          "url": "https://ledge.ai/articles/meta_muse_wonder_full",
-          "first_seen": "2026-10-15T07:53:21+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3_dc743018df/3_dc743018df.webp"
-        },
-        {
-          "title": "SB Intuitions、国産AI「Sarashina」の無償β版を一般公開 チャット・翻訳と6モデルのAPIを提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/sb_intuitions_sarashina_free_beta",
-          "first_seen": "2026-10-15T07:53:21+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/sarashina_service_469c52cdc4/sarashina_service_469c52cdc4.png"
-        },
-        {
-          "title": "AIで速く作れるほど、仕事の売り方が変わる。ARIが「AIネイティブ化」で直面した想定外と勝ち筋のサムネイル画像",
-          "url": "https://ledge.ai/articles/ari_interview_ai_native",
-          "first_seen": "2026-10-15T07:53:21+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2266_8c3c240a02/IMG_2266_8c3c240a02.jpg"
-        },
-        {
-          "title": "【寄稿】米国18州・15,000kmで見えた日本の機械。フィジカルAI時代に問われる「現実世界を扱う力」のサムネイル画像",
-          "url": "https://ledge.ai/articles/brycen_us_report_3",
-          "first_seen": "2026-10-15T07:53:21+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_1f10d2b308/01_1f10d2b308.png"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、「GPT-6.1 Terra」を発表 API料金をGPT-6.1 Solの半額に、視覚的推論とコンピューター操作を強化のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
+      "first_seen": "2026-10-28T09:10:57+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_6_1_Terra_aee3ed1e4b/GPT_6_1_Terra_aee3ed1e4b.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "学術＆研究 2026 / 10 / 28 [WED] OpenAI、最先端AIモデルの訓練環境で封じ込めを強化 ネット接続なしでもCPUキャッシュ利用でAI同士が通信する事例を報告",
+      "url": "https://ledge.ai/articles/openai_frontier_model_containment_red_teaming",
+      "first_seen": "2026-10-28T09:10:57+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "1Password、AIエージェントにパスワードを見せずにログインを支援「1Password for Agents」発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/1password_for_agents",
+      "first_seen": "2026-10-28T09:10:57+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Qx_V7_Ano8_ed89f84d56/Qx_V7_Ano8_ed89f84d56.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "パナソニックHD子会社、利用禁止の外部生成AIに約33万4,000人分の個人情報をアップロード のサムネイル画像",
+      "url": "https://ledge.ai/articles/panasonic_personal_data_ai_upload",
+      "first_seen": "2026-10-28T09:10:57+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c.png"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1372,38 +1404,6 @@
       "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
       "first_seen": "2026-10-15T07:53:21+00:00",
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Maia_300_prototype_chip_00_hero_0e8e425b7e/Maia_300_prototype_chip_00_hero_0e8e425b7e.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ビジネス 2026 / 10 / 15 [THU] Meta、最上位AIモデル「Muse Wonder」「Muse Wonder Full」発表 会話をまたぐ記憶と長時間の作業遂行を強化",
-      "url": "https://ledge.ai/articles/meta_muse_wonder_full",
-      "first_seen": "2026-10-15T07:53:21+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/3_dc743018df/3_dc743018df.webp"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "SB Intuitions、国産AI「Sarashina」の無償β版を一般公開 チャット・翻訳と6モデルのAPIを提供のサムネイル画像",
-      "url": "https://ledge.ai/articles/sb_intuitions_sarashina_free_beta",
-      "first_seen": "2026-10-15T07:53:21+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/sarashina_service_469c52cdc4/sarashina_service_469c52cdc4.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIで速く作れるほど、仕事の売り方が変わる。ARIが「AIネイティブ化」で直面した想定外と勝ち筋のサムネイル画像",
-      "url": "https://ledge.ai/articles/ari_interview_ai_native",
-      "first_seen": "2026-10-15T07:53:21+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2266_8c3c240a02/IMG_2266_8c3c240a02.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "【寄稿】米国18州・15,000kmで見えた日本の機械。フィジカルAI時代に問われる「現実世界を扱う力」のサムネイル画像",
-      "url": "https://ledge.ai/articles/brycen_us_report_3",
-      "first_seen": "2026-10-15T07:53:21+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/01_1f10d2b308/01_1f10d2b308.png"
     },
     {
       "site_id": "cjnavi",
