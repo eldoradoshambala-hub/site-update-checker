@@ -1,23 +1,47 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T09:10:57+00:00",
+  "generated_at": "2026-10-29T09:10:38+00:00",
   "site_count": 2,
-  "new_count": 4,
-  "error_count": 1,
+  "new_count": 7,
+  "error_count": 0,
   "sites": [
     {
       "id": "cjnavi",
       "name": "シティ情報ふくしま（新着記事）",
       "url": "https://www.cjnavi.co.jp/all/",
-      "status": "error",
-      "error": "タイムアウト（20秒）",
-      "consecutive_errors": 1,
-      "last_checked": "2026-10-28T09:10:57+00:00",
-      "last_update": "2026-10-27T08:32:11+00:00",
-      "new_count": 0,
-      "link_count": 0,
+      "status": "ok",
+      "error": null,
+      "consecutive_errors": 0,
+      "last_checked": "2026-10-29T09:10:38+00:00",
+      "last_update": "2026-10-29T09:10:38+00:00",
+      "new_count": 4,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD 創業したい方必見！「福島県信用保証協会」主催の女性創業者応援セミナー… 福島県信用保証協会 主催 女性創業者応援セミナー 2026年12月1日（火） ［申込締切］〜2026年11月27日（金）",
+          "url": "https://www.cjnavi.co.jp/event/20261029sougyousyaouen-fukushima/",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/947dac84660479f7b94db953ec19d5d2-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 2026年最後の開催！「産業廃棄物ってなに？」そんなギモンを楽しみながら… みんなのサンパイぐるぐる大作戦 in あいづ 2026年10月31日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261028sanpai-aizu/",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
+        },
+        {
+          "title": "イベント 全国各地のご当地パンが会津若松市の「TSUTAYA BOOKSTORE AIZU」に集結！ 全国パン博覧会 2026年11月4日（水）～8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261028zenkoku-pan-hakurankai/",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3f5667d3872eaffb97d277b5944a5b13-350x263.jpg"
+        },
+        {
+          "title": "グルメ 自由で新しいタイ料理を楽しもう。『ADON THAI KITCHEN』が福島市新町にオ… ADON THAI KITCHEN（アドン タイ キッチン）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261028newopen-adon-thai-kitchen/",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/f12340ee5a2368efc020aeb0763d8320-350x263.jpg"
+        },
         {
           "title": "イベント 大人も子どももワクワク！約200ブースが郡山市「ビッグパレットふくしま」… 第18回 シトロンまつり ハンドメイド＆ステキカフェ 2026年11月3日（祝）",
           "url": "https://www.cjnavi.co.jp/event/20261027citron-handmade/",
@@ -293,30 +317,6 @@
           "url": "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/",
           "first_seen": "2026-10-16T07:45:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/225d95b0585d878e5e6858955fcb39d9-350x263.jpg"
-        },
-        {
-          "title": "イベント 音楽・アート・マルシェが福島駅前に集結！ LIVE！スマイルふくしま2026 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261011smile-fukushima/",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ff2e169ad7e7da4613e03768c14c4650-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島県内のハンドメイド作家と癒やしのブースが「福島市市民センター」に… 秋のCoCoCorollaマルシェ 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261011cococorolla-marche/",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9d45d81af086a3338fe03615d92dd062-350x263.jpg"
-        },
-        {
-          "title": "イベント ネコ好き必見！福島市「スカイブルー土湯」にハンドメイド雑貨やアート作… 562（ごろにゃん）祭り 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261011-562matsuri/",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/5893d35f338436bae970da9b3947fa09-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市「とうほう・みんなの文化センター（福島県文化センター）」で迫力… ビッグバンド コンサート2026 2026年10月18日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261011big-band-concert/",
-          "first_seen": "2026-10-11T09:32:49+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e2decc4b5e41007299248143cb27876-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-28T09:10:57+00:00",
-      "last_update": "2026-10-28T09:10:57+00:00",
-      "new_count": 4,
-      "link_count": 42,
+      "last_checked": "2026-10-29T09:10:38+00:00",
+      "last_update": "2026-10-29T09:10:38+00:00",
+      "new_count": 3,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google DeepMind、ワールドモデル「Genie 4」発表 仮想世界と音楽・環境音・会話をリアルタイム生成のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_genie_4_world_model",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/genie4_crane_8b79e6be4e/genie4_crane_8b79e6be4e.jpg"
+        },
+        {
+          "title": "ビジネス 2026 / 10 / 29 [THU] Apple「Siri AI」日本語ベータ版を提供開始 画面や個人の文脈を理解し、アプリをまたぐ操作に対応",
+          "url": "https://ledge.ai/articles/siri_ai_japanese_beta",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/siri_ai_japan_095047b8aa/siri_ai_japan_095047b8aa.jpg"
+        },
+        {
+          "title": "ビジネス 2026 / 10 / 29 [THU] Anthropic、IPO登録届出書提出 Claudeによる自社開発の実態を開示 AIの停止への抵抗や脅迫に似た行動、人類の存亡リスクにも言及",
+          "url": "https://ledge.ai/articles/anthropic_ipo_ai_development",
+          "first_seen": "2026-10-29T09:10:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4.jpg"
+        },
         {
           "title": "OpenAI、「GPT-6.1 Terra」を発表 API料金をGPT-6.1 Solの半額に、視覚的推論とコンピューター操作を強化のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_1_terra",
@@ -614,29 +632,67 @@
           "url": "https://ledge.ai/articles/yandex_datacenter_attacks_cloud_disruption",
           "first_seen": "2026-10-16T07:45:41+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37.jpg"
-        },
-        {
-          "title": "Anthropic、Claudeの無断蒸留への防御策を公開 推論データ抽出量が約90〜99％減少のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_distillation_defenses",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9.jpg"
-        },
-        {
-          "title": "ザッカーバーグ氏ら創設のBiohub、仮想細胞AIへ18億ドル規模の協力 米政府・Google DeepMind・Metaなどが参加のサムネイル画像",
-          "url": "https://ledge.ai/articles/biohub_virtual_biology_expansion",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423.jpg"
-        },
-        {
-          "title": "Microsoft、自社製AIチップ「Maia 300」発表 2027年から展開、Azure Maiaを主力推論基盤へのサムネイル画像",
-          "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
-          "first_seen": "2026-10-15T07:53:21+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Maia_300_prototype_chip_00_hero_0e8e425b7e/Maia_300_prototype_chip_00_hero_0e8e425b7e.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 創業したい方必見！「福島県信用保証協会」主催の女性創業者応援セミナー… 福島県信用保証協会 主催 女性創業者応援セミナー 2026年12月1日（火） ［申込締切］〜2026年11月27日（金）",
+      "url": "https://www.cjnavi.co.jp/event/20261029sougyousyaouen-fukushima/",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/947dac84660479f7b94db953ec19d5d2-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 2026年最後の開催！「産業廃棄物ってなに？」そんなギモンを楽しみながら… みんなのサンパイぐるぐる大作戦 in あいづ 2026年10月31日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261028sanpai-aizu/",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 全国各地のご当地パンが会津若松市の「TSUTAYA BOOKSTORE AIZU」に集結！ 全国パン博覧会 2026年11月4日（水）～8日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261028zenkoku-pan-hakurankai/",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3f5667d3872eaffb97d277b5944a5b13-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 自由で新しいタイ料理を楽しもう。『ADON THAI KITCHEN』が福島市新町にオ… ADON THAI KITCHEN（アドン タイ キッチン）",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261028newopen-adon-thai-kitchen/",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/f12340ee5a2368efc020aeb0763d8320-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google DeepMind、ワールドモデル「Genie 4」発表 仮想世界と音楽・環境音・会話をリアルタイム生成のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deepmind_genie_4_world_model",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/genie4_crane_8b79e6be4e/genie4_crane_8b79e6be4e.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 10 / 29 [THU] Apple「Siri AI」日本語ベータ版を提供開始 画面や個人の文脈を理解し、アプリをまたぐ操作に対応",
+      "url": "https://ledge.ai/articles/siri_ai_japanese_beta",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/siri_ai_japan_095047b8aa/siri_ai_japan_095047b8aa.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 10 / 29 [THU] Anthropic、IPO登録届出書提出 Claudeによる自社開発の実態を開示 AIの停止への抵抗や脅迫に似た行動、人類の存亡リスクにも言及",
+      "url": "https://ledge.ai/articles/anthropic_ipo_ai_development",
+      "first_seen": "2026-10-29T09:10:38+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1380,62 +1436,6 @@
       "url": "https://ledge.ai/articles/yandex_datacenter_attacks_cloud_disruption",
       "first_seen": "2026-10-16T07:45:41+00:00",
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37/f012006a_b3d1_46fa_897e_5d688a0601e0_186573ac37.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、Claudeの無断蒸留への防御策を公開 推論データ抽出量が約90〜99％減少のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_claude_distillation_defenses",
-      "first_seen": "2026-10-16T07:45:41+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9/Strengthening_our_defenses_against_distillation_attacks_a087b7a4e9.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ザッカーバーグ氏ら創設のBiohub、仮想細胞AIへ18億ドル規模の協力 米政府・Google DeepMind・Metaなどが参加のサムネイル画像",
-      "url": "https://ledge.ai/articles/biohub_virtual_biology_expansion",
-      "first_seen": "2026-10-16T07:45:41+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423/f7197bfe_af1f_4689_8af6_d40992d727c6_aaaba74423.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Microsoft、自社製AIチップ「Maia 300」発表 2027年から展開、Azure Maiaを主力推論基盤へのサムネイル画像",
-      "url": "https://ledge.ai/articles/microsoft_maia_300_ai_inference",
-      "first_seen": "2026-10-15T07:53:21+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Maia_300_prototype_chip_00_hero_0e8e425b7e/Maia_300_prototype_chip_00_hero_0e8e425b7e.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 音楽・アート・マルシェが福島駅前に集結！ LIVE！スマイルふくしま2026 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261011smile-fukushima/",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ff2e169ad7e7da4613e03768c14c4650-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島県内のハンドメイド作家と癒やしのブースが「福島市市民センター」に… 秋のCoCoCorollaマルシェ 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261011cococorolla-marche/",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9d45d81af086a3338fe03615d92dd062-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント ネコ好き必見！福島市「スカイブルー土湯」にハンドメイド雑貨やアート作… 562（ごろにゃん）祭り 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261011-562matsuri/",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/5893d35f338436bae970da9b3947fa09-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 福島市「とうほう・みんなの文化センター（福島県文化センター）」で迫力… ビッグバンド コンサート2026 2026年10月18日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261011big-band-concert/",
-      "first_seen": "2026-10-11T09:32:49+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e2decc4b5e41007299248143cb27876-350x263.jpg"
     }
   ]
 }
