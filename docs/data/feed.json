@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T09:21:57+00:00",
+  "generated_at": "2026-10-31T09:08:52+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-30T09:21:57+00:00",
-      "last_update": "2026-10-29T09:10:38+00:00",
-      "new_count": 0,
-      "link_count": 22,
+      "last_checked": "2026-10-31T09:08:52+00:00",
+      "last_update": "2026-10-31T09:08:52+00:00",
+      "new_count": 1,
+      "link_count": 23,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/",
+          "first_seen": "2026-10-31T09:08:52+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3cf396d295d0e25ffcc0556168bf331f-350x263.jpg"
+        },
         {
           "title": "イベント AD 創業したい方必見！「福島県信用保証協会」主催の女性創業者応援セミナー… 福島県信用保証協会 主催 女性創業者応援セミナー 2026年12月1日（火） ［申込締切］〜2026年11月27日（金）",
           "url": "https://www.cjnavi.co.jp/event/20261029sougyousyaouen-fukushima/",
@@ -311,12 +317,6 @@
           "url": "https://www.cjnavi.co.jp/trip/20261015hama-kenchunan-taiken-lunch/",
           "first_seen": "2026-10-16T07:45:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/75e4e5fc5e1f60d04c1d75ecf2c4135b-350x263.jpg"
-        },
-        {
-          "title": "おでかけ AD 幻想的なイチョウの大木！喜多方市の神社で今だけの秋の景色を見てみよう 長床の大イチョウ",
-          "url": "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/225d95b0585d878e5e6858955fcb39d9-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-30T09:21:57+00:00",
-      "last_update": "2026-10-30T09:21:57+00:00",
-      "new_count": 6,
-      "link_count": 41,
+      "last_checked": "2026-10-31T09:08:52+00:00",
+      "last_update": "2026-10-31T09:08:52+00:00",
+      "new_count": 4,
+      "link_count": 37,
       "seeded_now": false,
       "items": [
+        {
+          "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_computational_science_book",
+          "first_seen": "2026-10-31T09:08:52+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tkdbook_ai_5eb6d87aae/tkdbook_ai_5eb6d87aae.jpg"
+        },
+        {
+          "title": "AIにネットショップを1年間任せたら？ Qwen・HKUSTら、長期の事業運営能力を測る「E-Commerce Bench」を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/qwen_e_commerce_bench",
+          "first_seen": "2026-10-31T09:08:52+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f.png"
+        },
+        {
+          "title": "AIの「性能」と「性格」を診断 Artificial Analysis、総合性能指標「Intelligence Index v5」と性格ベンチマーク「AA-PersonalityBench」を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/artificial_analysis_intelligence_personality_benchmarks",
+          "first_seen": "2026-10-31T09:08:52+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437.jpg"
+        },
+        {
+          "title": "OpenAI、数学・計算機科学・物理学の難問でAIの新たな研究成果を発表 分野ごとに異なる公開・検証体制を採用のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_ai_math_science_discoveries",
+          "first_seen": "2026-10-31T09:08:52+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5.jpg"
+        },
         {
           "title": "Google、“自社最強”のAI「Gemini 4 Carbon」発表 サイバー防御を強化、数日間の開発作業にも対応のサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_4_carbon",
@@ -608,35 +632,51 @@
           "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
           "first_seen": "2026-10-19T08:20:17+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
-        },
-        {
-          "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg"
-        },
-        {
-          "title": "Getty Imagesが米破産法申請と非公開化を計画、Character.aiは申請し資産売却へのサムネイル画像",
-          "url": "https://ledge.ai/articles/getty_images_character_ai_chapter11",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/22678c57_6410_4737_9718_b92213d49105_e82042afa7/22678c57_6410_4737_9718_b92213d49105_e82042afa7.jpg"
-        },
-        {
-          "title": "Google、論文や技術文書を検証する「Deep Review」一般公開 複数のAIが論理や根拠を点検、週2回まで無料のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_deep_review",
-          "first_seen": "2026-10-18T07:37:51+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872.jpg"
-        },
-        {
-          "title": "Linux生みの親、Claude Codeでカーネル改善 特定の読み取りテストで約3倍の性能のサムネイル画像",
-          "url": "https://ledge.ai/articles/linus_torvalds_claude_code_linux_kernel",
-          "first_seen": "2026-10-18T07:37:51+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/",
+      "first_seen": "2026-10-31T09:08:52+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3cf396d295d0e25ffcc0556168bf331f-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_computational_science_book",
+      "first_seen": "2026-10-31T09:08:52+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tkdbook_ai_5eb6d87aae/tkdbook_ai_5eb6d87aae.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIにネットショップを1年間任せたら？ Qwen・HKUSTら、長期の事業運営能力を測る「E-Commerce Bench」を公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/qwen_e_commerce_bench",
+      "first_seen": "2026-10-31T09:08:52+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIの「性能」と「性格」を診断 Artificial Analysis、総合性能指標「Intelligence Index v5」と性格ベンチマーク「AA-PersonalityBench」を公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/artificial_analysis_intelligence_personality_benchmarks",
+      "first_seen": "2026-10-31T09:08:52+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、数学・計算機科学・物理学の難問でAIの新たな研究成果を発表 分野ごとに異なる公開・検証体制を採用のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_ai_math_science_discoveries",
+      "first_seen": "2026-10-31T09:08:52+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1294,44 +1334,12 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
-      "first_seen": "2026-10-19T08:20:17+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Getty Imagesが米破産法申請と非公開化を計画、Character.aiは申請し資産売却へのサムネイル画像",
-      "url": "https://ledge.ai/articles/getty_images_character_ai_chapter11",
-      "first_seen": "2026-10-19T08:20:17+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/22678c57_6410_4737_9718_b92213d49105_e82042afa7/22678c57_6410_4737_9718_b92213d49105_e82042afa7.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
       "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
       "first_seen": "2026-10-18T07:37:51+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/fea27d7edc503bfa2430aa975bb900b3-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、論文や技術文書を検証する「Deep Review」一般公開 複数のAIが論理や根拠を点検、週2回まで無料のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_deep_review",
-      "first_seen": "2026-10-18T07:37:51+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872/36930847_5f3f_425c_bd02_66bad2e04ea1_26de549872.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Linux生みの親、Claude Codeでカーネル改善 特定の読み取りテストで約3倍の性能のサムネイル画像",
-      "url": "https://ledge.ai/articles/linus_torvalds_claude_code_linux_kernel",
-      "first_seen": "2026-10-18T07:37:51+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480/042ea3ff_07ac_45a5_9322_6d7b3f1d5237_6626f24480.jpg"
     },
     {
       "site_id": "cjnavi",
@@ -1428,14 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/trip/20261015hama-kenchunan-taiken-lunch/",
       "first_seen": "2026-10-16T07:45:41+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/75e4e5fc5e1f60d04c1d75ecf2c4135b-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "おでかけ AD 幻想的なイチョウの大木！喜多方市の神社で今だけの秋の景色を見てみよう 長床の大イチョウ",
-      "url": "https://www.cjnavi.co.jp/trip/20261015kitakata-nagatoko/",
-      "first_seen": "2026-10-16T07:45:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/225d95b0585d878e5e6858955fcb39d9-350x263.jpg"
     }
   ]
 }
