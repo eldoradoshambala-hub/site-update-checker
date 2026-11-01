@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T09:08:54+00:00",
+  "updated_at": "2026-11-01T09:56:21+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-31T09:08:52+00:00",
+      "last_checked": "2026-11-01T09:56:20+00:00",
       "last_update": "2026-10-31T09:08:52+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -1410,8 +1410,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-10-31T09:08:52+00:00",
-      "last_update": "2026-10-31T09:08:52+00:00",
+      "last_checked": "2026-11-01T09:56:20+00:00",
+      "last_update": "2026-11-01T09:56:20+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2923,9 +2923,39 @@
         "https://ledge.ai/articles/openai_ai_math_science_discoveries": {
           "title": "OpenAI、数学・計算機科学・物理学の難問でAIの新たな研究成果を発表 分野ごとに異なる公開・検証体制を採用のサムネイル画像",
           "first_seen": "2026-10-31T09:08:52+00:00"
+        },
+        "https://ledge.ai/articles/kentucky_university_ai_religious_exemption": {
+          "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
+          "first_seen": "2026-11-01T09:56:20+00:00"
+        },
+        "https://ledge.ai/articles/google_sleep_framework_continual_learning": {
+          "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
+          "first_seen": "2026-11-01T09:56:20+00:00"
+        },
+        "https://ledge.ai/articles/mit_swarm_telepathy": {
+          "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
+          "first_seen": "2026-11-01T09:56:20+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
+          "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
+        },
+        {
+          "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_sleep_framework_continual_learning",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LLM_Sleep_Cover_af650051fb/LLM_Sleep_Cover_af650051fb.jpg"
+        },
+        {
+          "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/mit_swarm_telepathy",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/db8973dd_c477_4929_9de6_580175d95c21_782485a230/db8973dd_c477_4929_9de6_580175d95c21_782485a230.jpg"
+        },
         {
           "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_computational_science_book",
@@ -3207,24 +3237,6 @@
           "url": "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot",
           "first_seen": "2026-10-20T08:04:33+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4.jpg"
-        },
-        {
-          "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
-          "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/og_grok_voice_3_0_b281361b_12d21d8ac3/og_grok_voice_3_0_b281361b_12d21d8ac3.jpg"
-        },
-        {
-          "title": "ガートナー、企業の70％がFDEで構築したエージェント型AIを2028年までに放棄と予測 コスト高騰と自社改良の難しさが背景、「FDEウォッシング」にも警鐘のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_fde_agentic_ai_abandonment",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97.jpg"
-        },
-        {
-          "title": "AIはビットコイン相場をどう分析する？アルゴリズム取引とオンチェーン分析のサムネイル画像",
-          "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
         }
       ]
     }

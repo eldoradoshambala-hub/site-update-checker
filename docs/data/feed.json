@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T09:08:52+00:00",
+  "generated_at": "2026-11-01T09:56:20+00:00",
   "site_count": 2,
-  "new_count": 5,
+  "new_count": 3,
   "error_count": 0,
   "sites": [
     {
@@ -12,9 +12,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-31T09:08:52+00:00",
+      "last_checked": "2026-11-01T09:56:20+00:00",
       "last_update": "2026-10-31T09:08:52+00:00",
-      "new_count": 1,
+      "new_count": 0,
       "link_count": 23,
       "seeded_now": false,
       "items": [
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-10-31T09:08:52+00:00",
-      "last_update": "2026-10-31T09:08:52+00:00",
-      "new_count": 4,
-      "link_count": 37,
+      "last_checked": "2026-11-01T09:56:20+00:00",
+      "last_update": "2026-11-01T09:56:20+00:00",
+      "new_count": 3,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
+          "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
+        },
+        {
+          "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_sleep_framework_continual_learning",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LLM_Sleep_Cover_af650051fb/LLM_Sleep_Cover_af650051fb.jpg"
+        },
+        {
+          "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/mit_swarm_telepathy",
+          "first_seen": "2026-11-01T09:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/db8973dd_c477_4929_9de6_580175d95c21_782485a230/db8973dd_c477_4929_9de6_580175d95c21_782485a230.jpg"
+        },
         {
           "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
           "url": "https://ledge.ai/articles/ai_computational_science_book",
@@ -614,29 +632,35 @@
           "url": "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot",
           "first_seen": "2026-10-20T08:04:33+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4.jpg"
-        },
-        {
-          "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
-          "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/og_grok_voice_3_0_b281361b_12d21d8ac3/og_grok_voice_3_0_b281361b_12d21d8ac3.jpg"
-        },
-        {
-          "title": "ガートナー、企業の70％がFDEで構築したエージェント型AIを2028年までに放棄と予測 コスト高騰と自社改良の難しさが背景、「FDEウォッシング」にも警鐘のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_fde_agentic_ai_abandonment",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97.jpg"
-        },
-        {
-          "title": "AIはビットコイン相場をどう分析する？アルゴリズム取引とオンチェーン分析のサムネイル画像",
-          "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
-          "first_seen": "2026-10-19T08:20:17+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
+      "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
+      "first_seen": "2026-11-01T09:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_sleep_framework_continual_learning",
+      "first_seen": "2026-11-01T09:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LLM_Sleep_Cover_af650051fb/LLM_Sleep_Cover_af650051fb.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/mit_swarm_telepathy",
+      "first_seen": "2026-11-01T09:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/db8973dd_c477_4929_9de6_580175d95c21_782485a230/db8973dd_c477_4929_9de6_580175d95c21_782485a230.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1308,30 +1332,6 @@
       "url": "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot",
       "first_seen": "2026-10-20T08:04:33+00:00",
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "xAI「Grok Voice 3.0」発表 1秒未満の音声応答、API料金は1分0.08ドルに据え置きのサムネイル画像",
-      "url": "https://ledge.ai/articles/xai_grok_voice_3_0_api",
-      "first_seen": "2026-10-19T08:20:17+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/og_grok_voice_3_0_b281361b_12d21d8ac3/og_grok_voice_3_0_b281361b_12d21d8ac3.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ガートナー、企業の70％がFDEで構築したエージェント型AIを2028年までに放棄と予測 コスト高騰と自社改良の難しさが背景、「FDEウォッシング」にも警鐘のサムネイル画像",
-      "url": "https://ledge.ai/articles/gartner_fde_agentic_ai_abandonment",
-      "first_seen": "2026-10-19T08:20:17+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97/d0343d03_604e_4e28_a80b_3f7eb5be9114_f8b85e6e97.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIはビットコイン相場をどう分析する？アルゴリズム取引とオンチェーン分析のサムネイル画像",
-      "url": "https://ledge.ai/articles/Binance_Japan_ai_bitcoin_market_analysis",
-      "first_seen": "2026-10-19T08:20:17+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1_fcca8e09d4/1_fcca8e09d4.png"
     },
     {
       "site_id": "cjnavi",
