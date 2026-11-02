@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T09:56:21+00:00",
+  "updated_at": "2026-11-02T10:23:37+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-01T09:56:20+00:00",
-      "last_update": "2026-10-31T09:08:52+00:00",
+      "last_checked": "2026-11-02T10:23:35+00:00",
+      "last_update": "2026-11-02T10:23:35+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1102,9 +1102,89 @@
         "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/": {
           "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
           "first_seen": "2026-10-31T09:08:52+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261101smileup-marche/": {
+          "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど10店舗以上が… スマイルアップマルシェ 2026年11月8日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261101honpaku/": {
+          "title": "イベント 福島交通飯坂線「曽根田駅」で本と電車の魅力を大満喫しよう 本博 2026 2026年11月8日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261101fukushima-kankyo-festa/": {
+          "title": "イベント 福島市「こむこむ館」で再エネやSDGsなど、親子で環境について学ぼう 2026ふくしま環境フェスタ 2026年11月8日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261101feelwind-orchestra/": {
+          "title": "イベント 『フィール・ウインド・オーケストラ』による演奏会を、「ふくしん夢の音… フィール・ウインド・オーケストラ 第25回 定期演奏会 2026年11月8日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261101burgerfes-fukushima/": {
+          "title": "イベント 福島駅前通りでハンバーガーとクラフトビールを味わい尽くす！ 2026ふくしまバーガーフェス 2026年11月8日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261031winery-azumasanroku/": {
+          "title": "イベント 福島市『ワイナリー吾妻山麓』で味わう！ワイン・食・音楽の感謝祭 ワイナリー吾妻山麓「秋の感謝祭」 2026年11月7日（土）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261031iwakifc-homegame/": {
+          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年11月 2026年11月7日（土）・25日（水）・29日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261031fukushima-united-fc/": {
+          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年11月 2026年11月7日（土）・14日（土）・29日（日）",
+          "first_seen": "2026-11-02T10:23:35+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど10店舗以上が… スマイルアップマルシェ 2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261101smileup-marche/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/aae059b52b4405bc422cdbd5a2d257c7-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島交通飯坂線「曽根田駅」で本と電車の魅力を大満喫しよう 本博 2026 2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261101honpaku/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/70e7ba0a60a437e713fc026cc6cde24a-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市「こむこむ館」で再エネやSDGsなど、親子で環境について学ぼう 2026ふくしま環境フェスタ 2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261101fukushima-kankyo-festa/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/928c2e09d3fb9cd824cdd452b61919d7-350x263.jpg"
+        },
+        {
+          "title": "イベント 『フィール・ウインド・オーケストラ』による演奏会を、「ふくしん夢の音… フィール・ウインド・オーケストラ 第25回 定期演奏会 2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261101feelwind-orchestra/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/77ed27a1ae49630650ba12234be017c9-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島駅前通りでハンバーガーとクラフトビールを味わい尽くす！ 2026ふくしまバーガーフェス 2026年11月8日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261101burgerfes-fukushima/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/11/1154080db4ba2062edfc2f0a1c28cf28-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市『ワイナリー吾妻山麓』で味わう！ワイン・食・音楽の感謝祭 ワイナリー吾妻山麓「秋の感謝祭」 2026年11月7日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261031winery-azumasanroku/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/4779e2bcd60b594b59303d2197ee9001-350x263.jpg"
+        },
+        {
+          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年11月 2026年11月7日（土）・25日（水）・29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261031iwakifc-homegame/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1bff5e084b891a124e07c82b1b752fa4-350x263.jpg"
+        },
+        {
+          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年11月 2026年11月7日（土）・14日（土）・29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261031fukushima-united-fc/",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/237f861c44dacce435fc145090223f41-350x263.jpg"
+        },
         {
           "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
           "url": "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/",
@@ -1356,62 +1436,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261017kazuo-endo/",
           "first_seen": "2026-10-17T07:23:28+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ed123f75f395881e151f6245dc1fcb02-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島県内外の多彩なコーヒー店など40店舗が福島市「四季の里」に集結 THE COFFEE'S Chapter05～愛日～ 2026年10月24日（土）・25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261017the-coffees/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/20261017TheCOFFEES-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市「あづま総合運動公園」イチョウ並木の下に、全国各地からクラフト… 第15回 あづまTeshi-got市場 2026年10月24日（土）・25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261017azuma-teshi-got/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/6458156472a03ef466f18f6ee39af910-350x263.jpg"
-        },
-        {
-          "title": "イベント 秋の会津美里町で福島県内外のワインとグルメを満喫 あいづみさとワインフェス2026 2026年10月24日（土）・25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261017aizumisato-winefes/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ff042ce9d49917f3c0acce0b606965a2-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市出身のイラストレーター・菅野愛希さんの作品展を福島市「旧堀切邸… 絵かきの庭・作品展 実りと収穫展Ⅱ 2026年10月24日（土）～11月2日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20261017minori-syukaku/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e8edd8f240095a08469ce531966fea11-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 福島県の漁業を体験できるイベントを相馬市で開催！10月29日（木）まで参… ふくしま海の仕事体験〜福島県の漁業を体験しよう！〜 2026年11月7日（土） ［申込締切］〜2026年10月29日（木）",
-          "url": "https://www.cjnavi.co.jp/event/20261016uminoshigoto-taiken/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/0da4d860df44bc99baf869d43bec5c18-350x263.jpg"
-        },
-        {
-          "title": "グルメ 南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき 和カフェ・お食事 立花（りっか）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261016newopen-rikka/",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/586b275d0388a5d951afffe98644da69-350x263.jpg"
-        },
-        {
-          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開幕！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年10月 2026年10月23日（金）・24日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261016sports-airybees/",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/6385014d159020cc71dd8440d52ba669-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】浪江町・郡山市・須賀川市・白河市のものづくり体験スポット＆… 歴史ある伝統工芸品「大堀相馬焼」の陶芸や、伝統を受け継ぐ「三春張子」「須賀川絵のぼり」...",
-          "url": "https://www.cjnavi.co.jp/trip/20261015hama-kenchunan-taiken-lunch/",
-          "first_seen": "2026-10-16T07:45:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/75e4e5fc5e1f60d04c1d75ecf2c4135b-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-01T09:56:20+00:00",
-      "last_update": "2026-11-01T09:56:20+00:00",
+      "last_checked": "2026-11-02T10:23:35+00:00",
+      "last_update": "2026-11-02T10:23:35+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2935,9 +2967,49 @@
         "https://ledge.ai/articles/mit_swarm_telepathy": {
           "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
           "first_seen": "2026-11-01T09:56:20+00:00"
+        },
+        "https://ledge.ai/articles/sarashina_3_2_mini_thinking": {
+          "title": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整のサムネイル画像",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_drug_discovery": {
+          "title": "Anthropic、6組織との創薬提携の進捗を公表 自社でも希少疾患の治療薬を開発のサムネイル画像",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://ledge.ai/articles/block_dessa_speech_only_model": {
+          "title": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得のサムネイル画像",
+          "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://ledge.ai/articles/docomo_kddi_physical_ai": {
+          "title": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地にのサムネイル画像",
+          "first_seen": "2026-11-02T10:23:35+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整のサムネイル画像",
+          "url": "https://ledge.ai/articles/sarashina_3_2_mini_thinking",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261026151725_9b5d3947b4/20261026151725_9b5d3947b4.png"
+        },
+        {
+          "title": "Anthropic、6組織との創薬提携の進捗を公表 自社でも希少疾患の治療薬を開発のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_drug_discovery",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed.webp"
+        },
+        {
+          "title": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得のサムネイル画像",
+          "url": "https://ledge.ai/articles/block_dessa_speech_only_model",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/776c38e3_054a_462c_9163_6934df644e99_3699cfc381/776c38e3_054a_462c_9163_6934df644e99_3699cfc381.png"
+        },
+        {
+          "title": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地にのサムネイル画像",
+          "url": "https://ledge.ai/articles/docomo_kddi_physical_ai",
+          "first_seen": "2026-11-02T10:23:35+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/5_7e0358def8/5_7e0358def8.png"
+        },
         {
           "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
           "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
@@ -3213,30 +3285,6 @@
           "url": "https://ledge.ai/articles/epic_games_disney_ai_first_development",
           "first_seen": "2026-10-21T08:09:47+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Bull_Dog_1920x1080_1_1024x576_affaed89b8/Bull_Dog_1920x1080_1_1024x576_affaed89b8.jpg"
-        },
-        {
-          "title": "Gartner、日本企業への不正アクセス多発で緊急提言 AIによる攻撃高速化に警鐘、7項目の対応を提示のサムネイル画像",
-          "url": "https://ledge.ai/articles/gartner_japan_cybersecurity_urgent_recommendations",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9a685cf1_203b_49a1_835c_c27212d581fd_1fc37ba855/9a685cf1_203b_49a1_835c_c27212d581fd_1fc37ba855.jpg"
-        },
-        {
-          "title": "ビジネス 2026 / 10 / 20 [TUE] Google、AI買い物支援「Universal Cart」を米国で提供開始 検索とGeminiで商品をまとめ、値下げ・再入荷を通知",
-          "url": "https://ledge.ai/articles/google_universal_cart_us_launch",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Global_Cart_Hero_width_1200_format_webp_1_7d0607db4a/Global_Cart_Hero_width_1200_format_webp_1_7d0607db4a.webp"
-        },
-        {
-          "title": "人命に関わる判断をAIはどう支えるのか。防災の現場から探る生成AIの可能性――NTT東日本 独占インタビューのサムネイル画像",
-          "url": "https://ledge.ai/articles/ntt_east_disaster_response_generative_ai",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2216_57b309273e/IMG_2216_57b309273e.jpg"
-        },
-        {
-          "title": "Anthropic、小型AIがIoT機器上で自己複製する可能性を報告 安価なTVボックス15台で分散動作を実証のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_small_ai_self_replication_iot",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4/76f14d4b_7a85_41a4_9145_2b20c3291e41_0e37a4acb4.jpg"
         }
       ]
     }
