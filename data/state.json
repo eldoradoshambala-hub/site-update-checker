@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T10:23:37+00:00",
+  "updated_at": "2026-11-03T10:21:15+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-02T10:23:35+00:00",
-      "last_update": "2026-11-02T10:23:35+00:00",
+      "last_checked": "2026-11-03T10:21:13+00:00",
+      "last_update": "2026-11-03T10:21:13+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1134,9 +1134,29 @@
         "https://www.cjnavi.co.jp/event/20261031fukushima-united-fc/": {
           "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年11月 2026年11月7日（土）・14日（土）・29日（日）",
           "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261102fukushima-icyou-spot/": {
+          "title": "おでかけ 【福島県】この秋行きたい！福島市・会津若松・南会津町・新地町のイチョ… 10月上旬から11月下旬にかけて見頃を迎える、福島市・会津若松・南会津町・新地町に点在する...",
+          "first_seen": "2026-11-03T10:21:13+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261101monmoryouhin/": {
+          "title": "ライフ お歳暮・冬ギフトにおすすめの『モンモ良品』お取り寄せグルメ8選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。日頃お世話になって...",
+          "first_seen": "2026-11-03T10:21:13+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 【福島県】この秋行きたい！福島市・会津若松・南会津町・新地町のイチョ… 10月上旬から11月下旬にかけて見頃を迎える、福島市・会津若松・南会津町・新地町に点在する...",
+          "url": "https://www.cjnavi.co.jp/trip/20261102fukushima-icyou-spot/",
+          "first_seen": "2026-11-03T10:21:13+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/dabf06f5e48a1419acf53869844cea72-350x263.jpg"
+        },
+        {
+          "title": "ライフ お歳暮・冬ギフトにおすすめの『モンモ良品』お取り寄せグルメ8選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。日頃お世話になって...",
+          "url": "https://www.cjnavi.co.jp/life/20261101monmoryouhin/",
+          "first_seen": "2026-11-03T10:21:13+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/06/bc3ae9aa884176f7dd10cfb9d83749b9-350x263.jpg"
+        },
         {
           "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど10店舗以上が… スマイルアップマルシェ 2026年11月8日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261101smileup-marche/",
@@ -1424,26 +1444,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261017fukushima-machinaka-ongakusai/",
           "first_seen": "2026-10-17T07:23:28+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e06bf54b0c515b9a23cdf6c18aeae40a-350x263.jpg"
-        },
-        {
-          "title": "イベント 二本松市「霞ヶ城公園」で紅葉とともに楽しむ、ラジオ公開生放送や地元の… 霞ヶ城公園紅葉まつり 2026 2026年10月24日（土）、11月3日（祝）・14日（土）・21日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261017nihonmatsu-momijimatsuri/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e60921a024b98c7949e1ad82c1de7c5a-350x263.jpg"
-        },
-        {
-          "title": "イベント 猪苗代町「天鏡閣」で、福島県内各地の“光織りなす風景”を描いた水彩画の… 遠藤和雄水彩画展－光織りなす風景－ 2026年10月24日（土）～11月3日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261017kazuo-endo/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ed123f75f395881e151f6245dc1fcb02-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-02T10:23:35+00:00",
-      "last_update": "2026-11-02T10:23:35+00:00",
+      "last_checked": "2026-11-03T10:21:13+00:00",
+      "last_update": "2026-11-03T10:21:13+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -2983,9 +2991,39 @@
         "https://ledge.ai/articles/docomo_kddi_physical_ai": {
           "title": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地にのサムネイル画像",
           "first_seen": "2026-11-02T10:23:35+00:00"
+        },
+        "https://ledge.ai/articles/fujitsu_drone_delivery_social_acceptance": {
+          "title": "「技術性能の向上だけでは社会実装は進まない」 富士通、ドローン配送の「社会受容性」の研究成果をAI物流設計に活用のサムネイル画像",
+          "first_seen": "2026-11-03T10:21:13+00:00"
+        },
+        "https://ledge.ai/articles/openai_signals_v3_chatgpt_work": {
+          "title": "ChatGPT、仕事での利用が多様化 日本では「計画と意思決定」が最大、OpenAIが約100カ国・165種類の業務データを公開のサムネイル画像",
+          "first_seen": "2026-11-03T10:21:13+00:00"
+        },
+        "https://ledge.ai/articles/google_suncatcher_first_ai_response": {
+          "title": "Googleの宇宙AI計算基盤研究、地球からの指示に宇宙のAIが歴史上はじめて応答 衛星搭載のデータセンター級TPUで「Gemma 4」を実行のサムネイル画像",
+          "first_seen": "2026-11-03T10:21:13+00:00"
         }
       },
       "recent": [
+        {
+          "title": "「技術性能の向上だけでは社会実装は進まない」 富士通、ドローン配送の「社会受容性」の研究成果をAI物流設計に活用のサムネイル画像",
+          "url": "https://ledge.ai/articles/fujitsu_drone_delivery_social_acceptance",
+          "first_seen": "2026-11-03T10:21:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6.jpg"
+        },
+        {
+          "title": "ChatGPT、仕事での利用が多様化 日本では「計画と意思決定」が最大、OpenAIが約100カ国・165種類の業務データを公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_signals_v3_chatgpt_work",
+          "first_seen": "2026-11-03T10:21:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3.jpg"
+        },
+        {
+          "title": "Googleの宇宙AI計算基盤研究、地球からの指示に宇宙のAIが歴史上はじめて応答 衛星搭載のデータセンター級TPUで「Gemma 4」を実行のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
+          "first_seen": "2026-11-03T10:21:13+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621.jpg"
+        },
         {
           "title": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整のサムネイル画像",
           "url": "https://ledge.ai/articles/sarashina_3_2_mini_thinking",
@@ -3267,24 +3305,6 @@
           "url": "https://ledge.ai/articles/deepseek_minimax_flash_model_updates",
           "first_seen": "2026-10-21T08:09:47+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e1d758ab_ce2f_450d_9b5c_bbe9f68108d0_56ad885a29/e1d758ab_ce2f_450d_9b5c_bbe9f68108d0_56ad885a29.jpg"
-        },
-        {
-          "title": "ZOZO NEXTとAVITA、ヒューマノイド専用衣服の共同研究へ 関節の動きや発熱に適した素材・設計を探るのサムネイル画像",
-          "url": "https://ledge.ai/articles/zozo_next_avita_humanoid_clothing",
-          "first_seen": "2026-10-21T08:09:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261015_AVITA_MOU_f5e901bc2d/20261015_AVITA_MOU_f5e901bc2d.jpg"
-        },
-        {
-          "title": "Anthropic、METRの6人に「社員並み」の社内アクセス AIの独立評価を拡充、公表には機密情報の制限ものサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_metr_independent_evaluation",
-          "first_seen": "2026-10-21T08:09:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b.jpg"
-        },
-        {
-          "title": "Epic Games、Disneyとの新作ゲームを延期 Claudeなどを使う「AIファースト」の開発を指示かのサムネイル画像",
-          "url": "https://ledge.ai/articles/epic_games_disney_ai_first_development",
-          "first_seen": "2026-10-21T08:09:47+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Bull_Dog_1920x1080_1_1024x576_affaed89b8/Bull_Dog_1920x1080_1_1024x576_affaed89b8.jpg"
         }
       ]
     }
