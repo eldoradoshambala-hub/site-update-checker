@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T22:53:05+00:00",
+  "updated_at": "2026-11-05T10:08:29+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-04T22:53:03+00:00",
-      "last_update": "2026-11-04T22:53:03+00:00",
+      "last_checked": "2026-11-05T10:08:27+00:00",
+      "last_update": "2026-11-05T10:08:27+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1146,9 +1146,19 @@
         "https://www.cjnavi.co.jp/trip/20261104mishima-spot/": {
           "title": "おでかけ 【福島県】三島町に来たら行くべきはココ！おすすめスポット3選 美しい自然景観に恵まれ、伝統の編み組細工や桐工芸品、絶品の会津地鶏など、豊かな暮らしと...",
           "first_seen": "2026-11-04T22:53:03+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261105newopen-oku/": {
+          "title": "グルメ 川内村にオープンしたレストランバー『oku』。料理とジンが織りなす、特別… レストランバー oku（オク） by naturadistill",
+          "first_seen": "2026-11-05T10:08:27+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 川内村にオープンしたレストランバー『oku』。料理とジンが織りなす、特別… レストランバー oku（オク） by naturadistill",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261105newopen-oku/",
+          "first_seen": "2026-11-05T10:08:27+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/914cf05d985fae320a028979695769b5-350x263.jpg"
+        },
         {
           "title": "おでかけ 【福島県】三島町に来たら行くべきはココ！おすすめスポット3選 美しい自然景観に恵まれ、伝統の編み組細工や桐工芸品、絶品の会津地鶏など、豊かな暮らしと...",
           "url": "https://www.cjnavi.co.jp/trip/20261104mishima-spot/",
@@ -1442,20 +1452,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
           "first_seen": "2026-10-18T07:37:51+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/fea27d7edc503bfa2430aa975bb900b3-350x263.jpg"
-        },
-        {
-          "title": "イベント 会津の“ものづくり”に出合う！会津若松市「福島県立博物館」でマルシェを… 雪国ものづくりマルシェ2026秋 2026年10月24日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261017yukiguni-monodukuri/",
-          "first_seen": "2026-10-17T07:23:28+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b94a5be30e633be6f83b6096859cf028-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-04T22:53:03+00:00",
-      "last_update": "2026-11-04T22:53:03+00:00",
+      "last_checked": "2026-11-05T10:08:27+00:00",
+      "last_update": "2026-11-05T10:08:27+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3027,9 +3031,39 @@
         "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan": {
           "title": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画のサムネイル画像",
           "first_seen": "2026-11-04T22:53:03+00:00"
+        },
+        "https://ledge.ai/articles/aeon_mujin_physical_ai_warehouse": {
+          "title": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働のサムネイル画像",
+          "first_seen": "2026-11-05T10:08:27+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_nemotronlabs_re_use_speech_enhancement": {
+          "title": "NVIDIA、雑音や音割れを補正する音声AI「NemotronLabs RE-USE」を公開 約960万パラメーターで商用利用にも対応のサムネイル画像",
+          "first_seen": "2026-11-05T10:08:27+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_ipo_amendment_compute_commitments": {
+          "title": "Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示のサムネイル画像",
+          "first_seen": "2026-11-05T10:08:27+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働のサムネイル画像",
+          "url": "https://ledge.ai/articles/aeon_mujin_physical_ai_warehouse",
+          "first_seen": "2026-11-05T10:08:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/aeon_kawaguchihigashi_xd_23d1c2ab09/aeon_kawaguchihigashi_xd_23d1c2ab09.jpg"
+        },
+        {
+          "title": "NVIDIA、雑音や音割れを補正する音声AI「NemotronLabs RE-USE」を公開 約960万パラメーターで商用利用にも対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_nemotronlabs_re_use_speech_enhancement",
+          "first_seen": "2026-11-05T10:08:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/16738882_ec08_4798_b6dc_1e309704f1c1_b02c79a749/16738882_ec08_4798_b6dc_1e309704f1c1_b02c79a749.jpg"
+        },
+        {
+          "title": "Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_ipo_amendment_compute_commitments",
+          "first_seen": "2026-11-05T10:08:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388.jpg"
+        },
         {
           "title": "OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_chatgpt_work_codex_shared_usage",
@@ -3311,24 +3345,6 @@
           "url": "https://ledge.ai/articles/php2shell_ai_discovery_security_response",
           "first_seen": "2026-10-24T07:47:36+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5.jpg"
-        },
-        {
-          "title": "Anthropic、離席中も働くAIエージェント「Claude Duet」公開 必要な対応を自ら通知、米国で招待制プレビューのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_duet_research_preview",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Claude_Duet_067bbaee0d/Claude_Duet_067bbaee0d.jpg"
-        },
-        {
-          "title": "Anthropic、ジュニア技術職の採用割合が27％から9％に 社内の雇用変化とAIの将来予測を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_employment_ai_expectations_gap",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/e5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb_1920x1080_2fba5a243a/e5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb_1920x1080_2fba5a243a.webp"
-        },
-        {
-          "title": "デジタル庁、「源内」にAIエージェント環境を順次導入 政府職員約18万人が対象、安全基準も公表のサムネイル画像",
-          "url": "https://ledge.ai/articles/digital_agency_gennai_ai_agents",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/genai_agent_chat_25f42d5ba5/genai_agent_chat_25f42d5ba5.jpg"
         }
       ]
     }
