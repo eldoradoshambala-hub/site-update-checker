@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T10:08:29+00:00",
+  "updated_at": "2026-11-06T10:12:33+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-05T10:08:27+00:00",
-      "last_update": "2026-11-05T10:08:27+00:00",
+      "last_checked": "2026-11-06T10:12:31+00:00",
+      "last_update": "2026-11-06T10:12:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1150,9 +1150,29 @@
         "https://www.cjnavi.co.jp/gourmet/20261105newopen-oku/": {
           "title": "グルメ 川内村にオープンしたレストランバー『oku』。料理とジンが織りなす、特別… レストランバー oku（オク） by naturadistill",
           "first_seen": "2026-11-05T10:08:27+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261106shinobu-mochizurikannon/": {
+          "title": "イベント 和紙ランプシェードが福島市『信夫文知摺観音堂』を優しく照らす 信夫文知摺観音堂 献灯会 2026年11月13日（金）～15日（日）",
+          "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261106hoshi-kenkou-okuaizu-tadami/": {
+          "title": "おでかけ 晩秋の奥会津を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "first_seen": "2026-11-06T10:12:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 和紙ランプシェードが福島市『信夫文知摺観音堂』を優しく照らす 信夫文知摺観音堂 献灯会 2026年11月13日（金）～15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261106shinobu-mochizurikannon/",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c1217578b5134faf22106a9ae2a7fc29-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 晩秋の奥会津を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
+          "url": "https://www.cjnavi.co.jp/trip/20261106hoshi-kenkou-okuaizu-tadami/",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/44674e76dde30a9bdbf462c77a990f6f-350x263.jpg"
+        },
         {
           "title": "グルメ 川内村にオープンしたレストランバー『oku』。料理とジンが織りなす、特別… レストランバー oku（オク） by naturadistill",
           "url": "https://www.cjnavi.co.jp/gourmet/20261105newopen-oku/",
@@ -1440,26 +1460,14 @@
           "url": "https://www.cjnavi.co.jp/trip/20261020kokodake-taiken/",
           "first_seen": "2026-10-20T08:04:33+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4493d35edb4409ef5e5b3d9649312ac0-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】福島県内で買えるユニークな赤べこグッズ6選 福島県を代表する郷土玩具「赤べこ」。カラフルなものや個性豊かな商品など、様々な形・素材...",
-          "url": "https://www.cjnavi.co.jp/trip/20261019akabeko-goods/",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/8b707926b1094a1593d1f61d2e574947-350x263.jpg"
-        },
-        {
-          "title": "イベント 三春町でハンドメイド雑貨やワークショップを楽しもう 第26回 秋のにっこりマルシェ 2026年10月25日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261018nikkori-marche/",
-          "first_seen": "2026-10-18T07:37:51+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/fea27d7edc503bfa2430aa975bb900b3-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-05T10:08:27+00:00",
-      "last_update": "2026-11-05T10:08:27+00:00",
+      "last_checked": "2026-11-06T10:12:31+00:00",
+      "last_update": "2026-11-06T10:12:31+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3043,9 +3051,49 @@
         "https://ledge.ai/articles/anthropic_ipo_amendment_compute_commitments": {
           "title": "Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示のサムネイル画像",
           "first_seen": "2026-11-05T10:08:27+00:00"
+        },
+        "https://ledge.ai/articles/openai_images_2_6_gif": {
+          "title": "OpenAI、画像生成AI「Images 2.6」を発表 静止画からGIFを作成、参照画像は別のチャットでも再利用のサムネイル画像",
+          "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://ledge.ai/articles/nicam_claude_code_migration": {
+          "title": "学術＆研究 2026 / 11 / 6 [FRI] 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限",
+          "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://ledge.ai/articles/marvell_lumentum_acquisition": {
+          "title": "米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へのサムネイル画像",
+          "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://ledge.ai/articles/kddi_iret_ai_use_cases": {
+          "title": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介のサムネイル画像",
+          "first_seen": "2026-11-06T10:12:31+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、画像生成AI「Images 2.6」を発表 静止画からGIFを作成、参照画像は別のチャットでも再利用のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_images_2_6_gif",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_Image_2_6_d2e5705977/GPT_Image_2_6_d2e5705977.jpg"
+        },
+        {
+          "title": "学術＆研究 2026 / 11 / 6 [FRI] 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限",
+          "url": "https://ledge.ai/articles/nicam_claude_code_migration",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/44fa8e86_9bc4_4874_a483_84606221e080_f2ffac7ac2/44fa8e86_9bc4_4874_a483_84606221e080_f2ffac7ac2.png"
+        },
+        {
+          "title": "米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へのサムネイル画像",
+          "url": "https://ledge.ai/articles/marvell_lumentum_acquisition",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/g81187ex99_2p5g1_e4d5450a74/g81187ex99_2p5g1_e4d5450a74.jpg"
+        },
+        {
+          "title": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介のサムネイル画像",
+          "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
+          "first_seen": "2026-11-06T10:12:31+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kddi_iret_193bcc276e/kddi_iret_193bcc276e.jpg"
+        },
         {
           "title": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働のサムネイル画像",
           "url": "https://ledge.ai/articles/aeon_mujin_physical_ai_warehouse",
@@ -3321,30 +3369,6 @@
           "url": "https://ledge.ai/articles/chatgpt_voice_localized_campaigns",
           "first_seen": "2026-10-25T07:58:41+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Voice_992a982a2d/Chat_GPT_Voice_992a982a2d.jpg"
-        },
-        {
-          "title": "日俳連、声の生成AI利用ガイドラインを発表 出演料とは別の対価、多言語化は言語ごとに同意、故人の実演家の声は原則利用禁止のサムネイル画像",
-          "url": "https://ledge.ai/articles/nippairen_ai_voice_guidelines",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2026101501_c109ce6dd3/2026101501_c109ce6dd3.jpg"
-        },
-        {
-          "title": "Uber Eatsの配達ロボットを止めて抗議、「人間の仕事を奪う」 米フィラデルフィアで女性を逮捕のサムネイル画像",
-          "url": "https://ledge.ai/articles/uber_eats_robot_protest_arrest",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/marvin_6400721a91/marvin_6400721a91.jpg"
-        },
-        {
-          "title": "NVIDIA、GTC Berlin基調講演まとめ AIファクトリーから企業向けエージェント、自動運転・ロボットまでのサムネイル画像",
-          "url": "https://ledge.ai/articles/nvidia_gtc_berlin_2026_ai_robotics",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971/jhh_keynote_closeup_1920x1080_1_1280x720_63c4f8f971.jpg"
-        },
-        {
-          "title": "AIが発見したPHPの重大脆弱性で何が起きたのか 国内サービスの一時停止、共同修正と情報流出、修正後も続く対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/php2shell_ai_discovery_security_response",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5/f0176ce2_4072_4dd1_a6e5_b8fd571e0f00_ba454aa8a5.jpg"
         }
       ]
     }
