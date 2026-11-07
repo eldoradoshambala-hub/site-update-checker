@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T10:12:33+00:00",
+  "updated_at": "2026-11-07T09:28:59+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-06T10:12:31+00:00",
-      "last_update": "2026-11-06T10:12:31+00:00",
+      "last_checked": "2026-11-07T09:28:57+00:00",
+      "last_update": "2026-11-07T09:28:57+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1158,9 +1158,59 @@
         "https://www.cjnavi.co.jp/trip/20261106hoshi-kenkou-okuaizu-tadami/": {
           "title": "おでかけ 晩秋の奥会津を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
           "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261107miyagi-museum/": {
+          "title": "イベント 草間彌生や奈良美智、村上隆らの作品が集結！「宮城県美術館」で現代アー… いま、私は現代アートと出会う ―草間彌生、奈良美智、村上隆、アンディ・ウォーホル、バンクシー… 2026年11月14日（土）～2027年1月24日（日）",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261107ootani-nozomu/": {
+          "title": "イベント 福島市「キョウワグループ・テルサホール（福島テルサ）」で、猫や動物を… 大谷 望 第22回 個展 2026年11月14日（土）～21日（土）",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261107koriyama-art-museum/": {
+          "title": "イベント 「郡山市立美術館」で人々の暮らしを美しく彩るデザインの数々を鑑賞しよう アーツ・アンド・クラフツとデザイン ウィリアム・モリスからフランク・ロイド・ライトまで 2026年11月14日（土）～2027年1月17日（日）",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261107sports-airybees/": {
+          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開催！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年11月 2026年11月14日（土）・15日（日）",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261107hapia-marche/": {
+          "title": "イベント ハンドメイド雑貨やリラクゼーション、キッチンカーなど約36店舗が「福島… Hapia Marche 2026年11月14日（土）",
+          "first_seen": "2026-11-07T09:28:57+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 草間彌生や奈良美智、村上隆らの作品が集結！「宮城県美術館」で現代アー… いま、私は現代アートと出会う ―草間彌生、奈良美智、村上隆、アンディ・ウォーホル、バンクシー… 2026年11月14日（土）～2027年1月24日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261107miyagi-museum/",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/6c27f7757c70d39303316a5d16c1c4f5-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市「キョウワグループ・テルサホール（福島テルサ）」で、猫や動物を… 大谷 望 第22回 個展 2026年11月14日（土）～21日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261107ootani-nozomu/",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/db0a43e7ec9877ca387362fcc3b08fee-350x263.jpg"
+        },
+        {
+          "title": "イベント 「郡山市立美術館」で人々の暮らしを美しく彩るデザインの数々を鑑賞しよう アーツ・アンド・クラフツとデザイン ウィリアム・モリスからフランク・ロイド・ライトまで 2026年11月14日（土）～2027年1月17日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261107koriyama-art-museum/",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/88d3436f20cb676eb792881c170fae0c-350x263.jpg"
+        },
+        {
+          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開催！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年11月 2026年11月14日（土）・15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261107sports-airybees/",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e43f275e7bd3687c6200655f07bb2dd-350x263.jpg"
+        },
+        {
+          "title": "イベント ハンドメイド雑貨やリラクゼーション、キッチンカーなど約36店舗が「福島… Hapia Marche 2026年11月14日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261107hapia-marche/",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/20261107HapiaMarche-350x263.jpg"
+        },
         {
           "title": "イベント 和紙ランプシェードが福島市『信夫文知摺観音堂』を優しく照らす 信夫文知摺観音堂 献灯会 2026年11月13日（金）～15日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261106shinobu-mochizurikannon/",
@@ -1430,44 +1480,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261023fukushima-medical-seminar/",
           "first_seen": "2026-10-23T08:08:45+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7929611443f79a647c30bc727828dc5a-350x263.jpg"
-        },
-        {
-          "title": "スペシャル 『CJ Monmo』2026年11月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年11月号を読んで以下のアンケートに答えると、抽選で...",
-          "url": "https://www.cjnavi.co.jp/special/20261025readers-gifts/",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9bac90637fa7f46e43fb4afd2d5e63a7-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 2026年も作戦を決行！「産業廃棄物ってなに？」そんなギモンを楽しみなが… みんなのサンパイぐるぐる大作戦 in いわき 2026年10月24日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261021sanpai-iwaki/",
-          "first_seen": "2026-10-22T08:11:01+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】西白河郡に来たら行くべきはココ！おすすめスポット5選 矢吹町、泉崎村、西郷村、中島村からなる西白河郡。この地域は阿武隈川の上流に位置し、水場...",
-          "url": "https://www.cjnavi.co.jp/trip/20261021nishi-shirakawagun-spot/",
-          "first_seen": "2026-10-21T08:09:47+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/982083452feb7f6f5ad1732fbf95c068-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【学生編集部の福島のここに行きたい！】郡山市・福島市の古民家カフェを… 第31回「古民家カフェ」",
-          "url": "https://www.cjnavi.co.jp/trip/20261021gakuseihenshuubu/",
-          "first_seen": "2026-10-21T08:09:47+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ade0bdac37d431db9b6124864964e7bc-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】桑折町・福島市・須賀川市・飯舘村の“ここだけ”のものづくり体… オリジナルのはにわやコインリング、ミニ畳、ボタニカルキャンドルなど、桑折町・福島市・須...",
-          "url": "https://www.cjnavi.co.jp/trip/20261020kokodake-taiken/",
-          "first_seen": "2026-10-20T08:04:33+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4493d35edb4409ef5e5b3d9649312ac0-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-06T10:12:31+00:00",
-      "last_update": "2026-11-06T10:12:31+00:00",
+      "last_checked": "2026-11-07T09:28:57+00:00",
+      "last_update": "2026-11-07T09:28:57+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3067,9 +3087,39 @@
         "https://ledge.ai/articles/kddi_iret_ai_use_cases": {
           "title": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介のサムネイル画像",
           "first_seen": "2026-11-06T10:12:31+00:00"
+        },
+        "https://ledge.ai/articles/openai_gpt_6_cyber": {
+          "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-6 Cyber」を発表 許可範囲を守るよう訓練、審査済みの一部組織に提供のサムネイル画像",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://ledge.ai/articles/google_k12_gemini_search_opt_in": {
+          "title": "Google、学校の生徒向けに検索とGeminiを初期設定で無効へ 検索内のAIは切り離せず、米教育現場で懸念のサムネイル画像",
+          "first_seen": "2026-11-07T09:28:57+00:00"
+        },
+        "https://ledge.ai/articles/fuji_tv_ai_sandbox_drama": {
+          "title": "フジテレビ、実写ドラマに生成AIを活用する「AI Sandbox」を設置 『救命病棟２４時』の事故現場を架空の空撮映像で描くのサムネイル画像",
+          "first_seen": "2026-11-07T09:28:57+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-6 Cyber」を発表 許可範囲を守るよう訓練、審査済みの一部組織に提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_cyber",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_6_Cyber_f69be4a1f9/GPT_6_Cyber_f69be4a1f9.jpg"
+        },
+        {
+          "title": "Google、学校の生徒向けに検索とGeminiを初期設定で無効へ 検索内のAIは切り離せず、米教育現場で懸念のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_k12_gemini_search_opt_in",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Designing_responsible_AI_for_lea_width_1200_format_webp_2a7b088a39/Designing_responsible_AI_for_lea_width_1200_format_webp_2a7b088a39.webp"
+        },
+        {
+          "title": "フジテレビ、実写ドラマに生成AIを活用する「AI Sandbox」を設置 『救命病棟２４時』の事故現場を架空の空撮映像で描くのサムネイル画像",
+          "url": "https://ledge.ai/articles/fuji_tv_ai_sandbox_drama",
+          "first_seen": "2026-11-07T09:28:57+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ai_sandbox_90152189db/ai_sandbox_90152189db.jpg"
+        },
         {
           "title": "OpenAI、画像生成AI「Images 2.6」を発表 静止画からGIFを作成、参照画像は別のチャットでも再利用のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_images_2_6_gif",
@@ -3351,24 +3401,6 @@
           "url": "https://ledge.ai/articles/pfn_tenstorrent_nedo_photonics_ai_processor",
           "first_seen": "2026-10-26T08:20:31+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/PNF_and_tenstorrent_logo_a3bf130d6b/PNF_and_tenstorrent_logo_a3bf130d6b.jpg"
-        },
-        {
-          "title": "OpenAI、ChatGPT広告を89カ国へ拡大 開始8カ月余りで広告主10万社超のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_ads_expands_89_countries",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_2445c2bade/_2445c2bade.jpg"
-        },
-        {
-          "title": "AIエージェントは「数」が増えると増殖へ転じる可能性 ハーバード大・NTT Researchらが協力による臨界点を理論化のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_agent_ecology_population_threshold",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/67f2fcf6_ca3b_4ff1_b42f_f3ebff6942eb_b82e70babd/67f2fcf6_ca3b_4ff1_b42f_f3ebff6942eb_b82e70babd.jpg"
-        },
-        {
-          "title": "話の途中で割り込んでも大丈夫 ChatGPT Voiceの紹介動画を各国向けにアレンジ、日本版は「オバチャーン」とAIが関西弁で掛け合いのサムネイル画像",
-          "url": "https://ledge.ai/articles/chatgpt_voice_localized_campaigns",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Voice_992a982a2d/Chat_GPT_Voice_992a982a2d.jpg"
         }
       ]
     }
