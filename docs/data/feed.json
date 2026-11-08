@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T09:28:57+00:00",
+  "generated_at": "2026-11-08T09:44:59+00:00",
   "site_count": 2,
-  "new_count": 8,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,24 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-07T09:28:57+00:00",
-      "last_update": "2026-11-07T09:28:57+00:00",
-      "new_count": 5,
-      "link_count": 23,
+      "last_checked": "2026-11-08T09:44:59+00:00",
+      "last_update": "2026-11-08T09:44:59+00:00",
+      "new_count": 2,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 米にも心にも旨み沁みこむ、郡山市の精肉店直営「絶品牛めし」 第110回「やきとり和泉」",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261108fukushima-teisyokubu110/",
+          "first_seen": "2026-11-08T09:44:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/eeca6bbee462daee8c9f6e088058b5ed-350x263.jpg"
+        },
+        {
+          "title": "イベント 標葉地域（浪江町・双葉町・大熊町・葛尾村）のグルメや特産品、伝統文化… 標葉（しねは）祭り 2026年11月15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261108shineha-festival/",
+          "first_seen": "2026-11-08T09:44:59+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/b5bca233610430518fecde364e5036be-350x263.jpg"
+        },
         {
           "title": "イベント 草間彌生や奈良美智、村上隆らの作品が集結！「宮城県美術館」で現代アー… いま、私は現代アートと出会う ―草間彌生、奈良美智、村上隆、アンディ・ウォーホル、バンクシー… 2026年11月14日（土）～2027年1月24日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261107miyagi-museum/",
@@ -305,18 +317,6 @@
           "url": "https://www.cjnavi.co.jp/event/20261023fukushi-expo/",
           "first_seen": "2026-10-23T08:08:45+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b102fe3e977cbf51b12017a2adb58157-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 福島県内最大級の就農相談会『ふくしま農業人フェア』を県内4地域で開催！ ふくのうPresents ふくしま農業人フェア2026 【福島市会場（アクティおろしまち）】2026年11月8日（日） 【いわき市会場（いわき産業創造館）】2026年11月14日（土） 【郡山市会場（ビッグパレットふくしま）】2026年11月29日（日） 【会津若松市会場（アピオスペース）】2026年12月6日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261023nougyoujin-fukushima/",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9001e17253577cf996750f761b63d54b-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 【福島県内の小・中学生のみなさんへ】見て・触れて医療の仕事を体験でき… 福島県 医療のおしごと体験教室 2026年11月15日（日） ［申込締切］〜2026年11月9日（月）",
-          "url": "https://www.cjnavi.co.jp/event/20261023fukushima-medical-seminar/",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7929611443f79a647c30bc727828dc5a-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-07T09:28:57+00:00",
-      "last_update": "2026-11-07T09:28:57+00:00",
+      "last_checked": "2026-11-08T09:44:59+00:00",
+      "last_update": "2026-11-08T09:44:59+00:00",
       "new_count": 3,
       "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "PFN、翻訳AI「PLaMo 3 Translate」の重みを公開 53言語に対応、最小モデルはスマホでオフライン翻訳のサムネイル画像",
+          "url": "https://ledge.ai/articles/pfn_plamo_3_translate",
+          "first_seen": "2026-11-08T09:44:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/P_La_Mo_3_Translate_0_8_B_db1be7662d/P_La_Mo_3_Translate_0_8_B_db1be7662d.jpg"
+        },
+        {
+          "title": "シューティングゲーム『DOOM』の床に描いた数字を読み取る ゲームの仕掛けでAIを動かすオープンソースプロジェクト「Doomformer」公開のサムネイル画像",
+          "url": "https://ledge.ai/articles/doomformer_neural_network",
+          "first_seen": "2026-11-08T09:44:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/doomformer_banner_web_82773ad19b/doomformer_banner_web_82773ad19b.jpg"
+        },
+        {
+          "title": "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証のサムネイル画像",
+          "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
+          "first_seen": "2026-11-08T09:44:59+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21.png"
+        },
         {
           "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-6 Cyber」を発表 許可範囲を守るよう訓練、審査済みの一部組織に提供のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_cyber",
@@ -614,29 +632,51 @@
           "url": "https://ledge.ai/articles/gmo_desktop_cloud_cyberattack",
           "first_seen": "2026-10-26T08:20:31+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gmo_alert1024_3a3fad6d8e/gmo_alert1024_3a3fad6d8e.jpg"
-        },
-        {
-          "title": "LINEヤフー「LINE AI予約」正式提供 飲食店の電話予約を24時間自動化、OpenAI Realtime APIを採用のサムネイル画像",
-          "url": "https://ledge.ai/articles/line_ai_reservation_launch",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/KV_01_1013_a0d8aae57e/KV_01_1013_a0d8aae57e.png"
-        },
-        {
-          "title": "「コンテキストは経営資産」――企業独自の知識や判断基準を、AIエージェントにどう引き継ぐかのサムネイル画像",
-          "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Laboro_AI_MV_48b92ba1ca/Laboro_AI_MV_48b92ba1ca.png"
-        },
-        {
-          "title": "PFNとTenstorrent、光電融合技術を使う生成AI向けプロセッサーを共同開発へ NEDO事業に採択のサムネイル画像",
-          "url": "https://ledge.ai/articles/pfn_tenstorrent_nedo_photonics_ai_processor",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/PNF_and_tenstorrent_logo_a3bf130d6b/PNF_and_tenstorrent_logo_a3bf130d6b.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 米にも心にも旨み沁みこむ、郡山市の精肉店直営「絶品牛めし」 第110回「やきとり和泉」",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261108fukushima-teisyokubu110/",
+      "first_seen": "2026-11-08T09:44:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/eeca6bbee462daee8c9f6e088058b5ed-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 標葉地域（浪江町・双葉町・大熊町・葛尾村）のグルメや特産品、伝統文化… 標葉（しねは）祭り 2026年11月15日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261108shineha-festival/",
+      "first_seen": "2026-11-08T09:44:59+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/b5bca233610430518fecde364e5036be-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "PFN、翻訳AI「PLaMo 3 Translate」の重みを公開 53言語に対応、最小モデルはスマホでオフライン翻訳のサムネイル画像",
+      "url": "https://ledge.ai/articles/pfn_plamo_3_translate",
+      "first_seen": "2026-11-08T09:44:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/P_La_Mo_3_Translate_0_8_B_db1be7662d/P_La_Mo_3_Translate_0_8_B_db1be7662d.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "シューティングゲーム『DOOM』の床に描いた数字を読み取る ゲームの仕掛けでAIを動かすオープンソースプロジェクト「Doomformer」公開のサムネイル画像",
+      "url": "https://ledge.ai/articles/doomformer_neural_network",
+      "first_seen": "2026-11-08T09:44:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/doomformer_banner_web_82773ad19b/doomformer_banner_web_82773ad19b.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証のサムネイル画像",
+      "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
+      "first_seen": "2026-11-08T09:44:59+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21.png"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1246,30 +1286,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gmo_alert1024_3a3fad6d8e/gmo_alert1024_3a3fad6d8e.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "LINEヤフー「LINE AI予約」正式提供 飲食店の電話予約を24時間自動化、OpenAI Realtime APIを採用のサムネイル画像",
-      "url": "https://ledge.ai/articles/line_ai_reservation_launch",
-      "first_seen": "2026-10-26T08:20:31+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/KV_01_1013_a0d8aae57e/KV_01_1013_a0d8aae57e.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「コンテキストは経営資産」――企業独自の知識や判断基準を、AIエージェントにどう引き継ぐかのサムネイル画像",
-      "url": "https://ledge.ai/articles/laboro_ai_interview_agent_enterprise_context",
-      "first_seen": "2026-10-26T08:20:31+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Laboro_AI_MV_48b92ba1ca/Laboro_AI_MV_48b92ba1ca.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "PFNとTenstorrent、光電融合技術を使う生成AI向けプロセッサーを共同開発へ NEDO事業に採択のサムネイル画像",
-      "url": "https://ledge.ai/articles/pfn_tenstorrent_nedo_photonics_ai_processor",
-      "first_seen": "2026-10-26T08:20:31+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/PNF_and_tenstorrent_logo_a3bf130d6b/PNF_and_tenstorrent_logo_a3bf130d6b.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
@@ -1420,22 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/event/20261023fukushi-expo/",
       "first_seen": "2026-10-23T08:08:45+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b102fe3e977cbf51b12017a2adb58157-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 福島県内最大級の就農相談会『ふくしま農業人フェア』を県内4地域で開催！ ふくのうPresents ふくしま農業人フェア2026 【福島市会場（アクティおろしまち）】2026年11月8日（日） 【いわき市会場（いわき産業創造館）】2026年11月14日（土） 【郡山市会場（ビッグパレットふくしま）】2026年11月29日（日） 【会津若松市会場（アピオスペース）】2026年12月6日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261023nougyoujin-fukushima/",
-      "first_seen": "2026-10-23T08:08:45+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/9001e17253577cf996750f761b63d54b-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント AD 【福島県内の小・中学生のみなさんへ】見て・触れて医療の仕事を体験でき… 福島県 医療のおしごと体験教室 2026年11月15日（日） ［申込締切］〜2026年11月9日（月）",
-      "url": "https://www.cjnavi.co.jp/event/20261023fukushima-medical-seminar/",
-      "first_seen": "2026-10-23T08:08:45+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7929611443f79a647c30bc727828dc5a-350x263.jpg"
     }
   ]
 }
