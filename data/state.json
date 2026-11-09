@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T09:45:02+00:00",
+  "updated_at": "2026-11-09T10:43:44+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-08T09:44:59+00:00",
-      "last_update": "2026-11-08T09:44:59+00:00",
+      "last_checked": "2026-11-09T10:43:42+00:00",
+      "last_update": "2026-11-09T10:43:42+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1186,9 +1186,39 @@
         "https://www.cjnavi.co.jp/event/20261108shineha-festival/": {
           "title": "イベント 標葉地域（浪江町・双葉町・大熊町・葛尾村）のグルメや特産品、伝統文化… 標葉（しねは）祭り 2026年11月15日（日）",
           "first_seen": "2026-11-08T09:44:59+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261109newopen-at-peace/": {
+          "title": "グルメ 福島市瀬上町にギャラリー併設のカフェ『＠peace』がオープン cafe＆gallery ＠peace（アットピース）",
+          "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261109campusfesta-tohoku-epco/": {
+          "title": "ライフ AD 【潜入取材】「福島プログラミング講座 キャンパスフェスタ」！身近な困り… 福島プログラミング講座 キャンパスフェスタ潜入取材",
+          "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261108ninomarche/": {
+          "title": "イベント 会津若松市「鶴ヶ城」でマルシェを開催！グルメやスイーツ、クラフト雑貨… 鶴ヶ城ニノマルシェ 2026秋 2026年11月15日（日）",
+          "first_seen": "2026-11-09T10:43:42+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 福島市瀬上町にギャラリー併設のカフェ『＠peace』がオープン cafe＆gallery ＠peace（アットピース）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261109newopen-at-peace/",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/8d3515367516654fc4ccc6472d566d33-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【潜入取材】「福島プログラミング講座 キャンパスフェスタ」！身近な困り… 福島プログラミング講座 キャンパスフェスタ潜入取材",
+          "url": "https://www.cjnavi.co.jp/life/20261109campusfesta-tohoku-epco/",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2737794cf9cd4306e5cbf26560cb47e0-350x263.jpg"
+        },
+        {
+          "title": "イベント 会津若松市「鶴ヶ城」でマルシェを開催！グルメやスイーツ、クラフト雑貨… 鶴ヶ城ニノマルシェ 2026秋 2026年11月15日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261108ninomarche/",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/953763b522de2d4b88fe9184ad26bb6b-350x263.jpg"
+        },
         {
           "title": "グルメ 米にも心にも旨み沁みこむ、郡山市の精肉店直営「絶品牛めし」 第110回「やきとり和泉」",
           "url": "https://www.cjnavi.co.jp/gourmet/20261108fukushima-teisyokubu110/",
@@ -1470,32 +1500,14 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261024fukushima-ramen11/",
           "first_seen": "2026-10-24T07:47:36+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2b21c0a4fe48911495e4516785b09bad-350x263.jpg"
-        },
-        {
-          "title": "イベント YouTuber・SUSURUが厳選！全国のラーメン店が郡山市「開成山公園」に集結！ KFB福島放送開局45周年記念 SUSURUラーメンフェス福島 Supported by サントリーからだを想うオールフリー 2026年10月30日（金）～11月3日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261023susuru-ramenfes/",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/c60283d99a447e6958e03c5ead671fb7-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】福島市・川俣町・二本松市のものづくり体験スポット＆立ち寄り… 土湯こけしの絵付けや伝統ある手漉き、機織りなど、福島市・川俣町・二本松市でものづくりを...",
-          "url": "https://www.cjnavi.co.jp/trip/20261022kenpoku-taiken-lunch/",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1bffcf6e68c94f828cb61f4c021205b1-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 労働力不足を解消！障がい者の働く力と企業をマッチング いきいき！ふくしEXPO 2026年11月10日（火）",
-          "url": "https://www.cjnavi.co.jp/event/20261023fukushi-expo/",
-          "first_seen": "2026-10-23T08:08:45+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/b102fe3e977cbf51b12017a2adb58157-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-08T09:44:59+00:00",
-      "last_update": "2026-11-08T09:44:59+00:00",
+      "last_checked": "2026-11-09T10:43:42+00:00",
+      "last_update": "2026-11-09T10:43:42+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3119,9 +3131,49 @@
         "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins": {
           "title": "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証のサムネイル画像",
           "first_seen": "2026-11-08T09:44:59+00:00"
+        },
+        "https://ledge.ai/articles/meta_muse_voice_avatar_spaces": {
+          "title": "MetaのAIエージェント「Muse」、音声会話と表情豊かなアバターに対応 自分専用の機能や画面を作れる「spaces」も発表のサムネイル画像",
+          "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://ledge.ai/articles/github_copilot_fusion_multi_model_orchestration": {
+          "title": "GitHub、複数のAIモデルを自動選択・連携する「Copilot Fusion」を正式リリース 回答の生成・検証をAIが分担のサムネイル画像",
+          "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://ledge.ai/articles/perplexity_teammates_ai_agents": {
+          "title": "Perplexity、継続業務を任せるAI「Teammates」を発表 複数エージェントが分担、Slackでも連携のサムネイル画像",
+          "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://ledge.ai/articles/claude_personal_finance": {
+          "title": "Anthropic、Claudeに家計管理機能「Personal Finance」 複数口座をつなぎ、支出や支払い予定を会話で確認のサムネイル画像",
+          "first_seen": "2026-11-09T10:43:42+00:00"
         }
       },
       "recent": [
+        {
+          "title": "MetaのAIエージェント「Muse」、音声会話と表情豊かなアバターに対応 自分専用の機能や画面を作れる「spaces」も発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/meta_muse_voice_avatar_spaces",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/muse_voice_c4cc5e45e3/muse_voice_c4cc5e45e3.jpg"
+        },
+        {
+          "title": "GitHub、複数のAIモデルを自動選択・連携する「Copilot Fusion」を正式リリース 回答の生成・検証をAIが分担のサムネイル画像",
+          "url": "https://ledge.ai/articles/github_copilot_fusion_multi_model_orchestration",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/683297831_90d4b889_b7d4_4473_93fc_e75bb8595652_ac568a7f47/683297831_90d4b889_b7d4_4473_93fc_e75bb8595652_ac568a7f47.jpg"
+        },
+        {
+          "title": "Perplexity、継続業務を任せるAI「Teammates」を発表 複数エージェントが分担、Slackでも連携のサムネイル画像",
+          "url": "https://ledge.ai/articles/perplexity_teammates_ai_agents",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7351bf78dfcaa924fa0b6da9b93ec206173cc104_1920x1080_6fe5747827/7351bf78dfcaa924fa0b6da9b93ec206173cc104_1920x1080_6fe5747827.jpg"
+        },
+        {
+          "title": "Anthropic、Claudeに家計管理機能「Personal Finance」 複数口座をつなぎ、支出や支払い予定を会話で確認のサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_personal_finance",
+          "first_seen": "2026-11-09T10:43:42+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0.jpg"
+        },
         {
           "title": "PFN、翻訳AI「PLaMo 3 Translate」の重みを公開 53言語に対応、最小モデルはスマホでオフライン翻訳のサムネイル画像",
           "url": "https://ledge.ai/articles/pfn_plamo_3_translate",
@@ -3397,30 +3449,6 @@
           "url": "https://ledge.ai/articles/meta_muse_japan_launch",
           "first_seen": "2026-10-27T08:32:11+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2_Jolly_landscape_ca85c8e054/2_Jolly_landscape_ca85c8e054.webp"
-        },
-        {
-          "title": "チームみらい、「AIにはAIを」でサイバー防御強化を提言 中小企業への「補助トークン」や事故調査委の創設求めるのサムネイル画像",
-          "url": "https://ledge.ai/articles/team_mirai_ai_cybersecurity_proposal",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c/1792747708_itvrya_NAHMQ_5_O2g_B_Vu_Jeh7fd_91136d8a5c.webp"
-        },
-        {
-          "title": "答えのない課題を、どう前に進めるか。AI時代のPMに求められる力とはのサムネイル画像",
-          "url": "https://ledge.ai/articles/jsol_career_interview_pm",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/JSOL_IMG_ff25e8833b/JSOL_IMG_ff25e8833b.png"
-        },
-        {
-          "title": "Moonshot AI「Kimi K3.1 Pro」発表 コード・3D制作を強化、サイバー悪用対策を施し11月4日までに重み公開へ のサムネイル画像",
-          "url": "https://ledge.ai/articles/moonshot_ai_kimi_k3_1_pro",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kimik3_1pro_2b8614ad99/kimik3_1pro_2b8614ad99.jpg"
-        },
-        {
-          "title": "GMO、FX自動売買向けクラウドへの不正アクセスで損失補償 熊谷代表、AI悪用の脅威と官民連携を訴えのサムネイル画像",
-          "url": "https://ledge.ai/articles/gmo_desktop_cloud_cyberattack",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gmo_alert1024_3a3fad6d8e/gmo_alert1024_3a3fad6d8e.jpg"
         }
       ]
     }
