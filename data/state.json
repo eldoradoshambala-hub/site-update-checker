@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T10:43:44+00:00",
+  "updated_at": "2026-11-10T10:39:10+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-09T10:43:42+00:00",
-      "last_update": "2026-11-09T10:43:42+00:00",
+      "last_checked": "2026-11-10T10:39:08+00:00",
+      "last_update": "2026-11-10T10:39:08+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1198,9 +1198,29 @@
         "https://www.cjnavi.co.jp/event/20261108ninomarche/": {
           "title": "イベント 会津若松市「鶴ヶ城」でマルシェを開催！グルメやスイーツ、クラフト雑貨… 鶴ヶ城ニノマルシェ 2026秋 2026年11月15日（日）",
           "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261110newopen-landscape-coffee/": {
+          "title": "グルメ 人と街をつなぐカフェ＆バル『LANDSCAPE COFFEE07』が本宮市にオープン LANDSCAPE COFFEE07（ランドスケープコーヒー）",
+          "first_seen": "2026-11-10T10:39:08+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261110monmoryouhin/": {
+          "title": "ライフ 『モンモ良品』で秋冬の味覚をお取り寄せ！ふくしまの新米などをお届け！ 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。福島県のおいしい新...",
+          "first_seen": "2026-11-10T10:39:08+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 人と街をつなぐカフェ＆バル『LANDSCAPE COFFEE07』が本宮市にオープン LANDSCAPE COFFEE07（ランドスケープコーヒー）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261110newopen-landscape-coffee/",
+          "first_seen": "2026-11-10T10:39:08+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/6993ca1ed00d6b4d342a5dd8d8f8b72c-350x263.jpg"
+        },
+        {
+          "title": "ライフ 『モンモ良品』で秋冬の味覚をお取り寄せ！ふくしまの新米などをお届け！ 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。福島県のおいしい新...",
+          "url": "https://www.cjnavi.co.jp/life/20261110monmoryouhin/",
+          "first_seen": "2026-11-10T10:39:08+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2024/10/e405b67b55886e835a545115a404069d-350x263.jpg"
+        },
         {
           "title": "グルメ 福島市瀬上町にギャラリー併設のカフェ『＠peace』がオープン cafe＆gallery ＠peace（アットピース）",
           "url": "https://www.cjnavi.co.jp/gourmet/20261109newopen-at-peace/",
@@ -1488,26 +1508,14 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261025onomachi-kuroninniku/",
           "first_seen": "2026-10-25T07:58:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2019/09/6418eab6c6134063296d6f8c2a06ae51-350x263.jpg"
-        },
-        {
-          "title": "ライフ AD 【暮らしの悩み解決】困った時に頼りたい！福島県内のプロ集団11選 買い取りやリフォーム、介護、生前・遺品整理など家の困りごとをズバリ解決！より快適な生活...",
-          "url": "https://www.cjnavi.co.jp/life/20261025kurashi-nayami/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/02/79638a9ed22ac7a8092ba3ce01f53ccd-350x263.jpg"
-        },
-        {
-          "title": "グルメ 漆黒のスープに宿る滋味とコク！たまり醤油・黒胡椒・背脂が織り成すいわ… 第11回「麺処 瓢たん。」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261024fukushima-ramen11/",
-          "first_seen": "2026-10-24T07:47:36+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2b21c0a4fe48911495e4516785b09bad-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-09T10:43:42+00:00",
-      "last_update": "2026-11-09T10:43:42+00:00",
+      "last_checked": "2026-11-10T10:39:08+00:00",
+      "last_update": "2026-11-10T10:39:08+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3147,9 +3155,39 @@
         "https://ledge.ai/articles/claude_personal_finance": {
           "title": "Anthropic、Claudeに家計管理機能「Personal Finance」 複数口座をつなぎ、支出や支払い予定を会話で確認のサムネイル画像",
           "first_seen": "2026-11-09T10:43:42+00:00"
+        },
+        "https://ledge.ai/articles/metr_anthropic_ai_research_acceleration": {
+          "title": "AIがAIの進歩速度を約2倍に加速か Anthropicの内部データをMETRが検証、「超知能まで1年」との予測も浮上のサムネイル画像",
+          "first_seen": "2026-11-10T10:39:08+00:00"
+        },
+        "https://ledge.ai/articles/us_midterm_election_ai_data_center_big_tech": {
+          "title": "公共 2026 / 11 / 10 [TUE] 米中間選挙でAIデータセンター建設が争点に Googleが170億ドル投資、OpenAIは電力費全額負担など地域対策を発表",
+          "first_seen": "2026-11-10T10:39:08+00:00"
+        },
+        "https://ledge.ai/articles/baidu_ernie_5_5_flash_base_open_model": {
+          "title": "Baidu、2800億パラメータのAIモデル「ERNIE 5.5 Flash Base」を公開 DeepSeekなどと比較し、コード生成や長文理解で高い性能のサムネイル画像",
+          "first_seen": "2026-11-10T10:39:08+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AIがAIの進歩速度を約2倍に加速か Anthropicの内部データをMETRが検証、「超知能まで1年」との予測も浮上のサムネイル画像",
+          "url": "https://ledge.ai/articles/metr_anthropic_ai_research_acceleration",
+          "first_seen": "2026-11-10T10:39:08+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/dd74ff70_df26_4e1a_be31_4fc3543bada8_2048x1072_1_552c275783/dd74ff70_df26_4e1a_be31_4fc3543bada8_2048x1072_1_552c275783.webp"
+        },
+        {
+          "title": "公共 2026 / 11 / 10 [TUE] 米中間選挙でAIデータセンター建設が争点に Googleが170億ドル投資、OpenAIは電力費全額負担など地域対策を発表",
+          "url": "https://ledge.ai/articles/us_midterm_election_ai_data_center_big_tech",
+          "first_seen": "2026-11-10T10:39:08+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/0c52b503_4a85_4e87_9c55_ac8aa6793966_1f90c062f2/0c52b503_4a85_4e87_9c55_ac8aa6793966_1f90c062f2.jpg"
+        },
+        {
+          "title": "Baidu、2800億パラメータのAIモデル「ERNIE 5.5 Flash Base」を公開 DeepSeekなどと比較し、コード生成や長文理解で高い性能のサムネイル画像",
+          "url": "https://ledge.ai/articles/baidu_ernie_5_5_flash_base_open_model",
+          "first_seen": "2026-11-10T10:39:08+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HWWH_5y_Lak_AA_Qog_I_f7c34011c1/HWWH_5y_Lak_AA_Qog_I_f7c34011c1.png"
+        },
         {
           "title": "MetaのAIエージェント「Muse」、音声会話と表情豊かなアバターに対応 自分専用の機能や画面を作れる「spaces」も発表のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_muse_voice_avatar_spaces",
@@ -3431,24 +3469,6 @@
           "url": "https://ledge.ai/articles/openai_frontier_model_containment_red_teaming",
           "first_seen": "2026-10-28T09:10:57+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903/377efce8_1d34_4845_9030_3c120b7066bc_35c606d903.png"
-        },
-        {
-          "title": "1Password、AIエージェントにパスワードを見せずにログインを支援「1Password for Agents」発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/1password_for_agents",
-          "first_seen": "2026-10-28T09:10:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Qx_V7_Ano8_ed89f84d56/Qx_V7_Ano8_ed89f84d56.jpg"
-        },
-        {
-          "title": "パナソニックHD子会社、利用禁止の外部生成AIに約33万4,000人分の個人情報をアップロード のサムネイル画像",
-          "url": "https://ledge.ai/articles/panasonic_personal_data_ai_upload",
-          "first_seen": "2026-10-28T09:10:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c/9e480424_ee25_4586_8ef5_0f22d4a61b03_dd17a8e30c.png"
-        },
-        {
-          "title": "Meta、AIエージェント「Muse」を日本で提供開始 北米外で初、メルカリやマネーフォワード MEとの連携も予定のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_japan_launch",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/2_Jolly_landscape_ca85c8e054/2_Jolly_landscape_ca85c8e054.webp"
         }
       ]
     }
