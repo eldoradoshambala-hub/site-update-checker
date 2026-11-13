@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T10:30:37+00:00",
+  "generated_at": "2026-11-13T10:23:54+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 7,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-12T10:30:37+00:00",
-      "last_update": "2026-11-12T10:30:37+00:00",
-      "new_count": 1,
-      "link_count": 23,
+      "last_checked": "2026-11-13T10:23:54+00:00",
+      "last_update": "2026-11-13T10:23:54+00:00",
+      "new_count": 3,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "おでかけ AD 生き残った商家、福西家って何者？会津若松市の国登録有形文化財『福西本… 福西本店 連載コラムVol.1",
+          "url": "https://www.cjnavi.co.jp/trip/20261113fukunishihonten-column01/",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1a3aabf560d835f5341a3fa47593ecd1-350x263.jpg"
+        },
+        {
+          "title": "グルメ 【福島県】地元で愛される！郡山市の行くべき町中華6選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261113koriyamacity-cyuka/",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3a7a199ae1457250bcfcf686c62748d6-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 秋の喜多方をレトロに巡る！長床行きボンネットバス運行 長床レトロバス 2026年11月15日（日）・21日（土）〜23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261108nagatoko-retrobus/",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/06/6dc9ccb922fd9d6411a22ac7811bee50-350x263.jpg"
+        },
         {
           "title": "グルメ なめらかプリンの専門店『プリン工房はちまん』が福島市森合内で移転オー… プリン工房はちまん",
           "url": "https://www.cjnavi.co.jp/gourmet/20261112newopen-hachiman/",
@@ -299,24 +317,6 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/",
           "first_seen": "2026-10-25T07:58:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の新米2026】産地・食材・生産者をめぐる福島県の魅力を知る食の… 【福島県】いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025fukushima-pride/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/047adf23d9ffb0831b75cf4d7eca6ec9-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の新米2026】『JAふくしま未来』各地区で生産される絶品“ふくしま… 【二本松市】こらんしょ市 二本松店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025koransho-nihonmatsu/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の新米2026】豊饒な大地と清流に育まれたブランド米『天栄米』。… 【天栄村】天栄米",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025teneimai/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/488970143dcaf2baac95a0a9b37e1faa-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-12T10:30:37+00:00",
-      "last_update": "2026-11-12T10:30:37+00:00",
-      "new_count": 3,
-      "link_count": 41,
+      "last_checked": "2026-11-13T10:23:54+00:00",
+      "last_update": "2026-11-13T10:23:54+00:00",
+      "new_count": 4,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google、高速処理を重視した「Gemini 4 Hydrogen」を発表 Google検索とGeminiアプリの無料ユーザーにも展開のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_4_hydrogen",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_8cc0712712/6_8cc0712712.png"
+        },
+        {
+          "title": "Google DeepMind、機械語レベルの形式検証フレームワーク「AlphaProof Code」を発表 メッセージングアプリ「Signal」の暗号プロトコルの一部を検証のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_alphaproof_code_signal",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_4_5529576bcc/unnamed_4_5529576bcc.webp"
+        },
+        {
+          "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_tpu_8tx_8i_max",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4.webp"
+        },
+        {
+          "title": "アドビ、PhotoshopなどのAIエージェント対応を拡大 外部AI連携やFirefly新機能、ディズニーとの提携も発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/adobe_max_2026_ai_agents_firefly_disney",
+          "first_seen": "2026-11-13T10:23:54+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/adobemax2026_41217dcb6a/adobemax2026_41217dcb6a.jpg"
+        },
         {
           "title": "Meta、成人として登録した13～17歳をAIで推定し保護機能を適用 Instagramで日本を含む世界展開のサムネイル画像",
           "url": "https://ledge.ai/articles/meta_instagram_ai_age_estimation_global_teen_protection",
@@ -608,35 +632,67 @@
           "url": "https://ledge.ai/articles/openai_ai_math_science_discoveries",
           "first_seen": "2026-10-31T09:08:52+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5.jpg"
-        },
-        {
-          "title": "Google、“自社最強”のAI「Gemini 4 Carbon」発表 サイバー防御を強化、数日間の開発作業にも対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_gemini_4_carbon",
-          "first_seen": "2026-10-30T09:21:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/h_Mcvop7k_70cfc46bf3/h_Mcvop7k_70cfc46bf3.jpg"
-        },
-        {
-          "title": "ビジネス 2026 / 10 / 30 [FRI] 【参加募集】AIを使った表現をどう受け止めるか 制作現場の実践を語る「GENEX ー Creative Series #1」11月17日開催",
-          "url": "https://ledge.ai/articles/genex_creative_series_1",
-          "first_seen": "2026-10-30T09:21:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/image1_d82840abd7/image1_d82840abd7.png"
-        },
-        {
-          "title": "OpenAI、COBOL・Fortranなどの開発能力向上を発表 GPT‑6.1 SolはCOBOL移行評価で正解率97.9％のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_low_resource_coding_cobol_migration",
-          "first_seen": "2026-10-30T09:21:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a40db558_95d4_4d3b_9813_53a878e383aa_941ea189b3/a40db558_95d4_4d3b_9813_53a878e383aa_941ea189b3.png"
-        },
-        {
-          "title": "ClaudeやSlackがSalesforceの業務画面に――Dreamforce 2026で示した「AIforce」のサムネイル画像",
-          "url": "https://ledge.ai/articles/salesforce_dreamforce_2026_aiforce",
-          "first_seen": "2026-10-30T09:21:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/SF_3_0f61d9c822/SF_3_0f61d9c822.png"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "おでかけ AD 生き残った商家、福西家って何者？会津若松市の国登録有形文化財『福西本… 福西本店 連載コラムVol.1",
+      "url": "https://www.cjnavi.co.jp/trip/20261113fukunishihonten-column01/",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1a3aabf560d835f5341a3fa47593ecd1-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】地元で愛される！郡山市の行くべき町中華6選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261113koriyamacity-cyuka/",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3a7a199ae1457250bcfcf686c62748d6-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 秋の喜多方をレトロに巡る！長床行きボンネットバス運行 長床レトロバス 2026年11月15日（日）・21日（土）〜23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261108nagatoko-retrobus/",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/06/6dc9ccb922fd9d6411a22ac7811bee50-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、高速処理を重視した「Gemini 4 Hydrogen」を発表 Google検索とGeminiアプリの無料ユーザーにも展開のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_gemini_4_hydrogen",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_8cc0712712/6_8cc0712712.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google DeepMind、機械語レベルの形式検証フレームワーク「AlphaProof Code」を発表 メッセージングアプリ「Signal」の暗号プロトコルの一部を検証のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deepmind_alphaproof_code_signal",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_4_5529576bcc/unnamed_4_5529576bcc.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_tpu_8tx_8i_max",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "アドビ、PhotoshopなどのAIエージェント対応を拡大 外部AI連携やFirefly新機能、ディズニーとの提携も発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/adobe_max_2026_ai_agents_firefly_disney",
+      "first_seen": "2026-11-13T10:23:54+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/adobemax2026_41217dcb6a/adobemax2026_41217dcb6a.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1238,38 +1294,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、“自社最強”のAI「Gemini 4 Carbon」発表 サイバー防御を強化、数日間の開発作業にも対応のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_gemini_4_carbon",
-      "first_seen": "2026-10-30T09:21:57+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/h_Mcvop7k_70cfc46bf3/h_Mcvop7k_70cfc46bf3.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ビジネス 2026 / 10 / 30 [FRI] 【参加募集】AIを使った表現をどう受け止めるか 制作現場の実践を語る「GENEX ー Creative Series #1」11月17日開催",
-      "url": "https://ledge.ai/articles/genex_creative_series_1",
-      "first_seen": "2026-10-30T09:21:57+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/image1_d82840abd7/image1_d82840abd7.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、COBOL・Fortranなどの開発能力向上を発表 GPT‑6.1 SolはCOBOL移行評価で正解率97.9％のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_low_resource_coding_cobol_migration",
-      "first_seen": "2026-10-30T09:21:57+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a40db558_95d4_4d3b_9813_53a878e383aa_941ea189b3/a40db558_95d4_4d3b_9813_53a878e383aa_941ea189b3.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ClaudeやSlackがSalesforceの業務画面に――Dreamforce 2026で示した「AIforce」のサムネイル画像",
-      "url": "https://ledge.ai/articles/salesforce_dreamforce_2026_aiforce",
-      "first_seen": "2026-10-30T09:21:57+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/SF_3_0f61d9c822/SF_3_0f61d9c822.png"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 創業したい方必見！「福島県信用保証協会」主催の女性創業者応援セミナー… 福島県信用保証協会 主催 女性創業者応援セミナー 2026年12月1日（火） ［申込締切］〜2026年11月27日（金）",
@@ -1412,30 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/",
       "first_seen": "2026-10-25T07:58:41+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の新米2026】産地・食材・生産者をめぐる福島県の魅力を知る食の… 【福島県】いま買えるふくしまの“絶品”食めぐり『ふくしまプライド便』",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025fukushima-pride/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/047adf23d9ffb0831b75cf4d7eca6ec9-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の新米2026】『JAふくしま未来』各地区で生産される絶品“ふくしま… 【二本松市】こらんしょ市 二本松店",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025koransho-nihonmatsu/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の新米2026】豊饒な大地と清流に育まれたブランド米『天栄米』。… 【天栄村】天栄米",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025teneimai/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/488970143dcaf2baac95a0a9b37e1faa-350x263.jpg"
     }
   ]
 }
