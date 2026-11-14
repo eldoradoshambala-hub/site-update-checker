@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T10:24:33+00:00",
+  "updated_at": "2026-11-14T09:40:57+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-13T10:23:54+00:00",
+      "last_checked": "2026-11-14T09:40:56+00:00",
       "last_update": "2026-11-13T10:23:54+00:00",
       "last_status": "ok",
       "last_error": null,
@@ -1534,8 +1534,8 @@
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-13T10:23:54+00:00",
-      "last_update": "2026-11-13T10:23:54+00:00",
+      "last_checked": "2026-11-14T09:40:56+00:00",
+      "last_update": "2026-11-14T09:40:56+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3231,9 +3231,39 @@
         "https://ledge.ai/articles/adobe_max_2026_ai_agents_firefly_disney": {
           "title": "アドビ、PhotoshopなどのAIエージェント対応を拡大 外部AI連携やFirefly新機能、ディズニーとの提携も発表のサムネイル画像",
           "first_seen": "2026-11-13T10:23:54+00:00"
+        },
+        "https://ledge.ai/articles/maem_ai_activation_interpretability": {
+          "title": "AIの「頭の中」を文章にするAI「MAEM」 Anthropicの研究者ら、削除を告げる模擬メールで検証のサムネイル画像",
+          "first_seen": "2026-11-14T09:40:56+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_jensen_huang_resignation": {
+          "title": "NVIDIA共同創業者ジェンスン・フアン氏が11日付でCEOと取締役を辞任 独立調査の発表から3日、CFOのクレス氏が暫定CEOにのサムネイル画像",
+          "first_seen": "2026-11-14T09:40:56+00:00"
+        },
+        "https://ledge.ai/articles/gemini_decision_1": {
+          "title": "Google、AIエージェントの判断に特化した「Gemini Decision 1」を発表 画像や音声をもとに最大1,000問を一括判定のサムネイル画像",
+          "first_seen": "2026-11-14T09:40:56+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AIの「頭の中」を文章にするAI「MAEM」 Anthropicの研究者ら、削除を告げる模擬メールで検証のサムネイル画像",
+          "url": "https://ledge.ai/articles/maem_ai_activation_interpretability",
+          "first_seen": "2026-11-14T09:40:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c5f64505_fe8a_48c9_ac5d_a41d7cb69935_ad1e9aefc2/c5f64505_fe8a_48c9_ac5d_a41d7cb69935_ad1e9aefc2.jpg"
+        },
+        {
+          "title": "NVIDIA共同創業者ジェンスン・フアン氏が11日付でCEOと取締役を辞任 独立調査の発表から3日、CFOのクレス氏が暫定CEOにのサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_jensen_huang_resignation",
+          "first_seen": "2026-11-14T09:40:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_ceo_transition_cf1193f3f5/nvidia_ceo_transition_cf1193f3f5.jpg"
+        },
+        {
+          "title": "Google、AIエージェントの判断に特化した「Gemini Decision 1」を発表 画像や音声をもとに最大1,000問を一括判定のサムネイル画像",
+          "url": "https://ledge.ai/articles/gemini_decision_1",
+          "first_seen": "2026-11-14T09:40:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd.webp"
+        },
         {
           "title": "Google、高速処理を重視した「Gemini 4 Hydrogen」を発表 Google検索とGeminiアプリの無料ユーザーにも展開のサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_4_hydrogen",
@@ -3515,24 +3545,6 @@
           "url": "https://ledge.ai/articles/ai_computational_science_book",
           "first_seen": "2026-10-31T09:08:52+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tkdbook_ai_5eb6d87aae/tkdbook_ai_5eb6d87aae.jpg"
-        },
-        {
-          "title": "AIにネットショップを1年間任せたら？ Qwen・HKUSTら、長期の事業運営能力を測る「E-Commerce Bench」を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/qwen_e_commerce_bench",
-          "first_seen": "2026-10-31T09:08:52+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f/b6fcc96e_e62d_47d9_9d66_5a556d35d2ad_753a66a70f.png"
-        },
-        {
-          "title": "AIの「性能」と「性格」を診断 Artificial Analysis、総合性能指標「Intelligence Index v5」と性格ベンチマーク「AA-PersonalityBench」を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/artificial_analysis_intelligence_personality_benchmarks",
-          "first_seen": "2026-10-31T09:08:52+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437/7e01d928_7088_425c_a26e_7b2f7597fa02_84ab127437.jpg"
-        },
-        {
-          "title": "OpenAI、数学・計算機科学・物理学の難問でAIの新たな研究成果を発表 分野ごとに異なる公開・検証体制を採用のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_ai_math_science_discoveries",
-          "first_seen": "2026-10-31T09:08:52+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5/080e568e_5256_4334_b282_21c4be7e0fb4_52584251d5.jpg"
         }
       ]
     }
