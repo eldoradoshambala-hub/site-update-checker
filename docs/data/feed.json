@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T09:40:56+00:00",
+  "generated_at": "2026-11-15T10:14:33+00:00",
   "site_count": 2,
-  "new_count": 3,
+  "new_count": 7,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-14T09:40:56+00:00",
-      "last_update": "2026-11-13T10:23:54+00:00",
-      "new_count": 0,
-      "link_count": 22,
+      "last_checked": "2026-11-15T10:14:33+00:00",
+      "last_update": "2026-11-15T10:14:33+00:00",
+      "new_count": 4,
+      "link_count": 23,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 郡山市出身のロックバンド・zanpanがツアーで地元に凱旋 zanpanリリースツアー「ぐねぐね伏線回収 TOUR 2026」 2026年11月22日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261115zanpan-tour/",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/20261115zanpan-350x263.jpg"
+        },
+        {
+          "title": "イベント 今年で11回目の『寺フェス』を二本松市「龍泉寺」で開催！ 二本松寺フェス 2026年11月21日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261114nihonmatsu-terafes/",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/f0d525d4ca4930f1e5d00b412284eac1-350x263.jpg"
+        },
+        {
+          "title": "イベント 会津若松市で講談師・神田伊織の単独公演を開催 伝統芸能を聴く会 あいばっせ 第1回「神田伊織 講談会」 2026年11月21日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261114kanda-iori/",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/eeeaf95c2a1653ab05a80286c0143986-350x263.jpg"
+        },
+        {
+          "title": "イベント 猪苗代町「はじまりの美術館」で、日常の中の“きになる”を表現した作品の… 第10回 福島県障がい者芸術作品展「きになる⇆ひょうげん2026」 2026年11月21日（土）～2027年1月17日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261114kininaru-hyougen/",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/b6015f0abf23716ff05e3294c1e71cfa-350x263.jpg"
+        },
         {
           "title": "おでかけ AD 生き残った商家、福西家って何者？会津若松市の国登録有形文化財『福西本… 福西本店 連載コラムVol.1",
           "url": "https://www.cjnavi.co.jp/trip/20261113fukunishihonten-column01/",
@@ -293,30 +317,6 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/",
           "first_seen": "2026-10-25T07:58:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e096f8cbe8d069e0ac469029e446eef0-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の醸造元2026】吾妻山の風土を閉じ込めた、福島から世界へ届く『… 【福島市】WINERY AZUMA SANROKU 吾妻山麓醸造所",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025azuma-sanroku/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/130f98e4fa2633b63cc4bd710c3a28cf-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の酒販店2026】日本酒が最もおいしい季節。期間限定の美酒を『橘… 【福島市】橘内酒店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025kitsunaisaketen/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/549a6168d5b5f2b6c910f27c8d496bec-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の酒販店2026】『wineのMu』の造り手の想いが詰まった優しい風味… 【三春町】wineのMu",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025wine-no-mu/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/596235606fbf7efd8881a9c595d83f28-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の新米2026】福島県が誇るブランド米と新米3選 福島県内では2026年もお米をはじめ、豊かな農産物やそれを使ったこだわりの料理などが出来上...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-14T09:40:56+00:00",
-      "last_update": "2026-11-14T09:40:56+00:00",
+      "last_checked": "2026-11-15T10:14:33+00:00",
+      "last_update": "2026-11-15T10:14:33+00:00",
       "new_count": 3,
-      "link_count": 43,
+      "link_count": 44,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Google DeepMind、DNA変異の影響を細胞の種類や状態ごとに予測するAI「AlphaGenome 2」を発表のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_alphagenome_2",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_6_baf132258f/unnamed_6_baf132258f.webp"
+        },
+        {
+          "title": "ユナイテッド航空、許可のない外部AIによる航空券の予約代行を禁止へ 旅行会社・予約サイト経由も対象のサムネイル画像",
+          "url": "https://ledge.ai/articles/united_airlines_ai_agent_booking_restrictions",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7879_3_c49686ef5e/7879_3_c49686ef5e.jpg"
+        },
+        {
+          "title": "Runway、動画で学んだ物体の動きをロボット制御に生かすAIモデル「Praxis-1」を公開 ウェイトとコードは商用利用可能のサムネイル画像",
+          "url": "https://ledge.ai/articles/runway_praxis_1",
+          "first_seen": "2026-11-15T10:14:33+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85.jpg"
+        },
         {
           "title": "AIの「頭の中」を文章にするAI「MAEM」 Anthropicの研究者ら、削除を告げる模擬メールで検証のサムネイル画像",
           "url": "https://ledge.ai/articles/maem_ai_activation_interpretability",
@@ -614,29 +632,67 @@
           "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
           "first_seen": "2026-11-01T09:56:20+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
-        },
-        {
-          "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_sleep_framework_continual_learning",
-          "first_seen": "2026-11-01T09:56:20+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LLM_Sleep_Cover_af650051fb/LLM_Sleep_Cover_af650051fb.jpg"
-        },
-        {
-          "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/mit_swarm_telepathy",
-          "first_seen": "2026-11-01T09:56:20+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/db8973dd_c477_4929_9de6_580175d95c21_782485a230/db8973dd_c477_4929_9de6_580175d95c21_782485a230.jpg"
-        },
-        {
-          "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
-          "url": "https://ledge.ai/articles/ai_computational_science_book",
-          "first_seen": "2026-10-31T09:08:52+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tkdbook_ai_5eb6d87aae/tkdbook_ai_5eb6d87aae.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 郡山市出身のロックバンド・zanpanがツアーで地元に凱旋 zanpanリリースツアー「ぐねぐね伏線回収 TOUR 2026」 2026年11月22日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261115zanpan-tour/",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/20261115zanpan-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 今年で11回目の『寺フェス』を二本松市「龍泉寺」で開催！ 二本松寺フェス 2026年11月21日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261114nihonmatsu-terafes/",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/f0d525d4ca4930f1e5d00b412284eac1-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 会津若松市で講談師・神田伊織の単独公演を開催 伝統芸能を聴く会 あいばっせ 第1回「神田伊織 講談会」 2026年11月21日（土）",
+      "url": "https://www.cjnavi.co.jp/event/20261114kanda-iori/",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/eeeaf95c2a1653ab05a80286c0143986-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 猪苗代町「はじまりの美術館」で、日常の中の“きになる”を表現した作品の… 第10回 福島県障がい者芸術作品展「きになる⇆ひょうげん2026」 2026年11月21日（土）～2027年1月17日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261114kininaru-hyougen/",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/b6015f0abf23716ff05e3294c1e71cfa-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Google DeepMind、DNA変異の影響を細胞の種類や状態ごとに予測するAI「AlphaGenome 2」を発表のサムネイル画像",
+      "url": "https://ledge.ai/articles/google_deepmind_alphagenome_2",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_6_baf132258f/unnamed_6_baf132258f.webp"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ユナイテッド航空、許可のない外部AIによる航空券の予約代行を禁止へ 旅行会社・予約サイト経由も対象のサムネイル画像",
+      "url": "https://ledge.ai/articles/united_airlines_ai_agent_booking_restrictions",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7879_3_c49686ef5e/7879_3_c49686ef5e.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Runway、動画で学んだ物体の動きをロボット制御に生かすAIモデル「Praxis-1」を公開 ウェイトとコードは商用利用可能のサムネイル画像",
+      "url": "https://ledge.ai/articles/runway_praxis_1",
+      "first_seen": "2026-11-15T10:14:33+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1262,36 +1318,12 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Google、AIの「睡眠フェーズ」で知識を定着させる研究を紹介 新たな学習による忘却を抑制のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_sleep_framework_continual_learning",
-      "first_seen": "2026-11-01T09:56:20+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LLM_Sleep_Cover_af650051fb/LLM_Sleep_Cover_af650051fb.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AI同士が言葉を介さず「テレパシー」で情報共有 MITら、異なるモデル間で内部状態を渡す「SwaT」を公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/mit_swarm_telepathy",
-      "first_seen": "2026-11-01T09:56:20+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/db8973dd_c477_4929_9de6_580175d95c21_782485a230/db8973dd_c477_4929_9de6_580175d95c21_782485a230.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
       "url": "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/",
       "first_seen": "2026-10-31T09:08:52+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3cf396d295d0e25ffcc0556168bf331f-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "岡野原大輔氏の新刊『AI計算科学』刊行 「表現・推論・探索」から科学計算の変化を解説のサムネイル画像",
-      "url": "https://ledge.ai/articles/ai_computational_science_book",
-      "first_seen": "2026-10-31T09:08:52+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tkdbook_ai_5eb6d87aae/tkdbook_ai_5eb6d87aae.jpg"
     },
     {
       "site_id": "cjnavi",
@@ -1404,38 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/",
       "first_seen": "2026-10-25T07:58:41+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e096f8cbe8d069e0ac469029e446eef0-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の醸造元2026】吾妻山の風土を閉じ込めた、福島から世界へ届く『… 【福島市】WINERY AZUMA SANROKU 吾妻山麓醸造所",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025azuma-sanroku/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/130f98e4fa2633b63cc4bd710c3a28cf-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の酒販店2026】日本酒が最もおいしい季節。期間限定の美酒を『橘… 【福島市】橘内酒店",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025kitsunaisaketen/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/549a6168d5b5f2b6c910f27c8d496bec-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の酒販店2026】『wineのMu』の造り手の想いが詰まった優しい風味… 【三春町】wineのMu",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025wine-no-mu/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/596235606fbf7efd8881a9c595d83f28-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の新米2026】福島県が誇るブランド米と新米3選 福島県内では2026年もお米をはじめ、豊かな農産物やそれを使ったこだわりの料理などが出来上...",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025mikaku-marche/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/a2f505d05e8116e5c00236a3d323da32-350x263.jpg"
     }
   ]
 }
