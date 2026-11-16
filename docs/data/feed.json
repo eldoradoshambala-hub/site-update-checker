@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T10:14:33+00:00",
+  "generated_at": "2026-11-16T10:27:41+00:00",
   "site_count": 2,
-  "new_count": 7,
+  "new_count": 8,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-15T10:14:33+00:00",
-      "last_update": "2026-11-15T10:14:33+00:00",
-      "new_count": 4,
-      "link_count": 23,
+      "last_checked": "2026-11-16T10:27:41+00:00",
+      "last_update": "2026-11-16T10:27:41+00:00",
+      "new_count": 3,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント AD 冬の「四季の里」で、手作り雑貨やグルメを楽しむクリスマスマーケット開催 Christmas Market in 四季の里 2026年12月12日（土）・13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261116christmas-market-shikinosato/",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/11760989f0e266cbe90c0f0ad472e519-350x263.jpg"
+        },
+        {
+          "title": "イベント 白河市「きつねうち温泉」で料理作りのワークショップを開催 きつねうち温泉 ワークショップ 2026年11月23日（祝）",
+          "url": "https://www.cjnavi.co.jp/event/20261116kitsuneuchi-onsen/",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/a2970db57321870893ad974aeb698e78-350x263.jpg"
+        },
+        {
+          "title": "グルメ 【福島県】地元で愛される！いわき市の行くべき町中華3選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261116iwakicity-cyuka/",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/36a5e3ca45595fa067f604d02852dc05-350x263.jpg"
+        },
         {
           "title": "イベント 郡山市出身のロックバンド・zanpanがツアーで地元に凱旋 zanpanリリースツアー「ぐねぐね伏線回収 TOUR 2026」 2026年11月22日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261115zanpan-tour/",
@@ -299,24 +317,6 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/",
           "first_seen": "2026-10-25T07:58:41+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の醸造元2026】ロック推奨、燗ツケ厳禁。福島一辛口『笹の川酒造… 【郡山市】笹の川酒造",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-sasanokawa/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ee84158694f3450fb9e9fb32550a4b41-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の醸造元2026】塙町が誇る最高水準の『奥久慈塙蒸留所』の焼酎。… 【塙町】奥久慈塙蒸留所",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025okukuji-hanawa/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の醸造元2026】『奥の松酒造』伝統の味をもっと身近に。缶カップ… 【二本松市】奥の松酒造",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e096f8cbe8d069e0ac469029e446eef0-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,42 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-15T10:14:33+00:00",
-      "last_update": "2026-11-15T10:14:33+00:00",
-      "new_count": 3,
-      "link_count": 44,
+      "last_checked": "2026-11-16T10:27:41+00:00",
+      "last_update": "2026-11-16T10:27:41+00:00",
+      "new_count": 5,
+      "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "ビジネス 2026 / 11 / 16 [MON] 「人類はAIを使いこなせるか？」Ledge.ai年末年始特集「26to27」の無料事前登録を開始",
+          "url": "https://ledge.ai/articles/ledgeai26to27_pre",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ledge_ai_26_to_27_6fb4aa2baf/Ledge_ai_26_to_27_6fb4aa2baf.png"
+        },
+        {
+          "title": "ビジネス 2026 / 11 / 16 [MON] NVIDIAフアン前CEOの復帰を求める署名が16万筆超 独立調査中の復帰と取締役会の説明を要求",
+          "url": "https://ledge.ai/articles/nvidia_jensen_huang_reinstatement_petition",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/jensenback_dea5da7a4b/jensenback_dea5da7a4b.jpg"
+        },
+        {
+          "title": "カナダのAI企業Cohere、日本法人を設立へ 生成AIへの入力と応答を国内で処理する「Model Vault」も提供方針のサムネイル画像",
+          "url": "https://ledge.ai/articles/cohere_japan_expansion_model_vault",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a8b0dbc0_3dd8_41c1_a7fa_8be33a9c7933_5242d24b64/a8b0dbc0_3dd8_41c1_a7fa_8be33a9c7933_5242d24b64.jpg"
+        },
+        {
+          "title": "Amazon傘下のRing、家の中を飛ぶ防犯ドローンを発表 センサー作動で現場へ、事業者向け巡回ロボットも米国で展開のサムネイル画像",
+          "url": "https://ledge.ai/articles/ring_robotics_drone_cam_rover_cam",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/drone_hero_amazon_news_lt_11092026_4857821d72/drone_hero_amazon_news_lt_11092026_4857821d72.jpg"
+        },
+        {
+          "title": "Amazon、買い物AI「Rufus」を日本でも「Alexa for Shopping」に 商品比較や最長90日の価格履歴を無料で利用のサムネイル画像",
+          "url": "https://ledge.ai/articles/amazon_alexa_for_shopping_japan",
+          "first_seen": "2026-11-16T10:27:41+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/shop_amazon_with_alexa_b908915c0d/shop_amazon_with_alexa_b908915c0d.jpg"
+        },
         {
           "title": "Google DeepMind、DNA変異の影響を細胞の種類や状態ごとに予測するAI「AlphaGenome 2」を発表のサムネイル画像",
           "url": "https://ledge.ai/articles/google_deepmind_alphagenome_2",
@@ -602,41 +632,75 @@
           "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
           "first_seen": "2026-11-03T10:21:13+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621.jpg"
-        },
-        {
-          "title": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整のサムネイル画像",
-          "url": "https://ledge.ai/articles/sarashina_3_2_mini_thinking",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261026151725_9b5d3947b4/20261026151725_9b5d3947b4.png"
-        },
-        {
-          "title": "Anthropic、6組織との創薬提携の進捗を公表 自社でも希少疾患の治療薬を開発のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_drug_discovery",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed.webp"
-        },
-        {
-          "title": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得のサムネイル画像",
-          "url": "https://ledge.ai/articles/block_dessa_speech_only_model",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/776c38e3_054a_462c_9163_6934df644e99_3699cfc381/776c38e3_054a_462c_9163_6934df644e99_3699cfc381.png"
-        },
-        {
-          "title": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地にのサムネイル画像",
-          "url": "https://ledge.ai/articles/docomo_kddi_physical_ai",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/5_7e0358def8/5_7e0358def8.png"
-        },
-        {
-          "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
-          "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
-          "first_seen": "2026-11-01T09:56:20+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント AD 冬の「四季の里」で、手作り雑貨やグルメを楽しむクリスマスマーケット開催 Christmas Market in 四季の里 2026年12月12日（土）・13日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261116christmas-market-shikinosato/",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/11760989f0e266cbe90c0f0ad472e519-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 白河市「きつねうち温泉」で料理作りのワークショップを開催 きつねうち温泉 ワークショップ 2026年11月23日（祝）",
+      "url": "https://www.cjnavi.co.jp/event/20261116kitsuneuchi-onsen/",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/a2970db57321870893ad974aeb698e78-350x263.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】地元で愛される！いわき市の行くべき町中華3選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261116iwakicity-cyuka/",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/36a5e3ca45595fa067f604d02852dc05-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 11 / 16 [MON] 「人類はAIを使いこなせるか？」Ledge.ai年末年始特集「26to27」の無料事前登録を開始",
+      "url": "https://ledge.ai/articles/ledgeai26to27_pre",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Ledge_ai_26_to_27_6fb4aa2baf/Ledge_ai_26_to_27_6fb4aa2baf.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 11 / 16 [MON] NVIDIAフアン前CEOの復帰を求める署名が16万筆超 独立調査中の復帰と取締役会の説明を要求",
+      "url": "https://ledge.ai/articles/nvidia_jensen_huang_reinstatement_petition",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/jensenback_dea5da7a4b/jensenback_dea5da7a4b.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "カナダのAI企業Cohere、日本法人を設立へ 生成AIへの入力と応答を国内で処理する「Model Vault」も提供方針のサムネイル画像",
+      "url": "https://ledge.ai/articles/cohere_japan_expansion_model_vault",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a8b0dbc0_3dd8_41c1_a7fa_8be33a9c7933_5242d24b64/a8b0dbc0_3dd8_41c1_a7fa_8be33a9c7933_5242d24b64.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Amazon傘下のRing、家の中を飛ぶ防犯ドローンを発表 センサー作動で現場へ、事業者向け巡回ロボットも米国で展開のサムネイル画像",
+      "url": "https://ledge.ai/articles/ring_robotics_drone_cam_rover_cam",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/drone_hero_amazon_news_lt_11092026_4857821d72/drone_hero_amazon_news_lt_11092026_4857821d72.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Amazon、買い物AI「Rufus」を日本でも「Alexa for Shopping」に 商品比較や最長90日の価格履歴を無料で利用のサムネイル画像",
+      "url": "https://ledge.ai/articles/amazon_alexa_for_shopping_japan",
+      "first_seen": "2026-11-16T10:27:41+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/shop_amazon_with_alexa_b908915c0d/shop_amazon_with_alexa_b908915c0d.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1278,46 +1342,6 @@
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/237f861c44dacce435fc145090223f41-350x263.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ソフトバンク子会社、回答前に考える国産LLM「Sarashina3.2 mini thinking」を発表 思考の深さを3段階で調整のサムネイル画像",
-      "url": "https://ledge.ai/articles/sarashina_3_2_mini_thinking",
-      "first_seen": "2026-11-02T10:23:35+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20261026151725_9b5d3947b4/20261026151725_9b5d3947b4.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Anthropic、6組織との創薬提携の進捗を公表 自社でも希少疾患の治療薬を開発のサムネイル画像",
-      "url": "https://ledge.ai/articles/anthropic_claude_drug_discovery",
-      "first_seen": "2026-11-02T10:23:35+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed/492ae2fdf955e71a24bfda5422f950febeeec07f_2000x1125_08fcddd0ed.webp"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Twitter創業ジャック・ドーシー氏率いるBlock、会話音声だけで学習したAI「Dessa」を発表 聞きながら話し、笑いや相づちも習得のサムネイル画像",
-      "url": "https://ledge.ai/articles/block_dessa_speech_only_model",
-      "first_seen": "2026-11-02T10:23:35+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/776c38e3_054a_462c_9163_6934df644e99_3699cfc381/776c38e3_054a_462c_9163_6934df644e99_3699cfc381.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地にのサムネイル画像",
-      "url": "https://ledge.ai/articles/docomo_kddi_physical_ai",
-      "first_seen": "2026-11-02T10:23:35+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/5_7e0358def8/5_7e0358def8.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ケンタッキー大学職員、信念を理由に業務でのAI利用を免除 自ら考え判断する責任を重視のサムネイル画像",
-      "url": "https://ledge.ai/articles/kentucky_university_ai_religious_exemption",
-      "first_seen": "2026-11-01T09:56:20+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e/a1df2826_2a3c_4f81_bfff_a97675fc39aa_28da83f25e.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
@@ -1412,30 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/",
       "first_seen": "2026-10-25T07:58:41+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の醸造元2026】ロック推奨、燗ツケ厳禁。福島一辛口『笹の川酒造… 【郡山市】笹の川酒造",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-sasanokawa/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/ee84158694f3450fb9e9fb32550a4b41-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の醸造元2026】塙町が誇る最高水準の『奥久慈塙蒸留所』の焼酎。… 【塙町】奥久慈塙蒸留所",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025okukuji-hanawa/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の醸造元2026】『奥の松酒造』伝統の味をもっと身近に。缶カップ… 【二本松市】奥の松酒造",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025okunomatsu/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/e096f8cbe8d069e0ac469029e446eef0-350x263.jpg"
     }
   ]
 }
