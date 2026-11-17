@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T10:27:41+00:00",
+  "generated_at": "2026-11-17T11:23:39+00:00",
   "site_count": 2,
-  "new_count": 8,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,9 +12,9 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-16T10:27:41+00:00",
+      "last_checked": "2026-11-17T11:23:39+00:00",
       "last_update": "2026-11-16T10:27:41+00:00",
-      "new_count": 3,
+      "new_count": 0,
       "link_count": 22,
       "seeded_now": false,
       "items": [
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-16T10:27:41+00:00",
-      "last_update": "2026-11-16T10:27:41+00:00",
-      "new_count": 5,
+      "last_checked": "2026-11-17T11:23:39+00:00",
+      "last_update": "2026-11-17T11:23:39+00:00",
+      "new_count": 4,
       "link_count": 42,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、Claude 4モデルの選び方を解説 迷ったら「Opus 5.5」、大量処理は「Haiku 5.5」のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_model_selection_guide",
+          "first_seen": "2026-11-17T11:23:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Which_Claude_model_should_you_build_with_131e7e4a8a/Which_Claude_model_should_you_build_with_131e7e4a8a.jpg"
+        },
+        {
+          "title": "OpenAI「ChatGPT Wallet」、AIエージェントにも販売店にもカード情報を渡さず決済 購入ごとに本人が生体認証で承認のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_chatgpt_wallet",
+          "first_seen": "2026-11-17T11:23:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/noname_side_a648f87b82/noname_side_a648f87b82.jpg"
+        },
+        {
+          "title": "AIが当たり前になる社会で、企業は何で選ばれるか――KDDI SUMMIT 2026で示したAI実装の道筋のサムネイル画像",
+          "url": "https://ledge.ai/articles/kddi_summit_2026",
+          "first_seen": "2026-11-17T11:23:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_8298_908c5b63a4/IMG_8298_908c5b63a4.jpg"
+        },
+        {
+          "title": "GoogleとSamsung、見ている物をGeminiに聞けるスマートグラス「Intelligent Eyewear」を12月10日発売 米国では2ブランド、395ドルからのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_samsung_gemini_smart_glasses_launch",
+          "first_seen": "2026-11-17T11:23:39+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Blog1_Banner_width_1200_format_webp_b7f03a3c5f/Blog1_Banner_width_1200_format_webp_b7f03a3c5f.webp"
+        },
         {
           "title": "ビジネス 2026 / 11 / 16 [MON] 「人類はAIを使いこなせるか？」Ledge.ai年末年始特集「26to27」の無料事前登録を開始",
           "url": "https://ledge.ai/articles/ledgeai26to27_pre",
@@ -608,35 +632,43 @@
           "url": "https://ledge.ai/articles/openai_misalignment_monitoring",
           "first_seen": "2026-11-04T22:53:03+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/defense_in_depth_against_model_misalignment_b6cab518c8/defense_in_depth_against_model_misalignment_b6cab518c8.jpg"
-        },
-        {
-          "title": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画のサムネイル画像",
-          "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/001_1_ab244fe664/001_1_ab244fe664.jpg"
-        },
-        {
-          "title": "「技術性能の向上だけでは社会実装は進まない」 富士通、ドローン配送の「社会受容性」の研究成果をAI物流設計に活用のサムネイル画像",
-          "url": "https://ledge.ai/articles/fujitsu_drone_delivery_social_acceptance",
-          "first_seen": "2026-11-03T10:21:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6.jpg"
-        },
-        {
-          "title": "ChatGPT、仕事での利用が多様化 日本では「計画と意思決定」が最大、OpenAIが約100カ国・165種類の業務データを公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_signals_v3_chatgpt_work",
-          "first_seen": "2026-11-03T10:21:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3.jpg"
-        },
-        {
-          "title": "Googleの宇宙AI計算基盤研究、地球からの指示に宇宙のAIが歴史上はじめて応答 衛星搭載のデータセンター級TPUで「Gemma 4」を実行のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
-          "first_seen": "2026-11-03T10:21:13+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claude 4モデルの選び方を解説 迷ったら「Opus 5.5」、大量処理は「Haiku 5.5」のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_model_selection_guide",
+      "first_seen": "2026-11-17T11:23:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Which_Claude_model_should_you_build_with_131e7e4a8a/Which_Claude_model_should_you_build_with_131e7e4a8a.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI「ChatGPT Wallet」、AIエージェントにも販売店にもカード情報を渡さず決済 購入ごとに本人が生体認証で承認のサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_chatgpt_wallet",
+      "first_seen": "2026-11-17T11:23:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/noname_side_a648f87b82/noname_side_a648f87b82.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIが当たり前になる社会で、企業は何で選ばれるか――KDDI SUMMIT 2026で示したAI実装の道筋のサムネイル画像",
+      "url": "https://ledge.ai/articles/kddi_summit_2026",
+      "first_seen": "2026-11-17T11:23:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_8298_908c5b63a4/IMG_8298_908c5b63a4.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "GoogleとSamsung、見ている物をGeminiに聞けるスマートグラス「Intelligent Eyewear」を12月10日発売 米国では2ブランド、395ドルからのサムネイル画像",
+      "url": "https://ledge.ai/articles/google_samsung_gemini_smart_glasses_launch",
+      "first_seen": "2026-11-17T11:23:39+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Blog1_Banner_width_1200_format_webp_b7f03a3c5f/Blog1_Banner_width_1200_format_webp_b7f03a3c5f.webp"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1230,14 +1262,6 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/defense_in_depth_against_model_misalignment_b6cab518c8/defense_in_depth_against_model_misalignment_b6cab518c8.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "トヨタ車をWaymoの自動運転タクシーに採用 2027年に日本で初期運行、英国などへの展開も計画のサムネイル画像",
-      "url": "https://ledge.ai/articles/toyota_waymo_bz4x_robotaxi_japan",
-      "first_seen": "2026-11-04T22:53:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/001_1_ab244fe664/001_1_ab244fe664.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【福島県】この秋行きたい！福島市・会津若松・南会津町・新地町のイチョ… 10月上旬から11月下旬にかけて見頃を迎える、福島市・会津若松・南会津町・新地町に点在する...",
@@ -1252,30 +1276,6 @@
       "url": "https://www.cjnavi.co.jp/life/20261101monmoryouhin/",
       "first_seen": "2026-11-03T10:21:13+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2023/06/bc3ae9aa884176f7dd10cfb9d83749b9-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "「技術性能の向上だけでは社会実装は進まない」 富士通、ドローン配送の「社会受容性」の研究成果をAI物流設計に活用のサムネイル画像",
-      "url": "https://ledge.ai/articles/fujitsu_drone_delivery_social_acceptance",
-      "first_seen": "2026-11-03T10:21:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6/ba737eb6_11db_4f34_bd02_9b2b22a6a59a_4e419667f6.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "ChatGPT、仕事での利用が多様化 日本では「計画と意思決定」が最大、OpenAIが約100カ国・165種類の業務データを公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_signals_v3_chatgpt_work",
-      "first_seen": "2026-11-03T10:21:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3/a1b775a8_1b75_47dd_8fd5_fac9ac6155c5_b76fe15bc3.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Googleの宇宙AI計算基盤研究、地球からの指示に宇宙のAIが歴史上はじめて応答 衛星搭載のデータセンター級TPUで「Gemma 4」を実行のサムネイル画像",
-      "url": "https://ledge.ai/articles/google_suncatcher_first_ai_response",
-      "first_seen": "2026-11-03T10:21:13+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621/first_response_from_the_Project_Suncatcher_prototype_satellite_8a14412621.jpg"
     },
     {
       "site_id": "cjnavi",
