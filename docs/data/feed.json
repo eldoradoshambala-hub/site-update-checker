@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T11:23:39+00:00",
+  "generated_at": "2026-11-18T10:56:20+00:00",
   "site_count": 2,
-  "new_count": 4,
+  "new_count": 6,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,24 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-17T11:23:39+00:00",
-      "last_update": "2026-11-16T10:27:41+00:00",
-      "new_count": 0,
-      "link_count": 22,
+      "last_checked": "2026-11-18T10:56:20+00:00",
+      "last_update": "2026-11-18T10:56:20+00:00",
+      "new_count": 2,
+      "link_count": 21,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 福島市在住のカメラマン・佐藤一旭氏の写真展を「伊達市梁川美術館」で開催 レンズ越しに見る風景～佐藤一旭写真展 2026年11月25日（水）～12月20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261118yanagawa-museum/",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/5128d2aba237e8be44a9b56cd42d377b-350x231.jpg"
+        },
+        {
+          "title": "グルメ 【福島県】地元で愛される！会津若松市・会津美里町の行くべき町中華3選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261118iwakicity-cyuka/",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/aabb0601a6c7bcf2dfacb62ac80b2db7-350x263.jpg"
+        },
         {
           "title": "イベント AD 冬の「四季の里」で、手作り雑貨やグルメを楽しむクリスマスマーケット開催 Christmas Market in 四季の里 2026年12月12日（土）・13日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261116christmas-market-shikinosato/",
@@ -305,18 +317,6 @@
           "url": "https://www.cjnavi.co.jp/magazine/20261025cjmonmo-64/",
           "first_seen": "2026-10-26T08:20:31+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7a979d3c8cd80636a48546b5776e7738-350x162.jpg"
-        },
-        {
-          "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
-          "url": "https://www.cjnavi.co.jp/special/20261025cjmonmo-64/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1f1f3f33f2bfb05a7271e579ce23650e-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD 【福島県の醸造元2026】福島県内でこだわりを重ねた美酒を造る醸造元4選 福島県内の酒蔵やワイナリー、蒸留所から届いた旬なトピックスを紹介！こだわりの素材や丁寧...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/",
-          "first_seen": "2026-10-25T07:58:41+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-17T11:23:39+00:00",
-      "last_update": "2026-11-17T11:23:39+00:00",
+      "last_checked": "2026-11-18T10:56:20+00:00",
+      "last_update": "2026-11-18T10:56:20+00:00",
       "new_count": 4,
-      "link_count": 42,
+      "link_count": 41,
       "seeded_now": false,
       "items": [
+        {
+          "title": "OpenAI、GPT-6.2 Astra・Solを発表 専門業務や科学研究の性能向上、AstraのAPI入力・出力単価を20％引き下げのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_gpt_6_2_astra_sol",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/astra_gpt_6_2_sol_d3f5a3d6b3/astra_gpt_6_2_sol_d3f5a3d6b3.jpg"
+        },
+        {
+          "title": "ビジネス 2026 / 11 / 18 [WED] ゲーム業界の生成AI、業務で「使う」40％、「業界に悪影響」55％ GDC調査で見えた用途の差",
+          "url": "https://ledge.ai/articles/gdc_game_industry_generative_ai_survey_2026",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_2026_11_17_19_45_20_4c80faf75d/Chat_GPT_2026_11_17_19_45_20_4c80faf75d.jpg"
+        },
+        {
+          "title": "データセンターの排熱でバナメイエビを養殖へ NTTドコモビジネスなど4社が実証、2027年度に飼育のサムネイル画像",
+          "url": "https://ledge.ai/articles/data_center_waste_heat_shrimp_farming",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/press_shrimp_c7a64ffdeb/press_shrimp_c7a64ffdeb.jpg"
+        },
+        {
+          "title": "AIに障害対応の95%を任せたら、人は残りの難しい5%に対応できるか SigNozの論考が問う「自動化の皮肉」のサムネイル画像",
+          "url": "https://ledge.ai/articles/ai_incident_response_deskilling",
+          "first_seen": "2026-11-18T10:56:20+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/530d847f_26cb_4ddd_a6de_875cbbaf8fab_6233x4167_f606ffaa33/530d847f_26cb_4ddd_a6de_875cbbaf8fab_6233x4167_f606ffaa33.jpg"
+        },
         {
           "title": "Anthropic、Claude 4モデルの選び方を解説 迷ったら「Opus 5.5」、大量処理は「Haiku 5.5」のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_model_selection_guide",
@@ -608,35 +632,59 @@
           "url": "https://ledge.ai/articles/anthropic_ipo_amendment_compute_commitments",
           "first_seen": "2026-11-05T10:08:27+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388.jpg"
-        },
-        {
-          "title": "OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_chatgpt_work_codex_shared_usage",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/bd532627_aa31_41ee_b6fe_e71641027477_95f266dbfb/bd532627_aa31_41ee_b6fe_e71641027477_95f266dbfb.png"
-        },
-        {
-          "title": "話している間に処理する「Phonic-1」、話す前に回答を検査できる「Prism」 音声AIの2社が新モデルを発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/phonic_1_rime_prism_voice_ai",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f6b486c9_2306_4504_baec_84d605070cda_75cce43570/f6b486c9_2306_4504_baec_84d605070cda_75cce43570.jpg"
-        },
-        {
-          "title": "AIでシステムを作れる時代、日本企業がSaaSを選び続ける理由――ラクスCAIOに聞く、業務システムの価値のサムネイル画像",
-          "url": "https://ledge.ai/articles/rakus_ai_saas_value",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2405_d1edd186fb/IMG_2405_d1edd186fb.png"
-        },
-        {
-          "title": "OpenAI、AIの指示逸脱を検知する監視システムを拡充 推論・操作・通信ログを多層で調査のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_misalignment_monitoring",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/defense_in_depth_against_model_misalignment_b6cab518c8/defense_in_depth_against_model_misalignment_b6cab518c8.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市在住のカメラマン・佐藤一旭氏の写真展を「伊達市梁川美術館」で開催 レンズ越しに見る風景～佐藤一旭写真展 2026年11月25日（水）～12月20日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261118yanagawa-museum/",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/5128d2aba237e8be44a9b56cd42d377b-350x231.jpg"
+    },
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 【福島県】地元で愛される！会津若松市・会津美里町の行くべき町中華3選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261118iwakicity-cyuka/",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/aabb0601a6c7bcf2dfacb62ac80b2db7-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、GPT-6.2 Astra・Solを発表 専門業務や科学研究の性能向上、AstraのAPI入力・出力単価を20％引き下げのサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_gpt_6_2_astra_sol",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/astra_gpt_6_2_sol_d3f5a3d6b3/astra_gpt_6_2_sol_d3f5a3d6b3.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "ビジネス 2026 / 11 / 18 [WED] ゲーム業界の生成AI、業務で「使う」40％、「業界に悪影響」55％ GDC調査で見えた用途の差",
+      "url": "https://ledge.ai/articles/gdc_game_industry_generative_ai_survey_2026",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_2026_11_17_19_45_20_4c80faf75d/Chat_GPT_2026_11_17_19_45_20_4c80faf75d.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "データセンターの排熱でバナメイエビを養殖へ NTTドコモビジネスなど4社が実証、2027年度に飼育のサムネイル画像",
+      "url": "https://ledge.ai/articles/data_center_waste_heat_shrimp_farming",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/press_shrimp_c7a64ffdeb/press_shrimp_c7a64ffdeb.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "AIに障害対応の95%を任せたら、人は残りの難しい5%に対応できるか SigNozの論考が問う「自動化の皮肉」のサムネイル画像",
+      "url": "https://ledge.ai/articles/ai_incident_response_deskilling",
+      "first_seen": "2026-11-18T10:56:20+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/530d847f_26cb_4ddd_a6de_875cbbaf8fab_6233x4167_f606ffaa33/530d847f_26cb_4ddd_a6de_875cbbaf8fab_6233x4167_f606ffaa33.jpg"
+    },
     {
       "site_id": "ledge-ai",
       "site_name": "Ledge.ai（AIニュース）",
@@ -1230,38 +1278,6 @@
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/bd610d0bf857079af3e2fb538d22251e-350x263.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、ChatGPTとCodexの利用枠を12月から共通化へ Workの機能を統合、Instantの会話は消費対象外のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_chatgpt_work_codex_shared_usage",
-      "first_seen": "2026-11-04T22:53:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/bd532627_aa31_41ee_b6fe_e71641027477_95f266dbfb/bd532627_aa31_41ee_b6fe_e71641027477_95f266dbfb.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "話している間に処理する「Phonic-1」、話す前に回答を検査できる「Prism」 音声AIの2社が新モデルを発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/phonic_1_rime_prism_voice_ai",
-      "first_seen": "2026-11-04T22:53:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/f6b486c9_2306_4504_baec_84d605070cda_75cce43570/f6b486c9_2306_4504_baec_84d605070cda_75cce43570.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "AIでシステムを作れる時代、日本企業がSaaSを選び続ける理由――ラクスCAIOに聞く、業務システムの価値のサムネイル画像",
-      "url": "https://ledge.ai/articles/rakus_ai_saas_value",
-      "first_seen": "2026-11-04T22:53:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2405_d1edd186fb/IMG_2405_d1edd186fb.png"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、AIの指示逸脱を検知する監視システムを拡充 推論・操作・通信ログを多層で調査のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_misalignment_monitoring",
-      "first_seen": "2026-11-04T22:53:03+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/defense_in_depth_against_model_misalignment_b6cab518c8/defense_in_depth_against_model_misalignment_b6cab518c8.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "おでかけ 【福島県】この秋行きたい！福島市・会津若松・南会津町・新地町のイチョ… 10月上旬から11月下旬にかけて見頃を迎える、福島市・会津若松・南会津町・新地町に点在する...",
@@ -1420,22 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/magazine/20261025cjmonmo-64/",
       "first_seen": "2026-10-26T08:20:31+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7a979d3c8cd80636a48546b5776e7738-350x162.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "スペシャル 「CJ Monmo」11月号は、街に根付き、地元の人々に愛される『町中華』特集 月刊CJ Monmo 2026年11月号",
-      "url": "https://www.cjnavi.co.jp/special/20261025cjmonmo-64/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1f1f3f33f2bfb05a7271e579ce23650e-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "グルメ AD 【福島県の醸造元2026】福島県内でこだわりを重ねた美酒を造る醸造元4選 福島県内の酒蔵やワイナリー、蒸留所から届いた旬なトピックスを紹介！こだわりの素材や丁寧...",
-      "url": "https://www.cjnavi.co.jp/gourmet/20261025sake-syuzo/",
-      "first_seen": "2026-10-25T07:58:41+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7fe256ce310bbf52edc353842d97b294-350x263.jpg"
     }
   ]
 }
