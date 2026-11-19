@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T10:56:22+00:00",
+  "updated_at": "2026-11-19T10:58:45+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-18T10:56:20+00:00",
-      "last_update": "2026-11-18T10:56:20+00:00",
+      "last_checked": "2026-11-19T10:58:43+00:00",
+      "last_update": "2026-11-19T10:58:43+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1262,9 +1262,19 @@
         "https://www.cjnavi.co.jp/gourmet/20261118iwakicity-cyuka/": {
           "title": "グルメ 【福島県】地元で愛される！会津若松市・会津美里町の行くべき町中華3選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
           "first_seen": "2026-11-18T10:56:20+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261119newopen-cafe-uggla/": {
+          "title": "グルメ 「いわき市立美術館」併設の『Cafe Uggla』で味わう手作りスイーツ Cafe Uggla（ウグラ）",
+          "first_seen": "2026-11-19T10:58:43+00:00"
         }
       },
       "recent": [
+        {
+          "title": "グルメ 「いわき市立美術館」併設の『Cafe Uggla』で味わう手作りスイーツ Cafe Uggla（ウグラ）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261119newopen-cafe-uggla/",
+          "first_seen": "2026-11-19T10:58:43+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/38ebbc1294662e65988d07987f94505c-350x263.jpg"
+        },
         {
           "title": "イベント 福島市在住のカメラマン・佐藤一旭氏の写真展を「伊達市梁川美術館」で開催 レンズ越しに見る風景～佐藤一旭写真展 2026年11月25日（水）～12月20日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261118yanagawa-museum/",
@@ -1558,20 +1568,14 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261025fruitspeaks/",
           "first_seen": "2026-10-26T08:20:31+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/638fd564b202e3fa10788325f5fd2129-350x263.jpg"
-        },
-        {
-          "title": "月刊CJ Monmo 2026年11月号",
-          "url": "https://www.cjnavi.co.jp/magazine/20261025cjmonmo-64/",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7a979d3c8cd80636a48546b5776e7738-350x162.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-18T10:56:20+00:00",
-      "last_update": "2026-11-18T10:56:20+00:00",
+      "last_checked": "2026-11-19T10:58:43+00:00",
+      "last_update": "2026-11-19T10:58:43+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3343,9 +3347,39 @@
         "https://ledge.ai/articles/ai_incident_response_deskilling": {
           "title": "AIに障害対応の95%を任せたら、人は残りの難しい5%に対応できるか SigNozの論考が問う「自動化の皮肉」のサムネイル画像",
           "first_seen": "2026-11-18T10:56:20+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_memory_summary": {
+          "title": "Google Gemini、自分についてAIが記憶した情報を一覧表示する「メモリーの要約」登場 修正・削除や変更履歴の確認も可能にのサムネイル画像",
+          "first_seen": "2026-11-19T10:58:43+00:00"
+        },
+        "https://ledge.ai/articles/japan_reskilling_consortium_closure_google_ai_certificate": {
+          "title": "日本リスキリングコンソーシアム、2027年3月で活動終了へ GoogleのAI講座無料枠1万人は再び即日定員 のサムネイル画像",
+          "first_seen": "2026-11-19T10:58:43+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_gr00t_2_world_action_model": {
+          "title": "NVIDIA、ロボット用世界行動モデル「GR00T 2」発表 人間の動画から技能を学習、選定50タスクで実演5回後の平均成功率95％のサムネイル画像",
+          "first_seen": "2026-11-19T10:58:43+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Google Gemini、自分についてAIが記憶した情報を一覧表示する「メモリーの要約」登場 修正・削除や変更履歴の確認も可能にのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_memory_summary",
+          "first_seen": "2026-11-19T10:58:43+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/d14cbee9_5555_4059_a61b_d278c8317797_86ee09d766/d14cbee9_5555_4059_a61b_d278c8317797_86ee09d766.png"
+        },
+        {
+          "title": "日本リスキリングコンソーシアム、2027年3月で活動終了へ GoogleのAI講座無料枠1万人は再び即日定員 のサムネイル画像",
+          "url": "https://ledge.ai/articles/japan_reskilling_consortium_closure_google_ai_certificate",
+          "first_seen": "2026-11-19T10:58:43+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HXN_Zu_Eb_AAAK_Oe_V_1df976c58c/HXN_Zu_Eb_AAAK_Oe_V_1df976c58c.jpg"
+        },
+        {
+          "title": "NVIDIA、ロボット用世界行動モデル「GR00T 2」発表 人間の動画から技能を学習、選定50タスクで実演5回後の平均成功率95％のサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_gr00t_2_world_action_model",
+          "first_seen": "2026-11-19T10:58:43+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/videoframe_8000_cf49b07df1/videoframe_8000_cf49b07df1.jpg"
+        },
         {
           "title": "OpenAI、GPT-6.2 Astra・Solを発表 専門業務や科学研究の性能向上、AstraのAPI入力・出力単価を20％引き下げのサムネイル画像",
           "url": "https://ledge.ai/articles/openai_gpt_6_2_astra_sol",
@@ -3627,24 +3661,6 @@
           "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
           "first_seen": "2026-11-06T10:12:31+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kddi_iret_193bcc276e/kddi_iret_193bcc276e.jpg"
-        },
-        {
-          "title": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働のサムネイル画像",
-          "url": "https://ledge.ai/articles/aeon_mujin_physical_ai_warehouse",
-          "first_seen": "2026-11-05T10:08:27+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/aeon_kawaguchihigashi_xd_23d1c2ab09/aeon_kawaguchihigashi_xd_23d1c2ab09.jpg"
-        },
-        {
-          "title": "NVIDIA、雑音や音割れを補正する音声AI「NemotronLabs RE-USE」を公開 約960万パラメーターで商用利用にも対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/nvidia_nemotronlabs_re_use_speech_enhancement",
-          "first_seen": "2026-11-05T10:08:27+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/16738882_ec08_4798_b6dc_1e309704f1c1_b02c79a749/16738882_ec08_4798_b6dc_1e309704f1c1_b02c79a749.jpg"
-        },
-        {
-          "title": "Anthropic、売上高が前年同期の12倍超も営業赤字に IPO修正届出書で約8954億ドルのインフラ支出約束を開示のサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_ipo_amendment_compute_commitments",
-          "first_seen": "2026-11-05T10:08:27+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_3105bac388.jpg"
         }
       ]
     }
