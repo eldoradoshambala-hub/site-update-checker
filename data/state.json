@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T10:58:45+00:00",
+  "updated_at": "2026-11-20T10:46:52+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-19T10:58:43+00:00",
-      "last_update": "2026-11-19T10:58:43+00:00",
+      "last_checked": "2026-11-20T10:46:50+00:00",
+      "last_update": "2026-11-20T10:46:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1266,9 +1266,29 @@
         "https://www.cjnavi.co.jp/gourmet/20261119newopen-cafe-uggla/": {
           "title": "グルメ 「いわき市立美術館」併設の『Cafe Uggla』で味わう手作りスイーツ Cafe Uggla（ウグラ）",
           "first_seen": "2026-11-19T10:58:43+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261120f-craft-sake/": {
+          "title": "イベント 福島市「まちなか広場」で、多種多様なお酒とおいしいグルメを堪能しよう！ ふくしまクラフトSAKEの陣 2026年11月27日（金）～29日（日）",
+          "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261120fukushima-osyare-lunch/": {
+          "title": "グルメ 【福島県】福島市・郡山市の町中華で味わえるおしゃれランチ4選 少しずつたくさんの種類を味わいたい。女子会はもちろん、大切な人とちょっと贅沢なランチ時...",
+          "first_seen": "2026-11-20T10:46:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント 福島市「まちなか広場」で、多種多様なお酒とおいしいグルメを堪能しよう！ ふくしまクラフトSAKEの陣 2026年11月27日（金）～29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261120f-craft-sake/",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/36cbce6db3faa520a15edba4fcb8d1ec-350x263.jpg"
+        },
+        {
+          "title": "グルメ 【福島県】福島市・郡山市の町中華で味わえるおしゃれランチ4選 少しずつたくさんの種類を味わいたい。女子会はもちろん、大切な人とちょっと贅沢なランチ時...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261120fukushima-osyare-lunch/",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/dfcb63e5b8f1b8bcd12ff44cac432ac7-350x263.jpg"
+        },
         {
           "title": "グルメ 「いわき市立美術館」併設の『Cafe Uggla』で味わう手作りスイーツ Cafe Uggla（ウグラ）",
           "url": "https://www.cjnavi.co.jp/gourmet/20261119newopen-cafe-uggla/",
@@ -1556,26 +1576,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261027basket-marche/",
           "first_seen": "2026-10-27T08:32:11+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7434df89173161fb40f58559d21d5a6d-350x263.jpg"
-        },
-        {
-          "title": "グルメ 宴会前後“スキマ時間”に日本酒を楽しむ。福島市栄町に『きぃええ』がオー… スキマ酒場 きぃええ",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261026newopen-kiee_sakaba/",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/031050679141f09302da1e12336e0fa6-350x263.jpg"
-        },
-        {
-          "title": "グルメ AD クリスマスケーキの予約開始！『フルーツピークス』に冬のスイーツが登場 フルーツピークス 福島南バイパス店・福島西店",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261025fruitspeaks/",
-          "first_seen": "2026-10-26T08:20:31+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/638fd564b202e3fa10788325f5fd2129-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-19T10:58:43+00:00",
-      "last_update": "2026-11-19T10:58:43+00:00",
+      "last_checked": "2026-11-20T10:46:50+00:00",
+      "last_update": "2026-11-20T10:46:50+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3359,9 +3367,49 @@
         "https://ledge.ai/articles/nvidia_gr00t_2_world_action_model": {
           "title": "NVIDIA、ロボット用世界行動モデル「GR00T 2」発表 人間の動画から技能を学習、選定50タスクで実演5回後の平均成功率95％のサムネイル画像",
           "first_seen": "2026-11-19T10:58:43+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_nasdaq_ipo": {
+          "title": "AnthropicがNASDAQ上場、813億ドルの史上最大IPO 初値で企業評価額2兆ドル、終値は1.77兆ドル のサムネイル画像",
+          "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://ledge.ai/articles/openai_embedded_assessments": {
+          "title": "OpenAI、Apollo ResearchやMETRなど外部4機関にAI内部モデル・システムへのアクセスを許可 安全性を第三者が検証のサムネイル画像",
+          "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://ledge.ai/articles/mufg_third_intelligence_matsuo_partnership": {
+          "title": "MUFG、松尾研究所・Third Intelligenceと包括提携 次世代AI「遍在型AGI」を金融に活用へ、相続分野で実証開始のサムネイル画像",
+          "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://ledge.ai/articles/google_cloud_japan_cybersecurity_ai": {
+          "title": "Google Cloud、日本の行政機関にサイバー防御AI「Gemini 4 Carbon for Cyber」を早期提供へ 無償の脆弱性診断も提供のサムネイル画像",
+          "first_seen": "2026-11-20T10:46:50+00:00"
         }
       },
       "recent": [
+        {
+          "title": "AnthropicがNASDAQ上場、813億ドルの史上最大IPO 初値で企業評価額2兆ドル、終値は1.77兆ドル のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_nasdaq_ipo",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/anthropic_nasdaq_ba3335e9c0/anthropic_nasdaq_ba3335e9c0.jpg"
+        },
+        {
+          "title": "OpenAI、Apollo ResearchやMETRなど外部4機関にAI内部モデル・システムへのアクセスを許可 安全性を第三者が検証のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_embedded_assessments",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7b34dfcd_fe7c_4c4b_a57d_304a1d164335_0ac733824b/7b34dfcd_fe7c_4c4b_a57d_304a1d164335_0ac733824b.png"
+        },
+        {
+          "title": "MUFG、松尾研究所・Third Intelligenceと包括提携 次世代AI「遍在型AGI」を金融に活用へ、相続分野で実証開始のサムネイル画像",
+          "url": "https://ledge.ai/articles/mufg_third_intelligence_matsuo_partnership",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1024x576_cfce4b6304/1024x576_cfce4b6304.png"
+        },
+        {
+          "title": "Google Cloud、日本の行政機関にサイバー防御AI「Gemini 4 Carbon for Cyber」を早期提供へ 無償の脆弱性診断も提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_cloud_japan_cybersecurity_ai",
+          "first_seen": "2026-11-20T10:46:50+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TK_Photo_max_2200x2200_2ebf7b246f/TK_Photo_max_2200x2200_2ebf7b246f.jpg"
+        },
         {
           "title": "Google Gemini、自分についてAIが記憶した情報を一覧表示する「メモリーの要約」登場 修正・削除や変更履歴の確認も可能にのサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_memory_summary",
@@ -3637,30 +3685,6 @@
           "url": "https://ledge.ai/articles/fuji_tv_ai_sandbox_drama",
           "first_seen": "2026-11-07T09:28:57+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ai_sandbox_90152189db/ai_sandbox_90152189db.jpg"
-        },
-        {
-          "title": "OpenAI、画像生成AI「Images 2.6」を発表 静止画からGIFを作成、参照画像は別のチャットでも再利用のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_images_2_6_gif",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_Image_2_6_d2e5705977/GPT_Image_2_6_d2e5705977.jpg"
-        },
-        {
-          "title": "学術＆研究 2026 / 11 / 6 [FRI] 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限",
-          "url": "https://ledge.ai/articles/nicam_claude_code_migration",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/44fa8e86_9bc4_4874_a483_84606221e080_f2ffac7ac2/44fa8e86_9bc4_4874_a483_84606221e080_f2ffac7ac2.png"
-        },
-        {
-          "title": "米半導体大手Marvell、Lumentum買収で合意 企業価値1150億ドル、AIインフラ向け半導体と光通信技術を統合へのサムネイル画像",
-          "url": "https://ledge.ai/articles/marvell_lumentum_acquisition",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/g81187ex99_2p5g1_e4d5450a74/g81187ex99_2p5g1_e4d5450a74.jpg"
-        },
-        {
-          "title": "KDDIアイレット、社内のAI活用事例113件を無料公開 営業・人事など50件、プロンプトや時短の工夫も紹介のサムネイル画像",
-          "url": "https://ledge.ai/articles/kddi_iret_ai_use_cases",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/kddi_iret_193bcc276e/kddi_iret_193bcc276e.jpg"
         }
       ]
     }
