@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T10:46:52+00:00",
+  "updated_at": "2026-11-21T10:30:29+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-20T10:46:50+00:00",
-      "last_update": "2026-11-20T10:46:50+00:00",
+      "last_checked": "2026-11-21T10:30:27+00:00",
+      "last_update": "2026-11-21T10:30:27+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1274,9 +1274,39 @@
         "https://www.cjnavi.co.jp/gourmet/20261120fukushima-osyare-lunch/": {
           "title": "グルメ 【福島県】福島市・郡山市の町中華で味わえるおしゃれランチ4選 少しずつたくさんの種類を味わいたい。女子会はもちろん、大切な人とちょっと贅沢なランチ時...",
           "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261121christmas-market/": {
+          "title": "イベント クリスマスの雑貨やクラフト飲食の店が須賀川市へ クリスマスマーケット in 福島空港公園 2026年11月28日（土）・29日（日）",
+          "first_seen": "2026-11-21T10:30:27+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261120manami/": {
+          "title": "イベント AD 福島県のシンガーソングライター・MANAMIが史上最大規模のワンマンライブ… MANAMI 祝18周年 1,800人ホールワンマンライブ『THE UTAUTAI』 2026年12月13日（日）",
+          "first_seen": "2026-11-21T10:30:27+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261120f-jusan/": {
+          "title": "イベント 心を込めた手作りの品が、福島市「福島銀行 本店」に集結！ 第15回 障がい者施設製品 大展示即売会 2026年11月27日（金）・28日（土）",
+          "first_seen": "2026-11-21T10:30:27+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント クリスマスの雑貨やクラフト飲食の店が須賀川市へ クリスマスマーケット in 福島空港公園 2026年11月28日（土）・29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261121christmas-market/",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1066b2a598b059281129a4d5208b3af8-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 福島県のシンガーソングライター・MANAMIが史上最大規模のワンマンライブ… MANAMI 祝18周年 1,800人ホールワンマンライブ『THE UTAUTAI』 2026年12月13日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261120manami/",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/20261120MANAMI01-350x263.jpg"
+        },
+        {
+          "title": "イベント 心を込めた手作りの品が、福島市「福島銀行 本店」に集結！ 第15回 障がい者施設製品 大展示即売会 2026年11月27日（金）・28日（土）",
+          "url": "https://www.cjnavi.co.jp/event/20261120f-jusan/",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/ca1c4bdb689a8f5482a708f9d05b648d-350x263.jpg"
+        },
         {
           "title": "イベント 福島市「まちなか広場」で、多種多様なお酒とおいしいグルメを堪能しよう！ ふくしまクラフトSAKEの陣 2026年11月27日（金）～29日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261120f-craft-sake/",
@@ -1558,32 +1588,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261028zenkoku-pan-hakurankai/",
           "first_seen": "2026-10-29T09:10:38+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3f5667d3872eaffb97d277b5944a5b13-350x263.jpg"
-        },
-        {
-          "title": "グルメ 自由で新しいタイ料理を楽しもう。『ADON THAI KITCHEN』が福島市新町にオ… ADON THAI KITCHEN（アドン タイ キッチン）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261028newopen-adon-thai-kitchen/",
-          "first_seen": "2026-10-29T09:10:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/f12340ee5a2368efc020aeb0763d8320-350x263.jpg"
-        },
-        {
-          "title": "イベント 大人も子どももワクワク！約200ブースが郡山市「ビッグパレットふくしま」… 第18回 シトロンまつり ハンドメイド＆ステキカフェ 2026年11月3日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261027citron-handmade/",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/823737df78ec00ce831ac8894a7b0293-350x263.jpg"
-        },
-        {
-          "title": "イベント 「二本松市市民交流センター」でライブとマルシェを楽しもう Basket音楽マルシェ 2026年11月3日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261027basket-marche/",
-          "first_seen": "2026-10-27T08:32:11+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/7434df89173161fb40f58559d21d5a6d-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-20T10:46:50+00:00",
-      "last_update": "2026-11-20T10:46:50+00:00",
+      "last_checked": "2026-11-21T10:30:27+00:00",
+      "last_update": "2026-11-21T10:30:27+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3383,9 +3395,39 @@
         "https://ledge.ai/articles/google_cloud_japan_cybersecurity_ai": {
           "title": "Google Cloud、日本の行政機関にサイバー防御AI「Gemini 4 Carbon for Cyber」を早期提供へ 無償の脆弱性診断も提供のサムネイル画像",
           "first_seen": "2026-11-20T10:46:50+00:00"
+        },
+        "https://ledge.ai/articles/google_gemini_4_neon": {
+          "title": "Google、新AI「Gemini 4 Neon」公開 性能評価で総合3位、タスクコストはCarbon比32％削減のサムネイル画像",
+          "first_seen": "2026-11-21T10:30:27+00:00"
+        },
+        "https://ledge.ai/articles/llm_self_rewriting_weights": {
+          "title": "米大学研究チーム、AIが自分の「頭脳」を書き換えて性能向上 LLMの正答率が6.6ポイント改善のサムネイル画像",
+          "first_seen": "2026-11-21T10:30:27+00:00"
+        },
+        "https://ledge.ai/articles/openai_dots_chatgpt_plus_rollout": {
+          "title": "OpenAI、常時稼働AIエージェント「dots」をChatGPT Plusの一部ユーザーに試験提供 Business Standardにも対象拡大のサムネイル画像",
+          "first_seen": "2026-11-21T10:30:27+00:00"
         }
       },
       "recent": [
+        {
+          "title": "Google、新AI「Gemini 4 Neon」公開 性能評価で総合3位、タスクコストはCarbon比32％削減のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gemini_4_neon",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini_4_neon_blog_header_sm_width_1200_format_webp_ba59e80ba3/gemini_4_neon_blog_header_sm_width_1200_format_webp_ba59e80ba3.webp"
+        },
+        {
+          "title": "米大学研究チーム、AIが自分の「頭脳」を書き換えて性能向上 LLMの正答率が6.6ポイント改善のサムネイル画像",
+          "url": "https://ledge.ai/articles/llm_self_rewriting_weights",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7b532732_7170_4865_996c_482eac409e51_364a9ba176/7b532732_7170_4865_996c_482eac409e51_364a9ba176.jpg"
+        },
+        {
+          "title": "OpenAI、常時稼働AIエージェント「dots」をChatGPT Plusの一部ユーザーに試験提供 Business Standardにも対象拡大のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_dots_chatgpt_plus_rollout",
+          "first_seen": "2026-11-21T10:30:27+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/dots_c4f962d855/dots_c4f962d855.jpg"
+        },
         {
           "title": "AnthropicがNASDAQ上場、813億ドルの史上最大IPO 初値で企業評価額2兆ドル、終値は1.77兆ドル のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_nasdaq_ipo",
@@ -3667,24 +3709,6 @@
           "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
           "first_seen": "2026-11-08T09:44:59+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21.png"
-        },
-        {
-          "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-6 Cyber」を発表 許可範囲を守るよう訓練、審査済みの一部組織に提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_gpt_6_cyber",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/GPT_6_Cyber_f69be4a1f9/GPT_6_Cyber_f69be4a1f9.jpg"
-        },
-        {
-          "title": "Google、学校の生徒向けに検索とGeminiを初期設定で無効へ 検索内のAIは切り離せず、米教育現場で懸念のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_k12_gemini_search_opt_in",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Designing_responsible_AI_for_lea_width_1200_format_webp_2a7b088a39/Designing_responsible_AI_for_lea_width_1200_format_webp_2a7b088a39.webp"
-        },
-        {
-          "title": "フジテレビ、実写ドラマに生成AIを活用する「AI Sandbox」を設置 『救命病棟２４時』の事故現場を架空の空撮映像で描くのサムネイル画像",
-          "url": "https://ledge.ai/articles/fuji_tv_ai_sandbox_drama",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ai_sandbox_90152189db/ai_sandbox_90152189db.jpg"
         }
       ]
     }
