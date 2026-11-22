@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T10:30:27+00:00",
+  "generated_at": "2026-11-22T10:35:02+00:00",
   "site_count": 2,
-  "new_count": 6,
+  "new_count": 4,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-21T10:30:27+00:00",
-      "last_update": "2026-11-21T10:30:27+00:00",
-      "new_count": 3,
-      "link_count": 21,
+      "last_checked": "2026-11-22T10:35:02+00:00",
+      "last_update": "2026-11-22T10:35:02+00:00",
+      "new_count": 1,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "イベント 福島市「福島駅西口駅前広場」に、福島県内のハンドメイド雑貨やグルメ、… 第12回 ひだまりマーケット 2026年11月29日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261122hidamari-market/",
+          "first_seen": "2026-11-22T10:35:02+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/b0f258a68193483df767a6c9f9252bcc-350x263.jpg"
+        },
         {
           "title": "イベント クリスマスの雑貨やクラフト飲食の店が須賀川市へ クリスマスマーケット in 福島空港公園 2026年11月28日（土）・29日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261121christmas-market/",
@@ -311,12 +317,6 @@
           "url": "https://www.cjnavi.co.jp/event/20261028sanpai-aizu/",
           "first_seen": "2026-10-29T09:10:38+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
-        },
-        {
-          "title": "イベント 全国各地のご当地パンが会津若松市の「TSUTAYA BOOKSTORE AIZU」に集結！ 全国パン博覧会 2026年11月4日（水）～8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261028zenkoku-pan-hakurankai/",
-          "first_seen": "2026-10-29T09:10:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3f5667d3872eaffb97d277b5944a5b13-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,30 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-21T10:30:27+00:00",
-      "last_update": "2026-11-21T10:30:27+00:00",
+      "last_checked": "2026-11-22T10:35:02+00:00",
+      "last_update": "2026-11-22T10:35:02+00:00",
       "new_count": 3,
-      "link_count": 38,
+      "link_count": 40,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropicの数学者、Claudeと167年来の難問「リーマン予想」の証明を発見したと主張のサムネイル画像",
+          "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis_proof_claim",
+          "first_seen": "2026-11-22T10:35:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7e85fc90_85a3_4941_86b5_bc297dcff5ea_32901b6cfd/7e85fc90_85a3_4941_86b5_bc297dcff5ea_32901b6cfd.png"
+        },
+        {
+          "title": "学術＆研究 2026 / 11 / 22 [SUN] OpenAI、人間なら2〜4時間の研究タスクでAI単独の成功率46％に 研究自動化の進展を報告",
+          "url": "https://ledge.ai/articles/openai_ai_research_acceleration",
+          "first_seen": "2026-11-22T10:35:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/fc679a1e_9088_4560_8b4b_dbe2d0694190_25e498e137/fc679a1e_9088_4560_8b4b_dbe2d0694190_25e498e137.jpg"
+        },
+        {
+          "title": "Alibaba、2.4兆パラメータの「Qwen4-Max」を正式提供 小規模なQwen4モデルの重み公開も予告のサムネイル画像",
+          "url": "https://ledge.ai/articles/alibaba_qwen4_max",
+          "first_seen": "2026-11-22T10:35:02+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Screenshot_2026_11_16_at_12_13_00_AM_9efc9c8b55/Screenshot_2026_11_16_at_12_13_00_AM_9efc9c8b55.jpg"
+        },
         {
           "title": "Google、新AI「Gemini 4 Neon」公開 性能評価で総合3位、タスクコストはCarbon比32％削減のサムネイル画像",
           "url": "https://ledge.ai/articles/google_gemini_4_neon",
@@ -614,29 +632,43 @@
           "url": "https://ledge.ai/articles/claude_personal_finance",
           "first_seen": "2026-11-09T10:43:42+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0.jpg"
-        },
-        {
-          "title": "PFN、翻訳AI「PLaMo 3 Translate」の重みを公開 53言語に対応、最小モデルはスマホでオフライン翻訳のサムネイル画像",
-          "url": "https://ledge.ai/articles/pfn_plamo_3_translate",
-          "first_seen": "2026-11-08T09:44:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/P_La_Mo_3_Translate_0_8_B_db1be7662d/P_La_Mo_3_Translate_0_8_B_db1be7662d.jpg"
-        },
-        {
-          "title": "シューティングゲーム『DOOM』の床に描いた数字を読み取る ゲームの仕掛けでAIを動かすオープンソースプロジェクト「Doomformer」公開のサムネイル画像",
-          "url": "https://ledge.ai/articles/doomformer_neural_network",
-          "first_seen": "2026-11-08T09:44:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/doomformer_banner_web_82773ad19b/doomformer_banner_web_82773ad19b.jpg"
-        },
-        {
-          "title": "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証のサムネイル画像",
-          "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
-          "first_seen": "2026-11-08T09:44:59+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21.png"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "イベント 福島市「福島駅西口駅前広場」に、福島県内のハンドメイド雑貨やグルメ、… 第12回 ひだまりマーケット 2026年11月29日（日）",
+      "url": "https://www.cjnavi.co.jp/event/20261122hidamari-market/",
+      "first_seen": "2026-11-22T10:35:02+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/b0f258a68193483df767a6c9f9252bcc-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropicの数学者、Claudeと167年来の難問「リーマン予想」の証明を発見したと主張のサムネイル画像",
+      "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis_proof_claim",
+      "first_seen": "2026-11-22T10:35:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7e85fc90_85a3_4941_86b5_bc297dcff5ea_32901b6cfd/7e85fc90_85a3_4941_86b5_bc297dcff5ea_32901b6cfd.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "学術＆研究 2026 / 11 / 22 [SUN] OpenAI、人間なら2〜4時間の研究タスクでAI単独の成功率46％に 研究自動化の進展を報告",
+      "url": "https://ledge.ai/articles/openai_ai_research_acceleration",
+      "first_seen": "2026-11-22T10:35:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/fc679a1e_9088_4560_8b4b_dbe2d0694190_25e498e137/fc679a1e_9088_4560_8b4b_dbe2d0694190_25e498e137.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Alibaba、2.4兆パラメータの「Qwen4-Max」を正式提供 小規模なQwen4モデルの重み公開も予告のサムネイル画像",
+      "url": "https://ledge.ai/articles/alibaba_qwen4_max",
+      "first_seen": "2026-11-22T10:35:02+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Screenshot_2026_11_16_at_12_13_00_AM_9efc9c8b55/Screenshot_2026_11_16_at_12_13_00_AM_9efc9c8b55.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1230,30 +1262,6 @@
       "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/b5bca233610430518fecde364e5036be-350x263.jpg"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "PFN、翻訳AI「PLaMo 3 Translate」の重みを公開 53言語に対応、最小モデルはスマホでオフライン翻訳のサムネイル画像",
-      "url": "https://ledge.ai/articles/pfn_plamo_3_translate",
-      "first_seen": "2026-11-08T09:44:59+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/P_La_Mo_3_Translate_0_8_B_db1be7662d/P_La_Mo_3_Translate_0_8_B_db1be7662d.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "シューティングゲーム『DOOM』の床に描いた数字を読み取る ゲームの仕掛けでAIを動かすオープンソースプロジェクト「Doomformer」公開のサムネイル画像",
-      "url": "https://ledge.ai/articles/doomformer_neural_network",
-      "first_seen": "2026-11-08T09:44:59+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/doomformer_banner_web_82773ad19b/doomformer_banner_web_82773ad19b.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証のサムネイル画像",
-      "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
-      "first_seen": "2026-11-08T09:44:59+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21/84e3d02e_e971_4ada_b075_33684fa4d31a_d4a9e66d21.png"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "イベント 草間彌生や奈良美智、村上隆らの作品が集結！「宮城県美術館」で現代アー… いま、私は現代アートと出会う ―草間彌生、奈良美智、村上隆、アンディ・ウォーホル、バンクシー… 2026年11月14日（土）～2027年1月24日（日）",
@@ -1428,14 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/event/20261028sanpai-aizu/",
       "first_seen": "2026-10-29T09:10:38+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 全国各地のご当地パンが会津若松市の「TSUTAYA BOOKSTORE AIZU」に集結！ 全国パン博覧会 2026年11月4日（水）～8日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261028zenkoku-pan-hakurankai/",
-      "first_seen": "2026-10-29T09:10:38+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3f5667d3872eaffb97d277b5944a5b13-350x263.jpg"
     }
   ]
 }
