@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T10:35:04+00:00",
+  "updated_at": "2026-11-23T11:35:34+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-22T10:35:02+00:00",
-      "last_update": "2026-11-22T10:35:02+00:00",
+      "last_checked": "2026-11-23T11:35:32+00:00",
+      "last_update": "2026-11-23T11:35:32+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1290,9 +1290,59 @@
         "https://www.cjnavi.co.jp/event/20261122hidamari-market/": {
           "title": "イベント 福島市「福島駅西口駅前広場」に、福島県内のハンドメイド雑貨やグルメ、… 第12回 ひだまりマーケット 2026年11月29日（日）",
           "first_seen": "2026-11-22T10:35:02+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261125fukushima-mugifesta/": {
+          "title": "イベント AD 福島県産麦使用のパンやお菓子などの加工品が大集合！『ふくしま麦フェス… ふくしま麦フェスタ／麦の楽校 【ふくしま麦フェスタ】2026年12月12日（土） 【麦の楽校】2027年1月7日（木）",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125fukushima-mugi-vol2/": {
+          "title": "グルメ AD 福島県産麦にまつわる色々な話を聞いて、その魅力を知ろう！ 知って、味わう。ふくしまの麦Vol.2～麦から粉へ、広がるおいしさ。～",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125fukushima-mugi-vol1/": {
+          "title": "グルメ AD 福島県産麦にまつわる色々な話を聞いて、その魅力を知ろう！ 知って、味わう。ふくしまの麦Vol.1～畑から広がる、麦のおいしさ。～",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125cj-monmo-clinic-winter/": {
+          "title": "ライフ AD 【保存版・2026年冬〜2027年春】福島県内のクリニック・病院・薬局を紹介… ふくしま医療ガイド 冬・春編",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20261125readers-gifts/": {
+          "title": "スペシャル 『CJ Monmo』2026年12月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年12月号を読んで以下のアンケートに答えると、抽選で...",
+          "first_seen": "2026-11-23T11:35:32+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント AD 福島県産麦使用のパンやお菓子などの加工品が大集合！『ふくしま麦フェス… ふくしま麦フェスタ／麦の楽校 【ふくしま麦フェスタ】2026年12月12日（土） 【麦の楽校】2027年1月7日（木）",
+          "url": "https://www.cjnavi.co.jp/event/20261125fukushima-mugifesta/",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/8f11180cb7c9bfa1a569896a8847b759-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 福島県産麦にまつわる色々な話を聞いて、その魅力を知ろう！ 知って、味わう。ふくしまの麦Vol.2～麦から粉へ、広がるおいしさ。～",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125fukushima-mugi-vol2/",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/cbf7217ec3432ea36da927d6830d2062-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 福島県産麦にまつわる色々な話を聞いて、その魅力を知ろう！ 知って、味わう。ふくしまの麦Vol.1～畑から広がる、麦のおいしさ。～",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125fukushima-mugi-vol1/",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/59d31ad3c5d460339e2201e06e35c387-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【保存版・2026年冬〜2027年春】福島県内のクリニック・病院・薬局を紹介… ふくしま医療ガイド 冬・春編",
+          "url": "https://www.cjnavi.co.jp/life/20261125cj-monmo-clinic-winter/",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/45edaa4a90a010c5d5a02e619aa39acf-350x263.jpg"
+        },
+        {
+          "title": "スペシャル 『CJ Monmo』2026年12月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年12月号を読んで以下のアンケートに答えると、抽選で...",
+          "url": "https://www.cjnavi.co.jp/special/20261125readers-gifts/",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/597e24dce078779545f2bd65a249afa1-350x233.jpg"
+        },
         {
           "title": "イベント 福島市「福島駅西口駅前広場」に、福島県内のハンドメイド雑貨やグルメ、… 第12回 ひだまりマーケット 2026年11月29日（日）",
           "url": "https://www.cjnavi.co.jp/event/20261122hidamari-market/",
@@ -1562,44 +1612,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261031winery-azumasanroku/",
           "first_seen": "2026-11-02T10:23:35+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/4779e2bcd60b594b59303d2197ee9001-350x263.jpg"
-        },
-        {
-          "title": "イベント 【いわきFC】サッカーJリーグ2026-27シーズン開催！『いわきFC』を応援し… 【いわきFCホーム戦】2026年11月 2026年11月7日（土）・25日（水）・29日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261031iwakifc-homegame/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1bff5e084b891a124e07c82b1b752fa4-350x263.jpg"
-        },
-        {
-          "title": "イベント 【福島ユナイテッドFC】サッカーJリーグ2026-27シーズン開催！『福島ユナ… 【福島ユナイテッドFCホーム戦】2026年11月 2026年11月7日（土）・14日（土）・29日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261031fukushima-united-fc/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/237f861c44dacce435fc145090223f41-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 買い物やワークショップを楽しみながら、身近なエシカル消費を知り、体験… エシカルマルシェin浪江 2026年11月14日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261030ethical-marche-namie/",
-          "first_seen": "2026-10-31T09:08:52+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/3cf396d295d0e25ffcc0556168bf331f-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 創業したい方必見！「福島県信用保証協会」主催の女性創業者応援セミナー… 福島県信用保証協会 主催 女性創業者応援セミナー 2026年12月1日（火） ［申込締切］〜2026年11月27日（金）",
-          "url": "https://www.cjnavi.co.jp/event/20261029sougyousyaouen-fukushima/",
-          "first_seen": "2026-10-29T09:10:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/947dac84660479f7b94db953ec19d5d2-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 2026年最後の開催！「産業廃棄物ってなに？」そんなギモンを楽しみながら… みんなのサンパイぐるぐる大作戦 in あいづ 2026年10月31日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261028sanpai-aizu/",
-          "first_seen": "2026-10-29T09:10:38+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/09/db547ded00a08bffa156d75b3bd38699-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-22T10:35:02+00:00",
-      "last_update": "2026-11-22T10:35:02+00:00",
+      "last_checked": "2026-11-23T11:35:32+00:00",
+      "last_update": "2026-11-23T11:35:32+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3423,9 +3443,39 @@
         "https://ledge.ai/articles/alibaba_qwen4_max": {
           "title": "Alibaba、2.4兆パラメータの「Qwen4-Max」を正式提供 小規模なQwen4モデルの重み公開も予告のサムネイル画像",
           "first_seen": "2026-11-22T10:35:02+00:00"
+        },
+        "https://ledge.ai/articles/openai_ai_chip_design_optimization": {
+          "title": "OpenAI、自社AIで独自チップ「ハラペーニョ」の回路設計を最適化 AMDのGPU回路でも最大14％のPPA改善のサムネイル画像",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://ledge.ai/articles/suno_visuals_music_video": {
+          "title": "Suno、楽曲に合わせた動画を生成する「Visuals」公開 歌詞のリップシンクや画像生成にも対応のサムネイル画像",
+          "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://ledge.ai/articles/google_gtig_ai_attack_automation": {
+          "title": "Googleの脅威分析組織GTIG、脆弱性の発見・悪用をAIで完全自動化する攻撃者を初確認のサムネイル画像",
+          "first_seen": "2026-11-23T11:35:32+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、自社AIで独自チップ「ハラペーニョ」の回路設計を最適化 AMDのGPU回路でも最大14％のPPA改善のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_ai_chip_design_optimization",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Jalapeno_7853bebe2e/Jalapeno_7853bebe2e.jpg"
+        },
+        {
+          "title": "Suno、楽曲に合わせた動画を生成する「Visuals」公開 歌詞のリップシンクや画像生成にも対応のサムネイル画像",
+          "url": "https://ledge.ai/articles/suno_visuals_music_video",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/89947c59d1f2c8fda3d2133d67c0f7e11da012c5_3840x2160_d4c5b175da/89947c59d1f2c8fda3d2133d67c0f7e11da012c5_3840x2160_d4c5b175da.jpg"
+        },
+        {
+          "title": "Googleの脅威分析組織GTIG、脆弱性の発見・悪用をAIで完全自動化する攻撃者を初確認のサムネイル画像",
+          "url": "https://ledge.ai/articles/google_gtig_ai_attack_automation",
+          "first_seen": "2026-11-23T11:35:32+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Figure_1_Multi_agent_LLM_offensive_framewo_max_2000x2000_71ffd2fe3e/Figure_1_Multi_agent_LLM_offensive_framewo_max_2000x2000_71ffd2fe3e.jpg"
+        },
         {
           "title": "Anthropicの数学者、Claudeと167年来の難問「リーマン予想」の証明を発見したと主張のサムネイル画像",
           "url": "https://ledge.ai/articles/anthropic_claude_riemann_hypothesis_proof_claim",
@@ -3707,24 +3757,6 @@
           "url": "https://ledge.ai/articles/meta_muse_voice_avatar_spaces",
           "first_seen": "2026-11-09T10:43:42+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/muse_voice_c4cc5e45e3/muse_voice_c4cc5e45e3.jpg"
-        },
-        {
-          "title": "GitHub、複数のAIモデルを自動選択・連携する「Copilot Fusion」を正式リリース 回答の生成・検証をAIが分担のサムネイル画像",
-          "url": "https://ledge.ai/articles/github_copilot_fusion_multi_model_orchestration",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/683297831_90d4b889_b7d4_4473_93fc_e75bb8595652_ac568a7f47/683297831_90d4b889_b7d4_4473_93fc_e75bb8595652_ac568a7f47.jpg"
-        },
-        {
-          "title": "Perplexity、継続業務を任せるAI「Teammates」を発表 複数エージェントが分担、Slackでも連携のサムネイル画像",
-          "url": "https://ledge.ai/articles/perplexity_teammates_ai_agents",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/7351bf78dfcaa924fa0b6da9b93ec206173cc104_1920x1080_6fe5747827/7351bf78dfcaa924fa0b6da9b93ec206173cc104_1920x1080_6fe5747827.jpg"
-        },
-        {
-          "title": "Anthropic、Claudeに家計管理機能「Personal Finance」 複数口座をつなぎ、支出や支払い予定を会話で確認のサムネイル画像",
-          "url": "https://ledge.ai/articles/claude_personal_finance",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0/b87507b2ca680b626804a95946d15f34391e07f7_73bcef3fd0.jpg"
         }
       ]
     }
