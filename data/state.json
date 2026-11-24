@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T11:35:34+00:00",
+  "updated_at": "2026-11-24T13:08:51+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-23T11:35:32+00:00",
-      "last_update": "2026-11-23T11:35:32+00:00",
+      "last_checked": "2026-11-24T13:08:49+00:00",
+      "last_update": "2026-11-24T13:08:49+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1310,9 +1310,39 @@
         "https://www.cjnavi.co.jp/special/20261125readers-gifts/": {
           "title": "スペシャル 『CJ Monmo』2026年12月号を読んで、読者プレゼントに応募しよう！ 福島県のタウン情報誌『CJ Monmo』2026年12月号を読んで以下のアンケートに答えると、抽選で...",
           "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261117newopen-rin/": {
+          "title": "ライフ ひっそりとかわいらしく、リネン服と雑貨を販売する『Lin』が「福島市音楽… Lin リネン服と雑貨",
+          "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261124monmoryouhin/": {
+          "title": "ライフ 『モンモ良品』でお取り寄せ！2026年12月のおすすめ新商品3選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。アウトドアなどで利...",
+          "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261124pipeorgan-concert/": {
+          "title": "イベント AD 福島市「ふくしん夢の音楽堂」で、冬を彩るクリスマスコンサートを開催 古関裕而のまち「ふくしま・ストリングス・アンサンブル」 パイプオルガン・クリスマス・コンサート 2026年12月20日（日）",
+          "first_seen": "2026-11-24T13:08:49+00:00"
         }
       },
       "recent": [
+        {
+          "title": "ライフ ひっそりとかわいらしく、リネン服と雑貨を販売する『Lin』が「福島市音楽… Lin リネン服と雑貨",
+          "url": "https://www.cjnavi.co.jp/life/20261117newopen-rin/",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/2c2e0ecee2d1f9488b400ffb002edd70-350x263.jpg"
+        },
+        {
+          "title": "ライフ 『モンモ良品』でお取り寄せ！2026年12月のおすすめ新商品3選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。アウトドアなどで利...",
+          "url": "https://www.cjnavi.co.jp/life/20261124monmoryouhin/",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/f2d2cd77668a4fadc389d65b3a2378e2-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 福島市「ふくしん夢の音楽堂」で、冬を彩るクリスマスコンサートを開催 古関裕而のまち「ふくしま・ストリングス・アンサンブル」 パイプオルガン・クリスマス・コンサート 2026年12月20日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261124pipeorgan-concert/",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2024/11/1e09e2e2dccf2f14f1816311b47c7da2-350x263.jpg"
+        },
         {
           "title": "イベント AD 福島県産麦使用のパンやお菓子などの加工品が大集合！『ふくしま麦フェス… ふくしま麦フェスタ／麦の楽校 【ふくしま麦フェスタ】2026年12月12日（土） 【麦の楽校】2027年1月7日（木）",
           "url": "https://www.cjnavi.co.jp/event/20261125fukushima-mugifesta/",
@@ -1594,32 +1624,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261101fukushima-kankyo-festa/",
           "first_seen": "2026-11-02T10:23:35+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/928c2e09d3fb9cd824cdd452b61919d7-350x263.jpg"
-        },
-        {
-          "title": "イベント 『フィール・ウインド・オーケストラ』による演奏会を、「ふくしん夢の音… フィール・ウインド・オーケストラ 第25回 定期演奏会 2026年11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261101feelwind-orchestra/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/77ed27a1ae49630650ba12234be017c9-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島駅前通りでハンバーガーとクラフトビールを味わい尽くす！ 2026ふくしまバーガーフェス 2026年11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261101burgerfes-fukushima/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/11/1154080db4ba2062edfc2f0a1c28cf28-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市『ワイナリー吾妻山麓』で味わう！ワイン・食・音楽の感謝祭 ワイナリー吾妻山麓「秋の感謝祭」 2026年11月7日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261031winery-azumasanroku/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/10/4779e2bcd60b594b59303d2197ee9001-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-23T11:35:32+00:00",
-      "last_update": "2026-11-23T11:35:32+00:00",
+      "last_checked": "2026-11-24T13:08:49+00:00",
+      "last_update": "2026-11-24T13:08:49+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3455,9 +3467,49 @@
         "https://ledge.ai/articles/google_gtig_ai_attack_automation": {
           "title": "Googleの脅威分析組織GTIG、脆弱性の発見・悪用をAIで完全自動化する攻撃者を初確認のサムネイル画像",
           "first_seen": "2026-11-23T11:35:32+00:00"
+        },
+        "https://ledge.ai/articles/nvidia_jensen_huang_ceo_return": {
+          "title": "NVIDIA、フアン氏の社長兼CEO復帰を発表 独立調査は継続、法令順守の体制も強化のサムネイル画像",
+          "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://ledge.ai/articles/ntt_ispace_iown_lunar_optical_communication": {
+          "title": "NTTとispace、IOWNの光通信技術で地球と月をつなぐ構想 月面探査車へのレーザー給電も共同検討のサムネイル画像",
+          "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://ledge.ai/articles/hitachi_pohd_ai_agent_delegation": {
+          "title": "日立、AIエージェントへの委任を証明する「PoHD」開発 生体認証と電子署名を一体化のサムネイル画像",
+          "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://ledge.ai/articles/jcci_generative_ai_usage_survey_2026": {
+          "title": "日商調査、生成AI活用が54.4％に 利用企業の半数超は社内ルール未整備のサムネイル画像",
+          "first_seen": "2026-11-24T13:08:49+00:00"
         }
       },
       "recent": [
+        {
+          "title": "NVIDIA、フアン氏の社長兼CEO復帰を発表 独立調査は継続、法令順守の体制も強化のサムネイル画像",
+          "url": "https://ledge.ai/articles/nvidia_jensen_huang_ceo_return",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HX_2fyb_TW_4_AAPF_Nt_d4d3de9b56/HX_2fyb_TW_4_AAPF_Nt_d4d3de9b56.jpg"
+        },
+        {
+          "title": "NTTとispace、IOWNの光通信技術で地球と月をつなぐ構想 月面探査車へのレーザー給電も共同検討のサムネイル画像",
+          "url": "https://ledge.ai/articles/ntt_ispace_iown_lunar_optical_communication",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/ispce_1jp_1024x576_0126ebd820/ispce_1jp_1024x576_0126ebd820.jpg"
+        },
+        {
+          "title": "日立、AIエージェントへの委任を証明する「PoHD」開発 生体認証と電子署名を一体化のサムネイル画像",
+          "url": "https://ledge.ai/articles/hitachi_pohd_ai_agent_delegation",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/20ed8529_f98f_4e24_80bf_20388e312e2f_66ea6fa853/20ed8529_f98f_4e24_80bf_20388e312e2f_66ea6fa853.jpg"
+        },
+        {
+          "title": "日商調査、生成AI活用が54.4％に 利用企業の半数超は社内ルール未整備のサムネイル画像",
+          "url": "https://ledge.ai/articles/jcci_generative_ai_usage_survey_2026",
+          "first_seen": "2026-11-24T13:08:49+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/LOBO_2026_f77f16e47f/LOBO_2026_f77f16e47f.jpg"
+        },
         {
           "title": "OpenAI、自社AIで独自チップ「ハラペーニョ」の回路設計を最適化 AMDのGPU回路でも最大14％のPPA改善のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_ai_chip_design_optimization",
@@ -3733,30 +3785,6 @@
           "url": "https://ledge.ai/articles/anthropic_claude_fable_5_2_mythos_5_2",
           "first_seen": "2026-11-11T10:07:30+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Claude_Fable_5_2_and_Mythos5_2_a7f16d827b/Claude_Fable_5_2_and_Mythos5_2_a7f16d827b.jpg"
-        },
-        {
-          "title": "AIがAIの進歩速度を約2倍に加速か Anthropicの内部データをMETRが検証、「超知能まで1年」との予測も浮上のサムネイル画像",
-          "url": "https://ledge.ai/articles/metr_anthropic_ai_research_acceleration",
-          "first_seen": "2026-11-10T10:39:08+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/dd74ff70_df26_4e1a_be31_4fc3543bada8_2048x1072_1_552c275783/dd74ff70_df26_4e1a_be31_4fc3543bada8_2048x1072_1_552c275783.webp"
-        },
-        {
-          "title": "公共 2026 / 11 / 10 [TUE] 米中間選挙でAIデータセンター建設が争点に Googleが170億ドル投資、OpenAIは電力費全額負担など地域対策を発表",
-          "url": "https://ledge.ai/articles/us_midterm_election_ai_data_center_big_tech",
-          "first_seen": "2026-11-10T10:39:08+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/0c52b503_4a85_4e87_9c55_ac8aa6793966_1f90c062f2/0c52b503_4a85_4e87_9c55_ac8aa6793966_1f90c062f2.jpg"
-        },
-        {
-          "title": "Baidu、2800億パラメータのAIモデル「ERNIE 5.5 Flash Base」を公開 DeepSeekなどと比較し、コード生成や長文理解で高い性能のサムネイル画像",
-          "url": "https://ledge.ai/articles/baidu_ernie_5_5_flash_base_open_model",
-          "first_seen": "2026-11-10T10:39:08+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/HWWH_5y_Lak_AA_Qog_I_f7c34011c1/HWWH_5y_Lak_AA_Qog_I_f7c34011c1.png"
-        },
-        {
-          "title": "MetaのAIエージェント「Muse」、音声会話と表情豊かなアバターに対応 自分専用の機能や画面を作れる「spaces」も発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_voice_avatar_spaces",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/muse_voice_c4cc5e45e3/muse_voice_c4cc5e45e3.jpg"
         }
       ]
     }
