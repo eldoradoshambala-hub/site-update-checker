@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T13:08:51+00:00",
+  "updated_at": "2026-11-25T11:56:58+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-24T13:08:49+00:00",
-      "last_update": "2026-11-24T13:08:49+00:00",
+      "last_checked": "2026-11-25T11:56:56+00:00",
+      "last_update": "2026-11-25T11:56:56+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1322,9 +1322,169 @@
         "https://www.cjnavi.co.jp/event/20261124pipeorgan-concert/": {
           "title": "イベント AD 福島市「ふくしん夢の音楽堂」で、冬を彩るクリスマスコンサートを開催 古関裕而のまち「ふくしま・ストリングス・アンサンブル」 パイプオルガン・クリスマス・コンサート 2026年12月20日（日）",
           "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://www.cjnavi.co.jp/special/20261125cjmonmo-65/": {
+          "title": "スペシャル 「CJ Monmo」12月号の特集は『ひとり時間のすすめ！』 月刊CJ Monmo 2026年12月号",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125fruitspeaks/": {
+          "title": "グルメ AD 『フルーツピークス』のクリスマスケーキ2026！旬のフルーツを贅沢に使っ… フルーツピークス 福島南バイパス店・福島西店",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125pantoespresso/": {
+          "title": "グルメ AD 【新店スペシャル2026】パンに合うハンバーグを楽しむ、欲張りランチはい… パンとエスプレッソと小峰城",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125reanoa/": {
+          "title": "ライフ AD 【新店スペシャル2026】髪も心も満たされる癒やしのプライベートサロン 美容室 ReaNoa（レアノア）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125christmas-fukushima/": {
+          "title": "グルメ AD 【クリスマス2026】福島市・郡山市のおすすめスイーツセレクション3選 2026年も個性豊かなスイーツが勢ぞろい。家族や友人、大切な人と過ごすクリスマスを彩る、自...",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125saku-le-pain/": {
+          "title": "グルメ AD 【クリスマス2026】福島市『SaKU LE paIN（さく・ら・ぱん）』のシュトー… 【福島市】SaKU LE paIN（さく・ら・ぱん）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125peachman-cafe/": {
+          "title": "グルメ AD 【クリスマス2026】福島市『PEACHMAN CAFE』のキャンディーアップル 【福島市】フルーツファームカトウ PEACHMAN CAFE（ピーチマンカフェ）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125buono-buono/": {
+          "title": "グルメ AD 【クリスマス2026】郡山市『BuonoBuono』のオリジナルシュトーレン 【郡山市】パン工房 BuonoBuono（ブォーノブォーノ） 安積店",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125sail-campaign/": {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】福島市のお得なセール＆キャンペーン情… 2026年の年末はお得にお買い物できる絶好のチャンス！この冬おすすめのあったか寝具や、愛犬...",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125happy-seed/": {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】愛犬に冬のごちそうと特別なケアを贈ろ… 【福島市】ドッグサロン＆カフェ HAPPY SEED（ハッピーシード）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261125seisei-ai/": {
+          "title": "イベント AD 【2026歳末セール＆キャンペーン】話題のChatGPTを使って生成AIを学ぼう 【福島市】はじめての生成AI体験会",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125masaki/": {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】冬物スペシャルセール、最大30％オフで… 【福島市】睡眠館 雅貴（まさき）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/life/20261125jelly-beans/": {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】「年末カラーキャンペーン」でお得にキ… 【福島市】美容室 Jelly Beans（ジェリービーンズ）",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125bounenkai-shinnenkai/": {
+          "title": "グルメ AD 【2026忘年会・2027新年会】福島県内の一年の締めくくりと新年のお祝いに… 会津若松市・猪苗代町・福島市で忘年会・新年会やランチ会におすすめの店を紹介。友人や家族...",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/gourmet/20261125hanazukushi/": {
+          "title": "グルメ AD 【2026忘年会・2027新年会】読者限定で5,000円宴会コースを10％引き 【福島市】やきとり 花づくし パセオ店",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://www.cjnavi.co.jp/magazine/20261125cjmonmo-65/": {
+          "title": "月刊CJ Monmo 2026年12月号",
+          "first_seen": "2026-11-25T11:56:56+00:00"
         }
       },
       "recent": [
+        {
+          "title": "スペシャル 「CJ Monmo」12月号の特集は『ひとり時間のすすめ！』 月刊CJ Monmo 2026年12月号",
+          "url": "https://www.cjnavi.co.jp/special/20261125cjmonmo-65/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/00ff760192e703a823ae59029bd29f2b-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 『フルーツピークス』のクリスマスケーキ2026！旬のフルーツを贅沢に使っ… フルーツピークス 福島南バイパス店・福島西店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125fruitspeaks/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/638fd564b202e3fa10788325f5fd2129-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【新店スペシャル2026】パンに合うハンバーグを楽しむ、欲張りランチはい… パンとエスプレッソと小峰城",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125pantoespresso/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/706f0ee5e9ff404ecd9c1b3471e8a80b-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【新店スペシャル2026】髪も心も満たされる癒やしのプライベートサロン 美容室 ReaNoa（レアノア）",
+          "url": "https://www.cjnavi.co.jp/life/20261125reanoa/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/e39562e81c84fcddf74ab8c485853d2d-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【クリスマス2026】福島市・郡山市のおすすめスイーツセレクション3選 2026年も個性豊かなスイーツが勢ぞろい。家族や友人、大切な人と過ごすクリスマスを彩る、自...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125christmas-fukushima/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/edce6abff7982c9cd581b0f12ef0950e-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【クリスマス2026】福島市『SaKU LE paIN（さく・ら・ぱん）』のシュトー… 【福島市】SaKU LE paIN（さく・ら・ぱん）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125saku-le-pain/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2019/11/e4c6632622abeb374da6e959c82415f5-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【クリスマス2026】福島市『PEACHMAN CAFE』のキャンディーアップル 【福島市】フルーツファームカトウ PEACHMAN CAFE（ピーチマンカフェ）",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125peachman-cafe/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/d071572fff6a02c6fb75a21f94aac8ac-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【クリスマス2026】郡山市『BuonoBuono』のオリジナルシュトーレン 【郡山市】パン工房 BuonoBuono（ブォーノブォーノ） 安積店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125buono-buono/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/abe8ce72550b64673b8dc2cb143b3271-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】福島市のお得なセール＆キャンペーン情… 2026年の年末はお得にお買い物できる絶好のチャンス！この冬おすすめのあったか寝具や、愛犬...",
+          "url": "https://www.cjnavi.co.jp/life/20261125sail-campaign/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/e149ca1b6badc5a5cff26398ea20c609-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】愛犬に冬のごちそうと特別なケアを贈ろ… 【福島市】ドッグサロン＆カフェ HAPPY SEED（ハッピーシード）",
+          "url": "https://www.cjnavi.co.jp/life/20261125happy-seed/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2022/11/2b6ef1c1d524f3abd93208680b1f71a2-350x263.jpg"
+        },
+        {
+          "title": "イベント AD 【2026歳末セール＆キャンペーン】話題のChatGPTを使って生成AIを学ぼう 【福島市】はじめての生成AI体験会",
+          "url": "https://www.cjnavi.co.jp/event/20261125seisei-ai/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/cf1bd3244ac783d9f0bd13a1ab9ca726-350x197.jpg"
+        },
+        {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】冬物スペシャルセール、最大30％オフで… 【福島市】睡眠館 雅貴（まさき）",
+          "url": "https://www.cjnavi.co.jp/life/20261125masaki/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/05/8a285a45996ce2d57861da71826289f9-350x263.jpg"
+        },
+        {
+          "title": "ライフ AD 【2026歳末セール＆キャンペーン】「年末カラーキャンペーン」でお得にキ… 【福島市】美容室 Jelly Beans（ジェリービーンズ）",
+          "url": "https://www.cjnavi.co.jp/life/20261125jelly-beans/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2024/02/208b902085db8e786f672ab65cae4732-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【2026忘年会・2027新年会】福島県内の一年の締めくくりと新年のお祝いに… 会津若松市・猪苗代町・福島市で忘年会・新年会やランチ会におすすめの店を紹介。友人や家族...",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125bounenkai-shinnenkai/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/542454944882797063f9fa1ed8c63182-350x263.jpg"
+        },
+        {
+          "title": "グルメ AD 【2026忘年会・2027新年会】読者限定で5,000円宴会コースを10％引き 【福島市】やきとり 花づくし パセオ店",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261125hanazukushi/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2020/07/71477b9889fc0603ac31beaaf041939a-350x263.jpg"
+        },
+        {
+          "title": "月刊CJ Monmo 2026年12月号",
+          "url": "https://www.cjnavi.co.jp/magazine/20261125cjmonmo-65/",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/7b1ba161a31f5d7c6fd1709dca8b12a4-350x162.jpg"
+        },
         {
           "title": "ライフ ひっそりとかわいらしく、リネン服と雑貨を販売する『Lin』が「福島市音楽… Lin リネン服と雑貨",
           "url": "https://www.cjnavi.co.jp/life/20261117newopen-rin/",
@@ -1528,110 +1688,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261108ninomarche/",
           "first_seen": "2026-11-09T10:43:42+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/953763b522de2d4b88fe9184ad26bb6b-350x263.jpg"
-        },
-        {
-          "title": "グルメ 米にも心にも旨み沁みこむ、郡山市の精肉店直営「絶品牛めし」 第110回「やきとり和泉」",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261108fukushima-teisyokubu110/",
-          "first_seen": "2026-11-08T09:44:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/eeca6bbee462daee8c9f6e088058b5ed-350x263.jpg"
-        },
-        {
-          "title": "イベント 標葉地域（浪江町・双葉町・大熊町・葛尾村）のグルメや特産品、伝統文化… 標葉（しねは）祭り 2026年11月15日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261108shineha-festival/",
-          "first_seen": "2026-11-08T09:44:59+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/b5bca233610430518fecde364e5036be-350x263.jpg"
-        },
-        {
-          "title": "イベント 草間彌生や奈良美智、村上隆らの作品が集結！「宮城県美術館」で現代アー… いま、私は現代アートと出会う ―草間彌生、奈良美智、村上隆、アンディ・ウォーホル、バンクシー… 2026年11月14日（土）～2027年1月24日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261107miyagi-museum/",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/6c27f7757c70d39303316a5d16c1c4f5-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市「キョウワグループ・テルサホール（福島テルサ）」で、猫や動物を… 大谷 望 第22回 個展 2026年11月14日（土）～21日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261107ootani-nozomu/",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/db0a43e7ec9877ca387362fcc3b08fee-350x263.jpg"
-        },
-        {
-          "title": "イベント 「郡山市立美術館」で人々の暮らしを美しく彩るデザインの数々を鑑賞しよう アーツ・アンド・クラフツとデザイン ウィリアム・モリスからフランク・ロイド・ライトまで 2026年11月14日（土）～2027年1月17日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261107koriyama-art-museum/",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/88d3436f20cb676eb792881c170fae0c-350x263.jpg"
-        },
-        {
-          "title": "イベント 【福島デンソーエアリービーズ】2026-27シーズン開催！『福島デンソーエア… 【福島デンソーエアリービーズホーム戦】2026年11月 2026年11月14日（土）・15日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261107sports-airybees/",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/4e43f275e7bd3687c6200655f07bb2dd-350x263.jpg"
-        },
-        {
-          "title": "イベント ハンドメイド雑貨やリラクゼーション、キッチンカーなど約36店舗が「福島… Hapia Marche 2026年11月14日（土）",
-          "url": "https://www.cjnavi.co.jp/event/20261107hapia-marche/",
-          "first_seen": "2026-11-07T09:28:57+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/20261107HapiaMarche-350x263.jpg"
-        },
-        {
-          "title": "イベント 和紙ランプシェードが福島市『信夫文知摺観音堂』を優しく照らす 信夫文知摺観音堂 献灯会 2026年11月13日（金）～15日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261106shinobu-mochizurikannon/",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/c1217578b5134faf22106a9ae2a7fc29-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 晩秋の奥会津を走る只見線列車 年間300日、奥会津やJR只見線の撮影をし続ける郷土写真家・星 賢孝（けんこう）さん。彼だか...",
-          "url": "https://www.cjnavi.co.jp/trip/20261106hoshi-kenkou-okuaizu-tadami/",
-          "first_seen": "2026-11-06T10:12:31+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/44674e76dde30a9bdbf462c77a990f6f-350x263.jpg"
-        },
-        {
-          "title": "グルメ 川内村にオープンしたレストランバー『oku』。料理とジンが織りなす、特別… レストランバー oku（オク） by naturadistill",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261105newopen-oku/",
-          "first_seen": "2026-11-05T10:08:27+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/914cf05d985fae320a028979695769b5-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】三島町に来たら行くべきはココ！おすすめスポット3選 美しい自然景観に恵まれ、伝統の編み組細工や桐工芸品、絶品の会津地鶏など、豊かな暮らしと...",
-          "url": "https://www.cjnavi.co.jp/trip/20261104mishima-spot/",
-          "first_seen": "2026-11-04T22:53:03+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/bd610d0bf857079af3e2fb538d22251e-350x263.jpg"
-        },
-        {
-          "title": "おでかけ 【福島県】この秋行きたい！福島市・会津若松・南会津町・新地町のイチョ… 10月上旬から11月下旬にかけて見頃を迎える、福島市・会津若松・南会津町・新地町に点在する...",
-          "url": "https://www.cjnavi.co.jp/trip/20261102fukushima-icyou-spot/",
-          "first_seen": "2026-11-03T10:21:13+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/dabf06f5e48a1419acf53869844cea72-350x263.jpg"
-        },
-        {
-          "title": "ライフ お歳暮・冬ギフトにおすすめの『モンモ良品』お取り寄せグルメ8選 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。日頃お世話になって...",
-          "url": "https://www.cjnavi.co.jp/life/20261101monmoryouhin/",
-          "first_seen": "2026-11-03T10:21:13+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/06/bc3ae9aa884176f7dd10cfb9d83749b9-350x263.jpg"
-        },
-        {
-          "title": "イベント 多彩なハンドメイド雑貨や焼き菓子、キッチンカーグルメなど10店舗以上が… スマイルアップマルシェ 2026年11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261101smileup-marche/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/aae059b52b4405bc422cdbd5a2d257c7-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島交通飯坂線「曽根田駅」で本と電車の魅力を大満喫しよう 本博 2026 2026年11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261101honpaku/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/70e7ba0a60a437e713fc026cc6cde24a-350x263.jpg"
-        },
-        {
-          "title": "イベント 福島市「こむこむ館」で再エネやSDGsなど、親子で環境について学ぼう 2026ふくしま環境フェスタ 2026年11月8日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261101fukushima-kankyo-festa/",
-          "first_seen": "2026-11-02T10:23:35+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2023/10/928c2e09d3fb9cd824cdd452b61919d7-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-24T13:08:49+00:00",
-      "last_update": "2026-11-24T13:08:49+00:00",
+      "last_checked": "2026-11-25T11:56:56+00:00",
+      "last_update": "2026-11-25T11:56:56+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3483,9 +3547,49 @@
         "https://ledge.ai/articles/jcci_generative_ai_usage_survey_2026": {
           "title": "日商調査、生成AI活用が54.4％に 利用企業の半数超は社内ルール未整備のサムネイル画像",
           "first_seen": "2026-11-24T13:08:49+00:00"
+        },
+        "https://ledge.ai/articles/openai_medchembench": {
+          "title": "OpenAI、創薬AIの推論を測る「MedChemBench」の詳細を発表 分子構造の再現と候補選択に成績差のサムネイル画像",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://ledge.ai/articles/gmo_nikko_Interview": {
+          "title": "AIに推薦されると売上は増えるのか。GMO NIKKOに聞く、AIOの実効性と「測れない接点」のサムネイル画像",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://ledge.ai/articles/microsoft_perception_agentic_security": {
+          "title": "Microsoft、攻撃の模擬・調査・修復をAIエージェントが連携して進める「Perception」を一般提供のサムネイル画像",
+          "first_seen": "2026-11-25T11:56:56+00:00"
+        },
+        "https://ledge.ai/articles/claude_riemann_hypothesis_verification": {
+          "title": "Claudeと数学者によるリーマン予想の証明、第三者が「正しい」と共同声明のサムネイル画像",
+          "first_seen": "2026-11-25T11:56:56+00:00"
         }
       },
       "recent": [
+        {
+          "title": "OpenAI、創薬AIの推論を測る「MedChemBench」の詳細を発表 分子構造の再現と候補選択に成績差のサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_medchembench",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/introducing_medchembench_header_poster_4k_119328b480/introducing_medchembench_header_poster_4k_119328b480.webp"
+        },
+        {
+          "title": "AIに推薦されると売上は増えるのか。GMO NIKKOに聞く、AIOの実効性と「測れない接点」のサムネイル画像",
+          "url": "https://ledge.ai/articles/gmo_nikko_Interview",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/IMG_2356_0868b99220/IMG_2356_0868b99220.jpg"
+        },
+        {
+          "title": "Microsoft、攻撃の模擬・調査・修復をAIエージェントが連携して進める「Perception」を一般提供のサムネイル画像",
+          "url": "https://ledge.ai/articles/microsoft_perception_agentic_security",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Designer_1_17e36e7341/Designer_1_17e36e7341.jpg"
+        },
+        {
+          "title": "Claudeと数学者によるリーマン予想の証明、第三者が「正しい」と共同声明のサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_riemann_hypothesis_verification",
+          "first_seen": "2026-11-25T11:56:56+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Lean_verification_of_the_Riemann_Hypothesis_3706c3b87e/Lean_verification_of_the_Riemann_Hypothesis_3706c3b87e.jpg"
+        },
         {
           "title": "NVIDIA、フアン氏の社長兼CEO復帰を発表 独立調査は継続、法令順守の体制も強化のサムネイル画像",
           "url": "https://ledge.ai/articles/nvidia_jensen_huang_ceo_return",
@@ -3761,30 +3865,6 @@
           "url": "https://ledge.ai/articles/openai_businesses_in_chatgpt_beta",
           "first_seen": "2026-11-12T10:30:37+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/maxresdefault_f3dab84fda/maxresdefault_f3dab84fda.jpg"
-        },
-        {
-          "title": "Meta、同社最小・最高効率のAIモデル「Muse Ember」発表 Claude Haiku 5.5と同等の性能を約3分の1のコストで実現のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_muse_ember_efficient_ai_model",
-          "first_seen": "2026-11-11T10:07:30+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/blog_header_light_v1_0483e481e2/blog_header_light_v1_0483e481e2.jpg"
-        },
-        {
-          "title": "OpenRouter調査、オープンウェイトAIの利用比率が1年で27％から72％に拡大 平均API料金は約4分の1、企業のモデル選択に新たな選択肢のサムネイル画像",
-          "url": "https://ledge.ai/articles/openrouter_open_weight_ai_model_usage_72_percent",
-          "first_seen": "2026-11-11T10:07:30+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/747d6fdb_547e_4a89_8f24_5db33c84ec24_b409f8877a/747d6fdb_547e_4a89_8f24_5db33c84ec24_b409f8877a.jpg"
-        },
-        {
-          "title": "Google Cloud、AIエージェント向けセキュリティを強化 脆弱性修正AI「CodeMender」を拡張、認証・データ保護機能も拡充のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_cloud_ai_agent_security_codemender",
-          "first_seen": "2026-11-11T10:07:30+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Security_Identity_max_2500x2500_66e4f534ef/Security_Identity_max_2500x2500_66e4f534ef.jpg"
-        },
-        {
-          "title": "Anthropic、難度の高い技術課題向け「Claude Fable 5.2」「Mythos 5.2」発表 生成速度最大30％向上、API価格20％引き下げのサムネイル画像",
-          "url": "https://ledge.ai/articles/anthropic_claude_fable_5_2_mythos_5_2",
-          "first_seen": "2026-11-11T10:07:30+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Claude_Fable_5_2_and_Mythos5_2_a7f16d827b/Claude_Fable_5_2_and_Mythos5_2_a7f16d827b.jpg"
         }
       ]
     }
