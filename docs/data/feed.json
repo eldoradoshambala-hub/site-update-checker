@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T11:56:56+00:00",
+  "generated_at": "2026-11-26T11:45:17+00:00",
   "site_count": 2,
-  "new_count": 20,
+  "new_count": 5,
   "error_count": 0,
   "sites": [
     {
@@ -12,12 +12,18 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-25T11:56:56+00:00",
-      "last_update": "2026-11-25T11:56:56+00:00",
-      "new_count": 16,
-      "link_count": 23,
+      "last_checked": "2026-11-26T11:45:17+00:00",
+      "last_update": "2026-11-26T11:45:17+00:00",
+      "new_count": 1,
+      "link_count": 22,
       "seeded_now": false,
       "items": [
+        {
+          "title": "グルメ 福島市豊田町にオープンした『桃のゆきむら』で、旬の果実を贅沢に味わう… 桃のゆきむら",
+          "url": "https://www.cjnavi.co.jp/gourmet/20261126newopen-momonoyukimura/",
+          "first_seen": "2026-11-26T11:45:17+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/472d51f819fce9ce2f34eb202f9c038e-350x263.jpg"
+        },
         {
           "title": "スペシャル 「CJ Monmo」12月号の特集は『ひとり時間のすすめ！』 月刊CJ Monmo 2026年12月号",
           "url": "https://www.cjnavi.co.jp/special/20261125cjmonmo-65/",
@@ -311,12 +317,6 @@
           "url": "https://www.cjnavi.co.jp/life/20261109campusfesta-tohoku-epco/",
           "first_seen": "2026-11-09T10:43:42+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2737794cf9cd4306e5cbf26560cb47e0-350x263.jpg"
-        },
-        {
-          "title": "イベント 会津若松市「鶴ヶ城」でマルシェを開催！グルメやスイーツ、クラフト雑貨… 鶴ヶ城ニノマルシェ 2026秋 2026年11月15日（日）",
-          "url": "https://www.cjnavi.co.jp/event/20261108ninomarche/",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/953763b522de2d4b88fe9184ad26bb6b-350x263.jpg"
         }
       ]
     },
@@ -327,12 +327,36 @@
       "status": "ok",
       "error": null,
       "consecutive_errors": 0,
-      "last_checked": "2026-11-25T11:56:56+00:00",
-      "last_update": "2026-11-25T11:56:56+00:00",
+      "last_checked": "2026-11-26T11:45:17+00:00",
+      "last_update": "2026-11-26T11:45:17+00:00",
       "new_count": 4,
-      "link_count": 40,
+      "link_count": 39,
       "seeded_now": false,
       "items": [
+        {
+          "title": "Anthropic、Claudeで作った業務ツールをMac・Windowsアプリに 専用アイコンから起動、修正も自動反映のサムネイル画像",
+          "url": "https://ledge.ai/articles/claude_artifacts_install_as_app",
+          "first_seen": "2026-11-26T11:45:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1d558aa9dd6599dfad2f4ae46a5f7bcff085d8bb_77f460687d/1d558aa9dd6599dfad2f4ae46a5f7bcff085d8bb_77f460687d.jpg"
+        },
+        {
+          "title": "TikTok、自社AIで生成・編集された画像や動画の確認ツールを公開 「肖像検出」も展開のサムネイル画像",
+          "url": "https://ledge.ai/articles/tiktok_ai_content_check_likeness_detection",
+          "first_seen": "2026-11-26T11:45:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/02aa9051_3680_49d9_9aba_6b385232a6fb_38d003aea8/02aa9051_3680_49d9_9aba_6b385232a6fb_38d003aea8.jpg"
+        },
+        {
+          "title": "日立、基幹データの「AI Ready化」を支援する「HiRDB Version 11」を販売開始 夜間バッチ処理を待たずに最新データをAIデータ基盤へ連携のサムネイル画像",
+          "url": "https://ledge.ai/articles/hitachi_hirdb_11_ai_data_integration",
+          "first_seen": "2026-11-26T11:45:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/header_740364ffdd/header_740364ffdd.png"
+        },
+        {
+          "title": "OpenAI、AI開発に共通の上限を提案 評価指標「パープレキシティ」を進歩の物差しにのサムネイル画像",
+          "url": "https://ledge.ai/articles/openai_perplexity_ai_development_limits",
+          "first_seen": "2026-11-26T11:45:17+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/566c35c8_352a_441a_adf4_e937b91dffe8_1342738366/566c35c8_352a_441a_adf4_e937b91dffe8_1342738366.jpg"
+        },
         {
           "title": "OpenAI、創薬AIの推論を測る「MedChemBench」の詳細を発表 分子構造の再現と候補選択に成績差のサムネイル画像",
           "url": "https://ledge.ai/articles/openai_medchembench",
@@ -608,35 +632,51 @@
           "url": "https://ledge.ai/articles/google_tpu_8tx_8i_max",
           "first_seen": "2026-11-13T10:23:54+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4.webp"
-        },
-        {
-          "title": "アドビ、PhotoshopなどのAIエージェント対応を拡大 外部AI連携やFirefly新機能、ディズニーとの提携も発表のサムネイル画像",
-          "url": "https://ledge.ai/articles/adobe_max_2026_ai_agents_firefly_disney",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/adobemax2026_41217dcb6a/adobemax2026_41217dcb6a.jpg"
-        },
-        {
-          "title": "Meta、成人として登録した13～17歳をAIで推定し保護機能を適用 Instagramで日本を含む世界展開のサムネイル画像",
-          "url": "https://ledge.ai/articles/meta_instagram_ai_age_estimation_global_teen_protection",
-          "first_seen": "2026-11-12T10:30:37+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/loa_OH_Kw9_477fd0d81f/loa_OH_Kw9_477fd0d81f.jpg"
-        },
-        {
-          "title": "LINEヤフー、AIエージェント「Agent i」のiOSアプリを提供開始 ホーム画面から起動、情報収集タスクの通知にも対応のサムネイル画像",
-          "url": "https://ledge.ai/articles/line_yahoo_agent_i_ios_app_launch",
-          "first_seen": "2026-11-12T10:30:37+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/261110_Agent_i_KV_7f258ddb7d/261110_Agent_i_KV_7f258ddb7d.jpg"
-        },
-        {
-          "title": "OpenAI、企業がChatGPT上の自社情報を管理・分析できる「Businesses in ChatGPT」を発表 米国では顧客対応AIエージェントも提供のサムネイル画像",
-          "url": "https://ledge.ai/articles/openai_businesses_in_chatgpt_beta",
-          "first_seen": "2026-11-12T10:30:37+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/maxresdefault_f3dab84fda/maxresdefault_f3dab84fda.jpg"
         }
       ]
     }
   ],
   "timeline": [
+    {
+      "site_id": "cjnavi",
+      "site_name": "シティ情報ふくしま（新着記事）",
+      "title": "グルメ 福島市豊田町にオープンした『桃のゆきむら』で、旬の果実を贅沢に味わう… 桃のゆきむら",
+      "url": "https://www.cjnavi.co.jp/gourmet/20261126newopen-momonoyukimura/",
+      "first_seen": "2026-11-26T11:45:17+00:00",
+      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/472d51f819fce9ce2f34eb202f9c038e-350x263.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "Anthropic、Claudeで作った業務ツールをMac・Windowsアプリに 専用アイコンから起動、修正も自動反映のサムネイル画像",
+      "url": "https://ledge.ai/articles/claude_artifacts_install_as_app",
+      "first_seen": "2026-11-26T11:45:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/1d558aa9dd6599dfad2f4ae46a5f7bcff085d8bb_77f460687d/1d558aa9dd6599dfad2f4ae46a5f7bcff085d8bb_77f460687d.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "TikTok、自社AIで生成・編集された画像や動画の確認ツールを公開 「肖像検出」も展開のサムネイル画像",
+      "url": "https://ledge.ai/articles/tiktok_ai_content_check_likeness_detection",
+      "first_seen": "2026-11-26T11:45:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/02aa9051_3680_49d9_9aba_6b385232a6fb_38d003aea8/02aa9051_3680_49d9_9aba_6b385232a6fb_38d003aea8.jpg"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "日立、基幹データの「AI Ready化」を支援する「HiRDB Version 11」を販売開始 夜間バッチ処理を待たずに最新データをAIデータ基盤へ連携のサムネイル画像",
+      "url": "https://ledge.ai/articles/hitachi_hirdb_11_ai_data_integration",
+      "first_seen": "2026-11-26T11:45:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/header_740364ffdd/header_740364ffdd.png"
+    },
+    {
+      "site_id": "ledge-ai",
+      "site_name": "Ledge.ai（AIニュース）",
+      "title": "OpenAI、AI開発に共通の上限を提案 評価指標「パープレキシティ」を進歩の物差しにのサムネイル画像",
+      "url": "https://ledge.ai/articles/openai_perplexity_ai_development_limits",
+      "first_seen": "2026-11-26T11:45:17+00:00",
+      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/566c35c8_352a_441a_adf4_e937b91dffe8_1342738366/566c35c8_352a_441a_adf4_e937b91dffe8_1342738366.jpg"
+    },
     {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
@@ -1350,44 +1390,12 @@
       "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4.webp"
     },
     {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "アドビ、PhotoshopなどのAIエージェント対応を拡大 外部AI連携やFirefly新機能、ディズニーとの提携も発表のサムネイル画像",
-      "url": "https://ledge.ai/articles/adobe_max_2026_ai_agents_firefly_disney",
-      "first_seen": "2026-11-13T10:23:54+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/adobemax2026_41217dcb6a/adobemax2026_41217dcb6a.jpg"
-    },
-    {
       "site_id": "cjnavi",
       "site_name": "シティ情報ふくしま（新着記事）",
       "title": "グルメ なめらかプリンの専門店『プリン工房はちまん』が福島市森合内で移転オー… プリン工房はちまん",
       "url": "https://www.cjnavi.co.jp/gourmet/20261112newopen-hachiman/",
       "first_seen": "2026-11-12T10:30:37+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3d7f5b60d7c63d39007f229f3c36bf50-350x263.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "Meta、成人として登録した13～17歳をAIで推定し保護機能を適用 Instagramで日本を含む世界展開のサムネイル画像",
-      "url": "https://ledge.ai/articles/meta_instagram_ai_age_estimation_global_teen_protection",
-      "first_seen": "2026-11-12T10:30:37+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/loa_OH_Kw9_477fd0d81f/loa_OH_Kw9_477fd0d81f.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "LINEヤフー、AIエージェント「Agent i」のiOSアプリを提供開始 ホーム画面から起動、情報収集タスクの通知にも対応のサムネイル画像",
-      "url": "https://ledge.ai/articles/line_yahoo_agent_i_ios_app_launch",
-      "first_seen": "2026-11-12T10:30:37+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/261110_Agent_i_KV_7f258ddb7d/261110_Agent_i_KV_7f258ddb7d.jpg"
-    },
-    {
-      "site_id": "ledge-ai",
-      "site_name": "Ledge.ai（AIニュース）",
-      "title": "OpenAI、企業がChatGPT上の自社情報を管理・分析できる「Businesses in ChatGPT」を発表 米国では顧客対応AIエージェントも提供のサムネイル画像",
-      "url": "https://ledge.ai/articles/openai_businesses_in_chatgpt_beta",
-      "first_seen": "2026-11-12T10:30:37+00:00",
-      "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/maxresdefault_f3dab84fda/maxresdefault_f3dab84fda.jpg"
     },
     {
       "site_id": "cjnavi",
@@ -1428,14 +1436,6 @@
       "url": "https://www.cjnavi.co.jp/life/20261109campusfesta-tohoku-epco/",
       "first_seen": "2026-11-09T10:43:42+00:00",
       "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2737794cf9cd4306e5cbf26560cb47e0-350x263.jpg"
-    },
-    {
-      "site_id": "cjnavi",
-      "site_name": "シティ情報ふくしま（新着記事）",
-      "title": "イベント 会津若松市「鶴ヶ城」でマルシェを開催！グルメやスイーツ、クラフト雑貨… 鶴ヶ城ニノマルシェ 2026秋 2026年11月15日（日）",
-      "url": "https://www.cjnavi.co.jp/event/20261108ninomarche/",
-      "first_seen": "2026-11-09T10:43:42+00:00",
-      "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/953763b522de2d4b88fe9184ad26bb6b-350x263.jpg"
     }
   ]
 }
