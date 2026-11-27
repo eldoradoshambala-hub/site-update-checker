@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T11:45:19+00:00",
+  "updated_at": "2026-11-27T11:38:39+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-26T11:45:17+00:00",
-      "last_update": "2026-11-26T11:45:17+00:00",
+      "last_checked": "2026-11-27T11:38:38+00:00",
+      "last_update": "2026-11-27T11:38:38+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1390,9 +1390,59 @@
         "https://www.cjnavi.co.jp/gourmet/20261126newopen-momonoyukimura/": {
           "title": "グルメ 福島市豊田町にオープンした『桃のゆきむら』で、旬の果実を贅沢に味わう… 桃のゆきむら",
           "first_seen": "2026-11-26T11:45:17+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261127pivotfukushima-grandopen/": {
+          "title": "イベント AD 『福島駅西口パワーシティPivot』が生まれ変わる！新店舗が続々オープン 『福島駅西口パワーシティPivot』リニューアルグランドオープン 2026年12月11日（金）",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261127hikarinoshizuku-illumination/": {
+          "title": "イベント 福島市の駅前と街なかの木々が光のしずくのように輝く 2026光のしずくイルミネーション 2026年12月4日（金）～2027年1月31日（日）",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261127bigtreepageant-koriyama/": {
+          "title": "イベント “楽都郡山”冬の風物詩。郡山駅前周辺を鮮やかに彩る ビッグツリーページェント・フェスタ in KORIYAMA 2026 2026年12月4日（金）～2027年2月14日（日）",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261127shirakawa-illumination/": {
+          "title": "イベント 白河市のレトロな洋館駅舎がロマンチックに光り輝く みんなのヒカリ2026 白河駅前イルミネーション 2026年12月4日（金）～2027年1月31日（日）",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261127newopen-aeonmalldate/": {
+          "title": "おでかけ 福島県最大級『イオンモール伊達』グランドオープン！東北初26店舗、福島… イオンモール伊達",
+          "first_seen": "2026-11-27T11:38:38+00:00"
         }
       },
       "recent": [
+        {
+          "title": "イベント AD 『福島駅西口パワーシティPivot』が生まれ変わる！新店舗が続々オープン 『福島駅西口パワーシティPivot』リニューアルグランドオープン 2026年12月11日（金）",
+          "url": "https://www.cjnavi.co.jp/event/20261127pivotfukushima-grandopen/",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/2fafc7e562cb9c43522b3da15d7036b5-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市の駅前と街なかの木々が光のしずくのように輝く 2026光のしずくイルミネーション 2026年12月4日（金）～2027年1月31日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261127hikarinoshizuku-illumination/",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/c2a2eeddd1133bb5d40d975a8a03bad7-350x263.jpg"
+        },
+        {
+          "title": "イベント “楽都郡山”冬の風物詩。郡山駅前周辺を鮮やかに彩る ビッグツリーページェント・フェスタ in KORIYAMA 2026 2026年12月4日（金）～2027年2月14日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261127bigtreepageant-koriyama/",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/cceb544aee27a4d7e23d828792ca40c0-350x263.jpg"
+        },
+        {
+          "title": "イベント 白河市のレトロな洋館駅舎がロマンチックに光り輝く みんなのヒカリ2026 白河駅前イルミネーション 2026年12月4日（金）～2027年1月31日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261127shirakawa-illumination/",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/c528a2431277cb3efed8c534d735e11b-350x263.jpg"
+        },
+        {
+          "title": "おでかけ 福島県最大級『イオンモール伊達』グランドオープン！東北初26店舗、福島… イオンモール伊達",
+          "url": "https://www.cjnavi.co.jp/trip/20261127newopen-aeonmalldate/",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/c10b550ddbd7cdd8c33859e7c3dbb530-350x263.jpg"
+        },
         {
           "title": "グルメ 福島市豊田町にオープンした『桃のゆきむら』で、旬の果実を贅沢に味わう… 桃のゆきむら",
           "url": "https://www.cjnavi.co.jp/gourmet/20261126newopen-momonoyukimura/",
@@ -1662,44 +1712,14 @@
           "url": "https://www.cjnavi.co.jp/gourmet/20261112newopen-hachiman/",
           "first_seen": "2026-11-12T10:30:37+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3d7f5b60d7c63d39007f229f3c36bf50-350x263.jpg"
-        },
-        {
-          "title": "グルメ 【福島県】地元で愛される！福島市の行くべき町中華9選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261111fukushimacity-cyuka/",
-          "first_seen": "2026-11-11T10:07:30+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/00d85b4dfb921f6840edf47cb779bdf3-350x263.jpg"
-        },
-        {
-          "title": "グルメ 人と街をつなぐカフェ＆バル『LANDSCAPE COFFEE07』が本宮市にオープン LANDSCAPE COFFEE07（ランドスケープコーヒー）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261110newopen-landscape-coffee/",
-          "first_seen": "2026-11-10T10:39:08+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/6993ca1ed00d6b4d342a5dd8d8f8b72c-350x263.jpg"
-        },
-        {
-          "title": "ライフ 『モンモ良品』で秋冬の味覚をお取り寄せ！ふくしまの新米などをお届け！ 地元編集者が厳選する良品を集めた福島県産品の通販サイト「Monmo良品」。福島県のおいしい新...",
-          "url": "https://www.cjnavi.co.jp/life/20261110monmoryouhin/",
-          "first_seen": "2026-11-10T10:39:08+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2024/10/e405b67b55886e835a545115a404069d-350x263.jpg"
-        },
-        {
-          "title": "グルメ 福島市瀬上町にギャラリー併設のカフェ『＠peace』がオープン cafe＆gallery ＠peace（アットピース）",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261109newopen-at-peace/",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/8d3515367516654fc4ccc6472d566d33-350x263.jpg"
-        },
-        {
-          "title": "ライフ AD 【潜入取材】「福島プログラミング講座 キャンパスフェスタ」！身近な困り… 福島プログラミング講座 キャンパスフェスタ潜入取材",
-          "url": "https://www.cjnavi.co.jp/life/20261109campusfesta-tohoku-epco/",
-          "first_seen": "2026-11-09T10:43:42+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/2737794cf9cd4306e5cbf26560cb47e0-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-26T11:45:17+00:00",
-      "last_update": "2026-11-26T11:45:17+00:00",
+      "last_checked": "2026-11-27T11:38:38+00:00",
+      "last_update": "2026-11-27T11:38:38+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3583,9 +3603,39 @@
         "https://ledge.ai/articles/openai_perplexity_ai_development_limits": {
           "title": "OpenAI、AI開発に共通の上限を提案 評価指標「パープレキシティ」を進歩の物差しにのサムネイル画像",
           "first_seen": "2026-11-26T11:45:17+00:00"
+        },
+        "https://ledge.ai/articles/anthropic_claude_ship": {
+          "title": "エンジニアリング 2026 / 11 / 27 [FRI] Anthropic「Claude Ship」をベータ公開 GitHubのコード変更をAIがレビュー・修正、チームのルールに沿って承認",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://ledge.ai/articles/dena_ai_employee": {
+          "title": "DeNA、部署に配属して育てる「AI社員」を外部提供へ トークン使用量を「勤務時間」とし、「残業上限」で使いすぎを防ぐのサムネイル画像",
+          "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://ledge.ai/articles/google_deepmind_gemini_quantum_circuit_optimization": {
+          "title": "Google DeepMind、Gemini 4のAIチームで量子回路を改良 核融合関連の計算コストを11.8分の1にのサムネイル画像",
+          "first_seen": "2026-11-27T11:38:38+00:00"
         }
       },
       "recent": [
+        {
+          "title": "エンジニアリング 2026 / 11 / 27 [FRI] Anthropic「Claude Ship」をベータ公開 GitHubのコード変更をAIがレビュー・修正、チームのルールに沿って承認",
+          "url": "https://ledge.ai/articles/anthropic_claude_ship",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/claud_ship_77e92fc125/claud_ship_77e92fc125.jpg"
+        },
+        {
+          "title": "DeNA、部署に配属して育てる「AI社員」を外部提供へ トークン使用量を「勤務時間」とし、「残業上限」で使いすぎを防ぐのサムネイル画像",
+          "url": "https://ledge.ai/articles/dena_ai_employee",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Vd1_F2d_Ou_S93_S0yn05v8y_9fe0c95685/Vd1_F2d_Ou_S93_S0yn05v8y_9fe0c95685.jpg"
+        },
+        {
+          "title": "Google DeepMind、Gemini 4のAIチームで量子回路を改良 核融合関連の計算コストを11.8分の1にのサムネイル画像",
+          "url": "https://ledge.ai/articles/google_deepmind_gemini_quantum_circuit_optimization",
+          "first_seen": "2026-11-27T11:38:38+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_7_1e31067fc8/unnamed_7_1e31067fc8.jpg"
+        },
         {
           "title": "Anthropic、Claudeで作った業務ツールをMac・Windowsアプリに 専用アイコンから起動、修正も自動反映のサムネイル画像",
           "url": "https://ledge.ai/articles/claude_artifacts_install_as_app",
@@ -3867,24 +3917,6 @@
           "url": "https://ledge.ai/articles/gemini_decision_1",
           "first_seen": "2026-11-14T09:40:56+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd.webp"
-        },
-        {
-          "title": "Google、高速処理を重視した「Gemini 4 Hydrogen」を発表 Google検索とGeminiアプリの無料ユーザーにも展開のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_gemini_4_hydrogen",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_8cc0712712/6_8cc0712712.png"
-        },
-        {
-          "title": "Google DeepMind、機械語レベルの形式検証フレームワーク「AlphaProof Code」を発表 メッセージングアプリ「Signal」の暗号プロトコルの一部を検証のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_deepmind_alphaproof_code_signal",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/unnamed_4_5529576bcc/unnamed_4_5529576bcc.webp"
-        },
-        {
-          "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化のサムネイル画像",
-          "url": "https://ledge.ai/articles/google_tpu_8tx_8i_max",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4/TPU_8tx_and_8i_Max_width_900_format_webp_cb99bbfcc4.webp"
         }
       ]
     }
