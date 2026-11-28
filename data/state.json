@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T11:38:39+00:00",
+  "updated_at": "2026-11-28T11:13:09+00:00",
   "sites": {
     "cjnavi": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-27T11:38:38+00:00",
-      "last_update": "2026-11-27T11:38:38+00:00",
+      "last_checked": "2026-11-28T11:13:07+00:00",
+      "last_update": "2026-11-28T11:13:07+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -1410,9 +1410,49 @@
         "https://www.cjnavi.co.jp/trip/20261127newopen-aeonmalldate/": {
           "title": "おでかけ 福島県最大級『イオンモール伊達』グランドオープン！東北初26店舗、福島… イオンモール伊達",
           "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://www.cjnavi.co.jp/trip/20261128newopen-hirai-building/": {
+          "title": "おでかけ 福島駅前のにぎわい創出へ！福島市本町に複合施設「ふくしまひらいビル」… ふくしまひらいビル",
+          "first_seen": "2026-11-28T11:13:07+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261128hobara-illumination/": {
+          "title": "イベント 伊達市保原町・陣屋通りのケヤキ並木がイルミネーションで光り輝く 2026～未来につなぐ～陣屋通りイルミネーション 2026年12月5日（土）～2027年1月31日（日）",
+          "first_seen": "2026-11-28T11:13:07+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261128silk-chiffon/": {
+          "title": "イベント 福島市「旧佐久間邸」にハンドメイド雑貨が集まる2日間 はんどめいど雑貨市 SILK CHIFFON 2DAYS SHOP in2026 2026年12月5日（土）・6日（日）",
+          "first_seen": "2026-11-28T11:13:07+00:00"
+        },
+        "https://www.cjnavi.co.jp/event/20261128eto-aquamarine-fukushima/": {
+          "title": "イベント いわき市「アクアマリンふくしま」で、干支にちなんだシダ植物の世界を楽… 令和9年干支展～未～ あなたの羊歯（シダ）ない世界 2026年12月5日（土）～2027年1月31日（日）",
+          "first_seen": "2026-11-28T11:13:07+00:00"
         }
       },
       "recent": [
+        {
+          "title": "おでかけ 福島駅前のにぎわい創出へ！福島市本町に複合施設「ふくしまひらいビル」… ふくしまひらいビル",
+          "url": "https://www.cjnavi.co.jp/trip/20261128newopen-hirai-building/",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/8627aea6a3fb7bf7c734eedcb6800ef8-350x263.jpg"
+        },
+        {
+          "title": "イベント 伊達市保原町・陣屋通りのケヤキ並木がイルミネーションで光り輝く 2026～未来につなぐ～陣屋通りイルミネーション 2026年12月5日（土）～2027年1月31日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261128hobara-illumination/",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/11/a48350e0f72c0a92489ca844924ede2e-350x263.jpg"
+        },
+        {
+          "title": "イベント 福島市「旧佐久間邸」にハンドメイド雑貨が集まる2日間 はんどめいど雑貨市 SILK CHIFFON 2DAYS SHOP in2026 2026年12月5日（土）・6日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261128silk-chiffon/",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2025/11/1d44a87f1fcec5ce23095d13b43e7936-350x263.jpg"
+        },
+        {
+          "title": "イベント いわき市「アクアマリンふくしま」で、干支にちなんだシダ植物の世界を楽… 令和9年干支展～未～ あなたの羊歯（シダ）ない世界 2026年12月5日（土）～2027年1月31日（日）",
+          "url": "https://www.cjnavi.co.jp/event/20261128eto-aquamarine-fukushima/",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/0421d5bbfd99629aa300dadb78604b2a-350x263.jpg"
+        },
         {
           "title": "イベント AD 『福島駅西口パワーシティPivot』が生まれ変わる！新店舗が続々オープン 『福島駅西口パワーシティPivot』リニューアルグランドオープン 2026年12月11日（金）",
           "url": "https://www.cjnavi.co.jp/event/20261127pivotfukushima-grandopen/",
@@ -1688,38 +1728,14 @@
           "url": "https://www.cjnavi.co.jp/event/20261114kininaru-hyougen/",
           "first_seen": "2026-11-15T10:14:33+00:00",
           "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/b6015f0abf23716ff05e3294c1e71cfa-350x263.jpg"
-        },
-        {
-          "title": "おでかけ AD 生き残った商家、福西家って何者？会津若松市の国登録有形文化財『福西本… 福西本店 連載コラムVol.1",
-          "url": "https://www.cjnavi.co.jp/trip/20261113fukunishihonten-column01/",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/10/1a3aabf560d835f5341a3fa47593ecd1-350x263.jpg"
-        },
-        {
-          "title": "グルメ 【福島県】地元で愛される！郡山市の行くべき町中華6選 地域の人々に愛される町中華。今回は、ボリューム満点でコスパ抜群な定食やセットを味わえる...",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261113koriyamacity-cyuka/",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3a7a199ae1457250bcfcf686c62748d6-350x263.jpg"
-        },
-        {
-          "title": "イベント AD 秋の喜多方をレトロに巡る！長床行きボンネットバス運行 長床レトロバス 2026年11月15日（日）・21日（土）〜23日（祝）",
-          "url": "https://www.cjnavi.co.jp/event/20261108nagatoko-retrobus/",
-          "first_seen": "2026-11-13T10:23:54+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/06/6dc9ccb922fd9d6411a22ac7811bee50-350x263.jpg"
-        },
-        {
-          "title": "グルメ なめらかプリンの専門店『プリン工房はちまん』が福島市森合内で移転オー… プリン工房はちまん",
-          "url": "https://www.cjnavi.co.jp/gourmet/20261112newopen-hachiman/",
-          "first_seen": "2026-11-12T10:30:37+00:00",
-          "image": "https://www.cjnavi.co.jp/assets/uploads/2026/11/3d7f5b60d7c63d39007f229f3c36bf50-350x263.jpg"
         }
       ]
     },
     "ledge-ai": {
       "seeded": true,
       "first_checked": "2026-08-03T02:52:10+00:00",
-      "last_checked": "2026-11-27T11:38:38+00:00",
-      "last_update": "2026-11-27T11:38:38+00:00",
+      "last_checked": "2026-11-28T11:13:07+00:00",
+      "last_update": "2026-11-28T11:13:07+00:00",
       "last_status": "ok",
       "last_error": null,
       "consecutive_errors": 0,
@@ -3615,9 +3631,39 @@
         "https://ledge.ai/articles/google_deepmind_gemini_quantum_circuit_optimization": {
           "title": "Google DeepMind、Gemini 4のAIチームで量子回路を改良 核融合関連の計算コストを11.8分の1にのサムネイル画像",
           "first_seen": "2026-11-27T11:38:38+00:00"
+        },
+        "https://ledge.ai/articles/gpt_6_astra_quantum_gravity": {
+          "title": "スタンフォード大の研究者、GPT-6 Astra活用で一般相対性理論と量子力学の統合に挑む新たな量子重力理論の枠組みを提案のサムネイル画像",
+          "first_seen": "2026-11-28T11:13:07+00:00"
+        },
+        "https://ledge.ai/articles/openai_gpt_6_protein_design": {
+          "title": "学術＆研究 2026 / 11 / 28 [SAT] OpenAI、GPT-6が推論とコードでタンパク質の構造・配列を設計 専門モデルなしで5種類の標的すべてで結合を示す候補を確認",
+          "first_seen": "2026-11-28T11:13:07+00:00"
+        },
+        "https://ledge.ai/articles/artificial_analysis_aa_robotics_sim": {
+          "title": "Artificial Analysis、仮想の人型ロボットを言語モデル9種で操作する評価を公開 倉庫移動は全試行成功、食洗機に皿を入れられたのは90回中5回のサムネイル画像",
+          "first_seen": "2026-11-28T11:13:07+00:00"
         }
       },
       "recent": [
+        {
+          "title": "スタンフォード大の研究者、GPT-6 Astra活用で一般相対性理論と量子力学の統合に挑む新たな量子重力理論の枠組みを提案のサムネイル画像",
+          "url": "https://ledge.ai/articles/gpt_6_astra_quantum_gravity",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/_f656f90942/_f656f90942.jpg"
+        },
+        {
+          "title": "学術＆研究 2026 / 11 / 28 [SAT] OpenAI、GPT-6が推論とコードでタンパク質の構造・配列を設計 専門モデルなしで5種類の標的すべてで結合を示す候補を確認",
+          "url": "https://ledge.ai/articles/openai_gpt_6_protein_design",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/designing_proteins_to_attach_to_specific_targets_55a05ad32f/designing_proteins_to_attach_to_specific_targets_55a05ad32f.jpg"
+        },
+        {
+          "title": "Artificial Analysis、仮想の人型ロボットを言語モデル9種で操作する評価を公開 倉庫移動は全試行成功、食洗機に皿を入れられたのは90回中5回のサムネイル画像",
+          "url": "https://ledge.ai/articles/artificial_analysis_aa_robotics_sim",
+          "first_seen": "2026-11-28T11:13:07+00:00",
+          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/shelf_place_poster_57429ea930/shelf_place_poster_57429ea930.jpg"
+        },
         {
           "title": "エンジニアリング 2026 / 11 / 27 [FRI] Anthropic「Claude Ship」をベータ公開 GitHubのコード変更をAIがレビュー・修正、チームのルールに沿って承認",
           "url": "https://ledge.ai/articles/anthropic_claude_ship",
@@ -3899,24 +3945,6 @@
           "url": "https://ledge.ai/articles/runway_praxis_1",
           "first_seen": "2026-11-15T10:14:33+00:00",
           "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85/6_So2mg_AAAAGSURBVAMADI_Vb7_Ou5_J3_EAAAAASUVORK_5_CYII_e2f49b2a85.jpg"
-        },
-        {
-          "title": "AIの「頭の中」を文章にするAI「MAEM」 Anthropicの研究者ら、削除を告げる模擬メールで検証のサムネイル画像",
-          "url": "https://ledge.ai/articles/maem_ai_activation_interpretability",
-          "first_seen": "2026-11-14T09:40:56+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c5f64505_fe8a_48c9_ac5d_a41d7cb69935_ad1e9aefc2/c5f64505_fe8a_48c9_ac5d_a41d7cb69935_ad1e9aefc2.jpg"
-        },
-        {
-          "title": "NVIDIA共同創業者ジェンスン・フアン氏が11日付でCEOと取締役を辞任 独立調査の発表から3日、CFOのクレス氏が暫定CEOにのサムネイル画像",
-          "url": "https://ledge.ai/articles/nvidia_jensen_huang_resignation",
-          "first_seen": "2026-11-14T09:40:56+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/nvidia_ceo_transition_cf1193f3f5/nvidia_ceo_transition_cf1193f3f5.jpg"
-        },
-        {
-          "title": "Google、AIエージェントの判断に特化した「Gemini Decision 1」を発表 画像や音声をもとに最大1,000問を一括判定のサムネイル画像",
-          "url": "https://ledge.ai/articles/gemini_decision_1",
-          "first_seen": "2026-11-14T09:40:56+00:00",
-          "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd/decisions_hero_hud_l8rn_HOK_width_800_format_webp_ebee89f3dd.webp"
         }
       ]
     }
